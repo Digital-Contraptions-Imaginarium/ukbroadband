@@ -1,7 +1,6 @@
 *.Rproj*
 .RData
 .Rhistory
-node_modules
-webserver.js
-package.json
 .Rproj.user
+ofcom-uk-fixed-broadband-postcode-level-data-2013*
+data

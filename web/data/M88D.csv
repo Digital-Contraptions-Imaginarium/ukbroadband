@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"M88DB","OK",TRUE,13.9,12.8,30,TRUE,53
-"M88DD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M88DD","No Data",NA,NA,NA,NA,FALSE,0
-"M88DE","OK",TRUE,4.6,4.3,11.5,TRUE,19
-"M88DJ","OK",FALSE,14.5,9.4,30,TRUE,7
-"M88DU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M88DU","No Data",NA,NA,NA,NA,TRUE,0
-"M88DY","OK",FALSE,18.4,18.3,20.3,TRUE,3

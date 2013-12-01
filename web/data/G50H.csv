@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"G50HB","OK",TRUE,5,5.7,7.6,FALSE,48
-"G50HD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G50HD","No Data",NA,NA,NA,NA,FALSE,0
-"G50HF","OK",TRUE,4.9,5,6.8,FALSE,38
-"G50HG","OK",TRUE,4.5,4.7,7.2,FALSE,38
-"G50HT","OK",FALSE,4.8,5.5,5.6,FALSE,6
-"G50HY","OK",FALSE,5.5,5.8,7.2,FALSE,10
-"G50HZ","OK",FALSE,5.6,5.7,6,FALSE,3

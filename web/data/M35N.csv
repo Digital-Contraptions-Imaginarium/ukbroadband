@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"M35NA","OK",FALSE,9.3,6.7,20.5,FALSE,6
-"M35NB","OK",TRUE,6.4,7.3,9.6,FALSE,35
-"M35ND","OK",TRUE,6.1,6,18.5,FALSE,37
-"M35NE","OK",TRUE,5.6,5.3,15.6,FALSE,47
-"M35NF","OK",TRUE,5.5,5,19.5,FALSE,39
-"M35NG","OK",TRUE,4.4,4.1,7.9,FALSE,33
-"M35NH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M35NH","No Data",NA,NA,NA,NA,FALSE,0

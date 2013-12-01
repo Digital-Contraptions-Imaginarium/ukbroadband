@@ -1,6 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"M73DE","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"M73DL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M73DL","No Data",NA,NA,NA,NA,FALSE,0
-"M73DP","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"M73DR","OK",FALSE,5,4.4,7.1,FALSE,7

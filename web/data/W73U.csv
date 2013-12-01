@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"W73UA","OK",TRUE,16,11.3,30,TRUE,4
-"W73UB","OK",FALSE,25,20,30,TRUE,9
-"W73UE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W73UE","No Data",NA,NA,NA,NA,TRUE,0
-"W73UF","OK",TRUE,25.2,20,30,TRUE,4
-"W73UG","OK",FALSE,16.1,4.3,30,TRUE,3
-"W73UQ","OK",FALSE,13.1,5.5,30,TRUE,4
-"W73UX","No premises",NA,NA,NA,NA,FALSE,0

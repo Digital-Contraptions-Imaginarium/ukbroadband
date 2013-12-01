@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"E17QA","No premises",NA,NA,NA,NA,FALSE,0
-"E17QD","OK",FALSE,12.2,11.6,16.5,FALSE,8
-"E17QL","OK",TRUE,10.2,10.9,13.3,FALSE,36
-"E17QR","OK",TRUE,13.2,14.3,19.7,FALSE,30
-"E17QS","No Data",NA,NA,NA,NA,FALSE,0
-"E17QT","OK",FALSE,18,18,19,FALSE,5
-"E17QU","OK",TRUE,13.7,16.4,18.7,FALSE,6
-"E17QX","OK",TRUE,11.5,11.4,20.7,FALSE,19

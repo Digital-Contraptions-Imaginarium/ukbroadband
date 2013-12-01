@@ -1,8 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"G40JE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G40JE","No Data",NA,NA,NA,NA,FALSE,0
-"G40JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G40JF","No Data",NA,NA,NA,NA,FALSE,0
-"G40JQ","No premises",NA,NA,NA,NA,TRUE,0
-"G40JS","OK",FALSE,30,20,30,TRUE,22
-"G40JY","OK",TRUE,9.7,10.6,16.4,TRUE,8

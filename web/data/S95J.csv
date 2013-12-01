@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"S95JA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S95JA","No Data",NA,NA,NA,NA,FALSE,0
-"S95JF","OK",TRUE,6.4,7,10,TRUE,10
-"S95JG","Insufficient Data",NA,NA,NA,NA,TRUE,1
-"S95JJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S95JJ","No Data",NA,NA,NA,NA,TRUE,0
-"S95JN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S95JN","No Data",NA,NA,NA,NA,TRUE,0

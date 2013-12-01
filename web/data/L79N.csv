@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"L79NA","OK",FALSE,14.5,10.9,30,TRUE,9
-"L79NB","Insufficient Data",NA,NA,NA,NA,TRUE,1
-"L79NE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L79NE","No Data",NA,NA,NA,NA,TRUE,0
-"L79NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L79NF","No Data",NA,NA,NA,NA,FALSE,0
-"L79NG","No premises",NA,NA,NA,NA,TRUE,0
-"L79NJ","OK",TRUE,8.2,8.2,14.3,FALSE,6

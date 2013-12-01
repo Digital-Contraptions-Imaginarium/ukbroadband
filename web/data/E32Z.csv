@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"E32ZA","OK",TRUE,6,5.8,11.4,FALSE,34
-"E32ZD","OK",FALSE,7.7,8.4,10,FALSE,11
-"E32ZF","OK",FALSE,7.8,8.3,12.5,FALSE,19
-"E32ZG","OK",TRUE,6.7,7.2,10.7,FALSE,42
-"E32ZH","OK",TRUE,7.4,8.4,12.4,FALSE,27
-"E32ZJ","OK",FALSE,10.7,10.3,11.7,FALSE,3
-"E32ZL","OK",FALSE,8.7,9.2,10.9,FALSE,17
-"E32ZZ","No premises",NA,NA,NA,NA,FALSE,0

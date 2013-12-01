@@ -1,7 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"G37YD","OK",FALSE,5.1,5.2,6.6,FALSE,3
-"G37YE","OK",TRUE,6.2,6.6,10.8,FALSE,16
-"G37YL","OK",FALSE,8.2,8.2,11.4,FALSE,7
-"G37YR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G37YR","No Data",NA,NA,NA,NA,FALSE,0
-"G37YW","OK",FALSE,11.7,14,18.1,FALSE,5

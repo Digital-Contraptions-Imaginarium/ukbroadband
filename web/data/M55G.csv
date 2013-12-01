@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"M55GA","OK",FALSE,15.8,8.7,30,TRUE,13
-"M55GB","OK",FALSE,16.6,11.4,30,TRUE,17
-"M55GG","No Data",NA,NA,NA,NA,TRUE,0
-"M55GH","OK",FALSE,18.6,8.6,30,TRUE,7
-"M55GJ","OK",FALSE,14.6,8.2,30,TRUE,5
-"M55GL","OK",FALSE,10,8.8,19.8,TRUE,8
-"M55GN","OK",TRUE,8.2,8,12.2,FALSE,17
-"M55GX","OK",FALSE,8.6,8.7,12,TRUE,10

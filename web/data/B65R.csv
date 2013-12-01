@@ -1,6 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"B65RH","No premises",NA,NA,NA,NA,FALSE,0
-"B65RQ","OK",TRUE,6.5,7.8,8.1,TRUE,5
-"B65RS","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"B65RW","OK",TRUE,10.9,11.6,17.2,FALSE,12
-"B65RX","OK",FALSE,12.4,11.7,17.9,FALSE,4

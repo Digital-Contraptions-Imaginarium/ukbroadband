@@ -1,6 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"B31BA","No premises",NA,NA,NA,NA,TRUE,0
-"B31BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B31BF","No Data",NA,NA,NA,NA,FALSE,0
-"B31BG","OK",FALSE,19.9,19.2,30,TRUE,58
-"B31BJ","OK",FALSE,17.9,18.8,30,TRUE,31

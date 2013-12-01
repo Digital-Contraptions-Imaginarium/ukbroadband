@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"L77BA","OK",FALSE,14.9,13.9,30,TRUE,26
-"L77BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L77BD","No Data",NA,NA,NA,NA,FALSE,0
-"L77BJ","No premises",NA,NA,NA,NA,FALSE,0
-"L77BL","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"L77BT","OK",FALSE,17.9,14,30,TRUE,10
-"L77BX","OK",FALSE,30,11.6,30,TRUE,9
-"L77BY","OK",FALSE,20.1,10.5,30,TRUE,9

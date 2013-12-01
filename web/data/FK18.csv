@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"FK188NA","OK",TRUE,6.9,8,8.1,FALSE,34
-"FK188NB","OK",FALSE,6.9,7.4,8.1,FALSE,6
-"FK188ND","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"FK188NF","OK",FALSE,7.1,7.4,8.1,FALSE,6
-"FK188NG","OK",FALSE,6.3,6.9,8.1,FALSE,10
-"FK188NJ","OK",FALSE,6.2,8.1,8.1,FALSE,3
-"FK188NL","OK",FALSE,7.5,8,8.1,FALSE,9
-"FK188NQ","OK",FALSE,6.6,8.1,8.1,FALSE,8

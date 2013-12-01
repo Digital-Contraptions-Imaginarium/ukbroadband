@@ -1,8 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"L50SL","OK",FALSE,8.6,7.8,13.4,FALSE,4
-"L50SQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L50SQ","No Data",NA,NA,NA,NA,FALSE,0
-"L50SU","OK",FALSE,23.5,20,30,TRUE,19
-"L50SX","OK",FALSE,24.9,11.9,30,TRUE,19
-"L50SY","OK",FALSE,23.6,17.5,30,TRUE,11
-"L50SZ","OK",FALSE,19.3,16.4,30,TRUE,11

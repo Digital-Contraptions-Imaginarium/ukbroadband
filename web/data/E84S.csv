@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"E84SA","No premises",NA,NA,NA,NA,TRUE,0
-"E84SG","OK",FALSE,26.1,20,30,TRUE,27
-"E84SH","OK",TRUE,30,30,30,TRUE,35
-"E84SJ","OK",FALSE,21.4,11.4,30,TRUE,25
-"E84SL","OK",FALSE,23.6,20,30,TRUE,20
-"E84SN","OK",FALSE,7.3,6.3,14.7,TRUE,6
-"E84SQ","OK",FALSE,28.2,11.8,30,TRUE,9
-"E84SW","OK",TRUE,30,20,30,TRUE,20

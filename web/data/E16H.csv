@@ -1,8 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"E16HB","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"E16HN","No premises",NA,NA,NA,NA,FALSE,0
-"E16HP","No premises",NA,NA,NA,NA,TRUE,0
-"E16HQ","OK",FALSE,9,7.7,22.4,FALSE,17
-"E16HR","OK",FALSE,25.9,18.9,30,TRUE,28
-"E16HU","OK",FALSE,21.2,20.2,30,TRUE,5
-"E16HY","No premises",NA,NA,NA,NA,TRUE,0

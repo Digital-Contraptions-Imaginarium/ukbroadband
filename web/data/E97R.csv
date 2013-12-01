@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"E97RA","OK",TRUE,17.2,18,30,TRUE,25
-"E97RB","OK",FALSE,20.7,17.6,30,TRUE,27
-"E97RD","OK",FALSE,16.7,16.1,30,TRUE,26
-"E97RF","OK",FALSE,15.2,12,30,TRUE,13
-"E97RR","OK",FALSE,15.2,13.4,30,TRUE,13
-"E97RX","OK",TRUE,8.6,9.2,14.4,FALSE,45
-"E97RY","OK",FALSE,17.5,13.7,30,TRUE,33
-"E97RZ","OK",FALSE,17.7,13.9,30,TRUE,28

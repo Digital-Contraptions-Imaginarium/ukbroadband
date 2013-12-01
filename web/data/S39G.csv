@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"S39GD","OK",FALSE,5.8,5.6,6.8,TRUE,4
-"S39GS","OK",FALSE,8.1,6.3,20,TRUE,6
-"S39GT","OK",FALSE,23.4,20,30,TRUE,21
-"S39GU","OK",FALSE,5.4,5.2,5.9,TRUE,3
-"S39GW","OK",FALSE,17.1,6.7,30,TRUE,17
-"S39GX","OK",FALSE,30,25,30,TRUE,4
-"S39GY","OK",FALSE,7.4,8,8.5,TRUE,3
-"S39GZ","OK",TRUE,16.7,9.2,30,TRUE,10

@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"N76LA","No premises",NA,NA,NA,NA,TRUE,0
-"N76LB","Insufficient Data",NA,NA,NA,NA,TRUE,1
-"N76LE","Insufficient Data",NA,NA,NA,NA,TRUE,2
-"N76LF","OK",FALSE,30,25,30,TRUE,8
-"N76LJ","OK",FALSE,15.6,14.2,30,TRUE,42
-"N76LR","OK",FALSE,26.5,20,30,TRUE,8
-"N76LS","Insufficient Data",NA,NA,NA,NA,TRUE,1
-"N76LW","No premises",NA,NA,NA,NA,FALSE,0

@@ -1,6 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"L29RF","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"L29RL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L29RL","No Data",NA,NA,NA,NA,FALSE,0
-"L29RP","Insufficient Data",NA,NA,NA,NA,TRUE,1
-"L29RU","OK",FALSE,12.9,12.9,18.2,TRUE,17

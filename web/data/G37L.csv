@@ -1,7 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"G37LA","OK",TRUE,8.4,7.8,14.4,TRUE,5
-"G37LE","Insufficient Data",NA,NA,NA,NA,TRUE,2
-"G37LH","OK",FALSE,7.7,7.6,13.1,FALSE,12
-"G37LL","OK",FALSE,21.5,18.7,30,TRUE,24
-"G37LS","No premises",NA,NA,NA,NA,FALSE,0
-"G37LW","OK",FALSE,15.7,11.3,30,TRUE,29

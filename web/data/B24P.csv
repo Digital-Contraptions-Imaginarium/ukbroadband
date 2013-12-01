@@ -1,8 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"B24PA","OK",FALSE,15.6,15.9,24,FALSE,83
-"B24PE","OK",FALSE,14.2,14.3,21.8,FALSE,48
-"B24PG","OK",FALSE,13.9,15.3,21.9,FALSE,26
-"B24PU","No Data",NA,NA,NA,NA,FALSE,0
-"B24PX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B24PX","No Data",NA,NA,NA,NA,FALSE,0
-"B24PY","Insufficient Data",NA,NA,NA,NA,FALSE,1

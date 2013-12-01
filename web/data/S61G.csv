@@ -1,8 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"S61GA","OK",TRUE,7.2,7.6,11.4,FALSE,10
-"S61GD","OK",FALSE,9.3,10.3,15.4,FALSE,14
-"S61GE","OK",FALSE,9.5,10.4,12,FALSE,5
-"S61GF","OK",FALSE,6.7,6.5,9.9,FALSE,4
-"S61GG","OK",FALSE,23.2,20,30,TRUE,13
-"S61GH","OK",FALSE,23.2,19.7,30,TRUE,69
-"S61GJ","OK",FALSE,17,17.3,30,TRUE,9

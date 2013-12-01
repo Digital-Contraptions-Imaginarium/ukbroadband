@@ -1,6 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"S94QB","Insufficient Data",NA,NA,NA,NA,TRUE,1
-"S94QD","OK",FALSE,12.9,13.1,20,TRUE,9
-"S94QG","OK",TRUE,12.2,5.5,30,TRUE,27
-"S94QJ","OK",TRUE,28.1,20,30,TRUE,24
-"S94QL","OK",TRUE,18.7,20,30,TRUE,28

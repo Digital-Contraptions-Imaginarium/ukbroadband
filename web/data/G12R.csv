@@ -1,7 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"G12RD","No premises",NA,NA,NA,NA,FALSE,0
-"G12RL","OK",FALSE,9.6,10,14.6,FALSE,6
-"G12RN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G12RN","No Data",NA,NA,NA,NA,FALSE,0
-"G12RQ","OK",FALSE,17.3,19.6,21.9,FALSE,6
-"G12RX","OK",FALSE,15.2,14.9,22.4,FALSE,6

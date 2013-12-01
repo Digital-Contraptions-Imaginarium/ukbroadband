@@ -1,7 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"G59NE","OK",FALSE,14.4,15.8,21,FALSE,30
-"G59NF","OK",FALSE,14,14.9,20.6,FALSE,23
-"G59NR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G59NR","No Data",NA,NA,NA,NA,FALSE,0
-"G59NS","OK",FALSE,15.4,16.9,21.4,FALSE,35
-"G59NT","Insufficient Data",NA,NA,NA,NA,FALSE,2

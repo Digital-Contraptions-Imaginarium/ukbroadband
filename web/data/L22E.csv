@@ -1,7 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"L22EE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L22EE","No Data",NA,NA,NA,NA,TRUE,0
-"L22EN","OK",FALSE,15.9,16.9,20.7,TRUE,11
-"L22ER","No premises",NA,NA,NA,NA,FALSE,0
-"L22ET","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"L22EZ","OK",FALSE,19.3,20,23.1,TRUE,8

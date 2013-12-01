@@ -1,9 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"PA666BH","OK",FALSE,7.1,7.4,8.1,FALSE,6
-"PA666BL","OK",TRUE,5,5.1,8.1,FALSE,34
-"PA666BN","OK",TRUE,1.9,1.5,6.9,FALSE,11
-"PA666BP","OK",TRUE,4.5,4.3,8.1,FALSE,6
-"PA666BS","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"PA666BT","OK",TRUE,3.6,3.4,5.4,FALSE,5
-"PA666BU","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"PA666BW","OK",FALSE,6.5,7.4,8.1,FALSE,10

@@ -1,8 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"G11EA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G11EA","No Data",NA,NA,NA,NA,FALSE,0
-"G11EB","OK",TRUE,9.2,9.9,16.9,TRUE,40
-"G11EJ","OK",FALSE,16.6,19,24,FALSE,54
-"G11ET","No premises",NA,NA,NA,NA,FALSE,0
-"G11EX","OK",FALSE,26.7,23,30,TRUE,46
-"G11EZ","OK",FALSE,17.2,19.9,23.1,FALSE,23

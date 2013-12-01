@@ -1,8 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"W23AA","OK",TRUE,13,14,19.7,FALSE,91
-"W23AD","No premises",NA,NA,NA,NA,FALSE,0
-"W23AF","OK",FALSE,14.6,15.3,21.8,FALSE,32
-"W23AH","OK",FALSE,14.1,14.1,30,TRUE,27
-"W23AL","No premises",NA,NA,NA,NA,FALSE,0
-"W23AN","OK",FALSE,14.1,10.7,30,TRUE,19
-"W23AT","OK",TRUE,10.8,7.6,30,TRUE,27

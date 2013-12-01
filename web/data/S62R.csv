@@ -1,8 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"S62RA","OK",TRUE,25.6,20,30,TRUE,57
-"S62RD","OK",FALSE,18.2,4.4,30,TRUE,4
-"S62RE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S62RE","No Data",NA,NA,NA,NA,FALSE,0
-"S62RF","OK",TRUE,19.1,5.6,30,TRUE,12
-"S62RZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S62RZ","No Data",NA,NA,NA,NA,TRUE,0

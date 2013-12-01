@@ -1,8 +1,0 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
-"W38UN","OK",TRUE,17.5,15.6,30,TRUE,30
-"W38UP","OK",FALSE,21.6,17.3,30,TRUE,8
-"W38UR","OK",FALSE,27.9,20.3,30,TRUE,12
-"W38UT","OK",FALSE,22.5,18,30,TRUE,26
-"W38UW","OK",FALSE,12.2,10.5,20,TRUE,7
-"W38UX","No premises",NA,NA,NA,NA,TRUE,0
-"W38UZ","No premises",NA,NA,NA,NA,FALSE,0
