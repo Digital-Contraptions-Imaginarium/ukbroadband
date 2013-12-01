@@ -1,8 +1,9 @@
 <html>
 <head>
+	<link rel="stylesheet" type="text/css" href="index.css">
 	<script src="lib/underscore-1.5.2.min.js" charset="utf-8"></script>
 	<script src="lib/d3-3.3.11.min.js" charset="utf-8"></script>
-	<script src="lib/jquery-2.0.3.min.js" charset="utf-8"></script>
+	<!-- script src="lib/jquery-2.0.3.min.js" charset="utf-8"></script -->
 	<script>
 
 		var CSV_POSTCODE_LENGTH = 4,
@@ -11,21 +12,50 @@
 		var typingTimer = undefined;
 
 		var fillResultsTable = function (results) {
-			$("#resultsTable tbody").html("");
 
-		}
+			var columns = [ "Postcode.No.Spaces.", "Postcode.Data.Status", "Lines...2Mbps.Y.N.", "Average.Speed.Mbps", "Median.Speed.Mbps", "Maximum.Speed.Mbps", "NGA.Available.Y.N.", "Number.of.Connections"];
+			
+			var table = d3.select("#resultsContainer").append("table"),
+		        thead = table.append("thead"),
+		        tbody = table.append("tbody");
+
+		    // append the header row
+		    thead.append("tr")
+		        .selectAll("th")
+		        .data(columns)
+		        .enter()
+		        .append("th")
+	            .text(function(column) { return column; });
+
+		    // create a row for each object in the data
+		    var rows = tbody.selectAll("tr")
+		        .data(results)
+		        .enter()
+		        .append("tr");
+
+		    // create a cell in each row for each column
+		    var cells = rows.selectAll("td")
+		        .data(function(row) {
+		            return columns.map(function(column) {
+		                return {column: column, value: row[column]};
+		            });
+		        })
+		        .enter()
+		        .append("td")
+		            .text(function(d) { return d.value; });
+
+		};
 
 		var readPostcodes = function (beginsWith, callback) {
 			d3.csv("data/" + beginsWith + ".csv", function (data) {
-				console.log("I am here");
-				// $("#results").html(JSON.stringify(data));
+				fillResultsTable(data);
 				if (callback) callback(null);
 			});
 		};
 
 		var checkPostcode = function () {
 			clearTimeout(typingTimer);
-			var postcode = $("#postcode").val().toUpperCase();
+			var postcode = d3.select("#postcode").property("value").toUpperCase();
 			if(postcode.length >= CSV_POSTCODE_LENGTH) {
 				// it's a postcode I can actually fetch data for
 				typingTimer = setTimeout(function () {
@@ -33,7 +63,9 @@
 				}, DELAY_BEFORE_FETCHING_CSV * 1000);
 			} else {
 				// it's not, I reset the table
-				fillResultsTable([ ]);
+				typingTimer = setTimeout(function () {
+					fillResultsTable([ ]);
+				}, DELAY_BEFORE_FETCHING_CSV * 1000);
 			}
 		}
 
@@ -44,15 +76,7 @@
 Hello!
 
 <input id="postcode" type="text" onkeyup="checkPostcode()">
-<table id="resultsTable">
-	<thead>
-		<tr><td>Postcode</td><td>Data status</td><td>Lines < 2Mbs</td>
-			<td>Average speed (Mbs)</td><td>Median speed (Mbs)</td>
-			<td>Maximum speed (Mbs)</td><td>NGA available</td>
-			<td>Number of connections</td></tr>
-	</thead>
-	<tbody></tbody>
-</table>
+<div id="resultsContainer"></div>
 
 </body>
 </html>
