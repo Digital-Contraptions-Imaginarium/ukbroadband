@@ -12,13 +12,18 @@ b2 <- read.csv("./ofcom-uk-fixed-broadband-postcode-level-data-2013/ofcom-part2-
 b <- rbind(b1, b2)
 rm(b1, b2)
 
+# rename the columns
+names(b)[names(b) == "Postcode.No.Spaces."] <- "Postcode.No.Spaces"
+names(b)[names(b) == "Lines...2Mbps.Y.N."] <- "Lines.Less.Than.2Mbps.T.F"
+names(b)[names(b) == "NGA.Available.Y.N."] <- "Superfast.Broadband.Available.T.F"
+
 # transform Y/N columns to logical values
-b$Lines...2Mbps.Y.N.[b$Lines...2Mbps.Y.N. == "N"] <- "FALSE"
-b$Lines...2Mbps.Y.N.[b$Lines...2Mbps.Y.N. == "Y"] <- "TRUE"
-b$Lines...2Mbps.Y.N. <- as.logical(b$Lines...2Mbps.Y.N.)
-b$NGA.Available.Y.N.[b$NGA.Available.Y.N. == "N"] <- "FALSE"
-b$NGA.Available.Y.N.[b$NGA.Available.Y.N. == "Y"] <- "TRUE"
-b$NGA.Available.Y.N. <- as.logical(b$NGA.Available.Y.N.)
+b$Lines.Less.Than.2Mbps.T.F[b$Lines.Less.Than.2Mbps.T.F == "N"] <- "FALSE"
+b$Lines.Less.Than.2Mbps.T.F[b$Lines.Less.Than.2Mbps.T.F == "Y"] <- "TRUE"
+b$Lines.Less.Than.2Mbps.T.F <- as.logical(b$Lines.Less.Than.2Mbps.T.F)
+b$Superfast.Broadband.Available.T.F[b$Superfast.Broadband.Available.T.F == "N"] <- "FALSE"
+b$Superfast.Broadband.Available.T.F[b$Superfast.Broadband.Available.T.F == "Y"] <- "TRUE"
+b$Superfast.Broadband.Available.T.F <- as.logical(b$Superfast.Broadband.Available.T.F)
 
 # replace *.Speed.Mbps values expressed as ">=30" with "30" and make them numeric
 b$Average.Speed.Mbps[b$Average.Speed.Mbps == ">=30"] <- "30"
@@ -33,8 +38,11 @@ b$Number.of.Connections[b$Number.of.Connections == "<3"] <- "1"
 b$Number.of.Connections <- as.numeric(b$Number.of.Connections)
 
 # create one .csv file for each first four letter
-for (prefix in unique(substr(b$Postcode.No.Spaces., 1, 4))) {
-    sub <- b[grep(paste0("^", prefix, sep = ""), b$Postcode.No.Spaces.), ]
+if (!file.exists("./data")) {
+    dir.create("./data") 
+}
+for (prefix in unique(substr(b$Postcode.No.Spaces, 1, 4))) {
+    sub <- b[grep(paste0("^", prefix, sep = ""), b$Postcode.No.Spaces), ]
     if (nrow(sub) > 0) {
         write.csv(sub, file = paste0("./data/", prefix, ".csv", sep=""), row.names = FALSE)
     }
