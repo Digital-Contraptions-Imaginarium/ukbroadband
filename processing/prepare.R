@@ -8,7 +8,7 @@ unzip("./ofcom-uk-fixed-broadband-postcode-level-data-2013.zip", exdir = "./ofco
 
 # read the data and assemble in one data.frame
 b1 <- read.csv("./ofcom-uk-fixed-broadband-postcode-level-data-2013/ofcom-part1-fixed-broadband-postcode-level-data-2013.csv", na.strings = "N/A", colClasses = c("factor", "factor", "character", "character", "character", "character", "character", "character"))
-b2 <- read.csv("./ofcom-uk-fixed-broadband-postcode-level-data-2013/ofcom-part1-fixed-broadband-postcode-level-data-2013.csv", na.strings = "N/A", colClasses = c("factor", "factor", "character", "character", "character", "character", "character", "character"))
+b2 <- read.csv("./ofcom-uk-fixed-broadband-postcode-level-data-2013/ofcom-part2-fixed-broadband-postcode-level-data-2013.csv", na.strings = "N/A", colClasses = c("factor", "factor", "character", "character", "character", "character", "character", "character"))
 b <- rbind(b1, b2)
 rm(b1, b2)
 
