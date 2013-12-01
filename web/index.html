@@ -1,0 +1,58 @@
+<html>
+<head>
+	<script src="lib/underscore-1.5.2.min.js" charset="utf-8"></script>
+	<script src="lib/d3-3.3.11.min.js" charset="utf-8"></script>
+	<script src="lib/jquery-2.0.3.min.js" charset="utf-8"></script>
+	<script>
+
+		var CSV_POSTCODE_LENGTH = 4,
+			DELAY_BEFORE_FETCHING_CSV = 2;
+
+		var typingTimer = undefined;
+
+		var fillResultsTable = function (results) {
+			$("#resultsTable tbody").html("");
+
+		}
+
+		var readPostcodes = function (beginsWith, callback) {
+			d3.csv("data/" + beginsWith + ".csv", function (data) {
+				console.log("I am here");
+				// $("#results").html(JSON.stringify(data));
+				if (callback) callback(null);
+			});
+		};
+
+		var checkPostcode = function () {
+			clearTimeout(typingTimer);
+			var postcode = $("#postcode").val().toUpperCase();
+			if(postcode.length >= CSV_POSTCODE_LENGTH) {
+				// it's a postcode I can actually fetch data for
+				typingTimer = setTimeout(function () {
+					readPostcodes(postcode.substring(0, CSV_POSTCODE_LENGTH));
+				}, DELAY_BEFORE_FETCHING_CSV * 1000);
+			} else {
+				// it's not, I reset the table
+				fillResultsTable([ ]);
+			}
+		}
+
+	</script>
+	<title>UK Broadband</title>
+</head>
+<body>
+Hello!
+
+<input id="postcode" type="text" onkeyup="checkPostcode()">
+<table id="resultsTable">
+	<thead>
+		<tr><td>Postcode</td><td>Data status</td><td>Lines < 2Mbs</td>
+			<td>Average speed (Mbs)</td><td>Median speed (Mbs)</td>
+			<td>Maximum speed (Mbs)</td><td>NGA available</td>
+			<td>Number of connections</td></tr>
+	</thead>
+	<tbody></tbody>
+</table>
+
+</body>
+</html>
