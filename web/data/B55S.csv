@@ -7,11 +7,3 @@
 "B55ST","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B55SU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "B55SU","No Data",NA,NA,NA,NA,FALSE,0
-"B55SA","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"B55SE","OK",TRUE,15.5,16.9,23.9,FALSE,14
-"B55SL","OK",FALSE,12.6,14.2,15.9,FALSE,5
-"B55SR","No Data",NA,NA,NA,NA,FALSE,0
-"B55SS","No premises",NA,NA,NA,NA,FALSE,0
-"B55ST","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"B55SU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B55SU","No Data",NA,NA,NA,NA,FALSE,0

@@ -1,0 +1,11 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W86BA","OK",FALSE,11.3,8.1,18.9,FALSE,5
+"W86BD","OK",TRUE,10.6,12.2,20,FALSE,14
+"W86BH","OK",FALSE,18,20,20,TRUE,16
+"W86BJ","OK",FALSE,30,13.1,30,TRUE,8
+"W86BL","OK",FALSE,15.2,15.3,18.8,TRUE,5
+"W86BP","OK",FALSE,21.9,21.3,30,TRUE,3
+"W86BS","OK",FALSE,18.4,16.2,30,TRUE,18
+"W86BT","OK",FALSE,30,20,30,TRUE,28
+"W86BU","OK",FALSE,16.1,18.5,20.8,TRUE,10
+"W86BX","OK",FALSE,20.5,17.8,30,TRUE,17

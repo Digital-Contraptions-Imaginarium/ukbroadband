@@ -1,0 +1,13 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W67RA","OK",TRUE,4.4,4.6,6.8,TRUE,34
+"W67RD","OK",TRUE,9.8,5.1,30,TRUE,37
+"W67RE","OK",TRUE,7.1,5.1,30,TRUE,26
+"W67RF","OK",TRUE,9.3,4.6,30,TRUE,27
+"W67RG","OK",TRUE,18.1,6.5,30,TRUE,39
+"W67RJ","OK",TRUE,5.9,2.8,19.7,FALSE,6
+"W67RL","OK",TRUE,5.5,5.9,7.6,FALSE,19
+"W67RN","OK",TRUE,5.4,5.3,11.7,TRUE,32
+"W67RP","OK",TRUE,5.3,5.1,10.3,TRUE,9
+"W67RQ","OK",TRUE,14.3,6.3,30,TRUE,34
+"W67RR","No premises",NA,NA,NA,NA,FALSE,0
+"W67RW","OK",TRUE,13.1,5.9,30,TRUE,35

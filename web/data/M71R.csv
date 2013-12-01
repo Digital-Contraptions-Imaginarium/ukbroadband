@@ -1,0 +1,11 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"M71RD","No premises",NA,NA,NA,NA,TRUE,0
+"M71RE","No Data",NA,NA,NA,NA,TRUE,0
+"M71RH","No premises",NA,NA,NA,NA,TRUE,0
+"M71RN","No Data",NA,NA,NA,NA,TRUE,0
+"M71RQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"M71RQ","No Data",NA,NA,NA,NA,TRUE,0
+"M71RT","OK",FALSE,13.2,13.4,16.2,TRUE,4
+"M71RU","OK",FALSE,14.4,14.1,17.8,TRUE,4
+"M71RY","OK",FALSE,23.9,14.1,30,TRUE,5
+"M71RZ","OK",TRUE,9.1,13,13.3,TRUE,3

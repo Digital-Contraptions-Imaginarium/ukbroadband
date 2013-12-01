@@ -1,0 +1,19 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W21RB","OK",FALSE,16,18.5,21.8,FALSE,10
+"W21RD","OK",FALSE,16.5,19,22.7,FALSE,3
+"W21RE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"W21RE","No Data",NA,NA,NA,NA,FALSE,0
+"W21RF","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"W21RG","OK",FALSE,6.6,6.7,7.6,FALSE,3
+"W21RH","OK",TRUE,8.9,8.1,20.7,FALSE,20
+"W21RL","OK",TRUE,17.9,15.2,30,TRUE,34
+"W21RN","No premises",NA,NA,NA,NA,TRUE,0
+"W21RR","No premises",NA,NA,NA,NA,TRUE,0
+"W21RS","OK",FALSE,11.7,8.1,20.2,TRUE,3
+"W21RT","OK",FALSE,30,30,30,TRUE,3
+"W21RU","OK",FALSE,15,15,20.3,TRUE,9
+"W21RW","No premises",NA,NA,NA,NA,TRUE,0
+"W21RX","OK",FALSE,15.6,18.2,21,FALSE,7
+"W21RY","OK",FALSE,26.9,18.8,30,TRUE,17
+"W21RZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"W21RZ","No Data",NA,NA,NA,NA,FALSE,0

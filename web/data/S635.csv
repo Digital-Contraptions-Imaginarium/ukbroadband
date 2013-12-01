@@ -1,0 +1,20 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S635AA","No premises",NA,NA,NA,NA,FALSE,0
+"S635AB","OK",FALSE,7.7,7.4,9.8,FALSE,5
+"S635AD","No premises",NA,NA,NA,NA,FALSE,0
+"S635BD","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"S635DA","No Data",NA,NA,NA,NA,FALSE,0
+"S635DB","OK",FALSE,7.1,8.1,9.2,FALSE,16
+"S635DE","OK",TRUE,3.2,3.2,4.7,FALSE,12
+"S635DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"S635DF","No Data",NA,NA,NA,NA,FALSE,0
+"S635DJ","OK",TRUE,4,4.1,6.3,FALSE,10
+"S635DL","OK",FALSE,10.9,10.9,12.4,TRUE,3
+"S635DN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"S635DN","No Data",NA,NA,NA,NA,FALSE,0
+"S635NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"S635NA","No Data",NA,NA,NA,NA,FALSE,0
+"S635NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"S635NB","No Data",NA,NA,NA,NA,FALSE,0
+"S635XB","No premises",NA,NA,NA,NA,FALSE,0
+"S635ZX","No premises",NA,NA,NA,NA,FALSE,0

@@ -1,0 +1,8 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S56JA","OK",TRUE,30,25,30,TRUE,8
+"S56JB","OK",TRUE,21.8,25,30,TRUE,7
+"S56JD","OK",FALSE,18,20,30,TRUE,4
+"S56JE","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"S56JF","OK",TRUE,12.6,1.1,30,TRUE,6
+"S56JH","OK",FALSE,3,2.9,3.8,TRUE,5
+"S56JJ","OK",FALSE,30,25,30,TRUE,4

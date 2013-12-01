@@ -1,0 +1,9 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"N64JD","No premises",NA,NA,NA,NA,TRUE,0
+"N64JH","OK",TRUE,11.2,7.5,30,TRUE,22
+"N64JJ","No Data",NA,NA,NA,NA,TRUE,0
+"N64JP","OK",TRUE,30,5.3,30,TRUE,8
+"N64JR","OK",TRUE,30,30,30,TRUE,9
+"N64JS","OK",TRUE,26.4,20,30,TRUE,8
+"N64JT","OK",TRUE,16.9,19.5,30,TRUE,8
+"N64JU","Insufficient Data",NA,NA,NA,NA,TRUE,2

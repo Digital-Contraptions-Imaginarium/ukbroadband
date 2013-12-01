@@ -1,0 +1,10 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"M85RA","OK",TRUE,21.8,12.9,30,TRUE,7
+"M85RB","No premises",NA,NA,NA,NA,TRUE,0
+"M85RL","No premises",NA,NA,NA,NA,FALSE,0
+"M85RN","No premises",NA,NA,NA,NA,FALSE,0
+"M85RT","OK",FALSE,21.3,15.5,30,TRUE,18
+"M85RU","OK",FALSE,20.8,18,30,TRUE,16
+"M85RX","OK",FALSE,26.4,20,30,TRUE,17
+"M85RY","OK",FALSE,20.6,14.5,30,TRUE,27
+"M85RZ","OK",TRUE,21.6,14.2,30,TRUE,18

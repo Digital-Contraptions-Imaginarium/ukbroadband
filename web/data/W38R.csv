@@ -1,0 +1,22 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W38RA","OK",FALSE,17.7,16,30,TRUE,12
+"W38RB","OK",FALSE,22.2,16.3,30,TRUE,8
+"W38RD","OK",TRUE,19,12.3,30,TRUE,28
+"W38RE","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"W38RF","OK",FALSE,7.4,7.8,8.1,TRUE,3
+"W38RG","OK",FALSE,26.9,13.5,30,TRUE,23
+"W38RH","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"W38RJ","OK",TRUE,16.2,12.9,30,TRUE,40
+"W38RL","No premises",NA,NA,NA,NA,FALSE,0
+"W38RN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W38RN","No Data",NA,NA,NA,NA,TRUE,0
+"W38RP","No premises",NA,NA,NA,NA,TRUE,0
+"W38RQ","OK",TRUE,17.7,14,30,TRUE,28
+"W38RR","No premises",NA,NA,NA,NA,FALSE,0
+"W38RS","OK",TRUE,23.6,19.4,30,TRUE,50
+"W38RT","OK",TRUE,13.4,11.4,30,TRUE,11
+"W38RU","OK",FALSE,21.4,21,30,TRUE,3
+"W38RW","OK",FALSE,15.1,16.5,19.7,TRUE,9
+"W38RX","OK",FALSE,13.4,14.3,20.9,TRUE,12
+"W38RY","OK",FALSE,15.2,13,30,TRUE,37
+"W38RZ","OK",FALSE,26.2,21.2,30,TRUE,27

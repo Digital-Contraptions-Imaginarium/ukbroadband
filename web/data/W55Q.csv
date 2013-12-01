@@ -1,0 +1,17 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W55QA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W55QA","No Data",NA,NA,NA,NA,TRUE,0
+"W55QB","OK",FALSE,14.8,12.3,30,TRUE,13
+"W55QD","OK",FALSE,23.8,15.9,30,TRUE,25
+"W55QE","OK",FALSE,30,21.2,30,TRUE,11
+"W55QN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W55QN","No Data",NA,NA,NA,NA,TRUE,0
+"W55QP","OK",TRUE,27.2,21.5,30,TRUE,9
+"W55QR","OK",FALSE,27.6,28.5,30,TRUE,4
+"W55QS","OK",FALSE,18,18,22.9,TRUE,4
+"W55QT","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"W55QU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W55QU","No Data",NA,NA,NA,NA,TRUE,0
+"W55QW","OK",FALSE,19.5,21.7,21.7,TRUE,3
+"W55QX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W55QX","No Data",NA,NA,NA,NA,TRUE,0

@@ -3,7 +3,3 @@
 "G21NF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G21NH","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "G21NQ","OK",FALSE,17,19.3,21.5,FALSE,4
-"G21NA","No premises",NA,NA,NA,NA,TRUE,0
-"G21NF","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"G21NH","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"G21NQ","OK",FALSE,17,19.3,21.5,FALSE,4

@@ -1,0 +1,6 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"PH384LZ","OK",TRUE,5.7,7,8.1,FALSE,18
+"PH384NA","OK",TRUE,1.9,1.9,2.3,FALSE,3
+"PH384NB","OK",TRUE,1.9,1.8,4.5,FALSE,27
+"PH384ND","OK",TRUE,0.3,0.2,0.6,FALSE,7
+"PH384NG","Insufficient Data",NA,NA,NA,NA,FALSE,1

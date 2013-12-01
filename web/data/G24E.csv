@@ -10,14 +10,3 @@
 "G24ET","No Data",NA,NA,NA,NA,FALSE,0
 "G24EU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G24EZ","OK",FALSE,15.1,17.1,20,FALSE,3
-"G24EA","No premises",NA,NA,NA,NA,FALSE,0
-"G24EG","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"G24EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G24EL","No Data",NA,NA,NA,NA,FALSE,0
-"G24EN","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"G24ER","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G24ER","No Data",NA,NA,NA,NA,FALSE,0
-"G24ET","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G24ET","No Data",NA,NA,NA,NA,FALSE,0
-"G24EU","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"G24EZ","OK",FALSE,15.1,17.1,20,FALSE,3

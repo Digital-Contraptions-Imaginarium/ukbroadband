@@ -1,0 +1,15 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S64JA","OK",FALSE,30,20,30,TRUE,16
+"S64JB","OK",FALSE,30,20,30,TRUE,8
+"S64JD","OK",TRUE,16.2,13.6,30,TRUE,22
+"S64JF","OK",FALSE,30,30,30,TRUE,25
+"S64JG","OK",TRUE,15.2,6.6,30,TRUE,12
+"S64JH","OK",FALSE,16.6,6.6,30,TRUE,24
+"S64JJ","OK",TRUE,13.9,6.7,30,TRUE,14
+"S64JL","OK",FALSE,28.7,20,30,TRUE,11
+"S64JP","OK",TRUE,22.1,7.6,30,TRUE,22
+"S64JQ","OK",FALSE,6.7,6.9,8.3,TRUE,6
+"S64JR","OK",FALSE,16.5,8.4,30,TRUE,19
+"S64JW","OK",TRUE,25.2,20,30,TRUE,21
+"S64JY","No premises",NA,NA,NA,NA,TRUE,0
+"S64JZ","OK",TRUE,14.9,8.9,30,TRUE,5

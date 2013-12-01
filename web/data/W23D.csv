@@ -1,0 +1,20 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W23DA","OK",FALSE,14,16.8,20.9,FALSE,36
+"W23DB","OK",FALSE,13.8,15.6,20.8,FALSE,49
+"W23DD","OK",FALSE,12.4,13.3,18.1,FALSE,27
+"W23DE","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"W23DF","OK",FALSE,13.6,14.5,21.4,FALSE,21
+"W23DG","OK",TRUE,14,14.3,19.8,FALSE,18
+"W23DH","OK",FALSE,13.7,14.3,21,FALSE,49
+"W23DJ","OK",TRUE,10.5,13.4,14.8,FALSE,4
+"W23DL","OK",FALSE,12.8,14.4,19.1,FALSE,4
+"W23DN","OK",TRUE,14.3,15.4,30,TRUE,40
+"W23DP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W23DP","No Data",NA,NA,NA,NA,TRUE,0
+"W23DQ","No premises",NA,NA,NA,NA,FALSE,0
+"W23DR","No premises",NA,NA,NA,NA,TRUE,0
+"W23DS","OK",TRUE,16.5,17.4,30,TRUE,29
+"W23DT","No premises",NA,NA,NA,NA,TRUE,0
+"W23DU","No premises",NA,NA,NA,NA,TRUE,0
+"W23DW","OK",TRUE,16.9,12.8,30,TRUE,43
+"W23DY","OK",FALSE,23.6,14.1,30,TRUE,19

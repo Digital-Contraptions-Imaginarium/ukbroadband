@@ -1,0 +1,4 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S59HA","OK",TRUE,27.3,30,30,TRUE,13
+"S59HB","OK",FALSE,12.2,6.9,30,TRUE,26
+"S59HD","Insufficient Data",NA,NA,NA,NA,TRUE,2

@@ -1,0 +1,11 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S95BD","OK",FALSE,18.3,15.5,30,TRUE,20
+"S95BE","OK",FALSE,18.8,18.4,30,TRUE,15
+"S95BG","OK",FALSE,26.6,20,30,TRUE,7
+"S95BH","OK",FALSE,27.9,20,30,TRUE,16
+"S95BJ","OK",FALSE,15.6,15.4,30,TRUE,32
+"S95BL","OK",FALSE,9.7,9.7,11.2,FALSE,3
+"S95BW","OK",FALSE,10.4,8,20,TRUE,13
+"S95BX","OK",TRUE,19.5,16.1,30,TRUE,13
+"S95BY","OK",FALSE,21.4,17.3,30,TRUE,20
+"S95BZ","OK",FALSE,25,18,30,TRUE,24

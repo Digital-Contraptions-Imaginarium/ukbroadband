@@ -1,0 +1,21 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S58BA","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"S58BB","OK",FALSE,16.8,7.8,30,TRUE,11
+"S58BD","OK",TRUE,30,30,30,TRUE,4
+"S58BE","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"S58BG","OK",FALSE,24.2,9,30,TRUE,3
+"S58BH","OK",TRUE,19.6,8.8,30,TRUE,21
+"S58BJ","OK",FALSE,29.1,20,30,TRUE,18
+"S58BL","OK",TRUE,29.4,20,30,TRUE,17
+"S58BN","OK",FALSE,25,10.5,30,TRUE,6
+"S58BP","OK",FALSE,25.8,20,30,TRUE,28
+"S58BQ","OK",TRUE,21.2,7.5,30,TRUE,16
+"S58BR","OK",TRUE,13.1,7,30,TRUE,17
+"S58BS","OK",TRUE,22.6,20,30,TRUE,24
+"S58BT","OK",FALSE,30,30,30,TRUE,5
+"S58BU","OK",FALSE,30,30,30,TRUE,4
+"S58BW","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"S58BX","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"S58BY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S58BY","No Data",NA,NA,NA,NA,TRUE,0
+"S58BZ","OK",TRUE,22.9,6.1,30,TRUE,7

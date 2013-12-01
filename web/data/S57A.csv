@@ -1,0 +1,21 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S57AA","OK",TRUE,21.5,15,30,TRUE,20
+"S57AB","OK",FALSE,10,7.6,20,TRUE,5
+"S57AD","OK",TRUE,3.2,3.5,4.5,FALSE,18
+"S57AE","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"S57AF","No Data",NA,NA,NA,NA,TRUE,0
+"S57AG","OK",FALSE,28.1,8.2,30,TRUE,5
+"S57AH","OK",FALSE,15.7,5.7,30,TRUE,13
+"S57AJ","OK",FALSE,10.8,6.2,20,TRUE,3
+"S57AL","OK",FALSE,23.6,20,30,TRUE,23
+"S57AN","OK",TRUE,19.8,6.4,30,TRUE,31
+"S57AP","OK",TRUE,19.7,7.1,30,TRUE,36
+"S57AQ","OK",TRUE,25,20,30,TRUE,19
+"S57AR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S57AR","No Data",NA,NA,NA,NA,TRUE,0
+"S57AS","OK",FALSE,18.5,6.7,30,TRUE,18
+"S57AT","No premises",NA,NA,NA,NA,FALSE,0
+"S57AU","No premises",NA,NA,NA,NA,TRUE,0
+"S57AX","OK",TRUE,26.9,20,30,TRUE,8
+"S57AY","OK",TRUE,16.2,3.8,30,TRUE,34
+"S57AZ","OK",TRUE,21.5,20,30,TRUE,19

@@ -1,0 +1,11 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"M66RB","OK",FALSE,18.3,19.4,22.6,TRUE,10
+"M66RG","OK",FALSE,18.7,12.9,30,TRUE,30
+"M66RJ","OK",FALSE,28.2,20,30,TRUE,17
+"M66RL","OK",TRUE,24.6,17.6,30,TRUE,15
+"M66RP","OK",FALSE,21.5,21.5,30,TRUE,3
+"M66RQ","OK",FALSE,22,20,30,TRUE,16
+"M66RR","OK",FALSE,25.4,20,30,TRUE,10
+"M66RS","OK",FALSE,23.1,14.3,30,TRUE,9
+"M66RT","OK",FALSE,22.1,14.8,30,TRUE,8
+"M66RU","OK",TRUE,28.8,16.2,30,TRUE,8

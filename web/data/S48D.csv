@@ -1,0 +1,8 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S48DA","OK",FALSE,6.2,6.2,6.9,FALSE,5
+"S48DG","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"S48DQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S48DQ","No Data",NA,NA,NA,NA,TRUE,0
+"S48DT","OK",FALSE,8.1,8.1,8.2,FALSE,4
+"S48DX","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"S48DY","Insufficient Data",NA,NA,NA,NA,FALSE,1

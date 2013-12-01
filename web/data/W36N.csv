@@ -1,0 +1,19 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W36NA","No premises",NA,NA,NA,NA,FALSE,0
+"W36ND","OK",FALSE,23.8,17.4,30,TRUE,15
+"W36NE","No premises",NA,NA,NA,NA,TRUE,0
+"W36NF","No premises",NA,NA,NA,NA,FALSE,0
+"W36NG","OK",FALSE,22.9,20.4,30,TRUE,13
+"W36NH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W36NH","No Data",NA,NA,NA,NA,TRUE,0
+"W36NL","OK",TRUE,26.6,15.9,30,TRUE,33
+"W36NN","OK",FALSE,22.5,15,30,TRUE,44
+"W36NP","OK",FALSE,17,15.2,30,TRUE,12
+"W36NR","No premises",NA,NA,NA,NA,TRUE,0
+"W36NS","No premises",NA,NA,NA,NA,TRUE,0
+"W36NT","OK",FALSE,21,18.9,30,TRUE,12
+"W36NU","OK",FALSE,28.5,20.5,30,TRUE,7
+"W36NW","OK",FALSE,20.5,18.7,30,TRUE,8
+"W36NX","OK",TRUE,30,20,30,TRUE,13
+"W36NY","OK",FALSE,23.9,15.4,30,TRUE,16
+"W36NZ","OK",FALSE,27.4,19.5,30,TRUE,48

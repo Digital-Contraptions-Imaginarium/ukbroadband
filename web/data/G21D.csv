@@ -7,11 +7,3 @@
 "G21DS","No premises",NA,NA,NA,NA,FALSE,0
 "G21DU","No premises",NA,NA,NA,NA,FALSE,0
 "G21DY","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"G21DA","OK",FALSE,19.2,19.4,21.4,TRUE,4
-"G21DG","No premises",NA,NA,NA,NA,TRUE,0
-"G21DH","No premises",NA,NA,NA,NA,FALSE,0
-"G21DR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G21DR","No Data",NA,NA,NA,NA,FALSE,0
-"G21DS","No premises",NA,NA,NA,NA,FALSE,0
-"G21DU","No premises",NA,NA,NA,NA,FALSE,0
-"G21DY","Insufficient Data",NA,NA,NA,NA,FALSE,2

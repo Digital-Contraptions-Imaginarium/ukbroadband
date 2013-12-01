@@ -1,0 +1,15 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S80PA","OK",FALSE,24.5,20,30,TRUE,37
+"S80PB","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"S80PD","OK",FALSE,13.5,14.3,16.4,TRUE,3
+"S80PG","No premises",NA,NA,NA,NA,FALSE,0
+"S80PH","OK",FALSE,28.7,20,30,TRUE,35
+"S80PJ","OK",TRUE,27.7,20,30,TRUE,30
+"S80PL","OK",FALSE,28.2,20,30,TRUE,34
+"S80PN","OK",TRUE,19,12.1,30,TRUE,20
+"S80PP","OK",TRUE,20.2,9.5,30,TRUE,24
+"S80PQ","OK",TRUE,16.3,9.4,30,TRUE,26
+"S80PR","OK",FALSE,10.1,8.2,30,TRUE,8
+"S80PS","OK",FALSE,16.4,8.8,30,TRUE,17
+"S80PT","OK",FALSE,18.3,18.6,30,TRUE,4
+"S80PW","OK",FALSE,6,6.2,10.2,FALSE,30

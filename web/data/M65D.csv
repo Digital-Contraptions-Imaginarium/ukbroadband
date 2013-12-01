@@ -1,0 +1,7 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"M65DS","No premises",NA,NA,NA,NA,FALSE,0
+"M65DT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"M65DT","No Data",NA,NA,NA,NA,FALSE,0
+"M65DU","OK",FALSE,23.6,21,30,TRUE,3
+"M65DW","OK",FALSE,30,20.7,30,TRUE,10
+"M65DZ","Insufficient Data",NA,NA,NA,NA,TRUE,1

@@ -1,0 +1,10 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S72HA","OK",FALSE,19,15.2,30,TRUE,12
+"S72HB","OK",TRUE,30,30,30,TRUE,36
+"S72HD","OK",TRUE,27.7,20,30,TRUE,25
+"S72HE","OK",TRUE,15.9,10.2,30,TRUE,23
+"S72HF","OK",FALSE,11.2,11.2,20,TRUE,7
+"S72HG","OK",FALSE,30,30,30,TRUE,25
+"S72HL","OK",TRUE,17.1,20,30,TRUE,8
+"S72HW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S72HW","No Data",NA,NA,NA,NA,TRUE,0

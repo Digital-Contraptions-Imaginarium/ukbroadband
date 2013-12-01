@@ -5,9 +5,3 @@
 "L379BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "L379BG","No Data",NA,NA,NA,NA,FALSE,0
 "L379BQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"L379BA","OK",TRUE,1.2,1.1,2,FALSE,5
-"L379BB","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"L379BE","OK",FALSE,14.9,7.3,30,TRUE,4
-"L379BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L379BG","No Data",NA,NA,NA,NA,FALSE,0
-"L379BQ","Insufficient Data",NA,NA,NA,NA,FALSE,2

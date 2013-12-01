@@ -1,0 +1,16 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"PA477SG","OK",FALSE,7.3,7.3,8.1,FALSE,4
+"PA477SH","OK",FALSE,7.1,8.1,8.1,FALSE,5
+"PA477SJ","OK",FALSE,6.8,8,8.1,FALSE,7
+"PA477SL","OK",FALSE,7.7,7.7,7.7,FALSE,4
+"PA477SN","OK",FALSE,7.4,7.4,7.4,FALSE,3
+"PA477SP","OK",TRUE,6.7,7.3,8.1,FALSE,11
+"PA477SQ","OK",TRUE,6.2,8,8.1,FALSE,5
+"PA477SR","OK",FALSE,6.5,6.8,8.1,FALSE,5
+"PA477SS","OK",FALSE,6.8,6.8,6.8,FALSE,3
+"PA477ST","OK",TRUE,5.8,7.7,8.1,FALSE,8
+"PA477SU","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"PA477SW","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"PA477SX","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"PA477SY","OK",FALSE,8,8.1,8.1,FALSE,6
+"PA477SZ","OK",TRUE,5,5.1,8,FALSE,5

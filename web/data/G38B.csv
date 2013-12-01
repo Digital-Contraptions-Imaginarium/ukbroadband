@@ -7,11 +7,3 @@
 "G38BW","OK",FALSE,16.1,18.2,22.4,TRUE,10
 "G38BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "G38BX","No Data",NA,NA,NA,NA,FALSE,0
-"G38BB","No premises",NA,NA,NA,NA,FALSE,0
-"G38BH","OK",FALSE,27.9,20,30,TRUE,8
-"G38BL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G38BL","No Data",NA,NA,NA,NA,TRUE,0
-"G38BN","No Data",NA,NA,NA,NA,TRUE,0
-"G38BW","OK",FALSE,16.1,18.2,22.4,TRUE,10
-"G38BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G38BX","No Data",NA,NA,NA,NA,FALSE,0

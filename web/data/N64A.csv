@@ -1,0 +1,21 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"N64AA","OK",TRUE,19,6.5,30,TRUE,14
+"N64AB","OK",FALSE,13.7,7.6,30,TRUE,6
+"N64AD","OK",FALSE,17,8.5,30,TRUE,8
+"N64AE","OK",TRUE,21.2,5.2,30,TRUE,12
+"N64AF","OK",FALSE,9.6,8.7,20,TRUE,12
+"N64AG","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"N64AH","OK",TRUE,0.8,0.9,1.5,TRUE,3
+"N64AJ","OK",FALSE,20.5,7.4,30,TRUE,8
+"N64AL","OK",FALSE,18.4,10.4,30,TRUE,4
+"N64AN","OK",TRUE,15,6.5,30,TRUE,17
+"N64AP","OK",FALSE,28.7,30,30,TRUE,10
+"N64AQ","OK",FALSE,21.4,20,30,TRUE,6
+"N64AR","OK",FALSE,30,30,30,TRUE,3
+"N64AT","OK",FALSE,12.5,7.1,30,TRUE,6
+"N64AU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"N64AU","No Data",NA,NA,NA,NA,TRUE,0
+"N64AW","OK",FALSE,16.4,8.8,30,TRUE,10
+"N64AX","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"N64AY","No premises",NA,NA,NA,NA,TRUE,0
+"N64AZ","OK",TRUE,23.2,6.4,30,TRUE,11

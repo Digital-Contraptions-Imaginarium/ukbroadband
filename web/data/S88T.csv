@@ -1,0 +1,9 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S88TA","OK",TRUE,11,5.5,30,TRUE,29
+"S88TB","OK",FALSE,27.6,30,30,TRUE,35
+"S88TD","OK",TRUE,16.2,4.9,30,TRUE,15
+"S88TE","OK",TRUE,18.1,6.9,30,TRUE,16
+"S88TF","OK",FALSE,30,30,30,TRUE,4
+"S88TG","OK",TRUE,12.9,3.8,30,TRUE,8
+"S88TH","OK",TRUE,26.1,12.8,30,TRUE,22
+"S88TJ","OK",FALSE,8.1,8,11.1,TRUE,3

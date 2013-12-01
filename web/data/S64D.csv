@@ -1,0 +1,5 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S64DA","OK",TRUE,28.5,30,30,TRUE,19
+"S64DB","OK",FALSE,30,30,30,TRUE,11
+"S64DD","OK",TRUE,29.7,20,30,TRUE,44
+"S64DE","OK",TRUE,14.3,9.8,30,TRUE,9

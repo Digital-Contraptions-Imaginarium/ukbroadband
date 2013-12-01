@@ -1,0 +1,18 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W86EA","OK",FALSE,7.9,7.9,8.1,FALSE,4
+"W86EB","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"W86ED","OK",FALSE,16.3,13.6,30,TRUE,9
+"W86EE","OK",TRUE,17.9,14.3,30,TRUE,11
+"W86EF","OK",FALSE,18.9,15.8,30,TRUE,36
+"W86EG","OK",FALSE,20.4,13.2,30,TRUE,6
+"W86EJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"W86EL","OK",TRUE,5.7,7.7,7.8,TRUE,4
+"W86EN","OK",FALSE,13.7,15.6,20.5,FALSE,19
+"W86EP","OK",TRUE,11.5,13.3,18,FALSE,7
+"W86EQ","OK",FALSE,10.5,7.8,15.9,TRUE,3
+"W86ER","OK",TRUE,11.6,14.7,17.6,FALSE,13
+"W86ES","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"W86ET","OK",FALSE,17.5,12,30,TRUE,14
+"W86EU","OK",FALSE,23.1,14.4,30,TRUE,8
+"W86EW","OK",FALSE,13.4,11.6,21.9,FALSE,11
+"W86EX","OK",FALSE,14.3,16.4,16.7,TRUE,5

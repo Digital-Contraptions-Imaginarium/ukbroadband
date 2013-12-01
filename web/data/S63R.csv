@@ -1,0 +1,17 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S63RF","OK",TRUE,28.3,25,30,TRUE,23
+"S63RG","OK",TRUE,13.2,1.8,30,TRUE,14
+"S63RH","OK",TRUE,17.5,2.5,30,TRUE,24
+"S63RJ","OK",TRUE,30,30,30,TRUE,15
+"S63RL","OK",TRUE,17.6,3.3,30,TRUE,26
+"S63RN","OK",TRUE,27.4,20,30,TRUE,45
+"S63RP","OK",TRUE,19.9,20,30,TRUE,35
+"S63RQ","OK",TRUE,5.9,2.5,30,TRUE,22
+"S63RR","OK",TRUE,19,20,30,TRUE,17
+"S63RS","OK",TRUE,15.1,2.7,30,TRUE,35
+"S63RT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S63RT","No Data",NA,NA,NA,NA,TRUE,0
+"S63RU","OK",TRUE,25.1,25,30,TRUE,20
+"S63RW","OK",TRUE,3.5,2.3,20,TRUE,11
+"S63RX","OK",TRUE,26.1,11.8,30,TRUE,23
+"S63RZ","OK",TRUE,30,30,30,TRUE,6

@@ -1,0 +1,10 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"N87SA","OK",FALSE,8.5,7,17,TRUE,10
+"N87SB","OK",FALSE,24.7,8.3,30,TRUE,9
+"N87SE","OK",FALSE,6.3,6.3,7.9,TRUE,9
+"N87SJ","OK",FALSE,7.2,7.2,8.9,FALSE,19
+"N87SL","OK",TRUE,5.8,6.1,18.2,TRUE,49
+"N87SN","OK",TRUE,5.6,6.3,8.5,FALSE,10
+"N87SR","OK",FALSE,19.4,20,30,TRUE,4
+"N87SX","No premises",NA,NA,NA,NA,FALSE,0
+"N87SZ","No premises",NA,NA,NA,NA,FALSE,0

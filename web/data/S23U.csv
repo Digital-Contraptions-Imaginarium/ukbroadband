@@ -1,0 +1,15 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S23UA","OK",TRUE,2.9,2.9,5.1,FALSE,7
+"S23UB","OK",TRUE,2.8,2.6,4.9,FALSE,17
+"S23UD","OK",TRUE,2.5,2.6,5.1,FALSE,6
+"S23UE","OK",TRUE,3.5,3.8,5.3,FALSE,7
+"S23UF","OK",FALSE,4.4,4.5,5.7,FALSE,4
+"S23UG","OK",TRUE,3.1,3,4.4,FALSE,5
+"S23UH","OK",TRUE,3.9,4.2,5.7,FALSE,9
+"S23UJ","OK",TRUE,2.4,2.4,2.9,FALSE,5
+"S23UL","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"S23UN","OK",TRUE,2.9,2.8,4.6,FALSE,6
+"S23UP","OK",TRUE,3.2,3.1,4.6,FALSE,16
+"S23UT","OK",TRUE,2.8,3.2,4.8,FALSE,11
+"S23UU","OK",TRUE,2.8,2.8,5.6,FALSE,16
+"S23UX","OK",TRUE,2.7,2.6,3.7,FALSE,6

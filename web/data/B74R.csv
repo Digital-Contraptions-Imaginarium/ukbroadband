@@ -7,11 +7,3 @@
 "B74RS","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B74RU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "B74RU","No Data",NA,NA,NA,NA,FALSE,0
-"B74RA","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"B74RH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B74RH","No Data",NA,NA,NA,NA,FALSE,0
-"B74RP","OK",FALSE,5,4.1,7.8,FALSE,5
-"B74RQ","No premises",NA,NA,NA,NA,FALSE,0
-"B74RS","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"B74RU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B74RU","No Data",NA,NA,NA,NA,FALSE,0

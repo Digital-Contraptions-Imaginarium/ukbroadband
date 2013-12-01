@@ -16,20 +16,3 @@
 "M17DY","OK",FALSE,15.6,15.7,22,FALSE,11
 "M17DZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "M17DZ","No Data",NA,NA,NA,NA,FALSE,0
-"M17DA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M17DA","No Data",NA,NA,NA,NA,FALSE,0
-"M17DB","Insufficient Data",NA,NA,NA,NA,TRUE,2
-"M17DE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M17DE","No Data",NA,NA,NA,NA,TRUE,0
-"M17DF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M17DF","No Data",NA,NA,NA,NA,TRUE,0
-"M17DG","No premises",NA,NA,NA,NA,FALSE,0
-"M17DL","No premises",NA,NA,NA,NA,FALSE,0
-"M17DN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M17DN","No Data",NA,NA,NA,NA,FALSE,0
-"M17DP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M17DP","No Data",NA,NA,NA,NA,TRUE,0
-"M17DU","OK",FALSE,12,11.3,20.2,TRUE,32
-"M17DY","OK",FALSE,15.6,15.7,22,FALSE,11
-"M17DZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M17DZ","No Data",NA,NA,NA,NA,FALSE,0

@@ -1,0 +1,186 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"WC2A1AA","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"WC2A1AD","OK",FALSE,4.7,4.7,6.9,FALSE,3
+"WC2A1AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1AE","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1AF","OK",FALSE,18.4,19.4,22.8,TRUE,10
+"WC2A1AH","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1AL","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1AN","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1AP","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1AX","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1BP","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1BQ","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1DD","OK",FALSE,8.4,8.1,9,FALSE,3
+"WC2A1DE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1DE","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1DL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1DL","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1DT","OK",FALSE,8,8,8.1,FALSE,4
+"WC2A1DU","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1EG","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"WC2A1EL","OK",FALSE,15.4,17,19.3,FALSE,3
+"WC2A1EN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1EN","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1ET","OK",FALSE,18.2,12.5,30,FALSE,4
+"WC2A1EU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1EU","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1HL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1HL","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1HP","OK",FALSE,13.6,13.6,21.6,TRUE,7
+"WC2A1HR","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"WC2A1JA","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A1JB","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1JE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1JE","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1JF","OK",FALSE,15.7,17.3,22.1,FALSE,3
+"WC2A1JQ","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1LA","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1LB","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1LF","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1LG","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1LR","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1LS","OK",TRUE,9.4,8.1,20.2,FALSE,5
+"WC2A1NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1NF","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1PB","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1PL","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1PN","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1PP","OK",FALSE,9.7,10.2,10.4,FALSE,4
+"WC2A1PQ","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1PR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1PR","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1PT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1PT","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1PU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A1PU","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A1QB","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1QS","OK",TRUE,14.8,19.1,22.3,TRUE,11
+"WC2A1QT","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1QU","OK",FALSE,22.5,14.9,30,FALSE,8
+"WC2A1RH","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1RP","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1RS","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1WT","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A1WZ","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A2AB","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A2AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2AD","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2AE","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A2AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2AG","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2ES","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2HA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2HA","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2HB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2HB","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2HD","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A2HE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2HE","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2HF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2HF","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2HJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2HJ","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2HT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2HT","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2HX","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A2JB","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"WC2A2JD","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A2JE","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A2JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A2JF","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A2JL","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"WC2A2JQ","No premises",NA,NA,NA,NA,TRUE,0
+"WC2A2JR","OK",FALSE,14.5,13.6,24.3,FALSE,9
+"WC2A2LL","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A2LS","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3AA","OK",TRUE,5.7,7.8,8.1,TRUE,3
+"WC2A3BH","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3BP","OK",FALSE,30,21.7,30,TRUE,5
+"WC2A3ED","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"WC2A3EE","No premises",NA,NA,NA,NA,TRUE,0
+"WC2A3EG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3EG","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3HP","OK",FALSE,23.5,21.3,30,TRUE,10
+"WC2A3JA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3JA","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3JB","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"WC2A3JH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3JH","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3JW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3JW","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3JX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3JX","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3LH","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3LJ","OK",TRUE,14.1,11.2,30,TRUE,10
+"WC2A3LN","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3LY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3LY","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3LZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"WC2A3NA","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3NN","No premises",NA,NA,NA,NA,TRUE,0
+"WC2A3PD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3PD","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3PE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3PE","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3PF","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"WC2A3PP","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3PT","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3PZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3PZ","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3QA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3QA","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3QB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3QB","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3QG","No premises",NA,NA,NA,NA,TRUE,0
+"WC2A3QH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3QH","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3QN","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3QP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3QP","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3QQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3QQ","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3QS","OK",FALSE,11.6,9.1,17.5,FALSE,3
+"WC2A3RD","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3RH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3RH","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3RJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3RJ","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3RS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3RS","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3SA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3SA","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3SB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3SB","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3SP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3SP","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3SR","OK",TRUE,7.4,8.1,13,TRUE,4
+"WC2A3SU","OK",FALSE,15.1,15.1,22,TRUE,3
+"WC2A3SW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3SW","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3SZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"WC2A3TA","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"WC2A3TD","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3TG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3TG","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3TH","No premises",NA,NA,NA,NA,TRUE,0
+"WC2A3TL","No premises",NA,NA,NA,NA,TRUE,0
+"WC2A3TN","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3TP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3TP","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3TS","OK",FALSE,17,18.1,23.3,TRUE,4
+"WC2A3TX","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"WC2A3UA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"WC2A3UA","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3UE","OK",FALSE,12.8,13.6,17.4,TRUE,5
+"WC2A3UJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"WC2A3UP","OK",FALSE,16.6,17.4,24.3,TRUE,16
+"WC2A3UT","No Data",NA,NA,NA,NA,FALSE,0
+"WC2A3WG","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3WZ","No premises",NA,NA,NA,NA,FALSE,0
+"WC2A3XB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"WC2A3XB","No Data",NA,NA,NA,NA,TRUE,0
+"WC2A3XL","OK",TRUE,11,11.8,19.9,TRUE,4
+"WC2A3XT","OK",FALSE,12.6,12.6,17.1,TRUE,3

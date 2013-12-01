@@ -1,0 +1,5 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"N18GB","OK",FALSE,16.5,17.5,22.7,FALSE,63
+"N18GH","OK",FALSE,30,20,30,TRUE,49
+"N18GJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"N18GJ","No Data",NA,NA,NA,NA,TRUE,0

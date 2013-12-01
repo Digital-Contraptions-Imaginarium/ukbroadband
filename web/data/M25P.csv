@@ -4,8 +4,3 @@
 "M25PE","OK",FALSE,10.8,10.7,15.3,TRUE,5
 "M25PF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
 "M25PF","No Data",NA,NA,NA,NA,TRUE,0
-"M25PB","Insufficient Data",NA,NA,NA,NA,TRUE,1
-"M25PD","No premises",NA,NA,NA,NA,TRUE,0
-"M25PE","OK",FALSE,10.8,10.7,15.3,TRUE,5
-"M25PF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M25PF","No Data",NA,NA,NA,NA,TRUE,0

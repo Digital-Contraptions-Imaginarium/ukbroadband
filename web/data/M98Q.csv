@@ -1,0 +1,9 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"M98QA","OK",TRUE,27,30,30,TRUE,16
+"M98QB","OK",TRUE,17.2,8.1,30,TRUE,47
+"M98QD","OK",TRUE,13.1,7.3,30,TRUE,41
+"M98QE","OK",FALSE,15.3,9.1,30,TRUE,38
+"M98QF","OK",FALSE,15.7,6.8,30,TRUE,41
+"M98QH","OK",TRUE,8.5,2,30,TRUE,12
+"M98QL","OK",TRUE,30,20.9,30,TRUE,13
+"M98QN","OK",FALSE,6.7,6.9,7.9,FALSE,10

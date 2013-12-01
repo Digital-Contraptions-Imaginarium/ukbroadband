@@ -1,0 +1,13 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W85RD","OK",FALSE,30,19.4,30,TRUE,9
+"W85RF","OK",TRUE,17.5,19.1,22.4,TRUE,16
+"W85RG","OK",FALSE,17.2,18.7,22.3,TRUE,9
+"W85RH","OK",FALSE,22.4,19.7,30,TRUE,18
+"W85RJ","No premises",NA,NA,NA,NA,FALSE,0
+"W85RL","OK",FALSE,23.5,17.7,30,TRUE,21
+"W85RN","OK",FALSE,27.8,19.4,30,TRUE,12
+"W85RQ","OK",FALSE,16.1,15.5,24.2,TRUE,7
+"W85RU","OK",FALSE,18.6,9.6,30,TRUE,5
+"W85RW","OK",FALSE,10.9,5.8,30,TRUE,15
+"W85RY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W85RY","No Data",NA,NA,NA,NA,TRUE,0

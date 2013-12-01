@@ -12,16 +12,3 @@
 "B65SX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "B65SX","No Data",NA,NA,NA,NA,FALSE,0
 "B65SY","OK",FALSE,20.2,20.7,30,TRUE,12
-"B65SA","No premises",NA,NA,NA,NA,FALSE,0
-"B65SF","No premises",NA,NA,NA,NA,FALSE,0
-"B65SH","No Data",NA,NA,NA,NA,FALSE,0
-"B65SL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B65SL","No Data",NA,NA,NA,NA,FALSE,0
-"B65SN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B65SN","No Data",NA,NA,NA,NA,FALSE,0
-"B65SP","No premises",NA,NA,NA,NA,FALSE,0
-"B65SR","No premises",NA,NA,NA,NA,FALSE,0
-"B65SU","No premises",NA,NA,NA,NA,FALSE,0
-"B65SX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B65SX","No Data",NA,NA,NA,NA,FALSE,0
-"B65SY","OK",FALSE,20.2,20.7,30,TRUE,12

@@ -9,13 +9,3 @@
 "M16HX","No Data",NA,NA,NA,NA,TRUE,0
 "M16HY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
 "M16HY","No Data",NA,NA,NA,NA,TRUE,0
-"M16HA","No premises",NA,NA,NA,NA,TRUE,0
-"M16HB","OK",FALSE,24,20,30,TRUE,33
-"M16HP","OK",FALSE,20.1,14.6,30,TRUE,32
-"M16HR","OK",FALSE,23,20.4,30,TRUE,33
-"M16HS","No Data",NA,NA,NA,NA,TRUE,0
-"M16HT","No premises",NA,NA,NA,NA,TRUE,0
-"M16HX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M16HX","No Data",NA,NA,NA,NA,TRUE,0
-"M16HY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M16HY","No Data",NA,NA,NA,NA,TRUE,0

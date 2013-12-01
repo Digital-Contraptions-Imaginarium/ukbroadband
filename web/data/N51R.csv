@@ -1,0 +1,20 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"N51RA","OK",TRUE,9.1,8,20,TRUE,7
+"N51RB","OK",FALSE,30,30,30,TRUE,16
+"N51RD","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"N51RE","No premises",NA,NA,NA,NA,TRUE,0
+"N51RF","No premises",NA,NA,NA,NA,TRUE,0
+"N51RH","OK",FALSE,11.9,11.3,17.7,TRUE,9
+"N51RN","OK",FALSE,30,30,30,TRUE,23
+"N51RP","OK",TRUE,30,30,30,TRUE,23
+"N51RQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"N51RQ","No Data",NA,NA,NA,NA,TRUE,0
+"N51RR","OK",FALSE,20.2,17.8,30,TRUE,6
+"N51RS","OK",TRUE,22.3,13.7,30,TRUE,4
+"N51RT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"N51RT","No Data",NA,NA,NA,NA,TRUE,0
+"N51RU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"N51RU","No Data",NA,NA,NA,NA,TRUE,0
+"N51RW","No premises",NA,NA,NA,NA,TRUE,0
+"N51RX","OK",FALSE,20.6,13.6,30,TRUE,30
+"N51RZ","OK",FALSE,27.1,20,30,TRUE,7

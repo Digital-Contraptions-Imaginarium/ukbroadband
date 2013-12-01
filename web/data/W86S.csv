@@ -1,0 +1,7 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W86SA","OK",TRUE,7.7,8.4,12.7,TRUE,7
+"W86SF","No premises",NA,NA,NA,NA,FALSE,0
+"W86SG","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"W86SH","OK",FALSE,12.7,12.4,19,FALSE,7
+"W86SL","No premises",NA,NA,NA,NA,FALSE,0
+"W86SU","OK",FALSE,14.3,16.3,23.9,TRUE,21

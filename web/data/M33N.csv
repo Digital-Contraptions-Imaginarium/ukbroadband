@@ -6,10 +6,3 @@
 "M33NN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
 "M33NN","No Data",NA,NA,NA,NA,TRUE,0
 "M33NW","OK",FALSE,12.2,10.6,17.2,TRUE,9
-"M33ND","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M33ND","No Data",NA,NA,NA,NA,TRUE,0
-"M33NE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M33NE","No Data",NA,NA,NA,NA,TRUE,0
-"M33NN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M33NN","No Data",NA,NA,NA,NA,TRUE,0
-"M33NW","OK",FALSE,12.2,10.6,17.2,TRUE,9

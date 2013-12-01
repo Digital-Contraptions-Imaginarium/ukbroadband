@@ -1,0 +1,11 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"N52TB","OK",TRUE,14.7,10,30,TRUE,29
+"N52TD","OK",FALSE,20.4,14.2,30,TRUE,19
+"N52TE","OK",FALSE,24.3,20,30,TRUE,24
+"N52TG","OK",FALSE,24.5,18.5,30,TRUE,47
+"N52TH","OK",TRUE,23.4,13.1,30,TRUE,29
+"N52TJ","OK",TRUE,21.5,15.1,30,TRUE,33
+"N52TL","OK",TRUE,20.5,14.3,30,TRUE,27
+"N52TU","OK",FALSE,28,20,30,TRUE,21
+"N52TX","OK",FALSE,20.8,10.8,30,TRUE,47
+"N52TZ","OK",TRUE,14.9,12.1,30,TRUE,38

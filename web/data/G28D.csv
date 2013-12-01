@@ -6,10 +6,3 @@
 "G28DQ","No premises",NA,NA,NA,NA,FALSE,0
 "G28DS","No premises",NA,NA,NA,NA,FALSE,0
 "G28DU","No Data",NA,NA,NA,NA,FALSE,0
-"G28DA","No premises",NA,NA,NA,NA,FALSE,0
-"G28DL","OK",TRUE,7.8,7.5,14.3,FALSE,6
-"G28DP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G28DP","No Data",NA,NA,NA,NA,FALSE,0
-"G28DQ","No premises",NA,NA,NA,NA,FALSE,0
-"G28DS","No premises",NA,NA,NA,NA,FALSE,0
-"G28DU","No Data",NA,NA,NA,NA,FALSE,0

@@ -1,0 +1,5 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"M73AD","OK",FALSE,27.2,14.3,30,TRUE,16
+"M73AP","OK",FALSE,16.7,6.1,30,TRUE,3
+"M73AQ","OK",FALSE,14.1,6.4,30,TRUE,18
+"M73AR","OK",TRUE,14.8,7,30,TRUE,16

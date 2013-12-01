@@ -1,0 +1,21 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"M94AB","OK",FALSE,5.4,5.2,8.8,TRUE,5
+"M94AD","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"M94AE","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"M94AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"M94AF","No Data",NA,NA,NA,NA,TRUE,0
+"M94AG","OK",FALSE,18,20,30,TRUE,4
+"M94AH","OK",FALSE,5.7,5.9,5.9,TRUE,3
+"M94AJ","OK",FALSE,6.3,6.9,7.6,TRUE,3
+"M94AL","OK",FALSE,4.1,4.2,5.1,TRUE,8
+"M94AN","OK",FALSE,4.8,5.3,5.7,TRUE,7
+"M94AP","OK",TRUE,19.5,11.3,30,TRUE,7
+"M94AQ","OK",TRUE,21.1,20,30,TRUE,12
+"M94AR","OK",FALSE,14.6,4,30,TRUE,11
+"M94AS","OK",FALSE,28.4,3.7,30,TRUE,13
+"M94AT","OK",FALSE,7.1,5.4,20,TRUE,7
+"M94AU","OK",FALSE,30,30,30,TRUE,4
+"M94AW","OK",TRUE,4.2,5.7,6.8,TRUE,5
+"M94AX","OK",FALSE,9,3.9,20,TRUE,4
+"M94AY","OK",TRUE,3.8,5.1,5.2,TRUE,3
+"M94AZ","OK",FALSE,11,7.6,20,TRUE,3

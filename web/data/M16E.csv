@@ -12,16 +12,3 @@
 "M16EY","OK",TRUE,8.5,8.4,16.6,TRUE,35
 "M16EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "M16EZ","No Data",NA,NA,NA,NA,FALSE,0
-"M16ED","OK",FALSE,16.2,17.7,21.6,TRUE,4
-"M16EG","OK",FALSE,10.7,8.1,15.9,TRUE,4
-"M16EJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M16EJ","No Data",NA,NA,NA,NA,TRUE,0
-"M16EL","No premises",NA,NA,NA,NA,TRUE,0
-"M16EQ","OK",TRUE,12.2,18.2,20.4,TRUE,7
-"M16ET","Insufficient Data",NA,NA,NA,NA,TRUE,1
-"M16EU","OK",FALSE,8,8.1,8.1,TRUE,3
-"M16EX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M16EX","No Data",NA,NA,NA,NA,TRUE,0
-"M16EY","OK",TRUE,8.5,8.4,16.6,TRUE,35
-"M16EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M16EZ","No Data",NA,NA,NA,NA,FALSE,0

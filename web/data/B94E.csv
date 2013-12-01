@@ -19,23 +19,3 @@
 "B94EX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "B94EX","No Data",NA,NA,NA,NA,FALSE,0
 "B94EY","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"B94ED","OK",TRUE,11.1,10.8,22.6,FALSE,5
-"B94EE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94EE","No Data",NA,NA,NA,NA,FALSE,0
-"B94EF","No premises",NA,NA,NA,NA,FALSE,0
-"B94EG","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"B94EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94EH","No Data",NA,NA,NA,NA,FALSE,0
-"B94EJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94EJ","No Data",NA,NA,NA,NA,FALSE,0
-"B94EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94EL","No Data",NA,NA,NA,NA,FALSE,0
-"B94EN","No Data",NA,NA,NA,NA,FALSE,0
-"B94EP","OK",FALSE,16.8,19.5,20.5,TRUE,4
-"B94ER","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94ER","No Data",NA,NA,NA,NA,FALSE,0
-"B94EW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94EW","No Data",NA,NA,NA,NA,FALSE,0
-"B94EX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94EX","No Data",NA,NA,NA,NA,FALSE,0
-"B94EY","Insufficient Data",NA,NA,NA,NA,FALSE,1

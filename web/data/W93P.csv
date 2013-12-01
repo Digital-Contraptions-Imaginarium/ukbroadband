@@ -1,0 +1,19 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W93PD","No premises",NA,NA,NA,NA,FALSE,0
+"W93PE","OK",FALSE,16.2,9.9,30,TRUE,46
+"W93PF","OK",FALSE,11.4,7.6,30,TRUE,19
+"W93PG","OK",TRUE,9.4,9.8,13,TRUE,12
+"W93PH","OK",TRUE,14,9.1,30,TRUE,13
+"W93PJ","OK",FALSE,14.2,8.8,30,TRUE,17
+"W93PL","OK",FALSE,19.8,10.9,30,TRUE,14
+"W93PN","OK",FALSE,16.1,10.1,30,TRUE,20
+"W93PP","OK",FALSE,10.9,10.9,14,TRUE,3
+"W93PQ","OK",FALSE,7.9,8.4,17.5,TRUE,27
+"W93PR","OK",FALSE,9.3,8.8,12.2,TRUE,13
+"W93PS","OK",FALSE,18.2,10,30,TRUE,27
+"W93PT","OK",FALSE,19.6,11.2,30,TRUE,26
+"W93PU","OK",FALSE,14.1,15.4,19.6,FALSE,16
+"W93PX","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"W93PY","OK",FALSE,9.2,8.1,14.2,TRUE,5
+"W93PZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W93PZ","No Data",NA,NA,NA,NA,TRUE,0

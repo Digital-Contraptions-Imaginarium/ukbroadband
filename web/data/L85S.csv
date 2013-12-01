@@ -13,17 +13,3 @@
 "L85SX","OK",FALSE,30,20,30,TRUE,7
 "L85SY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
 "L85SY","No Data",NA,NA,NA,NA,TRUE,0
-"L85SA","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"L85SD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L85SD","No Data",NA,NA,NA,NA,TRUE,0
-"L85SE","OK",FALSE,7.4,9.3,10.7,FALSE,4
-"L85SF","No Data",NA,NA,NA,NA,TRUE,0
-"L85SG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L85SG","No Data",NA,NA,NA,NA,TRUE,0
-"L85SH","No Data",NA,NA,NA,NA,FALSE,0
-"L85SL","No Data",NA,NA,NA,NA,TRUE,0
-"L85SN","OK",FALSE,6.4,6,11.8,TRUE,12
-"L85SQ","No premises",NA,NA,NA,NA,TRUE,0
-"L85SX","OK",FALSE,30,20,30,TRUE,7
-"L85SY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L85SY","No Data",NA,NA,NA,NA,TRUE,0

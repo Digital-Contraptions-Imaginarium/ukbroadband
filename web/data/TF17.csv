@@ -1,0 +1,53 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"TF17AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF17AA","No Data",NA,NA,NA,NA,FALSE,0
+"TF17AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF17AB","No Data",NA,NA,NA,NA,FALSE,0
+"TF17ES","OK",FALSE,6.1,6.3,6.7,TRUE,4
+"TF17ET","OK",FALSE,4.1,3.9,6.2,TRUE,11
+"TF17EU","OK",FALSE,4.9,4.3,8.1,FALSE,4
+"TF17EX","OK",FALSE,5.5,4,17.9,TRUE,17
+"TF17EY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"TF17EY","No Data",NA,NA,NA,NA,TRUE,0
+"TF17FA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF17FA","No Data",NA,NA,NA,NA,FALSE,0
+"TF17FG","No premises",NA,NA,NA,NA,TRUE,0
+"TF17FR","No Data",NA,NA,NA,NA,FALSE,0
+"TF17FS","No premises",NA,NA,NA,NA,FALSE,0
+"TF17FT","No premises",NA,NA,NA,NA,TRUE,0
+"TF17GB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF17GB","No Data",NA,NA,NA,NA,FALSE,0
+"TF17GL","No premises",NA,NA,NA,NA,FALSE,0
+"TF17GN","OK",FALSE,6.6,4.3,11.4,TRUE,3
+"TF17GP","OK",TRUE,4.9,3.6,8.3,TRUE,5
+"TF17GR","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"TF17GS","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"TF17GT","OK",TRUE,4.4,4.4,8.1,FALSE,3
+"TF17GU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF17GU","No Data",NA,NA,NA,NA,FALSE,0
+"TF17GW","OK",TRUE,3.4,3.8,4.8,TRUE,6
+"TF17GX","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"TF17GY","OK",TRUE,6,6.7,9.7,TRUE,7
+"TF17GZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"TF17LJ","No premises",NA,NA,NA,NA,FALSE,0
+"TF17LL","No premises",NA,NA,NA,NA,TRUE,0
+"TF17UL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF17UL","No Data",NA,NA,NA,NA,FALSE,0
+"TF17XT","No premises",NA,NA,NA,NA,FALSE,0
+"TF17XW","No premises",NA,NA,NA,NA,TRUE,0
+"TF17XX","No premises",NA,NA,NA,NA,FALSE,0
+"TF17XY","No premises",NA,NA,NA,NA,FALSE,0
+"TF17XZ","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YB","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YD","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YE","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YL","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YN","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YP","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YQ","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YR","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YT","No premises",NA,NA,NA,NA,TRUE,0
+"TF17YU","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YW","No premises",NA,NA,NA,NA,FALSE,0
+"TF17YX","No premises",NA,NA,NA,NA,TRUE,0
+"TF17YZ","No premises",NA,NA,NA,NA,FALSE,0

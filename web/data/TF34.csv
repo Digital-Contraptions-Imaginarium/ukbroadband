@@ -1,0 +1,114 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"TF34AA","No premises",NA,NA,NA,NA,FALSE,0
+"TF34AB","No premises",NA,NA,NA,NA,FALSE,0
+"TF34AD","No premises",NA,NA,NA,NA,FALSE,0
+"TF34AE","OK",TRUE,10.6,8.1,20.9,FALSE,19
+"TF34AF","No premises",NA,NA,NA,NA,FALSE,0
+"TF34AG","OK",TRUE,5,5.6,7.2,FALSE,16
+"TF34AH","No premises",NA,NA,NA,NA,FALSE,0
+"TF34AN","No premises",NA,NA,NA,NA,FALSE,0
+"TF34AP","No premises",NA,NA,NA,NA,FALSE,0
+"TF34AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34AS","No Data",NA,NA,NA,NA,FALSE,0
+"TF34AU","No premises",NA,NA,NA,NA,FALSE,0
+"TF34AW","No premises",NA,NA,NA,NA,FALSE,0
+"TF34BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34BA","No Data",NA,NA,NA,NA,FALSE,0
+"TF34BB","No premises",NA,NA,NA,NA,FALSE,0
+"TF34BE","No premises",NA,NA,NA,NA,FALSE,0
+"TF34BN","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"TF34BP","OK",TRUE,5.6,6.4,8.1,FALSE,9
+"TF34BQ","No premises",NA,NA,NA,NA,FALSE,0
+"TF34BS","OK",TRUE,5.6,6.5,7.6,FALSE,9
+"TF34BT","OK",TRUE,5,5.9,10.6,FALSE,7
+"TF34BU","No premises",NA,NA,NA,NA,FALSE,0
+"TF34BW","OK",FALSE,6.2,6.2,10.6,FALSE,8
+"TF34BX","No premises",NA,NA,NA,NA,FALSE,0
+"TF34BY","No premises",NA,NA,NA,NA,FALSE,0
+"TF34DA","No premises",NA,NA,NA,NA,FALSE,0
+"TF34DE","OK",FALSE,6.6,6.1,7.9,FALSE,7
+"TF34DG","OK",FALSE,10.1,8.1,14.1,FALSE,3
+"TF34DJ","No premises",NA,NA,NA,NA,FALSE,0
+"TF34DP","No premises",NA,NA,NA,NA,FALSE,0
+"TF34DR","No Data",NA,NA,NA,NA,FALSE,0
+"TF34DT","No Data",NA,NA,NA,NA,FALSE,0
+"TF34DU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34DU","No Data",NA,NA,NA,NA,FALSE,0
+"TF34DX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34DX","No Data",NA,NA,NA,NA,FALSE,0
+"TF34DY","No Data",NA,NA,NA,NA,FALSE,0
+"TF34DZ","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"TF34EA","No premises",NA,NA,NA,NA,FALSE,0
+"TF34EH","No premises",NA,NA,NA,NA,FALSE,0
+"TF34EJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34EJ","No Data",NA,NA,NA,NA,FALSE,0
+"TF34EP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34EP","No Data",NA,NA,NA,NA,FALSE,0
+"TF34ER","No premises",NA,NA,NA,NA,FALSE,0
+"TF34FU","No premises",NA,NA,NA,NA,FALSE,0
+"TF34HB","No premises",NA,NA,NA,NA,FALSE,0
+"TF34HD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34HD","No Data",NA,NA,NA,NA,FALSE,0
+"TF34HH","No premises",NA,NA,NA,NA,FALSE,0
+"TF34HQ","No premises",NA,NA,NA,NA,FALSE,0
+"TF34HS","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"TF34HW","No premises",NA,NA,NA,NA,TRUE,0
+"TF34HX","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"TF34JA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34JA","No Data",NA,NA,NA,NA,FALSE,0
+"TF34JE","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"TF34JG","No premises",NA,NA,NA,NA,FALSE,0
+"TF34JH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34JH","No Data",NA,NA,NA,NA,FALSE,0
+"TF34JL","OK",FALSE,9.1,8.1,15.7,FALSE,7
+"TF34JP","No premises",NA,NA,NA,NA,FALSE,0
+"TF34JQ","No premises",NA,NA,NA,NA,FALSE,0
+"TF34JR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34JR","No Data",NA,NA,NA,NA,FALSE,0
+"TF34LA","No premises",NA,NA,NA,NA,FALSE,0
+"TF34LB","No premises",NA,NA,NA,NA,FALSE,0
+"TF34LD","No premises",NA,NA,NA,NA,FALSE,0
+"TF34LF","No premises",NA,NA,NA,NA,FALSE,0
+"TF34LG","No premises",NA,NA,NA,NA,FALSE,0
+"TF34LJ","No premises",NA,NA,NA,NA,FALSE,0
+"TF34LN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34LN","No Data",NA,NA,NA,NA,FALSE,0
+"TF34LP","No premises",NA,NA,NA,NA,FALSE,0
+"TF34LR","No premises",NA,NA,NA,NA,FALSE,0
+"TF34LT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34LT","No Data",NA,NA,NA,NA,FALSE,0
+"TF34LX","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"TF34LY","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"TF34LZ","No premises",NA,NA,NA,NA,FALSE,0
+"TF34NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34NA","No Data",NA,NA,NA,NA,FALSE,0
+"TF34NB","No premises",NA,NA,NA,NA,FALSE,0
+"TF34NE","No premises",NA,NA,NA,NA,FALSE,0
+"TF34NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34NF","No Data",NA,NA,NA,NA,FALSE,0
+"TF34NJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34NJ","No Data",NA,NA,NA,NA,FALSE,0
+"TF34NL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34NL","No Data",NA,NA,NA,NA,FALSE,0
+"TF34NP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34NP","No Data",NA,NA,NA,NA,FALSE,0
+"TF34NQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34NQ","No Data",NA,NA,NA,NA,FALSE,0
+"TF34NR","No premises",NA,NA,NA,NA,FALSE,0
+"TF34NT","OK",FALSE,14.4,15.7,19.3,FALSE,14
+"TF34NW","No premises",NA,NA,NA,NA,FALSE,0
+"TF34PA","No premises",NA,NA,NA,NA,FALSE,0
+"TF34PB","OK",TRUE,3.1,3.4,5.2,FALSE,4
+"TF34PD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34PD","No Data",NA,NA,NA,NA,FALSE,0
+"TF34TA","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"TF34TD","OK",FALSE,26.3,20,30,TRUE,11
+"TF34TE","OK",TRUE,22,20,30,TRUE,9
+"TF34TF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TF34TF","No Data",NA,NA,NA,NA,FALSE,0
+"TF34TG","OK",FALSE,11.5,6,30,TRUE,8
+"TF34TJ","OK",FALSE,9.9,5.6,30,TRUE,8
+"TF34TL","OK",TRUE,4.9,4.1,8.5,TRUE,5
+"TF34TQ","OK",TRUE,20.7,30,30,TRUE,3
+"TF34WF","No premises",NA,NA,NA,NA,FALSE,0
+"TF34WZ","No premises",NA,NA,NA,NA,FALSE,0

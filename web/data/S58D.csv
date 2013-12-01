@@ -1,0 +1,14 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S58DD","OK",TRUE,13.1,10.8,30,TRUE,4
+"S58DF","OK",TRUE,15.7,6.7,30,TRUE,13
+"S58DG","OK",TRUE,30,30,30,TRUE,3
+"S58DL","OK",TRUE,21.5,20,30,TRUE,29
+"S58DN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S58DN","No Data",NA,NA,NA,NA,TRUE,0
+"S58DP","OK",TRUE,17.7,11.3,30,TRUE,10
+"S58DQ","OK",TRUE,30,25,30,TRUE,19
+"S58DR","OK",TRUE,18.7,13.1,30,TRUE,14
+"S58DS","OK",TRUE,20.7,20,30,TRUE,28
+"S58DT","OK",FALSE,27.2,25,30,TRUE,16
+"S58DU","OK",TRUE,20.2,8.7,30,TRUE,29
+"S58DZ","Insufficient Data",NA,NA,NA,NA,TRUE,2

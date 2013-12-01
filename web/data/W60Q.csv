@@ -1,0 +1,16 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W60QA","OK",FALSE,13.3,16.8,18.8,FALSE,5
+"W60QB","OK",TRUE,8.5,7.6,16.8,FALSE,5
+"W60QE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"W60QE","No Data",NA,NA,NA,NA,FALSE,0
+"W60QF","No premises",NA,NA,NA,NA,FALSE,0
+"W60QG","OK",FALSE,9.7,9.8,12.5,FALSE,16
+"W60QH","OK",TRUE,8.5,8.3,17.2,TRUE,29
+"W60QL","No premises",NA,NA,NA,NA,FALSE,0
+"W60QP","OK",FALSE,15.6,15.2,24.4,FALSE,7
+"W60QQ","No premises",NA,NA,NA,NA,FALSE,0
+"W60QR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"W60QR","No Data",NA,NA,NA,NA,FALSE,0
+"W60QT","OK",FALSE,15.7,16.4,21.9,FALSE,5
+"W60QU","OK",TRUE,16.8,17.7,30,TRUE,38
+"W60QW","OK",FALSE,30,17,30,TRUE,4

@@ -1,0 +1,6 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S56EA","OK",TRUE,16,20,30,TRUE,18
+"S56EB","OK",TRUE,29.8,25,30,TRUE,11
+"S56ED","OK",TRUE,2.5,2.4,4,FALSE,21
+"S56EE","OK",TRUE,2.4,2.5,4,FALSE,54
+"S56EF","OK",TRUE,2.2,2.1,3.1,FALSE,20

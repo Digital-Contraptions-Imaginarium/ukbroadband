@@ -1,0 +1,10 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W38DA","OK",TRUE,16.2,16.2,30,TRUE,32
+"W38DB","OK",FALSE,19.8,16,30,TRUE,38
+"W38DD","OK",FALSE,10.7,10.7,14.6,TRUE,6
+"W38DE","OK",FALSE,22.5,17.6,30,TRUE,18
+"W38DG","OK",FALSE,9.6,7.9,15.3,TRUE,6
+"W38DH","OK",FALSE,12.4,9.5,30,TRUE,8
+"W38DJ","OK",FALSE,10.7,10.1,13.4,TRUE,4
+"W38DQ","OK",FALSE,25.9,19.9,30,TRUE,8
+"W38DU","OK",TRUE,4.4,4.4,7.5,TRUE,4

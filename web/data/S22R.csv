@@ -1,0 +1,22 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S22RA","OK",TRUE,5.2,5.9,8.1,FALSE,26
+"S22RB","OK",TRUE,4.7,4.4,10.3,FALSE,24
+"S22RD","OK",TRUE,4.9,5,8.5,FALSE,20
+"S22RE","OK",TRUE,5.1,5.2,7.5,FALSE,24
+"S22RF","OK",TRUE,5.4,5.8,8.2,FALSE,30
+"S22RG","OK",TRUE,2.6,2.7,5.4,FALSE,18
+"S22RJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"S22RJ","No Data",NA,NA,NA,NA,FALSE,0
+"S22RL","No premises",NA,NA,NA,NA,TRUE,0
+"S22RN","OK",TRUE,4.6,5,6.8,FALSE,21
+"S22RP","OK",TRUE,5.5,5.7,9.2,FALSE,21
+"S22RQ","OK",TRUE,3.2,2.7,5.8,FALSE,4
+"S22RR","OK",FALSE,5.9,6.1,6.6,FALSE,5
+"S22RS","OK",FALSE,6.4,6.1,9.2,FALSE,5
+"S22RT","OK",FALSE,5.2,5,7.6,FALSE,13
+"S22RU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"S22RU","No Data",NA,NA,NA,NA,FALSE,0
+"S22RW","OK",TRUE,3.8,4.3,6.1,FALSE,7
+"S22RX","OK",FALSE,6.1,5.6,14.8,FALSE,18
+"S22RY","OK",TRUE,4.8,5.5,9.1,FALSE,27
+"S22RZ","OK",TRUE,5.8,6.2,8.7,FALSE,23

@@ -1,0 +1,20 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W87QA","OK",FALSE,23.3,15.5,30,TRUE,5
+"W87QB","OK",FALSE,12.9,13.8,20,TRUE,6
+"W87QD","OK",FALSE,22.8,18,30,TRUE,8
+"W87QE","OK",FALSE,28.3,11.2,30,TRUE,11
+"W87QF","OK",TRUE,24.7,13.5,30,TRUE,7
+"W87QG","OK",TRUE,26.1,12.5,30,TRUE,24
+"W87QH","OK",TRUE,19.8,9.3,30,TRUE,18
+"W87QJ","OK",FALSE,19.6,8.6,30,TRUE,19
+"W87QL","OK",FALSE,25.8,17.2,30,TRUE,12
+"W87QN","OK",TRUE,20.3,10.5,30,TRUE,9
+"W87QP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W87QP","No Data",NA,NA,NA,NA,TRUE,0
+"W87QQ","OK",FALSE,10.4,9.4,17.8,FALSE,54
+"W87QR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"W87QR","No Data",NA,NA,NA,NA,FALSE,0
+"W87QS","OK",FALSE,14.5,12,30,TRUE,4
+"W87QT","OK",FALSE,9.2,10.2,15.5,FALSE,15
+"W87QU","No premises",NA,NA,NA,NA,FALSE,0
+"W87QW","OK",TRUE,12.8,8.9,30,TRUE,8

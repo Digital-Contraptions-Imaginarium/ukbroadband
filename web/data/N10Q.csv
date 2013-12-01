@@ -1,0 +1,10 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"N10QA","OK",TRUE,19.1,20,30,TRUE,21
+"N10QB","OK",FALSE,26.7,30,30,TRUE,19
+"N10QD","OK",FALSE,8.7,5.6,30,TRUE,7
+"N10QF","No premises",NA,NA,NA,NA,FALSE,0
+"N10QH","OK",TRUE,9.7,6.9,30,FALSE,24
+"N10QJ","OK",FALSE,26.4,30,30,TRUE,11
+"N10QU","OK",FALSE,23.4,13,30,TRUE,18
+"N10QX","OK",FALSE,30,20,30,TRUE,25
+"N10QY","OK",TRUE,30,20,30,TRUE,48

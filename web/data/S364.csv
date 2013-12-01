@@ -1,0 +1,34 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"S364AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S364AB","No Data",NA,NA,NA,NA,TRUE,0
+"S364GG","OK",TRUE,0.8,0.7,1.3,TRUE,3
+"S364GH","OK",TRUE,8.6,3.5,29.5,TRUE,9
+"S364GP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S364GP","No Data",NA,NA,NA,NA,TRUE,0
+"S364GQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"S364GR","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"S364GS","No premises",NA,NA,NA,NA,TRUE,0
+"S364GT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S364GT","No Data",NA,NA,NA,NA,TRUE,0
+"S364GU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"S364GU","No Data",NA,NA,NA,NA,TRUE,0
+"S364GW","OK",TRUE,2.5,2.4,4.2,TRUE,26
+"S364GX","OK",TRUE,1.1,0.9,3,TRUE,15
+"S364GY","OK",TRUE,1.6,1.1,4.1,TRUE,28
+"S364GZ","OK",TRUE,1.3,1.4,1.9,TRUE,4
+"S364HB","OK",TRUE,1.6,1.6,3.3,FALSE,28
+"S364HD","OK",TRUE,0.9,1,1.3,FALSE,10
+"S364HE","OK",TRUE,1.5,1.6,2.4,FALSE,12
+"S364HF","OK",TRUE,2.5,1.2,18.2,FALSE,16
+"S364HG","No premises",NA,NA,NA,NA,FALSE,0
+"S364HH","OK",TRUE,3,3.1,5.7,FALSE,11
+"S364HJ","OK",TRUE,1.9,1.2,8,FALSE,12
+"S364HN","OK",TRUE,1.6,1.5,3.7,FALSE,19
+"S364TB","OK",TRUE,1.1,1.2,2.3,FALSE,8
+"S364TD","OK",TRUE,1.2,1.2,1.8,FALSE,5
+"S364TE","No Data",NA,NA,NA,NA,FALSE,0
+"S364TF","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"S364TG","OK",TRUE,1.2,0.8,4.4,FALSE,6
+"S364ZA","OK",TRUE,1.2,1.1,3,TRUE,14
+"S364ZD","OK",TRUE,1.8,1.9,2.5,TRUE,15
+"S364ZE","Insufficient Data",NA,NA,NA,NA,TRUE,2

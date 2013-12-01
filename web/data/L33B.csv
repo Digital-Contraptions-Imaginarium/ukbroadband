@@ -11,15 +11,3 @@
 "L33BX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
 "L33BX","No Data",NA,NA,NA,NA,TRUE,0
 "L33BZ","OK",FALSE,23.8,30,30,TRUE,4
-"L33BB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L33BB","No Data",NA,NA,NA,NA,TRUE,0
-"L33BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L33BF","No Data",NA,NA,NA,NA,FALSE,0
-"L33BL","No Data",NA,NA,NA,NA,TRUE,0
-"L33BN","OK",FALSE,13.1,13.3,17.6,TRUE,4
-"L33BP","No premises",NA,NA,NA,NA,FALSE,0
-"L33BQ","OK",FALSE,13.4,14.3,18.1,TRUE,3
-"L33BU","No Data",NA,NA,NA,NA,TRUE,0
-"L33BX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L33BX","No Data",NA,NA,NA,NA,TRUE,0
-"L33BZ","OK",FALSE,23.8,30,30,TRUE,4

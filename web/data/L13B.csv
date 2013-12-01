@@ -8,12 +8,3 @@
 "L13BX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L13BZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "L13BZ","No Data",NA,NA,NA,NA,FALSE,0
-"L13BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L13BG","No Data",NA,NA,NA,NA,FALSE,0
-"L13BH","OK",FALSE,12.3,13.2,15.4,FALSE,25
-"L13BL","Insufficient Data",NA,NA,NA,NA,TRUE,2
-"L13BN","OK",FALSE,7.7,7.6,12.1,FALSE,13
-"L13BT","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"L13BX","Insufficient Data",NA,NA,NA,NA,FALSE,2
-"L13BZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L13BZ","No Data",NA,NA,NA,NA,FALSE,0

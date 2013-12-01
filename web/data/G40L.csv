@@ -17,21 +17,3 @@
 "G40LU","No premises",NA,NA,NA,NA,FALSE,0
 "G40LZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "G40LZ","No Data",NA,NA,NA,NA,FALSE,0
-"G40LA","OK",FALSE,15.5,19,19.7,TRUE,3
-"G40LB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G40LB","No Data",NA,NA,NA,NA,FALSE,0
-"G40LD","Insufficient Data",NA,NA,NA,NA,FALSE,1
-"G40LE","OK",FALSE,11.1,8.1,17.7,FALSE,3
-"G40LF","OK",FALSE,8.5,8.4,11.6,TRUE,10
-"G40LG","No premises",NA,NA,NA,NA,FALSE,0
-"G40LJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G40LJ","No Data",NA,NA,NA,NA,TRUE,0
-"G40LN","No premises",NA,NA,NA,NA,FALSE,0
-"G40LP","OK",TRUE,3.2,4.4,4.7,FALSE,3
-"G40LQ","No premises",NA,NA,NA,NA,TRUE,0
-"G40LR","OK",FALSE,23.2,22.6,30,TRUE,16
-"G40LS","No premises",NA,NA,NA,NA,FALSE,0
-"G40LT","No premises",NA,NA,NA,NA,FALSE,0
-"G40LU","No premises",NA,NA,NA,NA,FALSE,0
-"G40LZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G40LZ","No Data",NA,NA,NA,NA,FALSE,0

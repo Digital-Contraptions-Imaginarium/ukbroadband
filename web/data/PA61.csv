@@ -1,0 +1,9 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"PA617YN","OK",FALSE,6.9,7.4,8.1,FALSE,6
+"PA617YP","No premises",NA,NA,NA,NA,FALSE,0
+"PA617YR","OK",TRUE,2.3,1.2,8.1,FALSE,28
+"PA617YS","OK",TRUE,1,1,1.2,FALSE,4
+"PA617YT","OK",TRUE,3.7,2.6,8.1,FALSE,14
+"PA617YU","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"PA617YW","OK",TRUE,6.9,8.1,8.1,FALSE,19
+"PA617YZ","OK",TRUE,5.8,7.2,8.1,FALSE,4

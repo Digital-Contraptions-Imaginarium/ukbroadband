@@ -1,0 +1,60 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"TW63AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TW63AE","No Data",NA,NA,NA,NA,FALSE,0
+"TW63AF","No premises",NA,NA,NA,NA,FALSE,0
+"TW63AQ","No premises",NA,NA,NA,NA,FALSE,0
+"TW63EF","No premises",NA,NA,NA,NA,FALSE,0
+"TW63ET","No premises",NA,NA,NA,NA,FALSE,0
+"TW63EU","No premises",NA,NA,NA,NA,FALSE,0
+"TW63FB","OK",FALSE,3.5,3.5,4.2,FALSE,3
+"TW63FD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TW63FD","No Data",NA,NA,NA,NA,FALSE,0
+"TW63GA","No premises",NA,NA,NA,NA,FALSE,0
+"TW63JD","No premises",NA,NA,NA,NA,FALSE,0
+"TW63JE","No premises",NA,NA,NA,NA,FALSE,0
+"TW63JF","No premises",NA,NA,NA,NA,FALSE,0
+"TW63JJ","No premises",NA,NA,NA,NA,FALSE,0
+"TW63LP","No premises",NA,NA,NA,NA,FALSE,0
+"TW63LW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TW63LW","No Data",NA,NA,NA,NA,FALSE,0
+"TW63NQ","No premises",NA,NA,NA,NA,FALSE,0
+"TW63PF","No premises",NA,NA,NA,NA,FALSE,0
+"TW63PN","No premises",NA,NA,NA,NA,FALSE,0
+"TW63QY","No premises",NA,NA,NA,NA,FALSE,0
+"TW63RB","No premises",NA,NA,NA,NA,FALSE,0
+"TW63RE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TW63RE","No Data",NA,NA,NA,NA,FALSE,0
+"TW63RG","No premises",NA,NA,NA,NA,FALSE,0
+"TW63RN","No premises",NA,NA,NA,NA,FALSE,0
+"TW63RT","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"TW63RY","No premises",NA,NA,NA,NA,FALSE,0
+"TW63SA","No premises",NA,NA,NA,NA,FALSE,0
+"TW63SD","No premises",NA,NA,NA,NA,FALSE,0
+"TW63SE","No premises",NA,NA,NA,NA,FALSE,0
+"TW63SF","No premises",NA,NA,NA,NA,FALSE,0
+"TW63SH","No premises",NA,NA,NA,NA,FALSE,0
+"TW63SJ","No premises",NA,NA,NA,NA,FALSE,0
+"TW63SL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TW63SL","No Data",NA,NA,NA,NA,FALSE,0
+"TW63SN","No premises",NA,NA,NA,NA,FALSE,0
+"TW63SQ","No premises",NA,NA,NA,NA,FALSE,0
+"TW63SY","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"TW63TE","No premises",NA,NA,NA,NA,FALSE,0
+"TW63UA","OK",TRUE,5.9,6.4,10.2,FALSE,11
+"TW63US","No premises",NA,NA,NA,NA,FALSE,0
+"TW63WA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"TW63WA","No Data",NA,NA,NA,NA,FALSE,0
+"TW63XA","OK",TRUE,2.8,2.8,8.1,FALSE,33
+"TW63XB","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XD","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XE","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XH","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XL","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XP","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XQ","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XW","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XX","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XY","No premises",NA,NA,NA,NA,FALSE,0
+"TW63XZ","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"TW63YD","No premises",NA,NA,NA,NA,FALSE,0
+"TW63YH","OK",TRUE,2,2.1,2.5,FALSE,7

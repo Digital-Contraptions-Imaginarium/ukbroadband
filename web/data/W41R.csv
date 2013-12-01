@@ -1,0 +1,12 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W41RG","OK",FALSE,15.3,16.5,20.9,TRUE,14
+"W41RJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"W41RN","OK",FALSE,24.7,18.5,30,TRUE,22
+"W41RP","OK",FALSE,17.5,16,23.4,TRUE,3
+"W41RR","OK",FALSE,19.3,18.8,30,TRUE,6
+"W41RS","OK",FALSE,17.3,17.3,20.2,TRUE,6
+"W41RT","OK",FALSE,30,29.9,30,TRUE,4
+"W41RW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"W41RW","No Data",NA,NA,NA,NA,TRUE,0
+"W41RX","OK",TRUE,25.8,19.8,30,TRUE,36
+"W41RZ","OK",FALSE,30,19.9,30,TRUE,9

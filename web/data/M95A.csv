@@ -1,0 +1,4 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"M95AR","OK",FALSE,11.9,13.1,17.3,FALSE,18
+"M95AS","OK",FALSE,6.8,7.5,8.4,FALSE,14
+"M95AY","Insufficient Data",NA,NA,NA,NA,FALSE,2

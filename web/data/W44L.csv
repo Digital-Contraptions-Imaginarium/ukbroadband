@@ -1,0 +1,12 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"W44LA","OK",TRUE,17,17.6,30,TRUE,12
+"W44LB","OK",FALSE,15.7,15.6,21.5,TRUE,10
+"W44LD","OK",FALSE,30,19.1,30,TRUE,8
+"W44LE","OK",TRUE,30,21.5,30,TRUE,40
+"W44LG","OK",FALSE,30,30,30,TRUE,30
+"W44LP","OK",FALSE,29.2,20,30,TRUE,18
+"W44LQ","OK",FALSE,27.5,20,30,TRUE,36
+"W44LR","OK",FALSE,30,20,30,TRUE,23
+"W44LS","OK",FALSE,30,18.3,30,TRUE,14
+"W44LT","OK",FALSE,30,19.9,30,TRUE,30
+"W44LZ","No premises",NA,NA,NA,NA,TRUE,0
