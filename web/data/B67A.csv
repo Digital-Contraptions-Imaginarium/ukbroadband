@@ -1,0 +1,47 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"B67AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"B67AA","No Data",NA,NA,NA,NA,FALSE,0
+"B67AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"B67AB","No Data",NA,NA,NA,NA,FALSE,0
+"B67AD","OK",FALSE,29.9,5.4,30,FALSE,3
+"B67AE","OK",TRUE,4.3,4.3,7.1,FALSE,20
+"B67AF","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"B67AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"B67AG","No Data",NA,NA,NA,NA,FALSE,0
+"B67AJ","OK",FALSE,15.3,10,30,TRUE,10
+"B67AL","OK",FALSE,20.1,8.4,30,TRUE,6
+"B67AN","OK",FALSE,19.1,8.2,30,TRUE,38
+"B67AP","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"B67AQ","OK",TRUE,3.8,5.3,5.9,FALSE,6
+"B67AR","OK",TRUE,21.4,20,30,TRUE,10
+"B67AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"B67AS","No Data",NA,NA,NA,NA,TRUE,0
+"B67AT","OK",TRUE,13.2,5.7,30,FALSE,4
+"B67AU","OK",TRUE,2.1,1.4,3.7,FALSE,7
+"B67AW","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"B67AX","OK",FALSE,9.1,8.1,12.9,FALSE,5
+"B67AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"B67AY","No Data",NA,NA,NA,NA,FALSE,0
+"B67AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"B67AA","No Data",NA,NA,NA,NA,FALSE,0
+"B67AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"B67AB","No Data",NA,NA,NA,NA,FALSE,0
+"B67AD","OK",FALSE,29.9,5.4,30,FALSE,3
+"B67AE","OK",TRUE,4.3,4.3,7.1,FALSE,20
+"B67AF","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"B67AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"B67AG","No Data",NA,NA,NA,NA,FALSE,0
+"B67AJ","OK",FALSE,15.3,10,30,TRUE,10
+"B67AL","OK",FALSE,20.1,8.4,30,TRUE,6
+"B67AN","OK",FALSE,19.1,8.2,30,TRUE,38
+"B67AP","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"B67AQ","OK",TRUE,3.8,5.3,5.9,FALSE,6
+"B67AR","OK",TRUE,21.4,20,30,TRUE,10
+"B67AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"B67AS","No Data",NA,NA,NA,NA,TRUE,0
+"B67AT","OK",TRUE,13.2,5.7,30,FALSE,4
+"B67AU","OK",TRUE,2.1,1.4,3.7,FALSE,7
+"B67AW","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"B67AX","OK",FALSE,9.1,8.1,12.9,FALSE,5
+"B67AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"B67AY","No Data",NA,NA,NA,NA,FALSE,0

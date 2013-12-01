@@ -1,0 +1,11 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"E33TA","OK",TRUE,20.5,4.4,30,TRUE,23
+"E33TB","OK",TRUE,16.7,4.2,30,TRUE,45
+"E33TD","OK",TRUE,21.8,4.1,30,TRUE,43
+"E33TE","OK",TRUE,27.6,5,30,TRUE,40
+"E33TT","No premises",NA,NA,NA,NA,TRUE,0
+"E33TA","OK",TRUE,20.5,4.4,30,TRUE,23
+"E33TB","OK",TRUE,16.7,4.2,30,TRUE,45
+"E33TD","OK",TRUE,21.8,4.1,30,TRUE,43
+"E33TE","OK",TRUE,27.6,5,30,TRUE,40
+"E33TT","No premises",NA,NA,NA,NA,TRUE,0

@@ -1,0 +1,27 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"E58PA","OK",TRUE,15.5,9.9,30,TRUE,35
+"E58PG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"E58PG","No Data",NA,NA,NA,NA,TRUE,0
+"E58PH","OK",TRUE,12.9,5.8,30,TRUE,48
+"E58PJ","OK",TRUE,12.5,3.4,30,TRUE,7
+"E58PL","OK",FALSE,5.9,5.3,7.5,TRUE,4
+"E58PQ","OK",TRUE,3.4,3.6,5,TRUE,9
+"E58PR","OK",TRUE,14.4,5.9,30,TRUE,8
+"E58PS","OK",FALSE,24.4,20,30,TRUE,12
+"E58PT","No premises",NA,NA,NA,NA,FALSE,0
+"E58PX","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"E58PY","OK",TRUE,4.8,4.2,8.5,TRUE,24
+"E58PZ","OK",FALSE,7.8,5.2,30,TRUE,29
+"E58PA","OK",TRUE,15.5,9.9,30,TRUE,35
+"E58PG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"E58PG","No Data",NA,NA,NA,NA,TRUE,0
+"E58PH","OK",TRUE,12.9,5.8,30,TRUE,48
+"E58PJ","OK",TRUE,12.5,3.4,30,TRUE,7
+"E58PL","OK",FALSE,5.9,5.3,7.5,TRUE,4
+"E58PQ","OK",TRUE,3.4,3.6,5,TRUE,9
+"E58PR","OK",TRUE,14.4,5.9,30,TRUE,8
+"E58PS","OK",FALSE,24.4,20,30,TRUE,12
+"E58PT","No premises",NA,NA,NA,NA,FALSE,0
+"E58PX","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"E58PY","OK",TRUE,4.8,4.2,8.5,TRUE,24
+"E58PZ","OK",FALSE,7.8,5.2,30,TRUE,29

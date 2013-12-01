@@ -1,0 +1,11 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"L25QA","OK",TRUE,13.3,15.1,22.3,TRUE,14
+"L25QQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L25QS","OK",FALSE,15.5,15.6,19.9,FALSE,9
+"L25QU","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L25QY","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"L25QA","OK",TRUE,13.3,15.1,22.3,TRUE,14
+"L25QQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L25QS","OK",FALSE,15.5,15.6,19.9,FALSE,9
+"L25QU","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L25QY","Insufficient Data",NA,NA,NA,NA,TRUE,1

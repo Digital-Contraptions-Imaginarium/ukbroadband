@@ -1,0 +1,11 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"E20TA","OK",TRUE,8,8.8,13.6,FALSE,33
+"E20TB","OK",FALSE,10.7,10.6,19.2,FALSE,60
+"E20TD","OK",TRUE,10,10.5,16.7,TRUE,56
+"E20TE","OK",FALSE,14.9,9.5,30,TRUE,24
+"E20TF","OK",FALSE,16.5,9.6,30,TRUE,30
+"E20TA","OK",TRUE,8,8.8,13.6,FALSE,33
+"E20TB","OK",FALSE,10.7,10.6,19.2,FALSE,60
+"E20TD","OK",TRUE,10,10.5,16.7,TRUE,56
+"E20TE","OK",FALSE,14.9,9.5,30,TRUE,24
+"E20TF","OK",FALSE,16.5,9.6,30,TRUE,30

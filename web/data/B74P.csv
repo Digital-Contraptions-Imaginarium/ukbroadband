@@ -1,0 +1,23 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"B74PA","OK",FALSE,21.9,15.9,30,TRUE,43
+"B74PG","OK",FALSE,24.3,20,30,TRUE,16
+"B74PQ","OK",FALSE,20,11.4,30,TRUE,17
+"B74PR","No Data",NA,NA,NA,NA,FALSE,0
+"B74PS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"B74PS","No Data",NA,NA,NA,NA,TRUE,0
+"B74PT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"B74PT","No Data",NA,NA,NA,NA,TRUE,0
+"B74PW","OK",FALSE,15.3,12.2,30,TRUE,16
+"B74PY","OK",FALSE,15.3,14.5,30,TRUE,16
+"B74PZ","OK",FALSE,9.3,8.2,15.1,FALSE,17
+"B74PA","OK",FALSE,21.9,15.9,30,TRUE,43
+"B74PG","OK",FALSE,24.3,20,30,TRUE,16
+"B74PQ","OK",FALSE,20,11.4,30,TRUE,17
+"B74PR","No Data",NA,NA,NA,NA,FALSE,0
+"B74PS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"B74PS","No Data",NA,NA,NA,NA,TRUE,0
+"B74PT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"B74PT","No Data",NA,NA,NA,NA,TRUE,0
+"B74PW","OK",FALSE,15.3,12.2,30,TRUE,16
+"B74PY","OK",FALSE,15.3,14.5,30,TRUE,16
+"B74PZ","OK",FALSE,9.3,8.2,15.1,FALSE,17

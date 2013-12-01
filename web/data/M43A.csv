@@ -1,0 +1,17 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"M43AB","OK",TRUE,10.5,8.1,21.4,TRUE,13
+"M43AD","No premises",NA,NA,NA,NA,TRUE,0
+"M43AG","No Data",NA,NA,NA,NA,FALSE,0
+"M43AH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"M43AH","No Data",NA,NA,NA,NA,FALSE,0
+"M43AJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"M43AQ","OK",TRUE,11.6,8.1,22.7,TRUE,49
+"M43AT","OK",FALSE,13.6,12.5,21,TRUE,4
+"M43AB","OK",TRUE,10.5,8.1,21.4,TRUE,13
+"M43AD","No premises",NA,NA,NA,NA,TRUE,0
+"M43AG","No Data",NA,NA,NA,NA,FALSE,0
+"M43AH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"M43AH","No Data",NA,NA,NA,NA,FALSE,0
+"M43AJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"M43AQ","OK",TRUE,11.6,8.1,22.7,TRUE,49
+"M43AT","OK",FALSE,13.6,12.5,21,TRUE,4

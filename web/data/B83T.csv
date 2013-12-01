@@ -1,0 +1,17 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"B83TB","OK",TRUE,14.8,5,30,TRUE,13
+"B83TD","OK",FALSE,23.9,20,30,TRUE,7
+"B83TE","No premises",NA,NA,NA,NA,TRUE,0
+"B83TF","OK",TRUE,1.7,1.8,2.4,FALSE,10
+"B83TG","OK",TRUE,2,2.2,2.7,FALSE,8
+"B83TH","OK",TRUE,26.5,20,30,TRUE,16
+"B83TJ","OK",TRUE,21.4,20,30,TRUE,13
+"B83TQ","OK",TRUE,1.8,1.8,2.7,FALSE,9
+"B83TB","OK",TRUE,14.8,5,30,TRUE,13
+"B83TD","OK",FALSE,23.9,20,30,TRUE,7
+"B83TE","No premises",NA,NA,NA,NA,TRUE,0
+"B83TF","OK",TRUE,1.7,1.8,2.4,FALSE,10
+"B83TG","OK",TRUE,2,2.2,2.7,FALSE,8
+"B83TH","OK",TRUE,26.5,20,30,TRUE,16
+"B83TJ","OK",TRUE,21.4,20,30,TRUE,13
+"B83TQ","OK",TRUE,1.8,1.8,2.7,FALSE,9

@@ -1,0 +1,691 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"DH89AA","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89AB","OK",TRUE,3.5,1.8,12.8,TRUE,6
+"DH89AD","OK",TRUE,6.4,2.5,18.7,TRUE,4
+"DH89AE","OK",TRUE,11.1,13.1,18.3,TRUE,3
+"DH89AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AG","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AH","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AL","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89AN","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"DH89AP","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AQ","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AR","OK",TRUE,14.7,2.7,30,TRUE,24
+"DH89AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AS","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AT","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AU","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AW","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"DH89AX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AX","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AY","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BA","OK",TRUE,4.5,1.7,27.1,TRUE,9
+"DH89BB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BB","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BD","OK",TRUE,0.6,0.7,1,TRUE,11
+"DH89BE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BE","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BG","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BH","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89BJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"DH89BL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BL","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BN","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89BQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89BW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89BW","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DA","OK",TRUE,1.4,1.4,1.6,TRUE,3
+"DH89DB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DB","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DD","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DE","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DG","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DJ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DL","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DN","OK",TRUE,1.7,2,2.8,FALSE,3
+"DH89DP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DP","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DS","OK",TRUE,0.5,0.5,0.5,TRUE,3
+"DH89DT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DW","OK",FALSE,4.6,4.6,5.1,FALSE,3
+"DH89DX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DY","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DZ","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EB","OK",TRUE,16.8,3.1,30,TRUE,11
+"DH89EE","OK",TRUE,1.3,1.7,1.7,TRUE,3
+"DH89EF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89EF","No Data",NA,NA,NA,NA,FALSE,0
+"DH89EH","OK",TRUE,4,3.2,8.6,TRUE,4
+"DH89EJ","OK",FALSE,6.8,6.8,8.7,TRUE,3
+"DH89EL","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EN","OK",TRUE,13.4,4.1,30,TRUE,12
+"DH89EP","OK",TRUE,7.5,3.9,30,TRUE,8
+"DH89ER","OK",TRUE,5.3,3.4,15,TRUE,5
+"DH89ES","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89ES","No Data",NA,NA,NA,NA,TRUE,0
+"DH89ET","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89ET","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EU","OK",TRUE,1.5,1.6,1.7,TRUE,3
+"DH89EW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89EW","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89EX","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EY","OK",TRUE,1.1,1,1.5,TRUE,8
+"DH89EZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89EZ","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HA","OK",TRUE,0.8,0.7,1.2,TRUE,4
+"DH89HB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HB","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HD","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HE","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HG","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89HH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HH","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89HL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HL","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89HN","No Data",NA,NA,NA,NA,FALSE,0
+"DH89HP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HP","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HQ","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HR","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HS","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HU","OK",TRUE,5.1,2.6,16.5,TRUE,5
+"DH89HW","No Data",NA,NA,NA,NA,TRUE,0
+"DH89JA","OK",FALSE,5,5.2,6,FALSE,6
+"DH89JB","OK",TRUE,4.1,4.9,7.3,FALSE,7
+"DH89JD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JD","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JE","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JF","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JG","No premises",NA,NA,NA,NA,FALSE,0
+"DH89JL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JL","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JN","OK",TRUE,1.8,1.6,3.4,FALSE,15
+"DH89JP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JP","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JR","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"DH89JS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JS","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JU","OK",TRUE,1.7,1.6,3,FALSE,11
+"DH89JW","OK",FALSE,2.4,2.4,2.4,FALSE,3
+"DH89JY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89JY","No Data",NA,NA,NA,NA,TRUE,0
+"DH89JZ","OK",TRUE,1.6,1.6,2.9,TRUE,4
+"DH89LA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89LA","No Data",NA,NA,NA,NA,TRUE,0
+"DH89LB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LB","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LD","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LE","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LF","OK",TRUE,1.6,1.8,2.8,FALSE,11
+"DH89LH","OK",TRUE,7.9,1.4,30,TRUE,6
+"DH89LJ","OK",TRUE,1.9,1.7,3.1,TRUE,5
+"DH89LP","OK",TRUE,1.4,0.9,3.8,FALSE,9
+"DH89LQ","OK",TRUE,0.9,0.9,1.1,TRUE,7
+"DH89LR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LS","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LU","OK",TRUE,1.5,0.6,3.4,FALSE,3
+"DH89LX","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"DH89LY","OK",TRUE,4.7,4.8,7.6,FALSE,5
+"DH89LZ","OK",TRUE,6.1,6.8,7.8,FALSE,5
+"DH89NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NA","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NB","No Data",NA,NA,NA,NA,FALSE,0
+"DH89ND","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89ND","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NE","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NF","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NG","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NH","OK",FALSE,7.2,7.6,8.1,FALSE,10
+"DH89NJ","OK",TRUE,5.5,7.6,7.6,FALSE,10
+"DH89NL","OK",FALSE,6.6,7.5,8.1,FALSE,10
+"DH89NN","OK",TRUE,6.3,7.4,8.1,FALSE,10
+"DH89NP","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89NQ","OK",FALSE,7.3,7.5,7.8,FALSE,4
+"DH89NR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NS","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NU","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NW","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PA","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PB","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PE","OK",TRUE,2.5,2.3,3.6,FALSE,7
+"DH89PG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PG","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PL","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PN","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PP","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PS","OK",FALSE,7.2,7.2,8.1,FALSE,3
+"DH89PT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PW","OK",TRUE,1.9,1.8,3.6,FALSE,9
+"DH89PZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PZ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89QA","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89QB","OK",TRUE,9.9,4.5,30,TRUE,14
+"DH89QD","OK",TRUE,6.1,3.6,30,TRUE,44
+"DH89QE","OK",TRUE,7.7,4.4,30,TRUE,19
+"DH89QF","OK",TRUE,3.9,4.1,6.2,TRUE,22
+"DH89QG","OK",TRUE,3.8,4,5.2,TRUE,17
+"DH89QH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89QH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89QJ","OK",TRUE,3.1,3.4,4.1,FALSE,12
+"DH89QL","OK",TRUE,2.4,2.6,4.3,TRUE,31
+"DH89QN","OK",TRUE,2.1,2.1,3.6,FALSE,18
+"DH89QP","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"DH89QQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89QQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89QR","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89QS","OK",TRUE,1.9,2,3,TRUE,11
+"DH89QT","OK",TRUE,12,3.1,30,TRUE,22
+"DH89QU","OK",TRUE,9.9,2.8,30,TRUE,6
+"DH89QW","OK",TRUE,18,4.2,30,TRUE,20
+"DH89QX","OK",FALSE,12.6,4.9,30,TRUE,23
+"DH89QY","OK",TRUE,2.3,2,2.7,FALSE,3
+"DH89QZ","OK",FALSE,2.8,3,3.2,FALSE,3
+"DH89RA","OK",TRUE,2.1,2,3.8,FALSE,12
+"DH89RB","OK",TRUE,2.6,2.4,4.6,FALSE,13
+"DH89RD","OK",TRUE,1.7,2.1,2.5,FALSE,3
+"DH89RE","OK",TRUE,3.2,3.2,4.4,FALSE,6
+"DH89RF","OK",TRUE,4.4,2.6,30,TRUE,22
+"DH89RG","OK",TRUE,2.7,2.8,4.1,TRUE,21
+"DH89RL","OK",TRUE,2.7,2.7,4.1,FALSE,59
+"DH89RP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RP","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RS","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89RT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RU","OK",TRUE,2.1,2,3.6,FALSE,9
+"DH89RW","OK",TRUE,0.6,0.6,0.7,FALSE,4
+"DH89RX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RY","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RZ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SA","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SB","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89SD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SD","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SG","OK",TRUE,0.8,0.6,1.2,FALSE,3
+"DH89SH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89SL","OK",TRUE,0.7,0.6,0.9,FALSE,3
+"DH89SP","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89SQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SR","OK",FALSE,6.6,7.9,8.1,FALSE,9
+"DH89SS","OK",FALSE,7.5,8.1,8.1,FALSE,3
+"DH89ST","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89SU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SU","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SY","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SZ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TA","OK",FALSE,6.3,6.9,7.4,FALSE,5
+"DH89TB","OK",TRUE,3.8,3.4,6,FALSE,21
+"DH89TE","OK",TRUE,12.5,3.9,30,TRUE,8
+"DH89TF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89TF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89TG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89TG","No Data",NA,NA,NA,NA,TRUE,0
+"DH89TH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89TL","OK",TRUE,0.5,0.4,0.9,FALSE,4
+"DH89TN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TN","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TP","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89TQ","OK",TRUE,1.4,1.2,1.9,TRUE,7
+"DH89TR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TS","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TT","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89TW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TW","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TY","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89UA","OK",FALSE,5.9,5.9,5.9,FALSE,3
+"DH89UB","OK",FALSE,7.9,8,8.1,FALSE,5
+"DH89UD","OK",FALSE,8.1,8.1,8.1,FALSE,3
+"DH89UE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UE","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UF","OK",FALSE,7.3,8.1,8.1,FALSE,5
+"DH89UG","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89UH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UL","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UN","OK",FALSE,6.4,6.8,7.4,FALSE,4
+"DH89UP","OK",FALSE,7.4,7.4,8,FALSE,3
+"DH89UQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UU","OK",FALSE,4.6,4.8,5.1,FALSE,5
+"DH89UW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UW","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UY","OK",FALSE,5.4,5.6,7.6,FALSE,4
+"DH89UZ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89XA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89XA","No Data",NA,NA,NA,NA,FALSE,0
+"DH89XB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89XB","No Data",NA,NA,NA,NA,FALSE,0
+"DH89AA","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89AB","OK",TRUE,3.5,1.8,12.8,TRUE,6
+"DH89AD","OK",TRUE,6.4,2.5,18.7,TRUE,4
+"DH89AE","OK",TRUE,11.1,13.1,18.3,TRUE,3
+"DH89AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AG","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AH","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AL","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89AN","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"DH89AP","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AQ","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AR","OK",TRUE,14.7,2.7,30,TRUE,24
+"DH89AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AS","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AT","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AU","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AW","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"DH89AX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AX","No Data",NA,NA,NA,NA,TRUE,0
+"DH89AY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89AY","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BA","OK",TRUE,4.5,1.7,27.1,TRUE,9
+"DH89BB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BB","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BD","OK",TRUE,0.6,0.7,1,TRUE,11
+"DH89BE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BE","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BG","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BH","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89BJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"DH89BL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BL","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89BN","No Data",NA,NA,NA,NA,TRUE,0
+"DH89BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89BQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89BW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89BW","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DA","OK",TRUE,1.4,1.4,1.6,TRUE,3
+"DH89DB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DB","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DD","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DE","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DG","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DJ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DL","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DN","OK",TRUE,1.7,2,2.8,FALSE,3
+"DH89DP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89DP","No Data",NA,NA,NA,NA,TRUE,0
+"DH89DR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DS","OK",TRUE,0.5,0.5,0.5,TRUE,3
+"DH89DT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DW","OK",FALSE,4.6,4.6,5.1,FALSE,3
+"DH89DX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89DX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DY","No Data",NA,NA,NA,NA,FALSE,0
+"DH89DZ","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EB","OK",TRUE,16.8,3.1,30,TRUE,11
+"DH89EE","OK",TRUE,1.3,1.7,1.7,TRUE,3
+"DH89EF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89EF","No Data",NA,NA,NA,NA,FALSE,0
+"DH89EH","OK",TRUE,4,3.2,8.6,TRUE,4
+"DH89EJ","OK",FALSE,6.8,6.8,8.7,TRUE,3
+"DH89EL","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EN","OK",TRUE,13.4,4.1,30,TRUE,12
+"DH89EP","OK",TRUE,7.5,3.9,30,TRUE,8
+"DH89ER","OK",TRUE,5.3,3.4,15,TRUE,5
+"DH89ES","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89ES","No Data",NA,NA,NA,NA,TRUE,0
+"DH89ET","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89ET","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EU","OK",TRUE,1.5,1.6,1.7,TRUE,3
+"DH89EW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89EW","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89EX","No Data",NA,NA,NA,NA,TRUE,0
+"DH89EY","OK",TRUE,1.1,1,1.5,TRUE,8
+"DH89EZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89EZ","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HA","OK",TRUE,0.8,0.7,1.2,TRUE,4
+"DH89HB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HB","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HD","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HE","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HG","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89HH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HH","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89HL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HL","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89HN","No Data",NA,NA,NA,NA,FALSE,0
+"DH89HP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HP","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HQ","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HR","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89HS","No Data",NA,NA,NA,NA,TRUE,0
+"DH89HU","OK",TRUE,5.1,2.6,16.5,TRUE,5
+"DH89HW","No Data",NA,NA,NA,NA,TRUE,0
+"DH89JA","OK",FALSE,5,5.2,6,FALSE,6
+"DH89JB","OK",TRUE,4.1,4.9,7.3,FALSE,7
+"DH89JD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JD","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JE","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JF","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JG","No premises",NA,NA,NA,NA,FALSE,0
+"DH89JL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JL","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JN","OK",TRUE,1.8,1.6,3.4,FALSE,15
+"DH89JP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JP","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JR","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"DH89JS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JS","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89JT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89JU","OK",TRUE,1.7,1.6,3,FALSE,11
+"DH89JW","OK",FALSE,2.4,2.4,2.4,FALSE,3
+"DH89JY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89JY","No Data",NA,NA,NA,NA,TRUE,0
+"DH89JZ","OK",TRUE,1.6,1.6,2.9,TRUE,4
+"DH89LA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89LA","No Data",NA,NA,NA,NA,TRUE,0
+"DH89LB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LB","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LD","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LE","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LF","OK",TRUE,1.6,1.8,2.8,FALSE,11
+"DH89LH","OK",TRUE,7.9,1.4,30,TRUE,6
+"DH89LJ","OK",TRUE,1.9,1.7,3.1,TRUE,5
+"DH89LP","OK",TRUE,1.4,0.9,3.8,FALSE,9
+"DH89LQ","OK",TRUE,0.9,0.9,1.1,TRUE,7
+"DH89LR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LS","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89LT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89LU","OK",TRUE,1.5,0.6,3.4,FALSE,3
+"DH89LX","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"DH89LY","OK",TRUE,4.7,4.8,7.6,FALSE,5
+"DH89LZ","OK",TRUE,6.1,6.8,7.8,FALSE,5
+"DH89NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NA","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NB","No Data",NA,NA,NA,NA,FALSE,0
+"DH89ND","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89ND","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NE","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NF","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NG","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NH","OK",FALSE,7.2,7.6,8.1,FALSE,10
+"DH89NJ","OK",TRUE,5.5,7.6,7.6,FALSE,10
+"DH89NL","OK",FALSE,6.6,7.5,8.1,FALSE,10
+"DH89NN","OK",TRUE,6.3,7.4,8.1,FALSE,10
+"DH89NP","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89NQ","OK",FALSE,7.3,7.5,7.8,FALSE,4
+"DH89NR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NS","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NU","No Data",NA,NA,NA,NA,FALSE,0
+"DH89NW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89NW","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PA","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PB","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PE","OK",TRUE,2.5,2.3,3.6,FALSE,7
+"DH89PG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PG","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PL","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PN","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PP","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PS","OK",FALSE,7.2,7.2,8.1,FALSE,3
+"DH89PT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89PW","OK",TRUE,1.9,1.8,3.6,FALSE,9
+"DH89PZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89PZ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89QA","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89QB","OK",TRUE,9.9,4.5,30,TRUE,14
+"DH89QD","OK",TRUE,6.1,3.6,30,TRUE,44
+"DH89QE","OK",TRUE,7.7,4.4,30,TRUE,19
+"DH89QF","OK",TRUE,3.9,4.1,6.2,TRUE,22
+"DH89QG","OK",TRUE,3.8,4,5.2,TRUE,17
+"DH89QH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89QH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89QJ","OK",TRUE,3.1,3.4,4.1,FALSE,12
+"DH89QL","OK",TRUE,2.4,2.6,4.3,TRUE,31
+"DH89QN","OK",TRUE,2.1,2.1,3.6,FALSE,18
+"DH89QP","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"DH89QQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89QQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89QR","Insufficient Data",NA,NA,NA,NA,TRUE,2
+"DH89QS","OK",TRUE,1.9,2,3,TRUE,11
+"DH89QT","OK",TRUE,12,3.1,30,TRUE,22
+"DH89QU","OK",TRUE,9.9,2.8,30,TRUE,6
+"DH89QW","OK",TRUE,18,4.2,30,TRUE,20
+"DH89QX","OK",FALSE,12.6,4.9,30,TRUE,23
+"DH89QY","OK",TRUE,2.3,2,2.7,FALSE,3
+"DH89QZ","OK",FALSE,2.8,3,3.2,FALSE,3
+"DH89RA","OK",TRUE,2.1,2,3.8,FALSE,12
+"DH89RB","OK",TRUE,2.6,2.4,4.6,FALSE,13
+"DH89RD","OK",TRUE,1.7,2.1,2.5,FALSE,3
+"DH89RE","OK",TRUE,3.2,3.2,4.4,FALSE,6
+"DH89RF","OK",TRUE,4.4,2.6,30,TRUE,22
+"DH89RG","OK",TRUE,2.7,2.8,4.1,TRUE,21
+"DH89RL","OK",TRUE,2.7,2.7,4.1,FALSE,59
+"DH89RP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RP","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RS","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89RT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RU","OK",TRUE,2.1,2,3.6,FALSE,9
+"DH89RW","OK",TRUE,0.6,0.6,0.7,FALSE,4
+"DH89RX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RY","No Data",NA,NA,NA,NA,FALSE,0
+"DH89RZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89RZ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SA","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SB","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89SD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SD","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SG","OK",TRUE,0.8,0.6,1.2,FALSE,3
+"DH89SH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89SL","OK",TRUE,0.7,0.6,0.9,FALSE,3
+"DH89SP","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89SQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SR","OK",FALSE,6.6,7.9,8.1,FALSE,9
+"DH89SS","OK",FALSE,7.5,8.1,8.1,FALSE,3
+"DH89ST","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89SU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SU","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SY","No Data",NA,NA,NA,NA,FALSE,0
+"DH89SZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89SZ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TA","OK",FALSE,6.3,6.9,7.4,FALSE,5
+"DH89TB","OK",TRUE,3.8,3.4,6,FALSE,21
+"DH89TE","OK",TRUE,12.5,3.9,30,TRUE,8
+"DH89TF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89TF","No Data",NA,NA,NA,NA,TRUE,0
+"DH89TG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"DH89TG","No Data",NA,NA,NA,NA,TRUE,0
+"DH89TH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89TL","OK",TRUE,0.5,0.4,0.9,FALSE,4
+"DH89TN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TN","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TP","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89TQ","OK",TRUE,1.4,1.2,1.9,TRUE,7
+"DH89TR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TS","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TT","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89TW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TW","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89TX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89TY","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89UA","OK",FALSE,5.9,5.9,5.9,FALSE,3
+"DH89UB","OK",FALSE,7.9,8,8.1,FALSE,5
+"DH89UD","OK",FALSE,8.1,8.1,8.1,FALSE,3
+"DH89UE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UE","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UF","OK",FALSE,7.3,8.1,8.1,FALSE,5
+"DH89UG","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"DH89UH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UH","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UL","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UN","OK",FALSE,6.4,6.8,7.4,FALSE,4
+"DH89UP","OK",FALSE,7.4,7.4,8,FALSE,3
+"DH89UQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UQ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UR","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UT","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UU","OK",FALSE,4.6,4.8,5.1,FALSE,5
+"DH89UW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UW","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89UX","No Data",NA,NA,NA,NA,FALSE,0
+"DH89UY","OK",FALSE,5.4,5.6,7.6,FALSE,4
+"DH89UZ","No Data",NA,NA,NA,NA,FALSE,0
+"DH89XA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89XA","No Data",NA,NA,NA,NA,FALSE,0
+"DH89XB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"DH89XB","No Data",NA,NA,NA,NA,FALSE,0

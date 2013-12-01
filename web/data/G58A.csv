@@ -1,0 +1,27 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"G58AB","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"G58AD","OK",FALSE,18.8,18.8,19.5,FALSE,3
+"G58AE","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G58AF","OK",TRUE,19.6,20.2,23.7,FALSE,53
+"G58AH","OK",FALSE,19,20.3,24.1,FALSE,56
+"G58AJ","OK",FALSE,20.1,20.8,23.7,FALSE,53
+"G58AL","OK",FALSE,19.9,20.4,24,FALSE,29
+"G58AQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G58AS","OK",TRUE,18.1,19.3,24,FALSE,39
+"G58AU","OK",FALSE,19.4,20.2,24,FALSE,40
+"G58AW","No premises",NA,NA,NA,NA,FALSE,0
+"G58AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G58AY","No Data",NA,NA,NA,NA,FALSE,0
+"G58AB","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"G58AD","OK",FALSE,18.8,18.8,19.5,FALSE,3
+"G58AE","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G58AF","OK",TRUE,19.6,20.2,23.7,FALSE,53
+"G58AH","OK",FALSE,19,20.3,24.1,FALSE,56
+"G58AJ","OK",FALSE,20.1,20.8,23.7,FALSE,53
+"G58AL","OK",FALSE,19.9,20.4,24,FALSE,29
+"G58AQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G58AS","OK",TRUE,18.1,19.3,24,FALSE,39
+"G58AU","OK",FALSE,19.4,20.2,24,FALSE,40
+"G58AW","No premises",NA,NA,NA,NA,FALSE,0
+"G58AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G58AY","No Data",NA,NA,NA,NA,FALSE,0

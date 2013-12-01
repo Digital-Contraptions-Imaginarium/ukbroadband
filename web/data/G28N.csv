@@ -1,0 +1,11 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"G28ND","OK",TRUE,17.6,18.3,22.9,FALSE,61
+"G28NE","OK",FALSE,17.6,18.4,21.9,FALSE,67
+"G28NF","OK",FALSE,27.6,20,30,TRUE,45
+"G28NH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G28NH","No Data",NA,NA,NA,NA,FALSE,0
+"G28ND","OK",TRUE,17.6,18.3,22.9,FALSE,61
+"G28NE","OK",FALSE,17.6,18.4,21.9,FALSE,67
+"G28NF","OK",FALSE,27.6,20,30,TRUE,45
+"G28NH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G28NH","No Data",NA,NA,NA,NA,FALSE,0

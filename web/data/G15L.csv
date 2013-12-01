@@ -1,0 +1,21 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"G15LA","OK",FALSE,23.5,14.3,30,TRUE,7
+"G15LB","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"G15LD","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"G15LE","OK",FALSE,24.6,18.8,30,TRUE,11
+"G15LF","OK",FALSE,19.9,19.9,30,TRUE,9
+"G15LG","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G15LR","OK",FALSE,30,30,30,TRUE,5
+"G15LS","OK",FALSE,16.3,17,24.4,FALSE,5
+"G15LU","OK",FALSE,19.2,20,30,TRUE,9
+"G15LY","OK",FALSE,18.7,18.1,21.3,FALSE,3
+"G15LA","OK",FALSE,23.5,14.3,30,TRUE,7
+"G15LB","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"G15LD","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"G15LE","OK",FALSE,24.6,18.8,30,TRUE,11
+"G15LF","OK",FALSE,19.9,19.9,30,TRUE,9
+"G15LG","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G15LR","OK",FALSE,30,30,30,TRUE,5
+"G15LS","OK",FALSE,16.3,17,24.4,FALSE,5
+"G15LU","OK",FALSE,19.2,20,30,TRUE,9
+"G15LY","OK",FALSE,18.7,18.1,21.3,FALSE,3

@@ -1,0 +1,13 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"G37NB","OK",FALSE,12.7,12.6,18,FALSE,10
+"G37NG","OK",TRUE,11.7,12.6,17.2,TRUE,11
+"G37NQ","No premises",NA,NA,NA,NA,FALSE,0
+"G37NR","OK",FALSE,7.8,7.3,14.1,FALSE,9
+"G37NT","OK",TRUE,7.6,7.9,13.8,FALSE,24
+"G37NY","OK",FALSE,7.2,7.7,11.9,FALSE,15
+"G37NB","OK",FALSE,12.7,12.6,18,FALSE,10
+"G37NG","OK",TRUE,11.7,12.6,17.2,TRUE,11
+"G37NQ","No premises",NA,NA,NA,NA,FALSE,0
+"G37NR","OK",FALSE,7.8,7.3,14.1,FALSE,9
+"G37NT","OK",TRUE,7.6,7.9,13.8,FALSE,24
+"G37NY","OK",FALSE,7.2,7.7,11.9,FALSE,15

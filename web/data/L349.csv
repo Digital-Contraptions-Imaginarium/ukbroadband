@@ -1,0 +1,111 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"L349AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349AA","No Data",NA,NA,NA,NA,FALSE,0
+"L349AB","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L349AR","No premises",NA,NA,NA,NA,TRUE,0
+"L349AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349AS","No Data",NA,NA,NA,NA,FALSE,0
+"L349BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349BA","No Data",NA,NA,NA,NA,FALSE,0
+"L349BD","OK",FALSE,5.5,5,7.8,FALSE,7
+"L349EA","OK",TRUE,15.7,7.6,30,TRUE,11
+"L349EB","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"L349ED","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"L349ED","No Data",NA,NA,NA,NA,TRUE,0
+"L349EE","OK",TRUE,10.3,7.6,30,TRUE,5
+"L349EF","OK",TRUE,17.4,6.5,30,TRUE,26
+"L349EG","OK",FALSE,13.2,7,30,TRUE,3
+"L349EH","OK",FALSE,15.3,6.3,30,TRUE,5
+"L349EJ","OK",TRUE,3.5,2.8,5.7,TRUE,7
+"L349EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349EL","No Data",NA,NA,NA,NA,FALSE,0
+"L349EN","OK",TRUE,8.1,7.6,15.3,TRUE,9
+"L349EQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349EQ","No Data",NA,NA,NA,NA,FALSE,0
+"L349ER","OK",FALSE,8.5,7.5,16.5,TRUE,4
+"L349ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349ES","No Data",NA,NA,NA,NA,FALSE,0
+"L349ET","OK",FALSE,6.2,5.7,9.4,TRUE,6
+"L349EU","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L349EY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349EY","No Data",NA,NA,NA,NA,FALSE,0
+"L349FB","OK",FALSE,7.1,7.8,8.1,FALSE,4
+"L349GP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349GP","No Data",NA,NA,NA,NA,FALSE,0
+"L349GT","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L349GX","No premises",NA,NA,NA,NA,FALSE,0
+"L349GY","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"L349HA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349HA","No Data",NA,NA,NA,NA,FALSE,0
+"L349HD","No premises",NA,NA,NA,NA,TRUE,0
+"L349HH","OK",FALSE,7.6,8.1,8.1,FALSE,3
+"L349HN","No premises",NA,NA,NA,NA,FALSE,0
+"L349HP","OK",TRUE,4.9,3.8,9.7,FALSE,9
+"L349HQ","No premises",NA,NA,NA,NA,FALSE,0
+"L349HX","OK",FALSE,11,9,16.9,FALSE,6
+"L349HY","OK",TRUE,5,6,8.1,FALSE,3
+"L349HZ","No premises",NA,NA,NA,NA,FALSE,0
+"L349JA","OK",TRUE,5.5,7.2,8.1,TRUE,5
+"L349JF","No premises",NA,NA,NA,NA,FALSE,0
+"L349JG","No premises",NA,NA,NA,NA,FALSE,0
+"L349JR","No premises",NA,NA,NA,NA,FALSE,0
+"L349JS","No premises",NA,NA,NA,NA,FALSE,0
+"L349JZ","No premises",NA,NA,NA,NA,FALSE,0
+"L349WW","No premises",NA,NA,NA,NA,FALSE,0
+"L349WX","No premises",NA,NA,NA,NA,FALSE,0
+"L349YX","No premises",NA,NA,NA,NA,FALSE,0
+"L349AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349AA","No Data",NA,NA,NA,NA,FALSE,0
+"L349AB","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L349AR","No premises",NA,NA,NA,NA,TRUE,0
+"L349AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349AS","No Data",NA,NA,NA,NA,FALSE,0
+"L349BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349BA","No Data",NA,NA,NA,NA,FALSE,0
+"L349BD","OK",FALSE,5.5,5,7.8,FALSE,7
+"L349EA","OK",TRUE,15.7,7.6,30,TRUE,11
+"L349EB","Insufficient Data",NA,NA,NA,NA,TRUE,1
+"L349ED","Insufficient Premises",NA,NA,NA,NA,TRUE,1
+"L349ED","No Data",NA,NA,NA,NA,TRUE,0
+"L349EE","OK",TRUE,10.3,7.6,30,TRUE,5
+"L349EF","OK",TRUE,17.4,6.5,30,TRUE,26
+"L349EG","OK",FALSE,13.2,7,30,TRUE,3
+"L349EH","OK",FALSE,15.3,6.3,30,TRUE,5
+"L349EJ","OK",TRUE,3.5,2.8,5.7,TRUE,7
+"L349EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349EL","No Data",NA,NA,NA,NA,FALSE,0
+"L349EN","OK",TRUE,8.1,7.6,15.3,TRUE,9
+"L349EQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349EQ","No Data",NA,NA,NA,NA,FALSE,0
+"L349ER","OK",FALSE,8.5,7.5,16.5,TRUE,4
+"L349ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349ES","No Data",NA,NA,NA,NA,FALSE,0
+"L349ET","OK",FALSE,6.2,5.7,9.4,TRUE,6
+"L349EU","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L349EY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349EY","No Data",NA,NA,NA,NA,FALSE,0
+"L349FB","OK",FALSE,7.1,7.8,8.1,FALSE,4
+"L349GP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349GP","No Data",NA,NA,NA,NA,FALSE,0
+"L349GT","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"L349GX","No premises",NA,NA,NA,NA,FALSE,0
+"L349GY","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"L349HA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"L349HA","No Data",NA,NA,NA,NA,FALSE,0
+"L349HD","No premises",NA,NA,NA,NA,TRUE,0
+"L349HH","OK",FALSE,7.6,8.1,8.1,FALSE,3
+"L349HN","No premises",NA,NA,NA,NA,FALSE,0
+"L349HP","OK",TRUE,4.9,3.8,9.7,FALSE,9
+"L349HQ","No premises",NA,NA,NA,NA,FALSE,0
+"L349HX","OK",FALSE,11,9,16.9,FALSE,6
+"L349HY","OK",TRUE,5,6,8.1,FALSE,3
+"L349HZ","No premises",NA,NA,NA,NA,FALSE,0
+"L349JA","OK",TRUE,5.5,7.2,8.1,TRUE,5
+"L349JF","No premises",NA,NA,NA,NA,FALSE,0
+"L349JG","No premises",NA,NA,NA,NA,FALSE,0
+"L349JR","No premises",NA,NA,NA,NA,FALSE,0
+"L349JS","No premises",NA,NA,NA,NA,FALSE,0
+"L349JZ","No premises",NA,NA,NA,NA,FALSE,0
+"L349WW","No premises",NA,NA,NA,NA,FALSE,0
+"L349WX","No premises",NA,NA,NA,NA,FALSE,0
+"L349YX","No premises",NA,NA,NA,NA,FALSE,0

@@ -1,0 +1,137 @@
+"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"G784AA","OK",TRUE,5.8,7.1,8.1,FALSE,4
+"G784AB","OK",TRUE,6.8,8.1,8.1,FALSE,27
+"G784AD","OK",FALSE,7,7.2,8.1,FALSE,24
+"G784AE","OK",FALSE,7.5,7.5,8.1,FALSE,9
+"G784AF","OK",TRUE,6.8,7.5,8.1,TRUE,37
+"G784AG","OK",TRUE,6.2,7.4,8.1,FALSE,18
+"G784AH","OK",FALSE,6.6,6.8,8.1,FALSE,22
+"G784AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AJ","No Data",NA,NA,NA,NA,FALSE,0
+"G784AL","OK",TRUE,6.3,7.1,8.1,FALSE,31
+"G784AN","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G784AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AP","No Data",NA,NA,NA,NA,FALSE,0
+"G784AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AQ","No Data",NA,NA,NA,NA,FALSE,0
+"G784AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AU","No Data",NA,NA,NA,NA,FALSE,0
+"G784AX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AX","No Data",NA,NA,NA,NA,FALSE,0
+"G784AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AY","No Data",NA,NA,NA,NA,FALSE,0
+"G784AZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AZ","No Data",NA,NA,NA,NA,FALSE,0
+"G784BA","OK",FALSE,4.8,3.9,7.4,FALSE,3
+"G784BB","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"G784BE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BE","No Data",NA,NA,NA,NA,FALSE,0
+"G784BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BG","No Data",NA,NA,NA,NA,FALSE,0
+"G784BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BH","No Data",NA,NA,NA,NA,FALSE,0
+"G784BJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"G784BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BL","No Data",NA,NA,NA,NA,FALSE,0
+"G784BN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BN","No Data",NA,NA,NA,NA,FALSE,0
+"G784BP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BP","No Data",NA,NA,NA,NA,FALSE,0
+"G784BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BQ","No Data",NA,NA,NA,NA,FALSE,0
+"G784BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BS","No Data",NA,NA,NA,NA,FALSE,0
+"G784BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BT","No Data",NA,NA,NA,NA,FALSE,0
+"G784BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BU","No Data",NA,NA,NA,NA,FALSE,0
+"G784BW","OK",FALSE,5.3,5.4,8.1,FALSE,4
+"G784BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BX","No Data",NA,NA,NA,NA,FALSE,0
+"G784BY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BY","No Data",NA,NA,NA,NA,FALSE,0
+"G784BZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BZ","No Data",NA,NA,NA,NA,FALSE,0
+"G784DA","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G784DB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784DB","No Data",NA,NA,NA,NA,FALSE,0
+"G784DD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784DD","No Data",NA,NA,NA,NA,FALSE,0
+"G784DE","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G784DF","OK",TRUE,5.6,6.8,8.1,FALSE,9
+"G784DG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784DG","No Data",NA,NA,NA,NA,FALSE,0
+"G784DH","OK",FALSE,6.2,6.9,8.1,FALSE,9
+"G784DJ","OK",FALSE,6.7,6.7,8.1,FALSE,3
+"G784DN","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G784DU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784DU","No Data",NA,NA,NA,NA,FALSE,0
+"G784WA","No premises",NA,NA,NA,NA,FALSE,0
+"G784AA","OK",TRUE,5.8,7.1,8.1,FALSE,4
+"G784AB","OK",TRUE,6.8,8.1,8.1,FALSE,27
+"G784AD","OK",FALSE,7,7.2,8.1,FALSE,24
+"G784AE","OK",FALSE,7.5,7.5,8.1,FALSE,9
+"G784AF","OK",TRUE,6.8,7.5,8.1,TRUE,37
+"G784AG","OK",TRUE,6.2,7.4,8.1,FALSE,18
+"G784AH","OK",FALSE,6.6,6.8,8.1,FALSE,22
+"G784AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AJ","No Data",NA,NA,NA,NA,FALSE,0
+"G784AL","OK",TRUE,6.3,7.1,8.1,FALSE,31
+"G784AN","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G784AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AP","No Data",NA,NA,NA,NA,FALSE,0
+"G784AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AQ","No Data",NA,NA,NA,NA,FALSE,0
+"G784AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AU","No Data",NA,NA,NA,NA,FALSE,0
+"G784AX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AX","No Data",NA,NA,NA,NA,FALSE,0
+"G784AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AY","No Data",NA,NA,NA,NA,FALSE,0
+"G784AZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784AZ","No Data",NA,NA,NA,NA,FALSE,0
+"G784BA","OK",FALSE,4.8,3.9,7.4,FALSE,3
+"G784BB","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"G784BE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BE","No Data",NA,NA,NA,NA,FALSE,0
+"G784BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BG","No Data",NA,NA,NA,NA,FALSE,0
+"G784BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BH","No Data",NA,NA,NA,NA,FALSE,0
+"G784BJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
+"G784BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BL","No Data",NA,NA,NA,NA,FALSE,0
+"G784BN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BN","No Data",NA,NA,NA,NA,FALSE,0
+"G784BP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BP","No Data",NA,NA,NA,NA,FALSE,0
+"G784BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BQ","No Data",NA,NA,NA,NA,FALSE,0
+"G784BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BS","No Data",NA,NA,NA,NA,FALSE,0
+"G784BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BT","No Data",NA,NA,NA,NA,FALSE,0
+"G784BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BU","No Data",NA,NA,NA,NA,FALSE,0
+"G784BW","OK",FALSE,5.3,5.4,8.1,FALSE,4
+"G784BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BX","No Data",NA,NA,NA,NA,FALSE,0
+"G784BY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BY","No Data",NA,NA,NA,NA,FALSE,0
+"G784BZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784BZ","No Data",NA,NA,NA,NA,FALSE,0
+"G784DA","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G784DB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784DB","No Data",NA,NA,NA,NA,FALSE,0
+"G784DD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784DD","No Data",NA,NA,NA,NA,FALSE,0
+"G784DE","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G784DF","OK",TRUE,5.6,6.8,8.1,FALSE,9
+"G784DG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784DG","No Data",NA,NA,NA,NA,FALSE,0
+"G784DH","OK",FALSE,6.2,6.9,8.1,FALSE,9
+"G784DJ","OK",FALSE,6.7,6.7,8.1,FALSE,3
+"G784DN","Insufficient Data",NA,NA,NA,NA,FALSE,2
+"G784DU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
+"G784DU","No Data",NA,NA,NA,NA,FALSE,0
+"G784WA","No premises",NA,NA,NA,NA,FALSE,0
