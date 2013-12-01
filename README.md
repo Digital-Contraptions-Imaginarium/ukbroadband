@@ -11,7 +11,7 @@ To run the pre-processing stage, just run:
 
 	$ rscript preprocess.R 
 
-Then, copy the _data_ folder over the folder of the same name in the gh-pages branch.
+Then, copy the _data_ folder over the folder of the same name in the _gh-pages_ branch.
 
 ## MIT License
 Copyright (c) 2013 Gianfranco Cecconi
