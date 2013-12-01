@@ -1,82 +1,68 @@
+<!DOCTYPE html>
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="index.css">
 	<script src="lib/underscore-1.5.2.min.js" charset="utf-8"></script>
 	<script src="lib/d3-3.3.11.min.js" charset="utf-8"></script>
-	<!-- script src="lib/jquery-2.0.3.min.js" charset="utf-8"></script -->
-	<script>
-
-		var CSV_POSTCODE_LENGTH = 4,
-			DELAY_BEFORE_FETCHING_CSV = 2;
-
-		var typingTimer = undefined;
-
-		var fillResultsTable = function (results) {
-
-			var columns = [ "Postcode.No.Spaces.", "Postcode.Data.Status", "Lines...2Mbps.Y.N.", "Average.Speed.Mbps", "Median.Speed.Mbps", "Maximum.Speed.Mbps", "NGA.Available.Y.N.", "Number.of.Connections"];
-			
-			var table = d3.select("#resultsContainer").append("table"),
-		        thead = table.append("thead"),
-		        tbody = table.append("tbody");
-
-		    // append the header row
-		    thead.append("tr")
-		        .selectAll("th")
-		        .data(columns)
-		        .enter()
-		        .append("th")
-	            .text(function(column) { return column; });
-
-		    // create a row for each object in the data
-		    var rows = tbody.selectAll("tr")
-		        .data(results)
-		        .enter()
-		        .append("tr");
-
-		    // create a cell in each row for each column
-		    var cells = rows.selectAll("td")
-		        .data(function(row) {
-		            return columns.map(function(column) {
-		                return {column: column, value: row[column]};
-		            });
-		        })
-		        .enter()
-		        .append("td")
-		            .text(function(d) { return d.value; });
-
-		};
-
-		var readPostcodes = function (beginsWith, callback) {
-			d3.csv("data/" + beginsWith + ".csv", function (data) {
-				fillResultsTable(data);
-				if (callback) callback(null);
-			});
-		};
-
-		var checkPostcode = function () {
-			clearTimeout(typingTimer);
-			var postcode = d3.select("#postcode").property("value").toUpperCase();
-			if(postcode.length >= CSV_POSTCODE_LENGTH) {
-				// it's a postcode I can actually fetch data for
-				typingTimer = setTimeout(function () {
-					readPostcodes(postcode.substring(0, CSV_POSTCODE_LENGTH));
-				}, DELAY_BEFORE_FETCHING_CSV * 1000);
-			} else {
-				// it's not, I reset the table
-				typingTimer = setTimeout(function () {
-					fillResultsTable([ ]);
-				}, DELAY_BEFORE_FETCHING_CSV * 1000);
-			}
-		}
-
-	</script>
+	<script src="./index.js"></script>
 	<title>UK Broadband</title>
 </head>
 <body>
-Hello!
 
-<input id="postcode" type="text" onkeyup="checkPostcode()">
+<h1>UK broadband coverage checker</h1>
+
+<p>This is a very humble broadband checker based on the open data published by Ofcom on the <a target="_" href="http://data.gov.uk/dataset/broadband-coverage">data.gov.uk</a> website, licensed under the Open Government Licence. The documentation enclosed with the dataset is dated 16 October 2013. This website is provided "as is", without warranty of any kind, express or implied. Don't buy your next house basing your decision on this information.</p>
+
+<p>The source of this website and the processed data derived from Ofcom's original are available on <a target="_" href="https://github.com/giacecco/ukbroadband">GitHub</a>. Share your feedback on Twitter <a href="https://twitter.com/share" class="twitter-share-button" data-text="I've checked the broadband coverage for my postcode thanks to" data-via="giacecco" data-counturl="http://giacecco.github.io/ukbroadband" data-url="http://dico.im/UKBroadband" data-lang="en" data-hashtags="OpenData">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+or post requests and issues <a target="_" href="https://github.com/giacecco/ukbroadband/issues">here</a>. </p>
+
+<div id="serviceArea">
+<p><b>Enter the postcode you are interested in (at least 4 characters):</b> <input id="postcode" type="text" value="" autocomplete="off" onkeyup="checkPostcode()"></p>
 <div id="resultsContainer"></div>
+<p></p>
+</div>
+
+<p>Column headers are as follows:</p>
+
+<ul>
+<li><p>Postcode.No.Spaces. - white spaces removed</p>
+
+<li><p>Postcode.Data.Status - This field contains one of five options.</p>
+	<ol>
+		<li>No premises - There are no residential or small business delivery points in the postcode as listed from the 2012 file held by europa. There may be large business premises and new built connections in these postcodes more recently than our premises count focuses upon.
+		<li>Insufficient Premises -  This status means there are less than three residential or small business premises in the postcode. To protect anonymity broadband data has not been provided for these postcodes.
+		<li>Insufficient Data - This status means that we hold data on less than three broadband connections in the postcode. To protect anonymity broadband data has not been provided for these postcodes. 
+		<li>No data - We do not hold data on broadband connections in the postcode. This may be because consumers in the postcode have chosen not to subscribe to broadband, or that information was not included in the data provided by the largest ISPs, or that broadband is not available in the postcode.
+		<li>OK - This means that there are at least three residential or small business premises and that we hold data on at least three broadband connections in the postcode, only the amount of connections is this case.
+	</ol>
+	<p>When applying the different status values the order of precedence (highest to lowest) is as follows:</p>
+	<ul>
+		<li>No premises
+		<li>No data
+		<li>Insufficient Premises
+		<li>Insufficient Data
+		<li>OK
+	</ul>
+
+<li><p>Information on average sync speed, mean sync speed and sub 2Mbit/s connections is only provided for postcodes with a status of 'OK'</p>
+
+	<ul>
+		<li>Lines...2Mbps.Y.N. - A 'Y' indicates whether there are one or more broadband connections with a modem sync speed less than 2.2Mbit/s (for fibre and copper connections) or 2.0 Mbit/s for cable customers. A 'N' indicates there are no lines operating at below 2Mbit/s. 
+		<li>Average.Speed.Mbps - This field takes the values of mean modem sync speed of connections in the postcode to 1 decimal place.  If over or equal to 30 Mbit/s, 30 is shown.
+		<li>Median.Speed.Mbps - This field picks out the middle modem sync speed in each postcode as if they were all ordered from smallest to highest and the middle one is selected (or average of middle two values if there is an even number of values). If over or equal to 30 Mbit/s, 30 is shown.
+		<li>Maximum.Speed.Mbps - This field calculates the highest modem speed in each postcode in Mbit/s. If over or equal to 30 Mbit/s, 30 is shown.
+	</ul>
+
+<li><p>NGA.Available.Y.N. - This field indicates whether Virgin Media or Openreach are able to provide superfast broadband services to one or more premises in the postcode. Note, not all premises will necessarily be able to order the service and, for fibre to the cabinet technologies, not all connections will necessarily be able to achieve superfast speeds.</p>
+
+<li>Number.of.Connections - This field lists the amount of active broadband connections within the postcode.  The amount of connections are listed regardless of there being insufficient data to publish any further values. Where less than three connections are recorded but the exact number is unknown, 1 is shown. 
+
+</ul>
+
+<script>
+	updateResultsTable();
+</script>
 
 </body>
 </html>
