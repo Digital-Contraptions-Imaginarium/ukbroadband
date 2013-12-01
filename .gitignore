@@ -1,1 +1,6 @@
 *.Rproj*
+.RData
+.Rhistory
+node_modules
+webserver.js
+package.json

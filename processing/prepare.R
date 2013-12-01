@@ -1,6 +1,14 @@
+# The objective of this pre-processing script is to download the original Ofcom
+# data and to pre-process it into manageable smaller pieces, suitable for being 
+# fetched by a web page on demand.
+
+# download and unzip the data
+download.file("http://d2a9983j4okwzn.cloudfront.net/downloads/ofcom-uk-fixed-broadband-postcode-level-data-2013.zip", destfile = "./ofcom-uk-fixed-broadband-postcode-level-data-2013.zip")
+unzip("./ofcom-uk-fixed-broadband-postcode-level-data-2013.zip", exdir = "./ofcom-uk-fixed-broadband-postcode-level-data-2013", overwrite = TRUE)
+
 # read the data and assemble in one data.frame
-b1 <- read.csv("../raw/ofcom-uk-fixed-broadband-postcode-level-data-2013/ofcom-part1-fixed-broadband-postcode-level-data-2013.csv", na.strings = "N/A", colClasses = c("factor", "factor", "character", "character", "character", "character", "character", "character"))
-b2 <- read.csv("../raw/ofcom-uk-fixed-broadband-postcode-level-data-2013/ofcom-part1-fixed-broadband-postcode-level-data-2013.csv", na.strings = "N/A", colClasses = c("factor", "factor", "character", "character", "character", "character", "character", "character"))
+b1 <- read.csv("./ofcom-uk-fixed-broadband-postcode-level-data-2013/ofcom-part1-fixed-broadband-postcode-level-data-2013.csv", na.strings = "N/A", colClasses = c("factor", "factor", "character", "character", "character", "character", "character", "character"))
+b2 <- read.csv("./ofcom-uk-fixed-broadband-postcode-level-data-2013/ofcom-part1-fixed-broadband-postcode-level-data-2013.csv", na.strings = "N/A", colClasses = c("factor", "factor", "character", "character", "character", "character", "character", "character"))
 b <- rbind(b1, b2)
 rm(b1, b2)
 
@@ -24,14 +32,10 @@ b$Maximum.Speed.Mbps <- as.numeric(b$Maximum.Speed.Mbps)
 b$Number.of.Connections[b$Number.of.Connections == "<3"] <- "1"
 b$Number.of.Connections <- as.numeric(b$Number.of.Connections)
 
-for (letter1 in letters) {
-    for (letter2 in letters) {
-        for (digit1 in 0:9) {
-            prefix <- toupper(paste0(letter1, letter2, digit1, sep=""))
-            sub <- b[grep(paste0("^", prefix, sep = ""), data$Postcode.No.Spaces.), ]
-            if (nrow(sub) > 0) {
-                write.csv(sub, file = paste0(prefix, ".csv", sep=""), row.names = FALSE)
-            }
-        }
+# create one .csv file for each first four letter
+for (prefix in unique(substr(b$Postcode.No.Spaces., 1, 4))) {
+    sub <- b[grep(paste0("^", prefix, sep = ""), b$Postcode.No.Spaces.), ]
+    if (nrow(sub) > 0) {
+        write.csv(sub, file = paste0("../web/data/", prefix, ".csv", sep=""), row.names = FALSE)
     }
 }
