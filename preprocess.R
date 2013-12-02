@@ -68,5 +68,5 @@ for (prefix in unique(substr(b$Postcode.No.Spaces, 1, 4))) {
 
 # create a .json file referencing the files, to be used on the website
 filesList <- data.frame(postcode = unique(substr(b$Postcode.No.Spaces, 1, 4)))
-filesList$url <- paste0("./data/", filesList$postcode, ".json", sep="")
+filesList$url <- paste0("./data/", filesList$postcode, ".csv", sep="")
 writeLines(toJSONArray(filesList), "./data/filesList.json")
