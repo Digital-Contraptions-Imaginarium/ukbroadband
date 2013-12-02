@@ -12,7 +12,7 @@ var updateResultsTable = function (postcode) {
 
 	if ((postcode || "").length >= CSV_POSTCODE_LENGTH) {
 		// the postcode is specified and long enough, I show the data
-		dataToDisplay = _.filter(loadedData, function (row) { return row["Postcode.No.Spaces."].substring(0, postcode.length) == postcode; });
+		dataToDisplay = _.filter(loadedData, function (row) { return row["Postcode.No.Spaces"].substring(0, postcode.length) == postcode; });
 	}
 
 	d3.select("#resultsContainer").html("");
