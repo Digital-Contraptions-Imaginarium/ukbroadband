@@ -5,6 +5,18 @@ var typingTimer = undefined,
 	loadedPostcodeFile = undefined,
 	loadedData = [ ];
 
+var populateFilesList = function () {
+	d3.json("./data/filesList.json", function (data) {
+		_.each(data, function (d) {
+			d3.select("#filesListArea")
+				.append("a")
+				.attr("href", d.url)
+				.html(d.postcode);
+			d3.select("#filesListArea").append("span").html("&nbsp");
+		});
+	});	
+}
+
 var updateResultsTable = function (postcode) {
 
 	var columns = [ "Postcode.No.Spaces", "Postcode.Data.Status", "Lines.Less.Than.2Mbps.T.F", "Average.Speed.Mbps", "Median.Speed.Mbps", "Maximum.Speed.Mbps", "Superfast.Broadband.Available.T.F", "Number.of.Connections"],
@@ -48,7 +60,7 @@ var updateResultsTable = function (postcode) {
 };
 
 var readPostcodeFile = function (beginsWith, callback) {
-	d3.csv("data/" + beginsWith + ".csv", function (data) {
+	d3.csv("./data/" + beginsWith + ".csv", function (data) {
 		loadedPostcode = beginsWith;
 		loadedData = data;
 		if (callback) callback(null);

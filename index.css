@@ -1,6 +1,9 @@
 table, tr, td, th
 	{ border: 1px solid black; }
 
+span
+	{ display: inline-block; }
+
 #serviceArea
 	{ display: no; padding: 5px 5px; background-color: rgb(240, 240, 240); }
 
