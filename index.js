@@ -78,7 +78,7 @@ var displayPostcode = function (postcode) {
 
 var checkPostcode = function () {
 	clearTimeout(typingTimer);
-	var postcode = d3.select("#postcode").property("value").toUpperCase();
+	var postcode = d3.select("#postcode").property("value").replace(/\s{1,}/g, "").toUpperCase();
 	typingTimer = setTimeout(function () {
 		displayPostcode(postcode);
 	}, DELAY_BEFORE_UPDATING_TABLE * 1000);
