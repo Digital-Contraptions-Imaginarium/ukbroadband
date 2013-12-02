@@ -2,6 +2,24 @@
 # data and to pre-process it into manageable smaller pieces, suitable for being 
 # fetched by a web page on demand.
 
+library(rjson)
+
+# Thanks to http://theweiluo.wordpress.com/2011/09/30/r-to-json-for-d3-js-and-protovis/
+toJSONArray <- function (dtf) {
+    clnms <- colnames(dtf)
+    name.value <- function (i){
+        quote <- '';
+        if(class(dtf[, i])!='numeric'){
+            quote <- '"';
+        }
+        paste('"', i, '" : ', quote, dtf[,i], quote, sep='')
+    }
+    objs <- apply(sapply(clnms, name.value), 1, function(x){paste(x, collapse=', ')})
+    objs <- paste('{', objs, '}')
+    res <- paste('[', paste(objs, collapse=', '), ']')
+    return(res)
+}
+
 # download and unzip the data
 download.file("http://d2a9983j4okwzn.cloudfront.net/downloads/ofcom-uk-fixed-broadband-postcode-level-data-2013.zip", destfile = "./ofcom-uk-fixed-broadband-postcode-level-data-2013.zip")
 unzip("./ofcom-uk-fixed-broadband-postcode-level-data-2013.zip", exdir = "./ofcom-uk-fixed-broadband-postcode-level-data-2013", overwrite = TRUE)
@@ -47,3 +65,8 @@ for (prefix in unique(substr(b$Postcode.No.Spaces, 1, 4))) {
         write.csv(sub, file = paste0("./data/", prefix, ".csv", sep=""), row.names = FALSE)
     }
 }
+
+# create a .json file referencing the files, to be used on the website
+filesList <- data.frame(postcode = unique(substr(b$Postcode.No.Spaces, 1, 4)))
+filesList$url <- paste0("./data/", filesList$postcode, ".json", sep="")
+writeLines(toJSONArray(filesList), "./data/filesList.json")
