@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WS27AA","OK",FALSE,17.8,13.5,30,TRUE,7
 "WS27AB","OK",TRUE,8.4,10.1,11.4,TRUE,14
 "WS27AD","OK",FALSE,9.7,10.7,13.7,FALSE,24

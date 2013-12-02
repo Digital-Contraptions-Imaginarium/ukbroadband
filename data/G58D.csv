@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G58DG","OK",FALSE,17.1,19,24.4,FALSE,3
 "G58DJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G58DL","OK",TRUE,13.7,16.9,22.2,FALSE,3

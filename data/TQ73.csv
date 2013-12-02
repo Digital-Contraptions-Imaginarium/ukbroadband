@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TQ73AA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "TQ73AB","OK",TRUE,1,0.9,1.6,FALSE,8
 "TQ73AD","OK",TRUE,1.4,1.4,2.6,FALSE,8

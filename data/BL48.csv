@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BL48AA","OK",TRUE,13.8,14.9,24.4,TRUE,4
 "BL48AB","OK",FALSE,19.4,20.3,22,FALSE,8
 "BL48AE","OK",FALSE,16.6,16.6,16.9,TRUE,3

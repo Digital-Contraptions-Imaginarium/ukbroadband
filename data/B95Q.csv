@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B95QA","OK",TRUE,3.9,4.1,5.2,TRUE,9
 "B95QB","OK",TRUE,4.4,4.3,7.2,TRUE,9
 "B95QD","OK",FALSE,5.9,5.9,8.1,TRUE,5

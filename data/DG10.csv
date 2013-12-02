@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DG109AA","OK",FALSE,7.7,7.8,8.1,FALSE,5
 "DG109AB","OK",TRUE,6.4,7.3,8.1,FALSE,6
 "DG109AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1

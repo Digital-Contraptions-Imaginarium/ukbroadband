@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M34LA","OK",FALSE,11.2,11.8,18.7,TRUE,36
 "M34LB","OK",TRUE,10.6,10.7,16.6,TRUE,42
 "M34LG","OK",TRUE,12.6,14.1,17.9,TRUE,17

@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "ST65AA","OK",FALSE,6.5,5.3,12.1,TRUE,5
 "ST65AB","OK",FALSE,3.4,3.4,4.3,TRUE,3
 "ST65AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1

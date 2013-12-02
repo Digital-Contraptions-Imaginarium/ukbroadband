@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "RG95AA","OK",FALSE,7.8,8.1,8.1,FALSE,7
 "RG95AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "RG95AD","No Data",NA,NA,NA,NA,FALSE,0

@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SS56AA","OK",TRUE,5.7,4,12.4,TRUE,8
 "SS56AB","OK",TRUE,2.1,1.9,2.8,TRUE,5
 "SS56AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1

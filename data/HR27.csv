@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HR27AA","OK",TRUE,6,8.4,8.6,TRUE,4
 "HR27AB","OK",FALSE,6.9,7.1,12.3,TRUE,22
 "HR27AD","OK",FALSE,5.9,6.1,7.3,TRUE,9

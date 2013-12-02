@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "IV88NA","OK",FALSE,6.6,7.2,7.4,FALSE,5
 "IV88ND","OK",TRUE,6.3,7.1,8.1,FALSE,16
 "IV88NE","Insufficient Premises",NA,NA,NA,NA,FALSE,1

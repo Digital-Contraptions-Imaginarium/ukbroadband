@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PA371NT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PA371NW","OK",FALSE,5.6,5.7,8.1,FALSE,3
 "PA371NX","OK",FALSE,7.5,8.1,8.1,FALSE,5

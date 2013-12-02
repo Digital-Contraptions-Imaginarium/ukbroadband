@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DG165HT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DG165HU","OK",FALSE,3.1,3.4,3.7,FALSE,3
 "DG165HZ","OK",TRUE,4.5,4.9,8,FALSE,3

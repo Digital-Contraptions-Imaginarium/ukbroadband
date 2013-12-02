@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TQ25AA","OK",FALSE,14.9,15.9,22.8,FALSE,24
 "TQ25AB","OK",TRUE,8.2,8.8,13.8,FALSE,8
 "TQ25AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1

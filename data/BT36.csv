@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BT364AA","OK",FALSE,4.8,4,9.7,TRUE,6
 "BT364AB","OK",TRUE,5.8,6.1,7.3,FALSE,19
 "BT364AH","OK",FALSE,6.2,6.3,6.8,FALSE,12

@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SO451AA","OK",TRUE,2.7,2.9,4.1,TRUE,6
 "SO451AB","OK",TRUE,2.3,1.9,5,TRUE,6
 "SO451AD","OK",TRUE,1.4,1.5,2.2,TRUE,12

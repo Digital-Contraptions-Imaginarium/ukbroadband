@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "EX79AA","OK",FALSE,16.4,18.7,20.6,FALSE,7
 "EX79AB","OK",FALSE,17.7,18.9,22,FALSE,15
 "EX79AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1

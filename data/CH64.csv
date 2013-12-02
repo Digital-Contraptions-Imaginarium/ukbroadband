@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CH640SA","OK",FALSE,16.8,12.1,30,TRUE,25
 "CH640SB","OK",FALSE,9.2,10.2,10.3,TRUE,3
 "CH640SD","OK",FALSE,8.4,7.8,11.7,TRUE,4

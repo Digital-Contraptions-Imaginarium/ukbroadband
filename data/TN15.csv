@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TN150AA","OK",FALSE,13.6,14.3,21.8,TRUE,19
 "TN150AB","OK",FALSE,13.7,14.3,18.8,FALSE,11
 "TN150AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1

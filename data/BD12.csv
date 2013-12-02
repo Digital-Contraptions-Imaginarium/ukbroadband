@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BD12AA","OK",FALSE,17.5,19.1,22.9,TRUE,14
 "BD12AB","OK",FALSE,13.3,14.4,20,TRUE,7
 "BD12AJ","Insufficient Data",NA,NA,NA,NA,TRUE,2

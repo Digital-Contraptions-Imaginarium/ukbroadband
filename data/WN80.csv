@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WN80AA","OK",TRUE,8.3,8.5,13.3,TRUE,33
 "WN80AB","OK",FALSE,8.6,8.2,13.3,TRUE,13
 "WN80AD","OK",TRUE,10,10.9,16.1,TRUE,49

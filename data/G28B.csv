@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G28BA","OK",FALSE,10.8,8.2,17.8,FALSE,10
 "G28BD","OK",TRUE,5.1,1.2,13.5,FALSE,3
 "G28BG","OK",TRUE,5.1,7.1,7.6,FALSE,3

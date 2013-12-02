@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DT29AA","OK",TRUE,4.4,4.4,8.1,FALSE,3
 "DT29AB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DT29AD","OK",TRUE,6.1,6.6,8.1,FALSE,10

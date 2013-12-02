@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CM31AA","OK",FALSE,19.1,22.1,23.7,FALSE,5
 "CM31AB","OK",FALSE,12.4,8.1,22.8,FALSE,3
 "CM31AD","OK",FALSE,14.2,15.9,24.4,FALSE,9

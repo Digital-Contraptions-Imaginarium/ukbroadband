@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "FY60AA","OK",TRUE,10.7,14.3,16.7,FALSE,3
 "FY60AB","OK",TRUE,11.3,12.5,19.2,FALSE,5
 "FY60AD","OK",FALSE,14.4,15.8,21.9,FALSE,23

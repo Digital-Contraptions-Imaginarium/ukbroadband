@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "GL27AA","OK",TRUE,5.2,7.1,8.1,FALSE,6
 "GL27AB","OK",TRUE,6.3,7.4,8.1,FALSE,9
 "GL27AD","OK",FALSE,6.2,6.8,8.1,FALSE,10

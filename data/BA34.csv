@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BA34AB","OK",FALSE,14.6,14.3,30,TRUE,18
 "BA34AD","OK",FALSE,14.8,14.8,22.1,FALSE,6
 "BA34AE","OK",FALSE,13.5,14.3,20.3,TRUE,15

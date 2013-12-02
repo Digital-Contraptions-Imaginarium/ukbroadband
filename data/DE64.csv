@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DE64LN","OK",FALSE,7.3,8,8.1,FALSE,5
 "DE64LP","OK",FALSE,7.5,8.1,8.1,FALSE,31
 "DE64LQ","OK",TRUE,6.7,7.7,8.1,FALSE,17

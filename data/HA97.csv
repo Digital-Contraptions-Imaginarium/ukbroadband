@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HA97AB","OK",FALSE,16.4,17.9,22,TRUE,17
 "HA97AF","OK",TRUE,14.3,14.3,22.8,TRUE,77
 "HA97AJ","OK",TRUE,8.7,7.1,19.6,FALSE,6

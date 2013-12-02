@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HU55AA","OK",FALSE,11.3,11.9,14.3,FALSE,14
 "HU55AB","OK",FALSE,12.6,13.2,13.8,FALSE,5
 "HU55AD","OK",FALSE,10.9,11.6,14.5,FALSE,24

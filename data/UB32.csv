@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "UB32AA","OK",FALSE,18.1,18.2,23.1,TRUE,20
 "UB32AB","OK",FALSE,17.4,19.5,21.9,TRUE,8
 "UB32AD","OK",TRUE,27.8,19.9,30,TRUE,18

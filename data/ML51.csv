@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "ML51AB","OK",FALSE,7.6,7.6,11.3,FALSE,17
 "ML51AH","OK",FALSE,8.1,8.1,8.1,TRUE,3
 "ML51AJ","Insufficient Data",NA,NA,NA,NA,TRUE,2

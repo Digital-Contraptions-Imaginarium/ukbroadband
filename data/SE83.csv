@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SE83AA","OK",FALSE,17.6,8.1,30,TRUE,16
 "SE83AF","OK",FALSE,4.7,5.3,5.5,FALSE,3
 "SE83AG","OK",TRUE,4.7,4.9,7.1,FALSE,17

@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DT36AA","OK",FALSE,15.8,17.5,21.9,FALSE,29
 "DT36AB","OK",FALSE,15.5,16.3,20.2,FALSE,9
 "DT36AD","OK",FALSE,14,15.2,20.7,FALSE,6

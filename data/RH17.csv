@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "RH175AA","OK",TRUE,22.2,22.9,30,TRUE,7
 "RH175AB","OK",TRUE,4.3,3.3,13.1,TRUE,9
 "RH175AD","OK",TRUE,4.3,4.6,6.7,FALSE,5

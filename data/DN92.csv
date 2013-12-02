@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DN92AA","OK",TRUE,6.8,7.1,12.3,FALSE,17
 "DN92AB","OK",FALSE,7.8,6.8,13.2,FALSE,5
 "DN92AD","OK",FALSE,7.1,6.4,11.2,FALSE,8

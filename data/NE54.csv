@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "NE54AA","OK",FALSE,10.7,11.2,14.1,FALSE,26
 "NE54AB","OK",FALSE,9.2,9.5,13.1,FALSE,4
 "NE54AD","OK",FALSE,9.9,9.8,15.7,FALSE,32

@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LS71AB","OK",TRUE,8.3,8.8,12.7,TRUE,13
 "LS71AD","OK",FALSE,11.1,10.3,19.2,TRUE,6
 "LS71AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1

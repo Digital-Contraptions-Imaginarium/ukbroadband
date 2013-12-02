@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CO64AA","OK",FALSE,9.4,7.9,18.6,FALSE,7
 "CO64AB","OK",FALSE,7.4,7.4,10.3,FALSE,5
 "CO64AD","OK",TRUE,6.6,5.9,13,FALSE,5

@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B56RD","OK",FALSE,10.3,7.8,17.1,FALSE,7
 "B56RG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B56RJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1

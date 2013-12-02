@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "IV13JA","OK",FALSE,6.4,7.4,8.1,FALSE,10
 "IV13JB","OK",FALSE,7.3,8.1,8.1,FALSE,18
 "IV13JU","OK",TRUE,6,6.5,8.1,FALSE,58

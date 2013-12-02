@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SY156AX","OK",TRUE,2.8,2.8,4.5,FALSE,4
 "SY156AY","OK",TRUE,2.1,2.8,2.8,FALSE,3
 "SY156BD","OK",FALSE,8.1,8.1,8.1,FALSE,12

@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PA656AY","OK",TRUE,3.5,2.8,8.1,FALSE,36
 "PA656AZ","OK",TRUE,2.5,3.4,3.6,FALSE,5
 "PA656BA","OK",TRUE,1.6,1.4,2.5,FALSE,9

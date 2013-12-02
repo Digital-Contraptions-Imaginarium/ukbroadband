@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TR12AA","OK",FALSE,15.3,16.2,22.2,TRUE,13
 "TR12AF","OK",FALSE,22.6,20.8,30,TRUE,9
 "TR12AH","OK",FALSE,20.4,20.7,21.3,TRUE,3

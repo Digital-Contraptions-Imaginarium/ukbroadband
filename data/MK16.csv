@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "MK160AD","OK",FALSE,18.2,22.8,23.1,TRUE,5
 "MK160AE","OK",FALSE,16.9,17.3,20.2,FALSE,12
 "MK160AG","Insufficient Data",NA,NA,NA,NA,TRUE,1

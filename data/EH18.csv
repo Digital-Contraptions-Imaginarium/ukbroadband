@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "EH181AA","OK",TRUE,3.8,3.6,5.8,FALSE,9
 "EH181AB","OK",TRUE,4.8,5.5,6.8,FALSE,7
 "EH181AD","OK",TRUE,3.5,3.3,5.1,FALSE,15

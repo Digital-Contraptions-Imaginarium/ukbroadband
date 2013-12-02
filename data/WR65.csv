@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WR65AA","OK",TRUE,3.7,3.5,6.8,FALSE,12
 "WR65AB","OK",TRUE,3,2.3,5.1,FALSE,8
 "WR65AD","Insufficient Data",NA,NA,NA,NA,FALSE,2

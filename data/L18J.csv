@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L18JF","OK",FALSE,11.3,8.1,16.9,FALSE,12
 "L18JQ","OK",FALSE,12.5,11.7,18.7,TRUE,4
 "L18JS","Insufficient Premises",NA,NA,NA,NA,FALSE,1

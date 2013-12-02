@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PL47AA","OK",FALSE,6.7,6.2,10.2,TRUE,8
 "PL47AD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "PL47AE","Insufficient Premises",NA,NA,NA,NA,TRUE,1

@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DL57AA","OK",FALSE,13.6,14.3,17.8,TRUE,7
 "DL57AB","OK",FALSE,16.8,14.8,30,TRUE,14
 "DL57AD","Insufficient Data",NA,NA,NA,NA,TRUE,1

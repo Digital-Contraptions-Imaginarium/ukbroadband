@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SW1W0AU","OK",TRUE,5,6.3,6.9,FALSE,11
 "SW1W0BD","OK",FALSE,13.2,13.7,20.9,TRUE,27
 "SW1W0BP","OK",TRUE,9.4,10.6,16.6,FALSE,7

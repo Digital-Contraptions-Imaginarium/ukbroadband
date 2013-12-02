@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LL757DR","OK",TRUE,4.9,5.7,8.1,FALSE,14
 "LL758AJ","OK",FALSE,6.9,8,8.1,FALSE,5
 "LL758AQ","OK",FALSE,4.1,3.8,6.2,FALSE,4

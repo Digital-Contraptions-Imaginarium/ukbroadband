@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TN197AA","OK",TRUE,6.1,7.4,7.6,FALSE,6
 "TN197AB","OK",FALSE,6.4,6.4,6.9,FALSE,4
 "TN197AD","OK",FALSE,6.5,7.6,8.1,FALSE,23

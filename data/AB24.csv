@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "AB241AW","OK",FALSE,11.6,12.3,15.7,FALSE,32
 "AB241FR","OK",FALSE,9.4,9.4,13.3,FALSE,38
 "AB241GU","OK",FALSE,9.4,9.6,14.9,FALSE,36

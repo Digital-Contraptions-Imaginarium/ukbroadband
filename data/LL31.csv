@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LL319AA","OK",FALSE,16.4,17.5,21.3,FALSE,16
 "LL319AB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LL319AD","OK",TRUE,15,18.2,19.7,FALSE,10

@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "YO73AA","OK",FALSE,21.7,15.8,30,TRUE,7
 "YO73AB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "YO73AD","Insufficient Data",NA,NA,NA,NA,FALSE,2

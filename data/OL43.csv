@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "OL43AA","OK",TRUE,16.5,3.4,30,TRUE,25
 "OL43AB","OK",TRUE,15.4,5.3,30,TRUE,18
 "OL43AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1

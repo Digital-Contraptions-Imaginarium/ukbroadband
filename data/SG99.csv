@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SG99AA","OK",FALSE,22.2,23.1,23.3,FALSE,8
 "SG99AB","OK",FALSE,18.4,22.4,23.6,FALSE,13
 "SG99AD","OK",FALSE,16.7,19.2,24.3,FALSE,22

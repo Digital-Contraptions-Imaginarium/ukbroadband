@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TF94AA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "TF94AB","OK",FALSE,6.9,7.1,10.1,FALSE,11
 "TF94AD","OK",TRUE,4.2,3.4,10.5,FALSE,7

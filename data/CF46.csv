@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CF465AA","OK",FALSE,6.9,7.1,8.1,FALSE,5
 "CF465AB","OK",TRUE,10.6,8.1,18.9,FALSE,29
 "CF465AD","OK",FALSE,8.5,8.1,14.7,FALSE,17

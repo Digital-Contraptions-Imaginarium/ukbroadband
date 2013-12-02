@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "YO18AA","OK",FALSE,16.6,18.6,21.1,FALSE,4
 "YO18AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
 "YO18AB","No Data",NA,NA,NA,NA,FALSE,0

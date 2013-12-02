@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SL25AD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL25AF","OK",FALSE,18.3,18.7,20.9,TRUE,11
 "SL25AG","Insufficient Data",NA,NA,NA,NA,TRUE,2

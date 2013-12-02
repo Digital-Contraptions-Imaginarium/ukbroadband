@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TD60AA","OK",TRUE,5.2,5.7,7.4,FALSE,6
 "TD60AB","OK",FALSE,9.1,9.3,9.6,FALSE,4
 "TD60AD","OK",FALSE,5,5.1,7.5,FALSE,4

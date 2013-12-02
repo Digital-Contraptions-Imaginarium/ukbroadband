@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SK151AA","OK",TRUE,14.2,14.1,21.8,FALSE,11
 "SK151AB","OK",FALSE,17.6,18,23.5,FALSE,28
 "SK151AD","OK",FALSE,17.6,17.5,19.7,FALSE,5

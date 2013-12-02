@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CR05AA","OK",FALSE,23.6,7.8,30,TRUE,3
 "CR05AB","OK",TRUE,11.5,5.1,28.6,TRUE,3
 "CR05AE","OK",TRUE,2.8,2.7,3.7,TRUE,3

@@ -26,7 +26,7 @@ or post requests and issues <a target="_" href="https://github.com/giacecco/ukbr
 <p>Column headers are as follows:</p>
 
 <ul>
-<li><p>Postcode.No.Spaces. - white spaces removed</p>
+<li><p>Postcode.No.Spaces (was "Postcode.No.Spaces." in Ofcom's original dataset) - Does what it says on the tin</p>
 
 <li><p>Postcode.Data.Status - This field contains one of five options.</p>
 	<ol>
@@ -48,15 +48,15 @@ or post requests and issues <a target="_" href="https://github.com/giacecco/ukbr
 <li><p>Information on average sync speed, mean sync speed and sub 2Mbit/s connections is only provided for postcodes with a status of 'OK'</p>
 
 	<ul>
-		<li>Lines...2Mbps.Y.N. - A 'Y' indicates whether there are one or more broadband connections with a modem sync speed less than 2.2Mbit/s (for fibre and copper connections) or 2.0 Mbit/s for cable customers. A 'N' indicates there are no lines operating at below 2Mbit/s. 
+		<li>Lines.Less.Than.2Mbps.T.F (was "Lines...2Mbps.Y.N." in Ofcom's original dataset) - A 'TRUE' indicates whether there are one or more broadband connections with a modem sync speed less than 2.2Mbit/s (for fibre and copper connections) or 2.0 Mbit/s for cable customers. A 'FALSE' indicates there are no lines operating at below 2Mbit/s. 
 		<li>Average.Speed.Mbps - This field takes the values of mean modem sync speed of connections in the postcode to 1 decimal place.  If over or equal to 30 Mbit/s, 30 is shown.
 		<li>Median.Speed.Mbps - This field picks out the middle modem sync speed in each postcode as if they were all ordered from smallest to highest and the middle one is selected (or average of middle two values if there is an even number of values). If over or equal to 30 Mbit/s, 30 is shown.
-		<li>Maximum.Speed.Mbps - This field calculates the highest modem speed in each postcode in Mbit/s. If over or equal to 30 Mbit/s, 30 is shown.
+		<li>Maximum.Speed.Mbps - This field calculates the highest modem speed in each postcode in Mbit/s. Differently than in the Ofcom original dataset, if over or equal to 30 Mbit/s, 30 is shown.
 	</ul>
 
-<li><p>NGA.Available.Y.N. - This field indicates whether Virgin Media or Openreach are able to provide superfast broadband services to one or more premises in the postcode. Note, not all premises will necessarily be able to order the service and, for fibre to the cabinet technologies, not all connections will necessarily be able to achieve superfast speeds.</p>
+<li><p>Superfast.Broadband.Available.T.F (was "NGA.Available.Y.N." in Ofcom's original dataset) - This field indicates whether Virgin Media or Openreach are able to provide superfast broadband services to one or more premises in the postcode. Note, not all premises will necessarily be able to order the service and, for fibre to the cabinet technologies, not all connections will necessarily be able to achieve superfast speeds.</p>
 
-<li>Number.of.Connections - This field lists the amount of active broadband connections within the postcode.  The amount of connections are listed regardless of there being insufficient data to publish any further values. Where less than three connections are recorded but the exact number is unknown, 1 is shown. 
+<li>Number.of.Connections - This field lists the amount of active broadband connections within the postcode.  The amount of connections are listed regardless of there being insufficient data to publish any further values. Differently than in the Ofcom original dataset, where less than three connections are recorded but the exact number is unknown, 1 is shown. 
 
 </ul>
 

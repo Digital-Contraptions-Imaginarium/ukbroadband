@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PE210AA","OK",FALSE,16.3,10.9,30,TRUE,11
 "PE210AB","OK",FALSE,10.2,8.8,17.4,TRUE,6
 "PE210AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1

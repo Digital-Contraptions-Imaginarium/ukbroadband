@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S363SS","OK",FALSE,3.7,4.1,4.5,FALSE,5
 "S363ST","OK",TRUE,4.4,3.8,24.9,TRUE,34
 "S363ZA","Insufficient Data",NA,NA,NA,NA,TRUE,2

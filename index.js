@@ -7,7 +7,7 @@ var typingTimer = undefined,
 
 var updateResultsTable = function (postcode) {
 
-	var columns = [ "Postcode.No.Spaces.", "Postcode.Data.Status", "Lines...2Mbps.Y.N.", "Average.Speed.Mbps", "Median.Speed.Mbps", "Maximum.Speed.Mbps", "NGA.Available.Y.N.", "Number.of.Connections"],
+	var columns = [ "Postcode.No.Spaces", "Postcode.Data.Status", "Lines.Less.Than.2Mbps.T.F", "Average.Speed.Mbps", "Median.Speed.Mbps", "Maximum.Speed.Mbps", "Superfast.Broadband.Available.T.F", "Number.of.Connections"],
 		dataToDisplay = [ ];
 
 	if ((postcode || "").length >= CSV_POSTCODE_LENGTH) {

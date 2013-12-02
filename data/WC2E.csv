@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WC2E7AA","OK",FALSE,19.1,19.8,23.1,FALSE,7
 "WC2E7AB","No premises",NA,NA,NA,NA,FALSE,0
 "WC2E7AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1

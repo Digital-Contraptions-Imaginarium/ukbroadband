@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "KW36AD","OK",FALSE,6.1,6.9,7.4,FALSE,8
 "KW36AE","OK",TRUE,6.7,7.9,8.1,FALSE,11
 "KW36AF","OK",FALSE,6.6,6.6,8.1,FALSE,4

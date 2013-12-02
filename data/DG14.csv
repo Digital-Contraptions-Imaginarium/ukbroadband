@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DG14AA","OK",FALSE,13.8,14.3,18.1,TRUE,11
 "DG14AB","OK",TRUE,2.4,2.3,4.9,FALSE,10
 "DG14AD","OK",FALSE,4.1,3.6,7.1,FALSE,10

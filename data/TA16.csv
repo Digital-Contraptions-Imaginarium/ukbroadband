@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TA165NF","OK",TRUE,4.9,4.9,8.8,FALSE,16
 "TA165NG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "TA165NH","OK",FALSE,6.7,6.7,7.9,FALSE,7

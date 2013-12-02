@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "KY39AA","OK",FALSE,17.2,18.2,20.4,FALSE,9
 "KY39AE","OK",FALSE,14.5,15.1,21,FALSE,18
 "KY39AH","OK",FALSE,12.5,15.2,17.9,FALSE,7

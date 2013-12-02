@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LL372JA","OK",FALSE,3.4,2.9,5.1,FALSE,4
 "LL372JB","OK",TRUE,2.5,2.6,4.5,FALSE,9
 "LL372JD","OK",TRUE,2.8,2.5,5.2,FALSE,20

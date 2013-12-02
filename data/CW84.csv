@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CW84AA","OK",FALSE,20.3,19.9,24,FALSE,10
 "CW84AB","OK",FALSE,17.5,19.4,23.5,FALSE,26
 "CW84AD","OK",FALSE,16.3,20.5,24.4,FALSE,13

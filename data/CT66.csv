@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CT66AA","OK",FALSE,16.1,18.6,23.6,TRUE,8
 "CT66AB","OK",FALSE,17.4,17.8,22.3,TRUE,14
 "CT66AD","OK",TRUE,4.1,4.4,5.4,FALSE,10

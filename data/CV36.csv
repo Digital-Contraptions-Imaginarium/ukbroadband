@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CV36AA","OK",FALSE,12.1,13.9,17,FALSE,10
 "CV36AB","OK",FALSE,9.7,9.7,15.4,FALSE,8
 "CV36AD","OK",TRUE,10.9,10.4,18.6,TRUE,17

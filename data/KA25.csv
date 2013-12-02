@@ -1,4 +1,4 @@
-"Postcode.No.Spaces.","Postcode.Data.Status","Lines...2Mbps.Y.N.","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","NGA.Available.Y.N.","Number.of.Connections"
+"Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "KA256AA","OK",FALSE,13.8,14.8,17.8,FALSE,4
 "KA256AB","OK",FALSE,14.5,15.5,18.3,FALSE,10
 "KA256AD","OK",FALSE,15.2,15.8,19.3,FALSE,11
