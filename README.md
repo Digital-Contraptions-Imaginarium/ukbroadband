@@ -6,8 +6,8 @@
 See [http://www.digitalcontraptionsimaginarium.co.uk/ukbroadband/](http://www.digitalcontraptionsimaginarium.co.uk/ukbroadband/).
 
 This repository is made of two branches:
-- The **master** branch is just the R script to download from data.gov.uk and pre-process the Ofcom data.
-- The **gh-pages** branch is the website referenced above, that includes simple search by postcode functionality over the Ofcom data. It does not require any server-side scripting and can be hosted on GitHub Pages.
+- The [**master** branch](https://github.com/giacecco/ukbroadband/tree/master) is just the R script to download from data.gov.uk and pre-process the Ofcom data.
+- The [**gh-pages** branch](https://github.com/giacecco/ukbroadband/tree/gh-pages) is the website referenced above, that includes simple search by postcode functionality over the Ofcom data. It does not require any server-side scripting and can be hosted on GitHub Pages.
 
 To run the pre-processing stage, just run:
 
