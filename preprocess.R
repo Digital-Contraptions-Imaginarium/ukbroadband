@@ -30,6 +30,14 @@ b2 <- read.csv("./ofcom-uk-fixed-broadband-postcode-level-data-2013/ofcom-part2-
 b <- rbind(b1, b2)
 rm(b1, b2)
 
+# It has been recorded that there are duplicate rows in the original data. When
+# that happens, for each couple of records' Postcode.Data.Status is "Insufficient
+# Premises" and "No Data". In the light of what "Insufficient Premises" means,
+# I assume that that record is more meaningful than the "No Data" one. I remove
+# the "No Data" duplicates.
+duplicatePostcodes <- unique(b$Postcode.No.Spaces.[duplicated(b$Postcode.No.Spaces.)])
+b <- subset(b, !((Postcode.No.Spaces. %in% duplicatePostcodes) & (Postcode.Data.Status == 'No Data')))
+
 # rename the columns
 names(b)[names(b) == "Postcode.No.Spaces."] <- "Postcode.No.Spaces"
 names(b)[names(b) == "Lines...2Mbps.Y.N."] <- "Lines.Less.Than.2Mbps.T.F"
