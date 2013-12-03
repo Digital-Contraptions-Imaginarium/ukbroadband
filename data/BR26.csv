@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BR26AA","OK",TRUE,2.1,1.9,3.5,FALSE,3
 "BR26AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BR26AB","No Data",NA,NA,NA,NA,FALSE,0
 "BR26AD","OK",TRUE,2.1,2,5,FALSE,21
 "BR26AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BR26AE","No Data",NA,NA,NA,NA,FALSE,0
 "BR26AG","OK",TRUE,1.6,1.6,2,FALSE,4
 "BR26AH","OK",TRUE,2,1.9,3.1,TRUE,34
 "BR26AJ","OK",TRUE,5.5,2.3,11.2,FALSE,5
@@ -13,9 +11,7 @@
 "BR26AP","OK",TRUE,4.3,1.5,29.2,TRUE,13
 "BR26AR","OK",TRUE,3.2,3,8.7,FALSE,33
 "BR26AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BR26AS","No Data",NA,NA,NA,NA,FALSE,0
 "BR26AT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR26AT","No Data",NA,NA,NA,NA,TRUE,0
 "BR26AU","OK",TRUE,1.6,1.6,2.9,TRUE,4
 "BR26AX","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BR26BA","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -37,7 +33,6 @@
 "BR26BY","OK",TRUE,1.9,1.8,3,TRUE,22
 "BR26BZ","OK",FALSE,30,17.3,30,TRUE,4
 "BR26DA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BR26DA","No Data",NA,NA,NA,NA,FALSE,0
 "BR26DB","OK",TRUE,3.7,4,6,FALSE,6
 "BR26DD","OK",TRUE,8.1,6.9,16.3,TRUE,3
 "BR26DE","OK",TRUE,4,3.6,11.8,FALSE,8
@@ -48,16 +43,12 @@
 "BR26DL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BR26DN","OK",FALSE,7.7,5.6,18.6,TRUE,5
 "BR26DP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR26DP","No Data",NA,NA,NA,NA,TRUE,0
 "BR26DQ","OK",TRUE,3.9,3.1,15.4,TRUE,26
 "BR26DR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR26DR","No Data",NA,NA,NA,NA,TRUE,0
 "BR26DS","OK",TRUE,8.3,4.9,24.9,TRUE,8
 "BR26DT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR26DT","No Data",NA,NA,NA,NA,TRUE,0
 "BR26DU","OK",TRUE,4.5,4.3,8.2,TRUE,5
 "BR26DW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR26DW","No Data",NA,NA,NA,NA,TRUE,0
 "BR26DX","OK",TRUE,8.1,5.8,30,TRUE,10
 "BR26DZ","No premises",NA,NA,NA,NA,FALSE,0
 "BR26EA","OK",TRUE,9.6,11.2,13.3,TRUE,10
@@ -74,22 +65,18 @@
 "BR26EW","OK",TRUE,5.8,5,18.6,TRUE,19
 "BR26EX","OK",FALSE,2.8,2.6,3.6,TRUE,4
 "BR26HA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR26HA","No Data",NA,NA,NA,NA,TRUE,0
 "BR26HB","OK",FALSE,5.7,5.4,8.1,TRUE,3
 "BR26HD","OK",TRUE,2.9,1.5,6,TRUE,3
 "BR26HE","OK",TRUE,11.1,5.7,30,TRUE,15
 "BR26HF","OK",FALSE,9.3,7.9,20,TRUE,5
 "BR26HG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR26HG","No Data",NA,NA,NA,NA,TRUE,0
 "BR26HH","OK",TRUE,30,6.6,30,TRUE,16
 "BR26HL","OK",TRUE,2.3,2.3,4.1,TRUE,35
 "BR26HN","OK",TRUE,9.7,4.5,30,TRUE,11
 "BR26HP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BR26HP","No Data",NA,NA,NA,NA,FALSE,0
 "BR26HQ","OK",FALSE,4.8,5,7.3,TRUE,5
 "BR26HR","OK",TRUE,1.5,1.5,1.6,FALSE,3
 "BR26HS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BR26HS","No Data",NA,NA,NA,NA,FALSE,0
 "BR26HT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BR26HU","OK",TRUE,1.8,1.7,3.6,FALSE,66
 "BR26HW","OK",TRUE,24.2,7.4,30,TRUE,39

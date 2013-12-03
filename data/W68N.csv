@@ -1,13 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W68NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W68NA","No Data",NA,NA,NA,NA,FALSE,0
 "W68NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W68NB","No Data",NA,NA,NA,NA,FALSE,0
 "W68ND","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W68ND","No Data",NA,NA,NA,NA,FALSE,0
 "W68NE","No premises",NA,NA,NA,NA,TRUE,0
 "W68NF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W68NF","No Data",NA,NA,NA,NA,TRUE,0
 "W68NG","OK",FALSE,30,22.2,30,TRUE,33
 "W68NH","OK",TRUE,13.5,9.3,30,TRUE,57
 "W68NJ","OK",FALSE,22.1,15.3,30,TRUE,41

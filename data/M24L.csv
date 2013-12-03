@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M24LA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M24LG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M24LG","No Data",NA,NA,NA,NA,TRUE,0
 "M24LQ","OK",FALSE,8.7,8.1,14.4,TRUE,7
 "M24LY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M24LZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M24LZ","No Data",NA,NA,NA,NA,TRUE,0

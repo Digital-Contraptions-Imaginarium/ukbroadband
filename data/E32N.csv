@@ -1,20 +1,15 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E32NA","OK",TRUE,23.8,6.6,30,TRUE,31
 "E32NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E32NB","No Data",NA,NA,NA,NA,FALSE,0
 "E32ND","No Data",NA,NA,NA,NA,TRUE,0
 "E32NG","OK",TRUE,19.1,6.1,30,TRUE,42
 "E32NN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E32NN","No Data",NA,NA,NA,NA,TRUE,0
 "E32NP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E32NP","No Data",NA,NA,NA,NA,TRUE,0
 "E32NQ","OK",FALSE,30,30,30,TRUE,7
 "E32NR","OK",TRUE,30,30,30,TRUE,12
 "E32NS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E32NS","No Data",NA,NA,NA,NA,FALSE,0
 "E32NT","OK",TRUE,20.1,6.2,30,TRUE,15
 "E32NW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E32NW","No Data",NA,NA,NA,NA,TRUE,0
 "E32NX","OK",TRUE,4.6,4.3,19,TRUE,67
 "E32NY","OK",TRUE,25.2,5.5,30,TRUE,11
 "E32NZ","OK",FALSE,5.2,5.4,6,TRUE,3

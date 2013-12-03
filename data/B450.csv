@@ -1,12 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B450AJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B450AJ","No Data",NA,NA,NA,NA,TRUE,0
 "B450AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B450AS","No Data",NA,NA,NA,NA,TRUE,0
 "B450AT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B450AT","No Data",NA,NA,NA,NA,FALSE,0
 "B450AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B450AU","No Data",NA,NA,NA,NA,FALSE,0
 "B450BD","OK",FALSE,30,20,30,TRUE,33
 "B450BE","OK",FALSE,24.3,20,30,TRUE,37
 "B450BG","OK",TRUE,29.6,20,30,TRUE,28
@@ -14,7 +10,6 @@
 "B450BJ","OK",TRUE,24.8,20,30,TRUE,35
 "B450BL","OK",FALSE,30,25,30,TRUE,19
 "B450BP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B450BP","No Data",NA,NA,NA,NA,FALSE,0
 "B450BQ","OK",TRUE,24.7,20,30,TRUE,19
 "B450DA","OK",TRUE,21.9,20,30,TRUE,23
 "B450DB","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -65,7 +60,6 @@
 "B450HU","OK",FALSE,19.1,20,30,TRUE,9
 "B450HW","OK",FALSE,20.9,15.4,30,TRUE,20
 "B450HX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B450HX","No Data",NA,NA,NA,NA,TRUE,0
 "B450HY","OK",FALSE,21.4,20,30,TRUE,21
 "B450HZ","OK",FALSE,21.4,15,30,TRUE,13
 "B450JA","OK",TRUE,9.7,7.9,30,TRUE,16
@@ -76,7 +70,6 @@
 "B450JG","OK",TRUE,23,14.1,30,TRUE,24
 "B450JH","OK",FALSE,4.5,5,5,TRUE,3
 "B450JJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B450JJ","No Data",NA,NA,NA,NA,TRUE,0
 "B450JL","OK",TRUE,27.4,30,30,TRUE,27
 "B450JN","OK",TRUE,20.2,8.1,30,TRUE,25
 "B450JP","Insufficient Data",NA,NA,NA,NA,TRUE,1

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CV63AA","OK",FALSE,5.2,5.2,6.6,TRUE,3
 "CV63AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CV63AB","No Data",NA,NA,NA,NA,TRUE,0
 "CV63AD","OK",FALSE,7.7,9,11.5,TRUE,9
 "CV63AE","OK",FALSE,27.2,20,30,TRUE,25
 "CV63AF","OK",TRUE,15.7,6.8,30,TRUE,17
@@ -140,7 +139,6 @@
 "CV63LR","OK",TRUE,6.3,5.5,30,TRUE,36
 "CV63LS","OK",TRUE,5.2,5.5,7.6,TRUE,44
 "CV63LT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CV63LT","No Data",NA,NA,NA,NA,TRUE,0
 "CV63WY","No premises",NA,NA,NA,NA,FALSE,0
 "CV63YT","No premises",NA,NA,NA,NA,FALSE,0
 "CV63ZS","No premises",NA,NA,NA,NA,FALSE,0

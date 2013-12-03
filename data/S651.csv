@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S651AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651AA","No Data",NA,NA,NA,NA,TRUE,0
 "S651AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651AB","No Data",NA,NA,NA,NA,TRUE,0
 "S651AD","OK",TRUE,7,8.2,12.2,TRUE,18
 "S651AF","No premises",NA,NA,NA,NA,FALSE,0
 "S651AG","OK",FALSE,10.2,8.1,15.3,TRUE,6
@@ -13,48 +11,35 @@
 "S651AQ","No premises",NA,NA,NA,NA,FALSE,0
 "S651AR","No premises",NA,NA,NA,NA,FALSE,0
 "S651AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S651AS","No Data",NA,NA,NA,NA,FALSE,0
 "S651AT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651AT","No Data",NA,NA,NA,NA,TRUE,0
 "S651AU","No premises",NA,NA,NA,NA,TRUE,0
 "S651AX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S651AX","No Data",NA,NA,NA,NA,FALSE,0
 "S651AY","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "S651BJ","No premises",NA,NA,NA,NA,TRUE,0
 "S651BL","OK",FALSE,8.6,7.8,11.4,TRUE,6
 "S651DA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S651DA","No Data",NA,NA,NA,NA,FALSE,0
 "S651DD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S651DE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651DE","No Data",NA,NA,NA,NA,TRUE,0
 "S651DF","No premises",NA,NA,NA,NA,FALSE,0
 "S651DG","No premises",NA,NA,NA,NA,FALSE,0
 "S651DH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651DH","No Data",NA,NA,NA,NA,TRUE,0
 "S651DJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S651DP","OK",FALSE,27.3,20,30,TRUE,15
 "S651DQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651DQ","No Data",NA,NA,NA,NA,TRUE,0
 "S651DR","OK",FALSE,16.2,16.9,30,TRUE,12
 "S651DT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651DT","No Data",NA,NA,NA,NA,TRUE,0
 "S651DU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651DU","No Data",NA,NA,NA,NA,TRUE,0
 "S651DY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651DY","No Data",NA,NA,NA,NA,TRUE,0
 "S651DZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S651EB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651EB","No Data",NA,NA,NA,NA,TRUE,0
 "S651ED","OK",FALSE,11.5,8.5,21.9,TRUE,4
 "S651EG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651EG","No Data",NA,NA,NA,NA,TRUE,0
 "S651EH","No Data",NA,NA,NA,NA,TRUE,0
 "S651EJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "S651EL","OK",FALSE,12.1,13.9,14.4,TRUE,5
 "S651EN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S651EQ","OK",FALSE,17.9,22.3,23.2,TRUE,3
 "S651ER","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651ER","No Data",NA,NA,NA,NA,TRUE,0
 "S651ES","No premises",NA,NA,NA,NA,TRUE,0
 "S651ET","OK",FALSE,30,30,30,TRUE,4
 "S651EW","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -115,13 +100,11 @@
 "S651NT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S651NU","OK",FALSE,10.1,8,19.4,TRUE,11
 "S651NW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651NW","No Data",NA,NA,NA,NA,TRUE,0
 "S651NX","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S651PA","OK",FALSE,17.8,14.3,30,TRUE,12
 "S651PB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S651PD","OK",TRUE,21.3,20,30,TRUE,13
 "S651PE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651PE","No Data",NA,NA,NA,NA,TRUE,0
 "S651PF","OK",FALSE,23.6,19.1,30,TRUE,12
 "S651PG","OK",FALSE,25.6,19.9,30,TRUE,6
 "S651PH","OK",FALSE,30,17,30,TRUE,5
@@ -129,7 +112,6 @@
 "S651PL","OK",FALSE,19.8,20,30,TRUE,13
 "S651PN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S651PQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651PQ","No Data",NA,NA,NA,NA,TRUE,0
 "S651PR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S651PS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S651PT","OK",TRUE,30,30,30,TRUE,13
@@ -155,7 +137,6 @@
 "S651RE","OK",FALSE,14.2,7.8,30,TRUE,14
 "S651RF","OK",TRUE,12.5,7.4,30,TRUE,23
 "S651RG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S651RG","No Data",NA,NA,NA,NA,TRUE,0
 "S651RJ","OK",FALSE,12.2,10.7,20,TRUE,6
 "S651RL","OK",FALSE,18.9,13.4,30,TRUE,5
 "S651RN","OK",FALSE,17.6,7.8,30,TRUE,24
@@ -178,7 +159,6 @@
 "S651SL","OK",TRUE,4.3,3.7,7.3,FALSE,8
 "S651SP","OK",TRUE,10.6,11.7,16.9,TRUE,9
 "S651ST","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S651ST","No Data",NA,NA,NA,NA,FALSE,0
 "S651SU","OK",TRUE,4.5,4,9,FALSE,10
 "S651SZ","No premises",NA,NA,NA,NA,FALSE,0
 "S651TD","No premises",NA,NA,NA,NA,FALSE,0

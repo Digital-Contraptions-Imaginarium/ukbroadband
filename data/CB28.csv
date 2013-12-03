@@ -1,9 +1,7 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CB28AA","No premises",NA,NA,NA,NA,FALSE,0
 "CB28AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CB28AB","No Data",NA,NA,NA,NA,TRUE,0
 "CB28AE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CB28AE","No Data",NA,NA,NA,NA,TRUE,0
 "CB28AF","No premises",NA,NA,NA,NA,TRUE,0
 "CB28AG","No premises",NA,NA,NA,NA,TRUE,0
 "CB28AH","No premises",NA,NA,NA,NA,TRUE,0
@@ -15,7 +13,6 @@
 "CB28AR","OK",TRUE,21.4,17.2,30,TRUE,6
 "CB28AS","OK",TRUE,18.8,5.3,30,TRUE,18
 "CB28AT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CB28AT","No Data",NA,NA,NA,NA,TRUE,0
 "CB28AU","OK",FALSE,30,20,30,TRUE,8
 "CB28AW","OK",TRUE,25.2,20,30,TRUE,24
 "CB28AX","OK",TRUE,30,20,30,TRUE,17
@@ -36,7 +33,6 @@
 "CB28BS","No premises",NA,NA,NA,NA,FALSE,0
 "CB28BT","OK",FALSE,16.4,7,30,TRUE,18
 "CB28BU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CB28BU","No Data",NA,NA,NA,NA,TRUE,0
 "CB28BW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "CB28BX","OK",TRUE,14.8,7.4,30,TRUE,24
 "CB28BY","OK",FALSE,29.2,20,30,TRUE,26
@@ -65,9 +61,7 @@
 "CB28EX","OK",FALSE,30,30,30,TRUE,14
 "CB28EZ","OK",TRUE,15.9,18,23.1,TRUE,13
 "CB28FA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CB28FA","No Data",NA,NA,NA,NA,TRUE,0
 "CB28FG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CB28FG","No Data",NA,NA,NA,NA,TRUE,0
 "CB28FH","OK",FALSE,7,7.3,8.1,TRUE,30
 "CB28HD","OK",FALSE,17.2,18.9,22,FALSE,6
 "CB28HE","OK",TRUE,30,20,30,TRUE,28
@@ -84,12 +78,10 @@
 "CB28NY","OK",FALSE,18,17.6,24.2,FALSE,4
 "CB28NZ","OK",FALSE,14.9,16.1,19.6,FALSE,15
 "CB28PA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CB28PA","No Data",NA,NA,NA,NA,FALSE,0
 "CB28PB","OK",FALSE,16.6,17.1,30,TRUE,22
 "CB28PE","No premises",NA,NA,NA,NA,FALSE,0
 "CB28PF","OK",FALSE,19.4,19.5,22.2,TRUE,5
 "CB28PH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CB28PH","No Data",NA,NA,NA,NA,TRUE,0
 "CB28PJ","OK",FALSE,30,30,30,TRUE,23
 "CB28PL","OK",FALSE,30,12.5,30,TRUE,6
 "CB28PN","OK",FALSE,26.7,20,30,TRUE,22

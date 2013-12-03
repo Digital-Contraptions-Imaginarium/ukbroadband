@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L327PA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L327PA","No Data",NA,NA,NA,NA,TRUE,0
 "L327PB","OK",TRUE,30,20,30,TRUE,9
 "L327PD","OK",TRUE,23.8,20.4,30,TRUE,19
 "L327PE","OK",FALSE,15.2,18.3,20.7,TRUE,7
@@ -53,10 +52,8 @@
 "L327RW","OK",FALSE,23.5,18.9,30,TRUE,19
 "L327RX","OK",FALSE,25.4,20.6,30,TRUE,19
 "L327RZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L327RZ","No Data",NA,NA,NA,NA,TRUE,0
 "L327SA","OK",TRUE,15.4,17.5,21,FALSE,6
 "L327SB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L327SB","No Data",NA,NA,NA,NA,FALSE,0
 "L327SD","OK",FALSE,30,26.2,30,TRUE,4
 "L327SE","OK",FALSE,15.5,17,19.7,FALSE,5
 "L327SF","OK",FALSE,15.9,16.8,22,FALSE,7

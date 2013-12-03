@@ -12,10 +12,8 @@
 "S39DQ","OK",TRUE,17.7,6.7,30,TRUE,24
 "S39DR","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S39DS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S39DS","No Data",NA,NA,NA,NA,TRUE,0
 "S39DT","OK",FALSE,13.9,8,30,TRUE,9
 "S39DU","OK",TRUE,4.9,5.3,7.4,TRUE,3
 "S39DW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S39DW","No Data",NA,NA,NA,NA,TRUE,0
 "S39DX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S39DY","Insufficient Data",NA,NA,NA,NA,TRUE,1

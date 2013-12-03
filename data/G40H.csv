@@ -7,9 +7,7 @@
 "G40HP","No premises",NA,NA,NA,NA,TRUE,0
 "G40HQ","No premises",NA,NA,NA,NA,FALSE,0
 "G40HR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G40HR","No Data",NA,NA,NA,NA,TRUE,0
 "G40HS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G40HS","No Data",NA,NA,NA,NA,FALSE,0
 "G40HU","OK",FALSE,22.6,25.5,30,TRUE,8
 "G40HW","OK",TRUE,15.2,16.8,20,TRUE,18
 "G40HX","No Data",NA,NA,NA,NA,FALSE,0

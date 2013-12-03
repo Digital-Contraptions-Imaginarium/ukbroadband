@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LE71AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE71AD","No Data",NA,NA,NA,NA,FALSE,0
 "LE71BA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LE71BA","No Data",NA,NA,NA,NA,TRUE,0
 "LE71BS","OK",FALSE,19.5,19.5,21,FALSE,3
 "LE71BT","OK",FALSE,20.4,20.9,24,FALSE,9
 "LE71FZ","OK",FALSE,14.4,15.2,22,FALSE,8
@@ -62,7 +60,6 @@
 "LE71NG","OK",FALSE,16.5,12.2,30,TRUE,29
 "LE71NH","OK",FALSE,19.6,11.2,30,TRUE,13
 "LE71NL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE71NL","No Data",NA,NA,NA,NA,FALSE,0
 "LE71NN","OK",FALSE,9.2,10.6,12.8,FALSE,6
 "LE71NP","OK",TRUE,29.5,17.7,30,TRUE,58
 "LE71NQ","OK",FALSE,14.8,15,20,TRUE,5
@@ -80,9 +77,7 @@
 "LE71PF","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "LE71PH","OK",FALSE,18.1,20.7,21.7,FALSE,11
 "LE71PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE71PL","No Data",NA,NA,NA,NA,FALSE,0
 "LE71PN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE71PN","No Data",NA,NA,NA,NA,FALSE,0
 "LE71PP","OK",FALSE,19.9,12.6,30,TRUE,44
 "LE71QJ","OK",FALSE,22,16.2,30,TRUE,28
 "LE71QP","OK",FALSE,22.9,13.9,30,TRUE,16

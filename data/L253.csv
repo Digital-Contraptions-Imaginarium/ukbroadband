@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L253NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L253NF","No Data",NA,NA,NA,NA,FALSE,0
 "L253NR","OK",TRUE,8.4,8.7,16.5,TRUE,22
 "L253NS","OK",FALSE,15.3,16.2,17.7,FALSE,12
 "L253NT","OK",TRUE,12.2,15.4,18.7,FALSE,15
@@ -73,7 +72,6 @@
 "L253SS","OK",FALSE,8.6,8.3,14.8,FALSE,13
 "L253SZ","OK",FALSE,13.5,15.4,21,FALSE,21
 "L253TA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L253TA","No Data",NA,NA,NA,NA,TRUE,0
 "L253TQ","No premises",NA,NA,NA,NA,FALSE,0
 "L253WU","No premises",NA,NA,NA,NA,FALSE,0
 "L253WW","No premises",NA,NA,NA,NA,FALSE,0

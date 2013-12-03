@@ -1,11 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CM25AA","No premises",NA,NA,NA,NA,FALSE,0
 "CM25AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM25AE","No Data",NA,NA,NA,NA,FALSE,0
 "CM25AH","No premises",NA,NA,NA,NA,FALSE,0
 "CM25AR","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CM25AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM25AS","No Data",NA,NA,NA,NA,FALSE,0
 "CM25AZ","No premises",NA,NA,NA,NA,FALSE,0
 "CM25EF","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CM25EY","No premises",NA,NA,NA,NA,FALSE,0
@@ -20,19 +18,13 @@
 "CM25PH","No premises",NA,NA,NA,NA,FALSE,0
 "CM25PJ","OK",FALSE,20,21,24,FALSE,7
 "CM25PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM25PL","No Data",NA,NA,NA,NA,FALSE,0
 "CM25PP","No premises",NA,NA,NA,NA,FALSE,0
 "CM25PR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CM25PR","No Data",NA,NA,NA,NA,TRUE,0
 "CM25PS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM25PS","No Data",NA,NA,NA,NA,FALSE,0
 "CM25PU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM25PU","No Data",NA,NA,NA,NA,FALSE,0
 "CM25PW","OK",FALSE,17.9,22.7,22.8,TRUE,3
 "CM25PX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "CM25PY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM25PY","No Data",NA,NA,NA,NA,FALSE,0
 "CM25TA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CM25TA","No Data",NA,NA,NA,NA,TRUE,0
 "CM25TH","No premises",NA,NA,NA,NA,TRUE,0
 "CM25WA","No premises",NA,NA,NA,NA,FALSE,0

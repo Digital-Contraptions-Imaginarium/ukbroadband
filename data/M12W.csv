@@ -4,15 +4,10 @@
 "M12WD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M12WE","OK",TRUE,15,8.9,30,TRUE,37
 "M12WG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M12WG","No Data",NA,NA,NA,NA,TRUE,0
 "M12WH","OK",FALSE,8.5,9.2,9.4,TRUE,3
 "M12WL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M12WL","No Data",NA,NA,NA,NA,FALSE,0
 "M12WN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M12WN","No Data",NA,NA,NA,NA,TRUE,0
 "M12WQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M12WQ","No Data",NA,NA,NA,NA,TRUE,0
 "M12WR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M12WW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M12WX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M12WX","No Data",NA,NA,NA,NA,TRUE,0

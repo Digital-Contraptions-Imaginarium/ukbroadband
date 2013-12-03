@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WV21AA","OK",FALSE,15.1,14.6,23.5,TRUE,32
 "WV21AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV21AD","No Data",NA,NA,NA,NA,FALSE,0
 "WV21AL","OK",FALSE,19.1,12.3,30,TRUE,10
 "WV21AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV21AS","No Data",NA,NA,NA,NA,FALSE,0
 "WV21AW","OK",FALSE,27,19,30,TRUE,19
 "WV21AX","No premises",NA,NA,NA,NA,FALSE,0
 "WV21AY","No premises",NA,NA,NA,NA,FALSE,0
@@ -12,10 +10,8 @@
 "WV21BA","OK",FALSE,15.4,14.4,20.1,FALSE,7
 "WV21BD","No premises",NA,NA,NA,NA,FALSE,0
 "WV21BH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV21BH","No Data",NA,NA,NA,NA,TRUE,0
 "WV21BL","No premises",NA,NA,NA,NA,FALSE,0
 "WV21BP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV21BP","No Data",NA,NA,NA,NA,TRUE,0
 "WV21BX","No premises",NA,NA,NA,NA,FALSE,0
 "WV21BZ","OK",FALSE,30,30,30,TRUE,7
 "WV21DA","OK",FALSE,27.1,16.4,30,TRUE,8

@@ -1,13 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CA38AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38AB","No Data",NA,NA,NA,NA,FALSE,0
 "CA38AG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA38AH","No premises",NA,NA,NA,NA,FALSE,0
 "CA38AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38AJ","No Data",NA,NA,NA,NA,FALSE,0
 "CA38AN","OK",TRUE,8.2,8.1,16.2,FALSE,3
 "CA38AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38AQ","No Data",NA,NA,NA,NA,FALSE,0
 "CA38AU","No Data",NA,NA,NA,NA,FALSE,0
 "CA38BB","No premises",NA,NA,NA,NA,FALSE,0
 "CA38DA","OK",FALSE,14.3,12.6,24,FALSE,12
@@ -23,19 +20,16 @@
 "CA38ED","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA38EE","No premises",NA,NA,NA,NA,FALSE,0
 "CA38EF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38EF","No Data",NA,NA,NA,NA,FALSE,0
 "CA38EJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA38EL","No premises",NA,NA,NA,NA,FALSE,0
 "CA38EN","No premises",NA,NA,NA,NA,FALSE,0
 "CA38EP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38EP","No Data",NA,NA,NA,NA,FALSE,0
 "CA38EQ","OK",TRUE,9.5,8.1,19,FALSE,3
 "CA38ES","OK",FALSE,20.8,21.3,23.9,FALSE,4
 "CA38EU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA38EZ","No premises",NA,NA,NA,NA,FALSE,0
 "CA38GT","No premises",NA,NA,NA,NA,FALSE,0
 "CA38HB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38HB","No Data",NA,NA,NA,NA,FALSE,0
 "CA38HE","No premises",NA,NA,NA,NA,FALSE,0
 "CA38HG","OK",FALSE,14,15.5,18.4,FALSE,6
 "CA38HJ","OK",FALSE,17.8,16.4,23.5,FALSE,4
@@ -48,7 +42,6 @@
 "CA38JE","No Data",NA,NA,NA,NA,FALSE,0
 "CA38JF","No Data",NA,NA,NA,NA,FALSE,0
 "CA38JG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38JG","No Data",NA,NA,NA,NA,FALSE,0
 "CA38JR","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA38JU","OK",TRUE,8.3,7.9,15.3,FALSE,4
 "CA38JW","OK",TRUE,6.6,7.5,10.5,FALSE,5
@@ -56,7 +49,6 @@
 "CA38JY","No premises",NA,NA,NA,NA,FALSE,0
 "CA38JZ","No premises",NA,NA,NA,NA,FALSE,0
 "CA38LE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38LE","No Data",NA,NA,NA,NA,FALSE,0
 "CA38LF","OK",FALSE,19.3,19.3,24.2,FALSE,3
 "CA38LG","OK",FALSE,13.5,13.5,21.9,FALSE,4
 "CA38LP","OK",FALSE,17.8,21.4,22.9,FALSE,4
@@ -65,12 +57,10 @@
 "CA38LX","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA38LZ","No premises",NA,NA,NA,NA,FALSE,0
 "CA38NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38NA","No Data",NA,NA,NA,NA,FALSE,0
 "CA38ND","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA38NF","No premises",NA,NA,NA,NA,FALSE,0
 "CA38NH","OK",TRUE,13.1,15.7,19.1,FALSE,5
 "CA38NR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38NR","No Data",NA,NA,NA,NA,FALSE,0
 "CA38NS","No Data",NA,NA,NA,NA,FALSE,0
 "CA38NT","OK",TRUE,6.6,8.1,8.1,FALSE,6
 "CA38NX","OK",FALSE,13.7,14.7,21.6,FALSE,15
@@ -107,35 +97,26 @@
 "CA38SW","OK",FALSE,15.5,15.2,18.1,FALSE,4
 "CA38SY","OK",TRUE,14,18.3,22.2,FALSE,7
 "CA38TA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38TA","No Data",NA,NA,NA,NA,FALSE,0
 "CA38TD","No premises",NA,NA,NA,NA,FALSE,0
 "CA38TF","No premises",NA,NA,NA,NA,FALSE,0
 "CA38TJ","No premises",NA,NA,NA,NA,FALSE,0
 "CA38TP","OK",TRUE,12.9,14.2,19.9,FALSE,13
 "CA38TS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38TS","No Data",NA,NA,NA,NA,FALSE,0
 "CA38TT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA38TX","OK",FALSE,15.3,16.9,24.4,FALSE,13
 "CA38TZ","OK",FALSE,14.5,15.3,21.3,FALSE,13
 "CA38UB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38UB","No Data",NA,NA,NA,NA,FALSE,0
 "CA38UE","No premises",NA,NA,NA,NA,FALSE,0
 "CA38UF","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA38UH","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA38UL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38UL","No Data",NA,NA,NA,NA,FALSE,0
 "CA38UR","OK",FALSE,17.2,17.9,18.6,FALSE,7
 "CA38UU","OK",FALSE,16,15.7,20.8,FALSE,5
 "CA38UY","OK",FALSE,13.7,13.8,19.6,FALSE,8
 "CA38UZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38UZ","No Data",NA,NA,NA,NA,FALSE,0
 "CA38XA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38XA","No Data",NA,NA,NA,NA,FALSE,0
 "CA38XB","OK",FALSE,14,14,21.6,FALSE,8
 "CA38XD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38XD","No Data",NA,NA,NA,NA,FALSE,0
 "CA38XL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38XL","No Data",NA,NA,NA,NA,FALSE,0
 "CA38XP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA38XP","No Data",NA,NA,NA,NA,FALSE,0
 "CA38YE","No premises",NA,NA,NA,NA,FALSE,0

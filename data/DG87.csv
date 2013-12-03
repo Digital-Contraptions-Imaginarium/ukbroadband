@@ -1,25 +1,17 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DG87AA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DG87AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87AB","No Data",NA,NA,NA,NA,FALSE,0
 "DG87AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87AD","No Data",NA,NA,NA,NA,FALSE,0
 "DG87AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87AE","No Data",NA,NA,NA,NA,FALSE,0
 "DG87AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87AF","No Data",NA,NA,NA,NA,FALSE,0
 "DG87AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87AG","No Data",NA,NA,NA,NA,FALSE,0
 "DG87AJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DG87AL","OK",TRUE,6.4,7.6,11.8,FALSE,13
 "DG87AN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87AN","No Data",NA,NA,NA,NA,FALSE,0
 "DG87AR","OK",FALSE,6.1,5.2,9.5,FALSE,4
 "DG87AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87AS","No Data",NA,NA,NA,NA,FALSE,0
 "DG87AT","OK",FALSE,5.9,6.1,9.2,FALSE,4
 "DG87AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87AU","No Data",NA,NA,NA,NA,FALSE,0
 "DG87AW","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DG87AX","OK",TRUE,3,2.6,5.6,FALSE,6
 "DG87AZ","OK",FALSE,4,3.9,4.9,FALSE,5
@@ -30,24 +22,17 @@
 "DG87BG","OK",TRUE,3.5,2.6,5.8,FALSE,3
 "DG87BH","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DG87BJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87BJ","No Data",NA,NA,NA,NA,FALSE,0
 "DG87BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87BL","No Data",NA,NA,NA,NA,FALSE,0
 "DG87BN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87BN","No Data",NA,NA,NA,NA,FALSE,0
 "DG87BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87BQ","No Data",NA,NA,NA,NA,FALSE,0
 "DG87BW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87BW","No Data",NA,NA,NA,NA,FALSE,0
 "DG87BX","OK",FALSE,7.4,7.4,8.1,FALSE,8
 "DG87BY","OK",FALSE,6.2,7.1,8.1,FALSE,7
 "DG87BZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87BZ","No Data",NA,NA,NA,NA,FALSE,0
 "DG87DA","OK",TRUE,7.2,8.1,8.1,FALSE,11
 "DG87DB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DG87DE","OK",FALSE,4.6,4.6,7.1,FALSE,7
 "DG87DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87DF","No Data",NA,NA,NA,NA,FALSE,0
 "DG87DG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DG87DL","No Data",NA,NA,NA,NA,FALSE,0
 "DG87DN","OK",TRUE,4.7,4.8,8.1,FALSE,16
@@ -59,13 +44,10 @@
 "DG87DU","OK",FALSE,3.3,3.3,4.5,FALSE,4
 "DG87DW","OK",FALSE,4.4,4.4,4.8,FALSE,4
 "DG87DX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87DX","No Data",NA,NA,NA,NA,FALSE,0
 "DG87DY","OK",TRUE,1.8,2.3,2.8,FALSE,3
 "DG87DZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87DZ","No Data",NA,NA,NA,NA,FALSE,0
 "DG87EA","OK",TRUE,1.7,1.4,4.5,FALSE,11
 "DG87EB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87EB","No Data",NA,NA,NA,NA,FALSE,0
 "DG87EN","OK",FALSE,7.3,8.1,8.1,FALSE,11
 "DG87EP","OK",FALSE,7.1,8.1,8.1,FALSE,3
 "DG87ER","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -73,13 +55,10 @@
 "DG87ET","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DG87EU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DG87EW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87EW","No Data",NA,NA,NA,NA,FALSE,0
 "DG87EX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87EX","No Data",NA,NA,NA,NA,FALSE,0
 "DG87EY","OK",FALSE,6.8,7.4,8.1,FALSE,4
 "DG87HB","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DG87HF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87HF","No Data",NA,NA,NA,NA,FALSE,0
 "DG87HG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DG87HH","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DG87HJ","OK",TRUE,6.7,8.1,8.1,FALSE,14
@@ -93,7 +72,6 @@
 "DG87HU","OK",TRUE,6.9,7.8,8.1,FALSE,12
 "DG87HW","OK",FALSE,7.2,7.4,8.1,FALSE,6
 "DG87HX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87HX","No Data",NA,NA,NA,NA,FALSE,0
 "DG87HY","OK",FALSE,6.4,7.2,8.1,FALSE,4
 "DG87HZ","OK",FALSE,7.7,8.1,8.1,FALSE,8
 "DG87JA","OK",FALSE,5.3,5.7,8.1,FALSE,5
@@ -107,14 +85,9 @@
 "DG87JN","OK",TRUE,5.2,6.8,8.1,FALSE,6
 "DG87JP","OK",FALSE,7.6,8.1,8.1,FALSE,4
 "DG87JQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87JQ","No Data",NA,NA,NA,NA,FALSE,0
 "DG87JR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87JR","No Data",NA,NA,NA,NA,FALSE,0
 "DG87JS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87JS","No Data",NA,NA,NA,NA,FALSE,0
 "DG87JT","OK",FALSE,7,6.8,8,FALSE,3
 "DG87JW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87JW","No Data",NA,NA,NA,NA,FALSE,0
 "DG87JX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DG87JX","No Data",NA,NA,NA,NA,FALSE,0
 "DG87JY","Insufficient Data",NA,NA,NA,NA,FALSE,2

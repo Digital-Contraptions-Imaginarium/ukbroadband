@@ -14,7 +14,5 @@
 "W53HT","OK",TRUE,28.2,20,30,TRUE,40
 "W53HU","OK",TRUE,21.8,11.7,30,TRUE,25
 "W53HX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W53HX","No Data",NA,NA,NA,NA,TRUE,0
 "W53HY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W53HY","No Data",NA,NA,NA,NA,FALSE,0
 "W53HZ","No premises",NA,NA,NA,NA,FALSE,0

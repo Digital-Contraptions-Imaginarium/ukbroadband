@@ -1,11 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "NE675AA","OK",TRUE,6,6.8,8.1,FALSE,9
 "NE675AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675AB","No Data",NA,NA,NA,NA,FALSE,0
 "NE675AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675AD","No Data",NA,NA,NA,NA,FALSE,0
 "NE675AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675AE","No Data",NA,NA,NA,NA,FALSE,0
 "NE675AG","OK",TRUE,2.3,2.3,4,FALSE,15
 "NE675AJ","OK",TRUE,1.9,2,2.9,FALSE,7
 "NE675AL","OK",TRUE,3.9,3.8,6,FALSE,10
@@ -18,9 +15,7 @@
 "NE675AX","OK",TRUE,3.2,3.6,4.5,FALSE,6
 "NE675AY","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675AZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675AZ","No Data",NA,NA,NA,NA,FALSE,0
 "NE675BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675BA","No Data",NA,NA,NA,NA,FALSE,0
 "NE675BB","OK",TRUE,3.7,3.4,6.9,FALSE,10
 "NE675BD","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675BE","OK",TRUE,3.1,2.7,5.2,FALSE,5
@@ -29,7 +24,6 @@
 "NE675BJ","OK",TRUE,2.1,2.1,2.4,FALSE,5
 "NE675BL","OK",TRUE,1.2,1.2,1.7,FALSE,4
 "NE675BN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675BN","No Data",NA,NA,NA,NA,FALSE,0
 "NE675BP","OK",TRUE,3.2,3.1,5.1,FALSE,11
 "NE675BQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675BS","OK",TRUE,2.8,2.8,5.1,FALSE,24
@@ -43,17 +37,13 @@
 "NE675DE","OK",FALSE,7.2,8.1,8.1,FALSE,8
 "NE675DF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675DG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675DG","No Data",NA,NA,NA,NA,FALSE,0
 "NE675DH","OK",FALSE,7.9,8.1,8.1,FALSE,3
 "NE675DJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675DJ","No Data",NA,NA,NA,NA,FALSE,0
 "NE675DN","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "NE675DP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675DP","No Data",NA,NA,NA,NA,FALSE,0
 "NE675DQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675DR","OK",FALSE,3.9,3.8,5.3,FALSE,5
 "NE675DS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675DS","No Data",NA,NA,NA,NA,FALSE,0
 "NE675DU","OK",TRUE,1.6,1.6,2.5,FALSE,6
 "NE675DW","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "NE675DX","OK",TRUE,2.1,1.7,2.8,FALSE,3
@@ -69,20 +59,17 @@
 "NE675EN","OK",TRUE,1.8,1.8,2.3,FALSE,3
 "NE675ER","OK",TRUE,2.1,1.7,3.4,FALSE,9
 "NE675ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675ES","No Data",NA,NA,NA,NA,FALSE,0
 "NE675ET","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675EU","OK",TRUE,2.4,2.8,4.3,FALSE,3
 "NE675EW","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675EX","OK",TRUE,5.2,5.2,8.1,FALSE,4
 "NE675EY","OK",FALSE,7.4,7.8,8.1,FALSE,3
 "NE675EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675EZ","No Data",NA,NA,NA,NA,FALSE,0
 "NE675GH","OK",TRUE,2.4,2.3,3.4,FALSE,19
 "NE675HA","OK",TRUE,5.5,5.7,8.1,FALSE,12
 "NE675HB","OK",FALSE,5.9,5.7,8,FALSE,6
 "NE675HD","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675HE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675HE","No Data",NA,NA,NA,NA,FALSE,0
 "NE675HF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675HG","OK",TRUE,2.2,2.3,4,FALSE,12
 "NE675HJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -90,23 +77,16 @@
 "NE675HN","OK",FALSE,4.2,4.5,5.7,FALSE,5
 "NE675HP","OK",TRUE,3.3,3.4,5.7,FALSE,10
 "NE675HQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675HQ","No Data",NA,NA,NA,NA,FALSE,0
 "NE675HR","OK",TRUE,4.5,4.9,6.2,FALSE,4
 "NE675HS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675HS","No Data",NA,NA,NA,NA,FALSE,0
 "NE675HT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675HU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675HW","OK",FALSE,3.3,3.1,4.9,FALSE,5
 "NE675HX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675HX","No Data",NA,NA,NA,NA,FALSE,0
 "NE675HY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675HY","No Data",NA,NA,NA,NA,FALSE,0
 "NE675JA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675JA","No Data",NA,NA,NA,NA,FALSE,0
 "NE675JD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675JD","No Data",NA,NA,NA,NA,FALSE,0
 "NE675JE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675JE","No Data",NA,NA,NA,NA,FALSE,0
 "NE675JP","OK",FALSE,6.3,8,8.1,FALSE,3
 "NE675JQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "NE675JR","OK",TRUE,5.2,5.9,8,FALSE,4
@@ -114,7 +94,6 @@
 "NE675JT","OK",FALSE,7,7.2,8.1,FALSE,5
 "NE675JU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675JX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675JX","No Data",NA,NA,NA,NA,FALSE,0
 "NE675JY","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NE675JZ","OK",TRUE,3,3,5.7,FALSE,6
 "NE675LA","OK",TRUE,2,2.8,2.8,FALSE,3
@@ -125,6 +104,4 @@
 "NE675LH","OK",TRUE,0.9,0.6,1.5,FALSE,3
 "NE675LJ","OK",TRUE,1.5,1.7,2.3,FALSE,4
 "NE675LL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675LL","No Data",NA,NA,NA,NA,FALSE,0
 "NE675LQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NE675LQ","No Data",NA,NA,NA,NA,FALSE,0

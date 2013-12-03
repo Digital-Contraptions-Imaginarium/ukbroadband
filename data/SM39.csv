@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SM39AA","OK",TRUE,18.7,13.2,30,TRUE,18
 "SM39AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SM39AB","No Data",NA,NA,NA,NA,FALSE,0
 "SM39AD","OK",TRUE,16.9,18,22.3,FALSE,11
 "SM39AE","OK",FALSE,30,30,30,TRUE,11
 "SM39AG","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -56,7 +55,6 @@
 "SM39HE","OK",TRUE,6.2,2.9,30,TRUE,24
 "SM39HF","No premises",NA,NA,NA,NA,TRUE,0
 "SM39HG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SM39HG","No Data",NA,NA,NA,NA,TRUE,0
 "SM39HH","OK",FALSE,9.7,7.5,30,TRUE,9
 "SM39HJ","OK",TRUE,14.4,5.6,30,TRUE,12
 "SM39HL","No premises",NA,NA,NA,NA,FALSE,0
@@ -78,7 +76,6 @@
 "SM39JH","OK",TRUE,21.8,20,30,TRUE,18
 "SM39JJ","OK",TRUE,13.7,5.7,30,TRUE,9
 "SM39JL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SM39JL","No Data",NA,NA,NA,NA,TRUE,0
 "SM39JN","OK",FALSE,30,20,30,TRUE,15
 "SM39JP","OK",TRUE,26.1,20,30,TRUE,43
 "SM39JR","OK",FALSE,24.9,20,30,TRUE,27
@@ -139,7 +136,6 @@
 "SM39QF","OK",FALSE,30,20.8,30,TRUE,19
 "SM39QG","OK",TRUE,19.8,17.5,30,TRUE,54
 "SM39QH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SM39QH","No Data",NA,NA,NA,NA,FALSE,0
 "SM39QJ","OK",FALSE,30,20,30,TRUE,11
 "SM39QL","No Data",NA,NA,NA,NA,FALSE,0
 "SM39QN","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -147,7 +143,6 @@
 "SM39QQ","OK",TRUE,30,30,30,TRUE,11
 "SM39QR","OK",TRUE,11.2,16.1,16.3,TRUE,4
 "SM39QS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SM39QS","No Data",NA,NA,NA,NA,TRUE,0
 "SM39QW","No Data",NA,NA,NA,NA,FALSE,0
 "SM39QX","OK",FALSE,30,19.3,30,TRUE,24
 "SM39QY","OK",TRUE,27.1,19,30,TRUE,25

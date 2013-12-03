@@ -1,7 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M14BE","No premises",NA,NA,NA,NA,FALSE,0
 "M14BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M14BH","No Data",NA,NA,NA,NA,FALSE,0
 "M14BP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M14BP","No Data",NA,NA,NA,NA,FALSE,0
 "M14BT","OK",FALSE,10,8.1,22.8,TRUE,9

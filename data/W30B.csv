@@ -1,9 +1,7 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W30BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W30BA","No Data",NA,NA,NA,NA,FALSE,0
 "W30BP","OK",TRUE,4.4,3,9.7,TRUE,3
 "W30BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W30BS","No Data",NA,NA,NA,NA,FALSE,0
 "W30BU","OK",TRUE,30,21.5,30,TRUE,19
 "W30BX","OK",TRUE,22.7,12.3,30,TRUE,16
 "W30BZ","Insufficient Data",NA,NA,NA,NA,FALSE,1

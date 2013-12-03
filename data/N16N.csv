@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N16NA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N16NA","No Data",NA,NA,NA,NA,TRUE,0
 "N16ND","OK",FALSE,13.7,13.5,22.9,TRUE,46
 "N16NE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "N16NG","OK",FALSE,20.9,16.4,30,TRUE,5
@@ -8,7 +7,6 @@
 "N16NL","OK",FALSE,19.7,20.2,23,TRUE,4
 "N16NN","OK",FALSE,27.3,20.3,30,TRUE,12
 "N16NP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N16NP","No Data",NA,NA,NA,NA,TRUE,0
 "N16NQ","OK",FALSE,20,19.7,21.2,TRUE,3
 "N16NT","OK",FALSE,17.4,18.8,22.8,TRUE,39
 "N16NU","OK",FALSE,28.6,17.7,30,TRUE,36

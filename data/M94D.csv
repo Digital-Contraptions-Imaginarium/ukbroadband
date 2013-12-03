@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M94DA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M94DA","No Data",NA,NA,NA,NA,TRUE,0
 "M94DB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M94DD","No premises",NA,NA,NA,NA,FALSE,0
 "M94DE","OK",FALSE,2.9,2.9,3.2,TRUE,3
@@ -11,11 +10,9 @@
 "M94DL","No premises",NA,NA,NA,NA,TRUE,0
 "M94DQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "M94DS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M94DS","No Data",NA,NA,NA,NA,FALSE,0
 "M94DT","OK",TRUE,15.4,4.7,30,TRUE,22
 "M94DU","OK",TRUE,3.1,3.5,4.5,TRUE,14
 "M94DW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M94DW","No Data",NA,NA,NA,NA,FALSE,0
 "M94DX","OK",TRUE,13.8,3.7,30,TRUE,16
 "M94DY","OK",TRUE,20.6,5.9,30,TRUE,32
 "M94DZ","OK",TRUE,16.6,6.7,30,TRUE,24

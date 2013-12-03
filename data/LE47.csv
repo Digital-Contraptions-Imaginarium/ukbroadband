@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LE47AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LE47AA","No Data",NA,NA,NA,NA,TRUE,0
 "LE47AB","OK",FALSE,26.6,30,30,TRUE,15
 "LE47AD","OK",FALSE,20.8,20,30,TRUE,15
 "LE47AE","OK",TRUE,19.2,20,30,TRUE,38
@@ -79,7 +78,6 @@
 "LE47QD","OK",FALSE,21.2,18.7,30,TRUE,6
 "LE47QE","OK",FALSE,19.6,19.9,30,TRUE,27
 "LE47QG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LE47QG","No Data",NA,NA,NA,NA,TRUE,0
 "LE47QH","OK",FALSE,22.5,20,30,TRUE,5
 "LE47QJ","OK",FALSE,17.6,17.2,30,TRUE,13
 "LE47QL","OK",FALSE,20.1,19.6,30,TRUE,28
@@ -93,7 +91,6 @@
 "LE47QW","OK",FALSE,17.8,14.2,30,TRUE,5
 "LE47QY","OK",FALSE,29.4,30,30,TRUE,13
 "LE47QZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE47QZ","No Data",NA,NA,NA,NA,FALSE,0
 "LE47RA","OK",TRUE,19.9,20,30,TRUE,34
 "LE47RB","OK",FALSE,22,20,30,TRUE,21
 "LE47RD","OK",FALSE,25.4,22,30,TRUE,18

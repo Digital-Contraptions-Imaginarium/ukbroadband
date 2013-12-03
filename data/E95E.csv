@@ -12,8 +12,6 @@
 "E95ER","No premises",NA,NA,NA,NA,TRUE,0
 "E95ES","OK",TRUE,11.6,8.3,30,TRUE,29
 "E95ET","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E95ET","No Data",NA,NA,NA,NA,FALSE,0
 "E95EU","No premises",NA,NA,NA,NA,FALSE,0
 "E95EX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E95EX","No Data",NA,NA,NA,NA,FALSE,0
 "E95EY","OK",FALSE,7.6,6.7,11.3,FALSE,9

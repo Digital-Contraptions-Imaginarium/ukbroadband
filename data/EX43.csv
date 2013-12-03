@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "EX43AA","OK",FALSE,20.2,15.9,30,TRUE,5
 "EX43AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"EX43AB","No Data",NA,NA,NA,NA,TRUE,0
 "EX43AD","OK",FALSE,20.7,20,30,TRUE,21
 "EX43AE","OK",TRUE,20.7,15.2,30,TRUE,15
 "EX43AG","OK",FALSE,11.9,12,14.3,TRUE,5
@@ -19,7 +18,6 @@
 "EX43AZ","No Data",NA,NA,NA,NA,TRUE,0
 "EX43BA","OK",FALSE,8,8,8.1,TRUE,3
 "EX43BB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"EX43BB","No Data",NA,NA,NA,NA,FALSE,0
 "EX43BG","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "EX43BH","OK",FALSE,19,21.4,24.4,TRUE,6
 "EX43BJ","OK",TRUE,12.9,14.7,21,TRUE,6
@@ -41,16 +39,13 @@
 "EX43DQ","No premises",NA,NA,NA,NA,TRUE,0
 "EX43DR","OK",FALSE,14.8,16,16.9,FALSE,3
 "EX43DS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"EX43DS","No Data",NA,NA,NA,NA,TRUE,0
 "EX43DT","OK",FALSE,18.3,22.8,24.2,TRUE,3
 "EX43DU","No Data",NA,NA,NA,NA,TRUE,0
 "EX43DW","OK",FALSE,16.1,17.4,20,FALSE,11
 "EX43EA","OK",FALSE,30,30,30,TRUE,3
 "EX43EB","OK",TRUE,8.2,8.1,15.8,TRUE,8
 "EX43ED","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"EX43ED","No Data",NA,NA,NA,NA,TRUE,0
 "EX43EF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"EX43EF","No Data",NA,NA,NA,NA,FALSE,0
 "EX43EH","OK",FALSE,16.8,18.4,20.6,TRUE,5
 "EX43EL","OK",FALSE,21.8,22.3,24.4,TRUE,3
 "EX43ER","OK",FALSE,30,19.9,30,TRUE,23
@@ -75,7 +70,6 @@
 "EX43JB","No premises",NA,NA,NA,NA,TRUE,0
 "EX43JE","OK",FALSE,11.8,15.4,17.3,TRUE,3
 "EX43JF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"EX43JF","No Data",NA,NA,NA,NA,TRUE,0
 "EX43JQ","OK",FALSE,28.5,20.8,30,TRUE,33
 "EX43JR","OK",FALSE,20.2,19.6,24.1,TRUE,5
 "EX43JW","OK",FALSE,21.5,16.2,30,TRUE,9
@@ -87,7 +81,6 @@
 "EX43LR","OK",FALSE,10.9,7.8,17.1,TRUE,3
 "EX43LS","OK",FALSE,16.1,18.4,24.4,TRUE,18
 "EX43NB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"EX43NB","No Data",NA,NA,NA,NA,TRUE,0
 "EX43NE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "EX43NJ","No premises",NA,NA,NA,NA,TRUE,0
 "EX43NL","No premises",NA,NA,NA,NA,FALSE,0
@@ -102,7 +95,6 @@
 "EX43QB","No premises",NA,NA,NA,NA,TRUE,0
 "EX43QD","No premises",NA,NA,NA,NA,TRUE,0
 "EX43QG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"EX43QG","No Data",NA,NA,NA,NA,TRUE,0
 "EX43QH","No premises",NA,NA,NA,NA,TRUE,0
 "EX43QJ","No Data",NA,NA,NA,NA,FALSE,0
 "EX43QL","OK",FALSE,20.6,21.2,22.6,FALSE,10
@@ -119,7 +111,6 @@
 "EX43RP","OK",TRUE,5.7,7.7,7.8,TRUE,3
 "EX43RQ","OK",FALSE,17.2,17.9,30,TRUE,9
 "EX43RW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"EX43RW","No Data",NA,NA,NA,NA,TRUE,0
 "EX43RX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "EX43RY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "EX43SA","OK",FALSE,18.7,21.8,24.4,TRUE,9
@@ -131,9 +122,7 @@
 "EX43SP","No premises",NA,NA,NA,NA,TRUE,0
 "EX43SR","OK",FALSE,14.8,16.4,24.4,TRUE,11
 "EX43TE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"EX43TE","No Data",NA,NA,NA,NA,FALSE,0
 "EX43TL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"EX43TL","No Data",NA,NA,NA,NA,FALSE,0
 "EX43TT","OK",TRUE,8.5,7.9,16.1,TRUE,4
 "EX43WE","No premises",NA,NA,NA,NA,FALSE,0
 "EX43XJ","No premises",NA,NA,NA,NA,FALSE,0

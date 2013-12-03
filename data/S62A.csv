@@ -3,12 +3,9 @@
 "S62AB","OK",FALSE,7.9,4.5,16,TRUE,3
 "S62AD","OK",FALSE,25.9,16.6,30,TRUE,20
 "S62AE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S62AE","No Data",NA,NA,NA,NA,TRUE,0
 "S62AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S62AF","No Data",NA,NA,NA,NA,FALSE,0
 "S62AG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S62AH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S62AH","No Data",NA,NA,NA,NA,FALSE,0
 "S62AN","No Data",NA,NA,NA,NA,TRUE,0
 "S62AP","No premises",NA,NA,NA,NA,FALSE,0
 "S62AS","OK",TRUE,20.5,20,30,TRUE,43

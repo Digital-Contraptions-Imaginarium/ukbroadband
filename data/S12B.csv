@@ -1,9 +1,7 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S12BA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S12BA","No Data",NA,NA,NA,NA,TRUE,0
 "S12BD","OK",FALSE,8,8,8.1,TRUE,3
 "S12BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S12BF","No Data",NA,NA,NA,NA,FALSE,0
 "S12BG","OK",TRUE,7.9,7.7,19,TRUE,10
 "S12BH","No premises",NA,NA,NA,NA,FALSE,0
 "S12BJ","OK",FALSE,12.4,12.9,14.3,TRUE,11
@@ -11,6 +9,5 @@
 "S12BQ","OK",FALSE,7,8.1,8.1,TRUE,3
 "S12BS","OK",FALSE,23.4,20,30,TRUE,5
 "S12BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S12BT","No Data",NA,NA,NA,NA,FALSE,0
 "S12BW","No premises",NA,NA,NA,NA,TRUE,0
 "S12BX","No Data",NA,NA,NA,NA,TRUE,0

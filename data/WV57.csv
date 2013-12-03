@@ -1,19 +1,15 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WV57AA","OK",FALSE,7.4,7.4,8.1,FALSE,5
 "WV57AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV57AB","No Data",NA,NA,NA,NA,FALSE,0
 "WV57AD","OK",FALSE,5.9,6.4,7.6,FALSE,4
 "WV57AE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WV57AF","OK",FALSE,6.2,6.8,8.1,FALSE,10
 "WV57AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV57AG","No Data",NA,NA,NA,NA,FALSE,0
 "WV57AH","OK",FALSE,6.2,7.1,8.1,FALSE,8
 "WV57AJ","OK",TRUE,3.6,4,4.5,FALSE,4
 "WV57AL","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "WV57AN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV57AN","No Data",NA,NA,NA,NA,FALSE,0
 "WV57AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV57AP","No Data",NA,NA,NA,NA,FALSE,0
 "WV57AQ","OK",FALSE,7,7.3,8.1,FALSE,6
 "WV57AR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WV57AS","OK",FALSE,5.4,5,8.1,FALSE,10
@@ -25,7 +21,6 @@
 "WV57BB","OK",FALSE,7.6,8.1,8.1,FALSE,16
 "WV57BD","OK",FALSE,7.1,8,8.1,FALSE,39
 "WV57BE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV57BE","No Data",NA,NA,NA,NA,FALSE,0
 "WV57BG","OK",FALSE,7,7.7,8.1,FALSE,14
 "WV57BH","OK",FALSE,7.7,8.1,8.1,FALSE,6
 "WV57BJ","OK",FALSE,7.5,8.1,8.1,FALSE,18
@@ -33,10 +28,8 @@
 "WV57BN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WV57BP","OK",FALSE,0,0,0,FALSE,3
 "WV57BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV57BQ","No Data",NA,NA,NA,NA,FALSE,0
 "WV57BS","OK",FALSE,7.5,8.1,8.1,FALSE,19
 "WV57BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV57BT","No Data",NA,NA,NA,NA,FALSE,0
 "WV57BW","OK",TRUE,5.5,7.4,8.1,FALSE,11
 "WV57BY","OK",FALSE,6.4,6.7,8.1,FALSE,7
 "WV57DA","OK",TRUE,5.5,7.4,8.1,FALSE,10
@@ -59,7 +52,6 @@
 "WV57EA","OK",TRUE,4.3,4.8,8,FALSE,20
 "WV57EB","OK",TRUE,4.5,5.2,8,FALSE,21
 "WV57ED","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV57ED","No Data",NA,NA,NA,NA,FALSE,0
 "WV57EE","OK",FALSE,6.3,6.6,8.1,FALSE,13
 "WV57EF","No premises",NA,NA,NA,NA,FALSE,0
 "WV57EG","OK",TRUE,1.3,1.1,2.1,FALSE,6
@@ -75,7 +67,6 @@
 "WV57EX","OK",TRUE,2.4,2.4,3.3,FALSE,4
 "WV57EY","OK",TRUE,2,2.1,2.8,FALSE,9
 "WV57EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV57EZ","No Data",NA,NA,NA,NA,FALSE,0
 "WV57HA","OK",TRUE,1.5,1.5,3.7,FALSE,44
 "WV57HD","OK",TRUE,1.7,1.8,2.8,FALSE,18
 "WV57HE","OK",TRUE,2.3,2.4,3.3,FALSE,9

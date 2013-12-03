@@ -10,6 +10,5 @@
 "N32LQ","No premises",NA,NA,NA,NA,FALSE,0
 "N32LS","No premises",NA,NA,NA,NA,FALSE,0
 "N32LT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N32LT","No Data",NA,NA,NA,NA,TRUE,0
 "N32LX","OK",TRUE,30,18.2,30,TRUE,14
 "N32LY","OK",FALSE,14.4,10.5,30,TRUE,6

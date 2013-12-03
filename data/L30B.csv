@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L30BE","No premises",NA,NA,NA,NA,FALSE,0
 "L30BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L30BF","No Data",NA,NA,NA,NA,FALSE,0
 "L30BG","OK",FALSE,13.7,14.4,19.7,FALSE,55
 "L30BH","OK",TRUE,13.2,15,20.5,FALSE,52
 "L30BQ","OK",TRUE,13.7,15.4,19.7,FALSE,57

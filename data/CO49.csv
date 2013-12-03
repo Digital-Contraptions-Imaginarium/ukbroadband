@@ -1,15 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CO49AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO49AA","No Data",NA,NA,NA,NA,FALSE,0
 "CO49AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CO49AB","No Data",NA,NA,NA,NA,TRUE,0
 "CO49AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO49AD","No Data",NA,NA,NA,NA,FALSE,0
 "CO49AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO49AE","No Data",NA,NA,NA,NA,FALSE,0
 "CO49AS","OK",FALSE,10.4,11.2,11.9,FALSE,3
 "CO49BA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CO49BA","No Data",NA,NA,NA,NA,TRUE,0
 "CO49BB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "CO49BD","OK",TRUE,22.1,20,30,TRUE,22
 "CO49BE","OK",TRUE,27,20,30,TRUE,39
@@ -47,7 +42,6 @@
 "CO49GB","OK",TRUE,30,20,30,TRUE,24
 "CO49GD","OK",TRUE,30,20,30,TRUE,7
 "CO49GF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CO49GF","No Data",NA,NA,NA,NA,TRUE,0
 "CO49GN","No premises",NA,NA,NA,NA,FALSE,0
 "CO49GP","OK",FALSE,30,30,30,TRUE,21
 "CO49HA","No premises",NA,NA,NA,NA,FALSE,0
@@ -58,18 +52,14 @@
 "CO49HT","OK",FALSE,9.9,9,13.9,FALSE,7
 "CO49HU","OK",FALSE,7.4,7.9,8.1,FALSE,4
 "CO49HW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO49HW","No Data",NA,NA,NA,NA,FALSE,0
 "CO49HX","No premises",NA,NA,NA,NA,FALSE,0
 "CO49HY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO49HY","No Data",NA,NA,NA,NA,FALSE,0
 "CO49HZ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CO49JU","No premises",NA,NA,NA,NA,TRUE,0
 "CO49LW","No premises",NA,NA,NA,NA,FALSE,0
 "CO49PD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO49PD","No Data",NA,NA,NA,NA,FALSE,0
 "CO49PE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CO49PJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO49PJ","No Data",NA,NA,NA,NA,FALSE,0
 "CO49PU","No premises",NA,NA,NA,NA,TRUE,0
 "CO49QB","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CO49QE","No premises",NA,NA,NA,NA,FALSE,0
@@ -78,7 +68,6 @@
 "CO49QH","No premises",NA,NA,NA,NA,FALSE,0
 "CO49QJ","No premises",NA,NA,NA,NA,FALSE,0
 "CO49QL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CO49QL","No Data",NA,NA,NA,NA,TRUE,0
 "CO49QN","No premises",NA,NA,NA,NA,FALSE,0
 "CO49QP","OK",FALSE,7.8,7.8,9.3,FALSE,6
 "CO49QQ","OK",FALSE,8.1,8.1,8.1,FALSE,3
@@ -122,7 +111,6 @@
 "CO49SP","OK",TRUE,5.6,2.6,20,TRUE,7
 "CO49SQ","OK",FALSE,22.3,20,30,TRUE,20
 "CO49SR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CO49SR","No Data",NA,NA,NA,NA,TRUE,0
 "CO49SS","OK",TRUE,26.6,12.5,30,TRUE,36
 "CO49ST","OK",TRUE,26.7,12.8,30,TRUE,56
 "CO49SU","OK",TRUE,13.5,4.8,30,TRUE,9
@@ -134,7 +122,6 @@
 "CO49TD","No premises",NA,NA,NA,NA,FALSE,0
 "CO49TF","No premises",NA,NA,NA,NA,FALSE,0
 "CO49TG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO49TG","No Data",NA,NA,NA,NA,FALSE,0
 "CO49TH","OK",TRUE,30,20,30,TRUE,23
 "CO49TJ","OK",FALSE,30,20,30,TRUE,17
 "CO49TL","OK",TRUE,28.7,25,30,TRUE,10
@@ -163,7 +150,6 @@
 "CO49WH","OK",FALSE,11.3,12.6,16.6,TRUE,8
 "CO49WJ","OK",FALSE,20.7,14.3,30,TRUE,13
 "CO49WN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO49WN","No Data",NA,NA,NA,NA,FALSE,0
 "CO49WP","No premises",NA,NA,NA,NA,FALSE,0
 "CO49WQ","OK",FALSE,19.6,15.2,30,TRUE,17
 "CO49WT","OK",FALSE,16.6,10.4,30,TRUE,19
@@ -172,7 +158,6 @@
 "CO49WZ","No premises",NA,NA,NA,NA,FALSE,0
 "CO49XA","OK",TRUE,21.1,14.6,30,TRUE,17
 "CO49XE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CO49XE","No Data",NA,NA,NA,NA,TRUE,0
 "CO49XH","No premises",NA,NA,NA,NA,FALSE,0
 "CO49XN","OK",TRUE,26.8,10.3,30,TRUE,29
 "CO49XP","OK",FALSE,8.1,8.1,8.1,FALSE,3

@@ -2,20 +2,14 @@
 "L34BB","No premises",NA,NA,NA,NA,TRUE,0
 "L34BE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L34BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L34BF","No Data",NA,NA,NA,NA,FALSE,0
 "L34BG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L34BG","No Data",NA,NA,NA,NA,TRUE,0
 "L34BH","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L34BJ","OK",FALSE,6.2,5.5,9.7,TRUE,7
 "L34BL","OK",FALSE,6.1,5.2,11.5,TRUE,10
 "L34BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L34BN","No Data",NA,NA,NA,NA,TRUE,0
 "L34BP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L34BP","No Data",NA,NA,NA,NA,FALSE,0
 "L34BQ","OK",FALSE,4.8,5,6.7,TRUE,7
 "L34BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L34BT","No Data",NA,NA,NA,NA,FALSE,0
 "L34BU","OK",TRUE,12.1,13.4,19.4,FALSE,50
 "L34BW","OK",FALSE,11.5,11.8,17.3,FALSE,31
 "L34BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L34BX","No Data",NA,NA,NA,NA,FALSE,0

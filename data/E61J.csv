@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E61JA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E61JA","No Data",NA,NA,NA,NA,TRUE,0
 "E61JB","OK",FALSE,16.9,8.8,30,TRUE,15
 "E61JD","OK",TRUE,4,4.2,6.2,TRUE,6
 "E61JE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E61JE","No Data",NA,NA,NA,NA,TRUE,0
 "E61JG","OK",TRUE,13.5,3.8,30,TRUE,20
 "E61JH","OK",FALSE,16.9,8.3,30,TRUE,25
 "E61JJ","OK",FALSE,19.4,8.9,30,TRUE,8

@@ -1,4 +1,3 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B25SN","OK",FALSE,14.1,15.6,20.1,FALSE,9
 "B25ST","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B25ST","No Data",NA,NA,NA,NA,FALSE,0

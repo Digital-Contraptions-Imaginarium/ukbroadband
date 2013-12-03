@@ -1,17 +1,14 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "ST41AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST41AA","No Data",NA,NA,NA,NA,TRUE,0
 "ST41AE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST41AG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST41AH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST41AH","No Data",NA,NA,NA,NA,TRUE,0
 "ST41AL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST41AQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST41AR","OK",FALSE,25.9,30,30,TRUE,7
 "ST41AT","OK",FALSE,30,30,30,TRUE,3
 "ST41AW","OK",FALSE,23.3,20,30,TRUE,5
 "ST41AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST41AY","No Data",NA,NA,NA,NA,FALSE,0
 "ST41AZ","OK",FALSE,30,30,30,TRUE,7
 "ST41BG","No premises",NA,NA,NA,NA,TRUE,0
 "ST41BL","OK",TRUE,8.2,7.8,15,TRUE,4
@@ -23,12 +20,10 @@
 "ST41DG","No premises",NA,NA,NA,NA,TRUE,0
 "ST41DJ","No premises",NA,NA,NA,NA,TRUE,0
 "ST41DP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST41DP","No Data",NA,NA,NA,NA,TRUE,0
 "ST41DQ","OK",FALSE,17.8,17.1,19.8,TRUE,4
 "ST41DR","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "ST41DS","No premises",NA,NA,NA,NA,FALSE,0
 "ST41DT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST41DT","No Data",NA,NA,NA,NA,FALSE,0
 "ST41DX","OK",FALSE,18.1,20.4,22,TRUE,9
 "ST41DY","OK",TRUE,30,20,30,TRUE,11
 "ST41DZ","OK",FALSE,28.2,20.9,30,TRUE,22
@@ -51,18 +46,14 @@
 "ST41HS","No premises",NA,NA,NA,NA,TRUE,0
 "ST41HW","No premises",NA,NA,NA,NA,FALSE,0
 "ST41JB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST41JB","No Data",NA,NA,NA,NA,FALSE,0
 "ST41JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST41JF","No Data",NA,NA,NA,NA,FALSE,0
 "ST41JG","No premises",NA,NA,NA,NA,TRUE,0
 "ST41JH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST41JN","OK",FALSE,16.6,15.2,22.7,TRUE,4
 "ST41JP","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST41LE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST41LE","No Data",NA,NA,NA,NA,FALSE,0
 "ST41LN","No premises",NA,NA,NA,NA,FALSE,0
 "ST41LP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST41LP","No Data",NA,NA,NA,NA,TRUE,0
 "ST41LX","OK",TRUE,11.8,15,15.8,TRUE,4
 "ST41NA","OK",FALSE,12.1,12.6,15.5,TRUE,3
 "ST41NB","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -73,12 +64,10 @@
 "ST41NH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST41NL","OK",FALSE,18.9,17.6,30,TRUE,4
 "ST41NQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST41NQ","No Data",NA,NA,NA,NA,TRUE,0
 "ST41NR","No Data",NA,NA,NA,NA,FALSE,0
 "ST41NS","OK",FALSE,30,30,30,TRUE,5
 "ST41NU","OK",FALSE,16.7,18.2,21.5,TRUE,6
 "ST41NX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST41NX","No Data",NA,NA,NA,NA,TRUE,0
 "ST41NY","OK",FALSE,21.8,19.1,30,TRUE,18
 "ST41PA","OK",FALSE,27.5,16.9,30,TRUE,10
 "ST41PB","OK",FALSE,22.3,20,30,TRUE,14

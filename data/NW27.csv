@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "NW27AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NW27AA","No Data",NA,NA,NA,NA,FALSE,0
 "NW27AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NW27AF","No Data",NA,NA,NA,NA,FALSE,0
 "NW27AH","OK",TRUE,3,3.1,4.3,FALSE,16
 "NW27AJ","No premises",NA,NA,NA,NA,FALSE,0
 "NW27AN","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -59,7 +57,6 @@
 "NW27ET","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "NW27EU","OK",TRUE,7.9,7.9,12.7,TRUE,27
 "NW27EY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NW27EY","No Data",NA,NA,NA,NA,TRUE,0
 "NW27GD","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NW27GZ","OK",FALSE,15.2,8.9,30,TRUE,4
 "NW27HA","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -73,9 +70,7 @@
 "NW27HP","OK",TRUE,20.9,5.1,30,TRUE,10
 "NW27HR","OK",FALSE,30,30,30,TRUE,6
 "NW27HS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NW27HS","No Data",NA,NA,NA,NA,TRUE,0
 "NW27HU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NW27HU","No Data",NA,NA,NA,NA,FALSE,0
 "NW27HW","OK",FALSE,4.5,4.8,5.4,FALSE,4
 "NW27JA","OK",FALSE,15.1,15.1,15.1,FALSE,15
 "NW27JD","No premises",NA,NA,NA,NA,FALSE,0
@@ -83,7 +78,6 @@
 "NW27JH","OK",FALSE,19.9,10,30,TRUE,16
 "NW27JJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "NW27JL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NW27JL","No Data",NA,NA,NA,NA,FALSE,0
 "NW27JN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "NW27JP","OK",TRUE,4.1,4.5,5.4,TRUE,14
 "NW27JR","OK",FALSE,19.4,5.1,30,TRUE,6
@@ -95,11 +89,9 @@
 "NW27LD","OK",TRUE,13.7,5.4,30,TRUE,27
 "NW27LE","OK",TRUE,14.8,4,30,TRUE,26
 "NW27LG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NW27LG","No Data",NA,NA,NA,NA,TRUE,0
 "NW27LH","OK",TRUE,7.9,3.8,30,TRUE,31
 "NW27LJ","OK",FALSE,16.9,4,30,TRUE,20
 "NW27LL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NW27LL","No Data",NA,NA,NA,NA,TRUE,0
 "NW27LN","OK",TRUE,3.3,2.6,5.7,FALSE,3
 "NW27LT","OK",TRUE,9.7,6.5,30,TRUE,11
 "NW27LU","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -181,7 +173,6 @@
 "NW27UD","OK",TRUE,16.6,7.7,30,TRUE,33
 "NW27UE","OK",TRUE,10.5,5.1,30,TRUE,33
 "NW27UF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NW27UF","No Data",NA,NA,NA,NA,FALSE,0
 "NW27UG","OK",TRUE,13,5,30,TRUE,34
 "NW27UH","OK",FALSE,6.5,5.9,10.6,TRUE,4
 "NW27XD","No premises",NA,NA,NA,NA,FALSE,0

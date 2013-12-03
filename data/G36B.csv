@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G36BE","OK",FALSE,6.9,8.1,8.7,FALSE,4
 "G36BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G36BG","No Data",NA,NA,NA,NA,FALSE,0
 "G36BH","OK",TRUE,6.9,6.7,15,FALSE,9
 "G36BQ","OK",TRUE,6.2,7.6,9.2,FALSE,13
 "G36BS","OK",FALSE,6.5,6.1,10,FALSE,31

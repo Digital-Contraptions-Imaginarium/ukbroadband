@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B57TA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B57TA","No Data",NA,NA,NA,NA,TRUE,0
 "B57TD","OK",FALSE,30,20.3,30,TRUE,10
 "B57TE","OK",FALSE,30,20,30,TRUE,15
 "B57TF","OK",TRUE,23.6,20,30,TRUE,17

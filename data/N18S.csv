@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N18SB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N18SB","No Data",NA,NA,NA,NA,TRUE,0
 "N18SD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "N18SE","No Data",NA,NA,NA,NA,FALSE,0
 "N18SF","OK",FALSE,22.8,10.7,30,TRUE,32

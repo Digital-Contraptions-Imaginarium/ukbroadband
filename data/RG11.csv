@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "RG11AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG11AF","No Data",NA,NA,NA,NA,FALSE,0
 "RG11AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG11AJ","No Data",NA,NA,NA,NA,FALSE,0
 "RG11AR","OK",FALSE,15.2,15.6,22,FALSE,3
 "RG11AT","No premises",NA,NA,NA,NA,FALSE,0
 "RG11AX","OK",TRUE,5.9,4.4,14.3,TRUE,7
@@ -10,7 +8,6 @@
 "RG11DB","OK",TRUE,13.1,14.7,22.1,FALSE,14
 "RG11DD","No premises",NA,NA,NA,NA,FALSE,0
 "RG11DG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG11DG","No Data",NA,NA,NA,NA,FALSE,0
 "RG11DN","OK",TRUE,14.2,15.6,21.7,FALSE,6
 "RG11DP","OK",FALSE,12.7,12.6,17.4,TRUE,6
 "RG11DR","No premises",NA,NA,NA,NA,TRUE,0
@@ -18,9 +15,7 @@
 "RG11DX","OK",FALSE,12.6,12.5,18.8,TRUE,9
 "RG11EG","OK",FALSE,17,13.6,30,TRUE,21
 "RG11EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG11EH","No Data",NA,NA,NA,NA,FALSE,0
 "RG11EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG11EL","No Data",NA,NA,NA,NA,FALSE,0
 "RG11EN","No premises",NA,NA,NA,NA,FALSE,0
 "RG11EP","OK",FALSE,16,16.6,22.5,FALSE,9
 "RG11EQ","OK",FALSE,13.2,12.5,30,TRUE,33
@@ -42,7 +37,6 @@
 "RG11LT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "RG11LX","No Data",NA,NA,NA,NA,FALSE,0
 "RG11LY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG11LY","No Data",NA,NA,NA,NA,TRUE,0
 "RG11LZ","No premises",NA,NA,NA,NA,TRUE,0
 "RG11NA","No Data",NA,NA,NA,NA,FALSE,0
 "RG11NF","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -50,9 +44,7 @@
 "RG11NL","No premises",NA,NA,NA,NA,FALSE,0
 "RG11NN","No premises",NA,NA,NA,NA,FALSE,0
 "RG11NP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG11NP","No Data",NA,NA,NA,NA,FALSE,0
 "RG11NR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG11NR","No Data",NA,NA,NA,NA,TRUE,0
 "RG11NS","OK",FALSE,22.1,15.5,30,TRUE,12
 "RG11NT","OK",FALSE,15.4,16.1,20.6,TRUE,23
 "RG11NU","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -68,9 +60,7 @@
 "RG11PW","OK",FALSE,13.6,15.1,21.5,TRUE,6
 "RG11PZ","OK",FALSE,13.6,14.4,19.7,TRUE,6
 "RG11QB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG11QB","No Data",NA,NA,NA,NA,TRUE,0
 "RG11QH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG11QH","No Data",NA,NA,NA,NA,FALSE,0
 "RG11SB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "RG11SN","OK",FALSE,13.5,14.3,19.9,FALSE,9
 "RG11ST","OK",FALSE,17.1,18.9,24.4,FALSE,6

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L84XE","OK",TRUE,9.2,8.7,15.4,TRUE,19
 "L84XF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L84XF","No Data",NA,NA,NA,NA,TRUE,0
 "L84XH","OK",FALSE,21.8,17.1,30,TRUE,16
 "L84XJ","OK",FALSE,11.7,9.7,20,TRUE,5
 "L84XL","OK",FALSE,29.1,20,30,TRUE,5

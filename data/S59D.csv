@@ -16,8 +16,6 @@
 "S59DT","OK",FALSE,11.8,9.5,30,TRUE,13
 "S59DU","OK",TRUE,3.6,4,5,FALSE,7
 "S59DW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S59DW","No Data",NA,NA,NA,NA,TRUE,0
 "S59DX","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S59DY","OK",FALSE,9.8,10.9,14.3,FALSE,40
 "S59DZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S59DZ","No Data",NA,NA,NA,NA,TRUE,0

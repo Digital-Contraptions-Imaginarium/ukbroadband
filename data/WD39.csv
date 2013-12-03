@@ -1,33 +1,27 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WD39AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39AB","No Data",NA,NA,NA,NA,FALSE,0
 "WD39AG","OK",FALSE,3.9,3.9,4.2,TRUE,3
 "WD39AR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39AR","No Data",NA,NA,NA,NA,FALSE,0
 "WD39GA","OK",FALSE,12.6,3.8,30,TRUE,27
 "WD39RE","OK",TRUE,16.7,3.1,30,TRUE,22
 "WD39RF","OK",TRUE,16.8,3.5,30,TRUE,29
 "WD39RJ","No premises",NA,NA,NA,NA,FALSE,0
 "WD39RN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WD39RN","No Data",NA,NA,NA,NA,TRUE,0
 "WD39RP","OK",TRUE,1.6,1.1,3.1,TRUE,5
 "WD39RQ","OK",FALSE,3.4,3.1,4.6,TRUE,4
 "WD39SD","OK",TRUE,11.7,2.5,30,TRUE,4
 "WD39SE","OK",FALSE,4,4,5.2,FALSE,16
 "WD39SF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39SF","No Data",NA,NA,NA,NA,FALSE,0
 "WD39SL","OK",TRUE,23,4.1,30,TRUE,26
 "WD39SN","OK",TRUE,3.8,4.1,5.2,FALSE,17
 "WD39SP","OK",TRUE,11.7,3.1,30,TRUE,43
 "WD39SQ","No premises",NA,NA,NA,NA,TRUE,0
 "WD39SR","OK",TRUE,11.5,2.4,30,TRUE,8
 "WD39SS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WD39SS","No Data",NA,NA,NA,NA,TRUE,0
 "WD39ST","OK",TRUE,17,3.3,30,TRUE,24
 "WD39SU","OK",TRUE,9.6,2.3,30,TRUE,23
 "WD39SW","No premises",NA,NA,NA,NA,TRUE,0
 "WD39SX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39SX","No Data",NA,NA,NA,NA,FALSE,0
 "WD39SY","OK",TRUE,3.3,3.4,5.4,FALSE,70
 "WD39TA","OK",TRUE,6.9,4.1,30,TRUE,11
 "WD39TB","OK",TRUE,18.8,3.2,30,TRUE,26
@@ -59,38 +53,25 @@
 "WD39UL","OK",TRUE,4.8,1.6,22.3,TRUE,11
 "WD39UQ","OK",TRUE,10.9,2.9,30,TRUE,11
 "WD39WZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39WZ","No Data",NA,NA,NA,NA,FALSE,0
 "WD39XD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WD39XD","No Data",NA,NA,NA,NA,TRUE,0
 "WD39XG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39XG","No Data",NA,NA,NA,NA,FALSE,0
 "WD39XH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WD39XH","No Data",NA,NA,NA,NA,TRUE,0
 "WD39XJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WD39XJ","No Data",NA,NA,NA,NA,TRUE,0
 "WD39XL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WD39XL","No Data",NA,NA,NA,NA,TRUE,0
 "WD39XN","OK",FALSE,5.8,6.6,7,FALSE,3
 "WD39XP","OK",TRUE,3.8,3.7,7.8,TRUE,12
 "WD39XQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WD39XR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39XR","No Data",NA,NA,NA,NA,FALSE,0
 "WD39XS","OK",FALSE,7.7,8,10.2,FALSE,4
 "WD39XT","OK",FALSE,7,7,7.9,FALSE,3
 "WD39XU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39XU","No Data",NA,NA,NA,NA,FALSE,0
 "WD39XW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39XW","No Data",NA,NA,NA,NA,FALSE,0
 "WD39XX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39XX","No Data",NA,NA,NA,NA,FALSE,0
 "WD39XY","OK",TRUE,3.2,3.7,5.7,FALSE,7
 "WD39XZ","OK",FALSE,6,6.3,7.7,FALSE,10
 "WD39YA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39YA","No Data",NA,NA,NA,NA,FALSE,0
 "WD39YB","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "WD39YD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39YD","No Data",NA,NA,NA,NA,FALSE,0
 "WD39YE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WD39YE","No Data",NA,NA,NA,NA,FALSE,0
 "WD39YS","No premises",NA,NA,NA,NA,FALSE,0
 "WD39YZ","OK",TRUE,8.1,3.7,30,TRUE,54

@@ -8,9 +8,7 @@
 "HD12AZ","OK",FALSE,13.9,16,18.1,TRUE,3
 "HD12BB","OK",FALSE,14,15.8,18.4,FALSE,4
 "HD12BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD12BN","No Data",NA,NA,NA,NA,TRUE,0
 "HD12BP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD12BP","No Data",NA,NA,NA,NA,TRUE,0
 "HD12BQ","OK",FALSE,9.9,8.1,18.7,TRUE,9
 "HD12BR","OK",FALSE,15.5,15.8,19.9,TRUE,5
 "HD12BT","No premises",NA,NA,NA,NA,TRUE,0
@@ -20,11 +18,9 @@
 "HD12DT","OK",FALSE,16.9,19,22,TRUE,5
 "HD12DU","No premises",NA,NA,NA,NA,FALSE,0
 "HD12DW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD12DW","No Data",NA,NA,NA,NA,FALSE,0
 "HD12DX","No Data",NA,NA,NA,NA,TRUE,0
 "HD12EA","No premises",NA,NA,NA,NA,TRUE,0
 "HD12EF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD12EF","No Data",NA,NA,NA,NA,FALSE,0
 "HD12EG","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD12EH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HD12EP","OK",FALSE,17.1,17.5,20.5,TRUE,5
@@ -37,11 +33,9 @@
 "HD12HA","No premises",NA,NA,NA,NA,TRUE,0
 "HD12HE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD12HF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD12HF","No Data",NA,NA,NA,NA,TRUE,0
 "HD12HG","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD12HL","OK",TRUE,4.9,4.9,7.8,TRUE,3
 "HD12JA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD12JA","No Data",NA,NA,NA,NA,FALSE,0
 "HD12JD","OK",FALSE,8.1,8.1,8.1,FALSE,3
 "HD12JF","OK",FALSE,13.8,14,17.4,TRUE,5
 "HD12JJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -49,7 +43,6 @@
 "HD12JN","OK",FALSE,12.2,9.9,21.5,TRUE,5
 "HD12JR","No premises",NA,NA,NA,NA,FALSE,0
 "HD12JT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD12JT","No Data",NA,NA,NA,NA,TRUE,0
 "HD12JY","OK",FALSE,7.2,7.2,7.8,TRUE,4
 "HD12LE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD12LF","No premises",NA,NA,NA,NA,TRUE,0
@@ -64,14 +57,11 @@
 "HD12NH","No premises",NA,NA,NA,NA,FALSE,0
 "HD12NJ","No premises",NA,NA,NA,NA,TRUE,0
 "HD12NQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD12NQ","No Data",NA,NA,NA,NA,TRUE,0
 "HD12NS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD12NU","OK",FALSE,6.1,6.2,8.1,TRUE,5
 "HD12NW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD12NW","No Data",NA,NA,NA,NA,TRUE,0
 "HD12NX","OK",FALSE,26,23.3,30,TRUE,17
 "HD12PB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD12PB","No Data",NA,NA,NA,NA,FALSE,0
 "HD12PJ","OK",FALSE,30,20,30,TRUE,9
 "HD12PL","No premises",NA,NA,NA,NA,FALSE,0
 "HD12PQ","No premises",NA,NA,NA,NA,FALSE,0
@@ -87,12 +77,9 @@
 "HD12QE","OK",TRUE,10.1,8.1,19.2,TRUE,5
 "HD12QF","OK",FALSE,18.4,16.9,24.4,TRUE,4
 "HD12QJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD12QJ","No Data",NA,NA,NA,NA,TRUE,0
 "HD12QR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD12QR","No Data",NA,NA,NA,NA,FALSE,0
 "HD12QT","OK",FALSE,11.5,11.2,16.8,TRUE,7
 "HD12QY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD12QY","No Data",NA,NA,NA,NA,FALSE,0
 "HD12RA","OK",FALSE,10,7.8,14.3,TRUE,3
 "HD12RD","OK",FALSE,17.4,17.7,23.9,TRUE,7
 "HD12RR","No premises",NA,NA,NA,NA,TRUE,0
@@ -100,21 +87,17 @@
 "HD12RT","OK",TRUE,11.6,8.2,23,TRUE,6
 "HD12RX","OK",FALSE,26.7,30,30,TRUE,3
 "HD12SN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD12SN","No Data",NA,NA,NA,NA,FALSE,0
 "HD12SP","OK",FALSE,13,12.3,22.8,TRUE,4
 "HD12SQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HD12SU","No premises",NA,NA,NA,NA,TRUE,0
 "HD12SX","No Data",NA,NA,NA,NA,TRUE,0
 "HD12SZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD12SZ","No Data",NA,NA,NA,NA,FALSE,0
 "HD12TA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD12TA","No Data",NA,NA,NA,NA,TRUE,0
 "HD12TE","No premises",NA,NA,NA,NA,FALSE,0
 "HD12TG","No premises",NA,NA,NA,NA,FALSE,0
 "HD12TH","No premises",NA,NA,NA,NA,TRUE,0
 "HD12TR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD12TT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD12TT","No Data",NA,NA,NA,NA,TRUE,0
 "HD12TW","OK",FALSE,10.2,8.1,15.3,TRUE,8
 "HD12UD","OK",FALSE,9.7,7.8,17.7,TRUE,6
 "HD12UH","No premises",NA,NA,NA,NA,FALSE,0

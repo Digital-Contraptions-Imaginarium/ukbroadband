@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M72HA","OK",FALSE,27.3,20,30,TRUE,17
 "M72HB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M72HB","No Data",NA,NA,NA,NA,TRUE,0
 "M72HD","OK",FALSE,30,20.8,30,TRUE,16
 "M72HE","OK",FALSE,28.6,19.2,30,TRUE,22
 "M72HF","OK",FALSE,30,30,30,TRUE,6

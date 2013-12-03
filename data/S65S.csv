@@ -1,14 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S65SA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S65SA","No Data",NA,NA,NA,NA,FALSE,0
 "S65SB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S65SB","No Data",NA,NA,NA,NA,FALSE,0
 "S65SD","OK",TRUE,2.8,2.3,5.1,FALSE,4
 "S65SE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S65SF","OK",TRUE,1.3,1.3,2.2,FALSE,6
 "S65SG","OK",TRUE,1.5,1.1,3.5,FALSE,5
 "S65SH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S65SH","No Data",NA,NA,NA,NA,FALSE,0
 "S65SL","OK",TRUE,1.6,1.5,2.9,FALSE,10
 "S65SN","OK",TRUE,2,2.2,2.2,FALSE,3
 "S65SP","OK",TRUE,2.1,2.3,4,TRUE,12

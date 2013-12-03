@@ -1,14 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E142AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E142AA","No Data",NA,NA,NA,NA,TRUE,0
 "E142AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E142AB","No Data",NA,NA,NA,NA,FALSE,0
 "E142AX","OK",TRUE,6.3,6.5,15.9,TRUE,31
 "E142BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E142BA","No Data",NA,NA,NA,NA,FALSE,0
 "E142BB","OK",FALSE,7.5,7.9,8,TRUE,3
 "E142BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E142BD","No Data",NA,NA,NA,NA,FALSE,0
 "E142BE","OK",TRUE,4.6,5.5,6.7,FALSE,4
 "E142BG","No premises",NA,NA,NA,NA,TRUE,0
 "E142BH","No premises",NA,NA,NA,NA,FALSE,0
@@ -32,9 +28,7 @@
 "E142EA","OK",TRUE,8.5,4.2,30,TRUE,47
 "E142EB","OK",TRUE,10.1,4.1,30,TRUE,57
 "E142ED","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E142ED","No Data",NA,NA,NA,NA,TRUE,0
 "E142EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E142EH","No Data",NA,NA,NA,NA,FALSE,0
 "E142NX","No premises",NA,NA,NA,NA,FALSE,0
 "E142WA","No premises",NA,NA,NA,NA,FALSE,0
 "E142XG","No premises",NA,NA,NA,NA,FALSE,0

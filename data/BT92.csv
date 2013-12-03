@@ -1,51 +1,35 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BT920AD","OK",TRUE,4.4,4.7,8.1,TRUE,8
 "BT920AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920AF","No Data",NA,NA,NA,NA,TRUE,0
 "BT920AG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920AG","No Data",NA,NA,NA,NA,TRUE,0
 "BT920AJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT920AP","OK",FALSE,21.9,23.2,30,TRUE,16
 "BT920AR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920AR","No Data",NA,NA,NA,NA,TRUE,0
 "BT920AS","OK",TRUE,2.9,2.3,7,TRUE,4
 "BT920AT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT920AU","OK",FALSE,10.4,10.5,16.5,TRUE,4
 "BT920AW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920AW","No Data",NA,NA,NA,NA,TRUE,0
 "BT920AY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT920BA","OK",FALSE,30,30,30,TRUE,6
 "BT920BD","OK",TRUE,30,23.5,30,TRUE,24
 "BT920BE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920BE","No Data",NA,NA,NA,NA,TRUE,0
 "BT920BG","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT920BH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920BH","No Data",NA,NA,NA,NA,TRUE,0
 "BT920BJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920BJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT920BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920BN","No Data",NA,NA,NA,NA,TRUE,0
 "BT920BP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920BP","No Data",NA,NA,NA,NA,TRUE,0
 "BT920BR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT920BW","OK",FALSE,30,30,30,TRUE,7
 "BT920BX","OK",TRUE,3,2.8,5.1,TRUE,22
 "BT920BY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920BY","No Data",NA,NA,NA,NA,TRUE,0
 "BT920DF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920DF","No Data",NA,NA,NA,NA,TRUE,0
 "BT920DG","OK",FALSE,4.7,4.7,6.9,TRUE,5
 "BT920DH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920DH","No Data",NA,NA,NA,NA,TRUE,0
 "BT920DJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920DJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT920DL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT920DQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920DQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT920DR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920DR","No Data",NA,NA,NA,NA,TRUE,0
 "BT920DS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920DS","No Data",NA,NA,NA,NA,FALSE,0
 "BT920DT","OK",TRUE,3.7,4,4.7,TRUE,6
 "BT920DW","OK",FALSE,30,30,30,TRUE,13
 "BT920DZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -53,20 +37,15 @@
 "BT920EE","OK",FALSE,10.9,13.1,13.7,TRUE,3
 "BT920EF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT920EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920EH","No Data",NA,NA,NA,NA,FALSE,0
 "BT920EJ","OK",FALSE,8.6,7,12.1,TRUE,3
 "BT920EL","OK",TRUE,3.7,4.1,6.8,TRUE,3
 "BT920EN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920EN","No Data",NA,NA,NA,NA,TRUE,0
 "BT920EP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920EP","No Data",NA,NA,NA,NA,FALSE,0
 "BT920EQ","OK",TRUE,2.8,3,3.7,TRUE,6
 "BT920ER","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920ER","No Data",NA,NA,NA,NA,FALSE,0
 "BT920ES","OK",TRUE,2.4,2.5,2.9,TRUE,6
 "BT920EU","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT920EW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920EW","No Data",NA,NA,NA,NA,FALSE,0
 "BT920FA","OK",TRUE,5.7,2.5,13.3,TRUE,3
 "BT920FE","OK",TRUE,23.5,25,30,TRUE,8
 "BT920FL","OK",FALSE,18.8,22.1,23.5,FALSE,4
@@ -87,7 +66,6 @@
 "BT920HD","OK",FALSE,30,30,30,TRUE,5
 "BT920HE","OK",FALSE,13.9,15.1,20.6,FALSE,5
 "BT920HF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920HF","No Data",NA,NA,NA,NA,FALSE,0
 "BT920HH","OK",FALSE,30,30,30,TRUE,32
 "BT920HJ","OK",FALSE,30,30,30,TRUE,8
 "BT920HL","OK",FALSE,30,24.4,30,TRUE,6
@@ -99,7 +77,6 @@
 "BT920JD","OK",TRUE,13.7,10.9,23.6,TRUE,24
 "BT920JE","OK",TRUE,18.3,20.7,30,TRUE,22
 "BT920JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920JF","No Data",NA,NA,NA,NA,FALSE,0
 "BT920JG","OK",FALSE,25.2,22.2,30,TRUE,5
 "BT920JH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT920JT","OK",FALSE,17.4,21.1,30,TRUE,21
@@ -124,198 +101,128 @@
 "BT920LX","OK",FALSE,11.4,12.9,19.2,TRUE,6
 "BT920LZ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT920NB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920NB","No Data",NA,NA,NA,NA,TRUE,0
 "BT920ND","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920ND","No Data",NA,NA,NA,NA,TRUE,0
 "BT920NE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920NE","No Data",NA,NA,NA,NA,TRUE,0
 "BT920NF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT920NL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920NL","No Data",NA,NA,NA,NA,TRUE,0
 "BT920NN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920NN","No Data",NA,NA,NA,NA,TRUE,0
 "BT920NP","OK",FALSE,11.5,11.5,18.9,TRUE,4
 "BT920NZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920NZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT920PA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920PA","No Data",NA,NA,NA,NA,FALSE,0
 "BT920PB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT920PD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920PD","No Data",NA,NA,NA,NA,FALSE,0
 "BT920PE","OK",FALSE,12.9,7.9,26.1,TRUE,20
 "BT920PF","OK",TRUE,20.7,25.6,30,TRUE,34
 "BT920PG","OK",FALSE,5.2,4.8,7.9,TRUE,10
 "BT920PH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT920PJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920PJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT920PL","OK",FALSE,4.2,4.4,4.9,TRUE,4
 "BT920PN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920PN","No Data",NA,NA,NA,NA,TRUE,0
 "BT920PP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920PP","No Data",NA,NA,NA,NA,FALSE,0
 "BT920PQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920PQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT920PR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920PR","No Data",NA,NA,NA,NA,TRUE,0
 "BT920PS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920PS","No Data",NA,NA,NA,NA,TRUE,0
 "BT920PT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920PT","No Data",NA,NA,NA,NA,TRUE,0
 "BT920PU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920PU","No Data",NA,NA,NA,NA,TRUE,0
 "BT920PW","OK",TRUE,1.4,1.5,2,TRUE,4
 "BT920PX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920PX","No Data",NA,NA,NA,NA,FALSE,0
 "BT920PZ","OK",TRUE,1.5,1.7,2.1,TRUE,7
 "BT920QA","OK",TRUE,1.1,1.1,1.2,TRUE,4
 "BT920QB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920QB","No Data",NA,NA,NA,NA,FALSE,0
 "BT920QE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT920QF","OK",TRUE,8.2,4.5,30,TRUE,9
 "BT920QG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920QG","No Data",NA,NA,NA,NA,TRUE,0
 "BT920QN","OK",FALSE,4.6,3.6,9,TRUE,4
 "BT920QP","OK",FALSE,17.8,7.4,30,TRUE,3
 "BT920QT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920QT","No Data",NA,NA,NA,NA,FALSE,0
 "BT920QU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920QU","No Data",NA,NA,NA,NA,TRUE,0
 "BT920QW","OK",TRUE,1.1,1.2,1.6,TRUE,4
 "BT920QX","OK",TRUE,3.9,4.8,6,TRUE,5
 "BT920QZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920QZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT920RA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT920RA","No Data",NA,NA,NA,NA,TRUE,0
 "BT920RB","OK",TRUE,8.5,4.7,30,TRUE,9
 "BT920SA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT920SA","No Data",NA,NA,NA,NA,FALSE,0
 "BT920WB","No premises",NA,NA,NA,NA,FALSE,0
 "BT921AA","OK",FALSE,5.7,6.5,8.1,FALSE,11
 "BT921AE","OK",TRUE,0.5,0.4,0.9,FALSE,5
 "BT921AF","OK",TRUE,1,0.8,2.3,TRUE,8
 "BT921AG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT921AG","No Data",NA,NA,NA,NA,TRUE,0
 "BT921AH","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT921AJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT921AL","OK",TRUE,0.6,0.4,0.8,FALSE,3
 "BT921AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921AP","No Data",NA,NA,NA,NA,FALSE,0
 "BT921AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921AQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT921AR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921AR","No Data",NA,NA,NA,NA,FALSE,0
 "BT921AX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921AX","No Data",NA,NA,NA,NA,FALSE,0
 "BT921AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921AY","No Data",NA,NA,NA,NA,FALSE,0
 "BT921AZ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT921BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921BA","No Data",NA,NA,NA,NA,FALSE,0
 "BT921BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921BD","No Data",NA,NA,NA,NA,FALSE,0
 "BT921BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921BH","No Data",NA,NA,NA,NA,FALSE,0
 "BT921BJ","OK",TRUE,4.6,4.5,7.4,FALSE,10
 "BT921BN","OK",FALSE,4.9,5.1,6.8,FALSE,4
 "BT921BR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921BR","No Data",NA,NA,NA,NA,FALSE,0
 "BT921BS","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT921BU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT921BW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921BW","No Data",NA,NA,NA,NA,FALSE,0
 "BT921BX","OK",TRUE,1.6,1.7,2.8,FALSE,12
 "BT921BZ","OK",FALSE,6.5,7.2,8.1,FALSE,7
 "BT921DB","OK",TRUE,5.7,2.8,30,TRUE,18
 "BT921DE","OK",TRUE,1.4,1.7,2,FALSE,3
 "BT921DG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921DG","No Data",NA,NA,NA,NA,FALSE,0
 "BT921DH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921DH","No Data",NA,NA,NA,NA,FALSE,0
 "BT921DL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921DL","No Data",NA,NA,NA,NA,FALSE,0
 "BT921DN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921DN","No Data",NA,NA,NA,NA,FALSE,0
 "BT921DP","OK",TRUE,2.9,2.6,6.7,FALSE,6
 "BT921DQ","OK",TRUE,3.8,4,5.7,FALSE,7
 "BT921DR","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT921DS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921DS","No Data",NA,NA,NA,NA,FALSE,0
 "BT921DT","OK",TRUE,3.4,3.4,5.7,FALSE,7
 "BT921DW","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT921DX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921DX","No Data",NA,NA,NA,NA,FALSE,0
 "BT921DY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT921DY","No Data",NA,NA,NA,NA,TRUE,0
 "BT921DZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921DZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EA","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EB","No Data",NA,NA,NA,NA,FALSE,0
 "BT921ED","OK",TRUE,0.9,1.2,1.5,FALSE,3
 "BT921EF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT921EJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EL","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EN","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EP","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT921ER","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921ER","No Data",NA,NA,NA,NA,FALSE,0
 "BT921ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921ES","No Data",NA,NA,NA,NA,FALSE,0
 "BT921ET","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EU","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EW","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921EX","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EY","No Data",NA,NA,NA,NA,FALSE,0
 "BT921EZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT921FA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921FA","No Data",NA,NA,NA,NA,FALSE,0
 "BT921FB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT921FD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921FD","No Data",NA,NA,NA,NA,FALSE,0
 "BT921FE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921FE","No Data",NA,NA,NA,NA,FALSE,0
 "BT921FG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921FG","No Data",NA,NA,NA,NA,FALSE,0
 "BT921FJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921FJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT921FN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT921FQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921FQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT921FR","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT921FS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT921FW","OK",TRUE,4.5,4.9,7.4,FALSE,12
 "BT921FY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921FY","No Data",NA,NA,NA,NA,FALSE,0
 "BT921FZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921FZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT921GA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921GA","No Data",NA,NA,NA,NA,FALSE,0
 "BT921GB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921GB","No Data",NA,NA,NA,NA,FALSE,0
 "BT921GD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921GD","No Data",NA,NA,NA,NA,FALSE,0
 "BT921GE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921GE","No Data",NA,NA,NA,NA,FALSE,0
 "BT921GF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921GF","No Data",NA,NA,NA,NA,FALSE,0
 "BT921GJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT921GL","OK",FALSE,6.9,7.5,8.1,FALSE,5
 "BT921GN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921GN","No Data",NA,NA,NA,NA,FALSE,0
 "BT921GP","OK",FALSE,7.4,7.4,8,TRUE,4
 "BT921GQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT921GS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT921GS","No Data",NA,NA,NA,NA,FALSE,0
 "BT921GX","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT922AB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT922AE","OK",TRUE,26.5,30,30,TRUE,11
@@ -325,7 +232,6 @@
 "BT922AQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT922AR","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT922AW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT922AW","No Data",NA,NA,NA,NA,FALSE,0
 "BT922BA","OK",TRUE,30,30,30,TRUE,28
 "BT922BB","No Data",NA,NA,NA,NA,FALSE,0
 "BT922BD","OK",TRUE,30,30,30,TRUE,60
@@ -333,7 +239,6 @@
 "BT922BG","OK",TRUE,30,30,30,TRUE,27
 "BT922BH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT922BJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT922BJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT922BL","OK",TRUE,3,2.8,4,TRUE,7
 "BT922BR","No Data",NA,NA,NA,NA,FALSE,0
 "BT922BS","OK",TRUE,30,30,30,TRUE,6
@@ -349,70 +254,48 @@
 "BT922DZ","OK",FALSE,6.7,7.4,8.1,TRUE,3
 "BT922EA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT922EB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT922EB","No Data",NA,NA,NA,NA,FALSE,0
 "BT922ED","OK",TRUE,9.5,1.2,27,TRUE,3
 "BT922EE","OK",FALSE,30,30,30,TRUE,8
 "BT922EG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT922EG","No Data",NA,NA,NA,NA,TRUE,0
 "BT922EW","OK",TRUE,5.7,7.7,8.1,TRUE,10
 "BT922EZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT922EZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT922FE","OK",TRUE,7.1,3.1,20.1,TRUE,4
 "BT922FG","OK",TRUE,29.2,30,30,TRUE,37
 "BT922FN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT922FN","No Data",NA,NA,NA,NA,TRUE,0
 "BT922FP","OK",TRUE,3.3,1.9,14.5,TRUE,10
 "BT922FQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT922FQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT922FR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT922FR","No Data",NA,NA,NA,NA,TRUE,0
 "BT922FS","OK",TRUE,20.3,23.3,29.2,TRUE,6
 "BT922FY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT922FZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT922GE","OK",TRUE,1.9,0.8,5.4,TRUE,4
 "BT922GJ","OK",TRUE,1.2,0.8,2.6,TRUE,7
 "BT922GL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT922GL","No Data",NA,NA,NA,NA,TRUE,0
 "BT922GN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT922GN","No Data",NA,NA,NA,NA,TRUE,0
 "BT922GU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT922GU","No Data",NA,NA,NA,NA,TRUE,0
 "BT922GY","OK",TRUE,1.2,1.2,1.3,TRUE,3
 "BT922SJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT922TB","OK",TRUE,26.3,30,30,TRUE,8
 "BT923AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923AB","No Data",NA,NA,NA,NA,TRUE,0
 "BT923AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923AD","No Data",NA,NA,NA,NA,TRUE,0
 "BT923AE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923AE","No Data",NA,NA,NA,NA,TRUE,0
 "BT923AL","No Data",NA,NA,NA,NA,FALSE,0
 "BT923AQ","OK",TRUE,1,1,1.2,TRUE,3
 "BT923AR","OK",TRUE,0.4,0.3,0.7,TRUE,4
 "BT923AX","OK",TRUE,2.3,2.9,3.4,TRUE,4
 "BT923AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923AY","No Data",NA,NA,NA,NA,FALSE,0
 "BT923AZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923AZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT923BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923BA","No Data",NA,NA,NA,NA,FALSE,0
 "BT923BB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT923BD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923BD","No Data",NA,NA,NA,NA,TRUE,0
 "BT923BE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923BE","No Data",NA,NA,NA,NA,FALSE,0
 "BT923BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923BF","No Data",NA,NA,NA,NA,FALSE,0
 "BT923BG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923BG","No Data",NA,NA,NA,NA,TRUE,0
 "BT923BJ","OK",TRUE,1.6,1.7,2.3,TRUE,5
 "BT923BL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923BL","No Data",NA,NA,NA,NA,TRUE,0
 "BT923BP","OK",TRUE,1.4,1.4,2,TRUE,8
 "BT923BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923BQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT923BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923BU","No Data",NA,NA,NA,NA,FALSE,0
 "BT923BX","OK",TRUE,3.9,4.3,6.8,TRUE,6
 "BT923BY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT923DA","OK",TRUE,1.8,2,2.3,TRUE,4
@@ -420,61 +303,44 @@
 "BT923DG","OK",FALSE,25.4,30,30,TRUE,8
 "BT923DH","OK",FALSE,9.9,6.6,29.5,TRUE,6
 "BT923DJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923DJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT923DQ","OK",TRUE,3.2,2.8,7.6,TRUE,16
 "BT923DS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT923DT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT923DX","OK",TRUE,4.8,4.7,7.4,TRUE,8
 "BT923DZ","OK",FALSE,7.1,6.8,8.1,FALSE,3
 "BT923EB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923EB","No Data",NA,NA,NA,NA,TRUE,0
 "BT923EE","OK",TRUE,16.4,8.1,30,TRUE,4
 "BT923EF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923EF","No Data",NA,NA,NA,NA,TRUE,0
 "BT923EG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923EG","No Data",NA,NA,NA,NA,TRUE,0
 "BT923EH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT923EJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923EJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT923EL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923EL","No Data",NA,NA,NA,NA,TRUE,0
 "BT923EP","OK",TRUE,2.7,3.4,5.1,TRUE,11
 "BT923ER","OK",FALSE,3.9,3.5,5.7,TRUE,6
 "BT923ES","OK",FALSE,20.4,6.2,30,TRUE,7
 "BT923ET","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923ET","No Data",NA,NA,NA,NA,TRUE,0
 "BT923EW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT923EY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT923EZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923EZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT923FA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923FA","No Data",NA,NA,NA,NA,FALSE,0
 "BT923FE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923FE","No Data",NA,NA,NA,NA,TRUE,0
 "BT923FJ","OK",FALSE,15.5,15.5,17.5,TRUE,3
 "BT923GA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT923GB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923GB","No Data",NA,NA,NA,NA,TRUE,0
 "BT923GD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT923GF","OK",TRUE,4.3,2.6,10,TRUE,4
 "BT923GH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923GH","No Data",NA,NA,NA,NA,FALSE,0
 "BT923GL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT923GL","No Data",NA,NA,NA,NA,TRUE,0
 "BT923GQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT923GQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT924AB","OK",TRUE,4.2,0.7,11.4,TRUE,3
 "BT924AE","OK",TRUE,19.1,23.3,30,TRUE,7
 "BT924AF","OK",TRUE,13.1,1.8,30,TRUE,3
 "BT924AL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924AL","No Data",NA,NA,NA,NA,TRUE,0
 "BT924AS","OK",TRUE,10.8,15.8,16.4,TRUE,3
 "BT924AT","OK",TRUE,12.8,6.5,30,TRUE,7
 "BT924AU","OK",TRUE,11.9,16.8,16.9,TRUE,4
 "BT924AW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924AW","No Data",NA,NA,NA,NA,TRUE,0
 "BT924AX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924AX","No Data",NA,NA,NA,NA,TRUE,0
 "BT924AZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT924BD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT924BG","OK",TRUE,30,30,30,TRUE,3
@@ -482,25 +348,19 @@
 "BT924BL","OK",TRUE,0.6,0.6,0.9,TRUE,3
 "BT924BP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT924BQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924BQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT924BT","No Data",NA,NA,NA,NA,TRUE,0
 "BT924BU","OK",TRUE,0.3,0.2,0.6,TRUE,4
 "BT924BW","No Data",NA,NA,NA,NA,TRUE,0
 "BT924BX","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT924BY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924BY","No Data",NA,NA,NA,NA,TRUE,0
 "BT924DA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924DA","No Data",NA,NA,NA,NA,TRUE,0
 "BT924DB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT924DE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT924DE","No Data",NA,NA,NA,NA,FALSE,0
 "BT924DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT924DF","No Data",NA,NA,NA,NA,FALSE,0
 "BT924DG","OK",TRUE,4.5,5.2,7.8,TRUE,5
 "BT924DP","OK",TRUE,10.9,9.3,28.1,TRUE,6
 "BT924DQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT924DR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924DR","No Data",NA,NA,NA,NA,TRUE,0
 "BT924DS","OK",TRUE,0.5,0.4,0.8,TRUE,9
 "BT924DU","No Data",NA,NA,NA,NA,TRUE,0
 "BT924DW","No Data",NA,NA,NA,NA,TRUE,0
@@ -511,20 +371,15 @@
 "BT924EH","OK",TRUE,0.3,0.3,0.3,TRUE,3
 "BT924EJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT924EN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924EN","No Data",NA,NA,NA,NA,TRUE,0
 "BT924EP","No Data",NA,NA,NA,NA,TRUE,0
 "BT924EQ","OK",TRUE,12.9,18.4,19.1,TRUE,3
 "BT924ES","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT924EU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924EU","No Data",NA,NA,NA,NA,TRUE,0
 "BT924EX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924EX","No Data",NA,NA,NA,NA,TRUE,0
 "BT924EY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924EY","No Data",NA,NA,NA,NA,TRUE,0
 "BT924FB","OK",TRUE,1.2,1.2,2.3,TRUE,4
 "BT924FD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT924FF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924FF","No Data",NA,NA,NA,NA,TRUE,0
 "BT924FH","OK",FALSE,30,30,30,TRUE,9
 "BT924FJ","OK",TRUE,0.9,0.9,1.4,TRUE,3
 "BT924FL","OK",TRUE,29,30,30,TRUE,8
@@ -534,217 +389,140 @@
 "BT924FR","OK",FALSE,2.8,2.8,2.8,TRUE,3
 "BT924FS","OK",TRUE,9.3,2,20.9,TRUE,5
 "BT924FT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924FT","No Data",NA,NA,NA,NA,TRUE,0
 "BT924FW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT924FX","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT924FZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT924GA","OK",TRUE,10.4,0.6,30,TRUE,6
 "BT924GH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT924GH","No Data",NA,NA,NA,NA,FALSE,0
 "BT924GJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT924GJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT924GP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924GP","No Data",NA,NA,NA,NA,TRUE,0
 "BT924GT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924GT","No Data",NA,NA,NA,NA,TRUE,0
 "BT924GU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924GU","No Data",NA,NA,NA,NA,TRUE,0
 "BT924HA","No Data",NA,NA,NA,NA,TRUE,0
 "BT924HD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924HD","No Data",NA,NA,NA,NA,TRUE,0
 "BT924HG","OK",TRUE,10.9,6.3,30,TRUE,4
 "BT924HL","OK",TRUE,2.2,2.3,2.8,TRUE,4
 "BT924HN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924HN","No Data",NA,NA,NA,NA,TRUE,0
 "BT924HR","OK",FALSE,3.8,4,5.1,TRUE,7
 "BT924HS","OK",TRUE,2.7,2.1,6.2,TRUE,4
 "BT924HT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT924HT","No Data",NA,NA,NA,NA,TRUE,0
 "BT924QA","OK",FALSE,21.7,21.6,23.3,TRUE,4
 "BT925AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925AA","No Data",NA,NA,NA,NA,FALSE,0
 "BT925AD","OK",TRUE,3.2,3.4,4,TRUE,4
 "BT925AE","OK",TRUE,3.7,3.8,5.2,TRUE,5
 "BT925AF","No Data",NA,NA,NA,NA,FALSE,0
 "BT925AH","OK",TRUE,1.1,1.3,1.6,TRUE,7
 "BT925AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925AQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT925AR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925AR","No Data",NA,NA,NA,NA,TRUE,0
 "BT925AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925AS","No Data",NA,NA,NA,NA,TRUE,0
 "BT925AT","OK",TRUE,2.2,2.4,3.9,TRUE,13
 "BT925AU","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT925AY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925AY","No Data",NA,NA,NA,NA,TRUE,0
 "BT925AZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925AZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT925BA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT925BB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT925BG","OK",TRUE,3,3.2,6.8,TRUE,33
 "BT925BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925BN","No Data",NA,NA,NA,NA,TRUE,0
 "BT925BQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT925BR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925BR","No Data",NA,NA,NA,NA,FALSE,0
 "BT925BT","No Data",NA,NA,NA,NA,TRUE,0
 "BT925BY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT925BZ","OK",FALSE,7.5,6.2,13.9,TRUE,4
 "BT925DA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925DA","No Data",NA,NA,NA,NA,TRUE,0
 "BT925DD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925DD","No Data",NA,NA,NA,NA,TRUE,0
 "BT925DE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT925DF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925DF","No Data",NA,NA,NA,NA,TRUE,0
 "BT925DH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925DH","No Data",NA,NA,NA,NA,TRUE,0
 "BT925DJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925DJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT925DY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925DY","No Data",NA,NA,NA,NA,TRUE,0
 "BT925DZ","OK",TRUE,1.1,0.8,2.4,TRUE,11
 "BT925EA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925EA","No Data",NA,NA,NA,NA,TRUE,0
 "BT925ED","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925ED","No Data",NA,NA,NA,NA,TRUE,0
 "BT925EH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925EH","No Data",NA,NA,NA,NA,TRUE,0
 "BT925EL","OK",TRUE,5,4.9,9.7,TRUE,6
 "BT925EQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925EQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT925ER","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925ER","No Data",NA,NA,NA,NA,FALSE,0
 "BT925ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925ES","No Data",NA,NA,NA,NA,FALSE,0
 "BT925EY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT925EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925EZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT925FA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925FA","No Data",NA,NA,NA,NA,FALSE,0
 "BT925FB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925FB","No Data",NA,NA,NA,NA,FALSE,0
 "BT925FF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT925FG","OK",TRUE,4.2,3.5,9.9,TRUE,7
 "BT925FH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925FH","No Data",NA,NA,NA,NA,TRUE,0
 "BT925FJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925FJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT925FL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT925FN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925FN","No Data",NA,NA,NA,NA,FALSE,0
 "BT925FQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925FQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT925FT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925FT","No Data",NA,NA,NA,NA,TRUE,0
 "BT925FU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925FU","No Data",NA,NA,NA,NA,FALSE,0
 "BT925FW","OK",TRUE,3.2,2.4,7,TRUE,4
 "BT925GD","OK",FALSE,5.9,5.5,10.7,TRUE,6
 "BT925GE","OK",TRUE,3.4,3.1,7.4,TRUE,6
 "BT925GF","OK",TRUE,4.2,4,7.3,TRUE,3
 "BT925GH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925GH","No Data",NA,NA,NA,NA,TRUE,0
 "BT925GJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925GJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT925GU","OK",TRUE,16.9,15.3,30,TRUE,7
 "BT925GW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925GW","No Data",NA,NA,NA,NA,FALSE,0
 "BT925GX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925GX","No Data",NA,NA,NA,NA,TRUE,0
 "BT925GY","OK",FALSE,4.3,4.4,4.9,TRUE,3
 "BT925GZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT925GZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT925HB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT925HB","No Data",NA,NA,NA,NA,TRUE,0
 "BT926AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926AA","No Data",NA,NA,NA,NA,TRUE,0
 "BT926AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926AB","No Data",NA,NA,NA,NA,FALSE,0
 "BT926AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926AD","No Data",NA,NA,NA,NA,FALSE,0
 "BT926AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926AF","No Data",NA,NA,NA,NA,TRUE,0
 "BT926AG","OK",TRUE,5.2,1.6,13.8,TRUE,3
 "BT926AH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926AL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926AL","No Data",NA,NA,NA,NA,TRUE,0
 "BT926AP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926AP","No Data",NA,NA,NA,NA,TRUE,0
 "BT926AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926AQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926AT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926AT","No Data",NA,NA,NA,NA,TRUE,0
 "BT926AU","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926AX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926AX","No Data",NA,NA,NA,NA,FALSE,0
 "BT926AZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926AZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926BA","No Data",NA,NA,NA,NA,TRUE,0
 "BT926BD","OK",TRUE,2,1.7,4.3,TRUE,5
 "BT926BF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926BF","No Data",NA,NA,NA,NA,TRUE,0
 "BT926BP","OK",FALSE,8.7,6.8,17.5,TRUE,5
 "BT926BR","OK",TRUE,1.7,1.6,2.7,FALSE,4
 "BT926BS","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT926BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926BT","No Data",NA,NA,NA,NA,FALSE,0
 "BT926BY","OK",TRUE,1.7,1.2,4,TRUE,5
 "BT926DA","No Data",NA,NA,NA,NA,TRUE,0
 "BT926DB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926DB","No Data",NA,NA,NA,NA,TRUE,0
 "BT926DD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926DD","No Data",NA,NA,NA,NA,FALSE,0
 "BT926DF","No Data",NA,NA,NA,NA,TRUE,0
 "BT926DG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926DG","No Data",NA,NA,NA,NA,FALSE,0
 "BT926DH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926DH","No Data",NA,NA,NA,NA,FALSE,0
 "BT926DQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926DQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926DR","OK",TRUE,7.1,0.6,20.7,TRUE,3
 "BT926DS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926DS","No Data",NA,NA,NA,NA,FALSE,0
 "BT926DW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926DW","No Data",NA,NA,NA,NA,TRUE,0
 "BT926DX","OK",TRUE,0.2,0.2,0.4,TRUE,3
 "BT926DY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926DY","No Data",NA,NA,NA,NA,TRUE,0
 "BT926EB","OK",TRUE,0.7,0.7,1.4,TRUE,8
 "BT926ED","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926EE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT926EF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926EF","No Data",NA,NA,NA,NA,FALSE,0
 "BT926EG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926EG","No Data",NA,NA,NA,NA,TRUE,0
 "BT926EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926EH","No Data",NA,NA,NA,NA,FALSE,0
 "BT926EL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT926ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926ES","No Data",NA,NA,NA,NA,FALSE,0
 "BT926ET","No Data",NA,NA,NA,NA,TRUE,0
 "BT926EU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926EU","No Data",NA,NA,NA,NA,FALSE,0
 "BT926EW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926EW","No Data",NA,NA,NA,NA,TRUE,0
 "BT926EZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926EZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926FA","OK",FALSE,18.9,19.3,21.3,TRUE,3
 "BT926FB","OK",FALSE,6.5,7.3,10.2,TRUE,5
 "BT926FD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926FD","No Data",NA,NA,NA,NA,TRUE,0
 "BT926FE","OK",TRUE,3.6,4,5.7,TRUE,5
 "BT926FF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926FF","No Data",NA,NA,NA,NA,TRUE,0
 "BT926FG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926FG","No Data",NA,NA,NA,NA,FALSE,0
 "BT926FH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926FH","No Data",NA,NA,NA,NA,TRUE,0
 "BT926FJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926FJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT926FL","OK",FALSE,5.7,5.7,8,TRUE,3
 "BT926FN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926FN","No Data",NA,NA,NA,NA,TRUE,0
 "BT926FP","OK",TRUE,1.6,1.3,3.4,TRUE,5
 "BT926FQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926FR","OK",TRUE,1.3,1.5,1.9,TRUE,3
@@ -753,7 +531,6 @@
 "BT926GL","OK",FALSE,30,30,30,TRUE,3
 "BT926GN","No Data",NA,NA,NA,NA,FALSE,0
 "BT926GP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926GP","No Data",NA,NA,NA,NA,TRUE,0
 "BT926GT","No Data",NA,NA,NA,NA,TRUE,0
 "BT926GW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT926GZ","OK",FALSE,9,6.7,17.6,TRUE,6
@@ -762,117 +539,76 @@
 "BT926HN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926HP","OK",TRUE,11.3,13.7,17.4,TRUE,4
 "BT926HQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926HQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926HT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926HW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926HW","No Data",NA,NA,NA,NA,TRUE,0
 "BT926HX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926HY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926HY","No Data",NA,NA,NA,NA,TRUE,0
 "BT926HZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926JB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926JB","No Data",NA,NA,NA,NA,TRUE,0
 "BT926JD","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT926JH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926JH","No Data",NA,NA,NA,NA,FALSE,0
 "BT926JL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926JP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926JP","No Data",NA,NA,NA,NA,TRUE,0
 "BT926JT","OK",TRUE,30,30,30,TRUE,36
 "BT926JZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926JZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT926LA","OK",FALSE,6.1,6.1,7.9,TRUE,3
 "BT926LB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LB","No Data",NA,NA,NA,NA,TRUE,0
 "BT926LD","OK",TRUE,3.7,4,5.2,TRUE,3
 "BT926LE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LE","No Data",NA,NA,NA,NA,TRUE,0
 "BT926LF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926LF","No Data",NA,NA,NA,NA,FALSE,0
 "BT926LG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LG","No Data",NA,NA,NA,NA,TRUE,0
 "BT926LH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LH","No Data",NA,NA,NA,NA,TRUE,0
 "BT926LJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926LL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LL","No Data",NA,NA,NA,NA,TRUE,0
 "BT926LP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LP","No Data",NA,NA,NA,NA,TRUE,0
 "BT926LR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926LS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926LT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT926LU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926LU","No Data",NA,NA,NA,NA,FALSE,0
 "BT926LW","OK",TRUE,6.3,0.4,18.3,TRUE,3
 "BT926LX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LX","No Data",NA,NA,NA,NA,TRUE,0
 "BT926LY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LY","No Data",NA,NA,NA,NA,TRUE,0
 "BT926LZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926LZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926NA","No Data",NA,NA,NA,NA,FALSE,0
 "BT926NB","OK",FALSE,30,30,30,TRUE,5
 "BT926NJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926NJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926NN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926NN","No Data",NA,NA,NA,NA,TRUE,0
 "BT926NP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926NP","No Data",NA,NA,NA,NA,TRUE,0
 "BT926NQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926NS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926NS","No Data",NA,NA,NA,NA,TRUE,0
 "BT926NU","No Data",NA,NA,NA,NA,TRUE,0
 "BT926NW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926NW","No Data",NA,NA,NA,NA,FALSE,0
 "BT926NX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926NX","No Data",NA,NA,NA,NA,TRUE,0
 "BT926NY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT926NZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926PA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT926PB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926PB","No Data",NA,NA,NA,NA,FALSE,0
 "BT926PD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926PD","No Data",NA,NA,NA,NA,FALSE,0
 "BT926PE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926PE","No Data",NA,NA,NA,NA,FALSE,0
 "BT926PF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926PF","No Data",NA,NA,NA,NA,FALSE,0
 "BT926PG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926PG","No Data",NA,NA,NA,NA,FALSE,0
 "BT926PJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT926PJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT926PP","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT926PR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926PR","No Data",NA,NA,NA,NA,FALSE,0
 "BT926PU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926PU","No Data",NA,NA,NA,NA,FALSE,0
 "BT926PX","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT926PZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926PZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT926SA","OK",FALSE,30,30,30,TRUE,4
 "BT926SB","OK",FALSE,30,30,30,TRUE,11
 "BT926SD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT926SD","No Data",NA,NA,NA,NA,FALSE,0
 "BT927AA","No Data",NA,NA,NA,NA,TRUE,0
 "BT927AP","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT927AR","No Data",NA,NA,NA,NA,TRUE,0
 "BT927AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927AS","No Data",NA,NA,NA,NA,TRUE,0
 "BT927AU","OK",TRUE,25,27,30,TRUE,9
 "BT927AW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927AY","No Data",NA,NA,NA,NA,FALSE,0
 "BT927AZ","OK",FALSE,17.9,16.8,30,TRUE,5
 "BT927BA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927BA","No Data",NA,NA,NA,NA,TRUE,0
 "BT927BB","OK",FALSE,28.7,30,30,TRUE,4
 "BT927BH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927BJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927BJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT927BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927BL","No Data",NA,NA,NA,NA,FALSE,0
 "BT927BN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927BP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927BS","OK",FALSE,18.7,19.7,20.2,TRUE,3
@@ -882,101 +618,68 @@
 "BT927DB","No Data",NA,NA,NA,NA,FALSE,0
 "BT927DD","OK",TRUE,30,30,30,TRUE,17
 "BT927DF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927DF","No Data",NA,NA,NA,NA,TRUE,0
 "BT927DG","No Data",NA,NA,NA,NA,TRUE,0
 "BT927DH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT927DJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927DL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927DL","No Data",NA,NA,NA,NA,TRUE,0
 "BT927DN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT927DQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927DQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT927DU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927DU","No Data",NA,NA,NA,NA,TRUE,0
 "BT927DX","OK",FALSE,21.2,22.1,22.8,TRUE,3
 "BT927DZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT927EA","No Data",NA,NA,NA,NA,TRUE,0
 "BT927EB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927EB","No Data",NA,NA,NA,NA,FALSE,0
 "BT927ED","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927ED","No Data",NA,NA,NA,NA,FALSE,0
 "BT927EL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927EQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927EQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT927ER","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT927ET","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT927EY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927EY","No Data",NA,NA,NA,NA,TRUE,0
 "BT927EZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927EZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT927FB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927FB","No Data",NA,NA,NA,NA,TRUE,0
 "BT927FH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927FH","No Data",NA,NA,NA,NA,FALSE,0
 "BT927FJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927FJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT927FN","OK",FALSE,5.4,6.2,7.4,FALSE,6
 "BT927FP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927FP","No Data",NA,NA,NA,NA,FALSE,0
 "BT927FQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927FQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT927FR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927FR","No Data",NA,NA,NA,NA,FALSE,0
 "BT927FS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927FS","No Data",NA,NA,NA,NA,FALSE,0
 "BT927FT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927FT","No Data",NA,NA,NA,NA,FALSE,0
 "BT927FU","OK",FALSE,6.6,7.3,7.4,FALSE,3
 "BT927FW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927FW","No Data",NA,NA,NA,NA,FALSE,0
 "BT927FX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927FX","No Data",NA,NA,NA,NA,FALSE,0
 "BT927FY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927FY","No Data",NA,NA,NA,NA,FALSE,0
 "BT927FZ","OK",TRUE,4,4.3,6.2,FALSE,4
 "BT927GD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927GD","No Data",NA,NA,NA,NA,TRUE,0
 "BT927GE","OK",TRUE,30,30,30,TRUE,3
 "BT927GG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927GG","No Data",NA,NA,NA,NA,TRUE,0
 "BT927GH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927GH","No Data",NA,NA,NA,NA,FALSE,0
 "BT927GL","No Data",NA,NA,NA,NA,TRUE,0
 "BT927GP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927GP","No Data",NA,NA,NA,NA,TRUE,0
 "BT927GT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927GU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927GU","No Data",NA,NA,NA,NA,FALSE,0
 "BT927GW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927GX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927GX","No Data",NA,NA,NA,NA,TRUE,0
 "BT927HB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927HF","OK",FALSE,28.2,24.1,30,TRUE,8
 "BT927HH","OK",FALSE,18.7,8.1,30,TRUE,3
 "BT927HJ","OK",FALSE,21,18,30,TRUE,4
 "BT927HL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927HL","No Data",NA,NA,NA,NA,TRUE,0
 "BT927HN","OK",FALSE,14.4,8.1,29.9,TRUE,5
 "BT927HP","OK",FALSE,13.3,7.4,30,TRUE,6
 "BT927HR","OK",FALSE,30,30,30,TRUE,4
 "BT927HT","OK",TRUE,17.8,22.1,30,TRUE,7
 "BT927HU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927HU","No Data",NA,NA,NA,NA,TRUE,0
 "BT927HY","OK",TRUE,0.4,0.4,0.4,TRUE,4
 "BT927HZ","OK",TRUE,0.5,0.4,0.9,TRUE,5
 "BT927JE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927JE","No Data",NA,NA,NA,NA,TRUE,0
 "BT927JG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927JG","No Data",NA,NA,NA,NA,TRUE,0
 "BT927JJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927JL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927JL","No Data",NA,NA,NA,NA,TRUE,0
 "BT927JN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927JN","No Data",NA,NA,NA,NA,TRUE,0
 "BT927JP","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT927JR","OK",FALSE,30,30,30,TRUE,13
 "BT927JS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927JS","No Data",NA,NA,NA,NA,TRUE,0
 "BT927JT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927JU","OK",TRUE,18,9.5,30,TRUE,13
 "BT927JW","OK",TRUE,4.3,4,7.4,TRUE,7
@@ -985,53 +688,38 @@
 "BT927JZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927LA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT927LB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927LB","No Data",NA,NA,NA,NA,TRUE,0
 "BT927LD","OK",TRUE,2.2,2.3,3.8,TRUE,5
 "BT927LE","OK",TRUE,1,1,1.7,TRUE,6
 "BT927LF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT927LJ","OK",FALSE,30,30,30,TRUE,21
 "BT927LL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927LL","No Data",NA,NA,NA,NA,FALSE,0
 "BT927LN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927LP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927LQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927LR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927LR","No Data",NA,NA,NA,NA,TRUE,0
 "BT927LT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927LT","No Data",NA,NA,NA,NA,TRUE,0
 "BT927LW","OK",FALSE,30,30,30,TRUE,4
 "BT927LY","No Data",NA,NA,NA,NA,FALSE,0
 "BT927LZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927LZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT927NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927NB","No Data",NA,NA,NA,NA,FALSE,0
 "BT927ND","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927ND","No Data",NA,NA,NA,NA,FALSE,0
 "BT927NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927NF","No Data",NA,NA,NA,NA,FALSE,0
 "BT927NH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927NJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927NQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927NS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927NS","No Data",NA,NA,NA,NA,TRUE,0
 "BT927NU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927NU","No Data",NA,NA,NA,NA,FALSE,0
 "BT927NW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927NW","No Data",NA,NA,NA,NA,FALSE,0
 "BT927PA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927PA","No Data",NA,NA,NA,NA,FALSE,0
 "BT927PD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927PD","No Data",NA,NA,NA,NA,FALSE,0
 "BT927PE","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT927PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927PL","No Data",NA,NA,NA,NA,FALSE,0
 "BT927PP","OK",TRUE,30,30,30,TRUE,22
 "BT927PR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927PS","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT927PT","OK",FALSE,26.8,30,30,TRUE,5
 "BT927PU","OK",FALSE,15.5,16.2,24.4,TRUE,4
 "BT927PW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927PW","No Data",NA,NA,NA,NA,TRUE,0
 "BT927PY","OK",FALSE,18.8,19.5,19.9,TRUE,3
 "BT927PZ","OK",FALSE,17.3,17.7,20.9,TRUE,4
 "BT927QB","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -1042,88 +730,62 @@
 "BT927QN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT927QR","OK",FALSE,27.9,24.1,30,TRUE,4
 "BT927QS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927QS","No Data",NA,NA,NA,NA,TRUE,0
 "BT927QT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927QT","No Data",NA,NA,NA,NA,TRUE,0
 "BT927QU","OK",FALSE,7.7,5.7,19.3,TRUE,8
 "BT927QW","OK",FALSE,6.3,6.3,7.4,TRUE,4
 "BT927QY","OK",FALSE,23.3,8.1,30,TRUE,27
 "BT927RA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT927RB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT927RB","No Data",NA,NA,NA,NA,TRUE,0
 "BT927SE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT927SE","No Data",NA,NA,NA,NA,FALSE,0
 "BT928AA","OK",FALSE,4.1,4,5.7,TRUE,5
 "BT928AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928AB","No Data",NA,NA,NA,NA,TRUE,0
 "BT928AD","OK",FALSE,23.8,30,30,TRUE,12
 "BT928AE","OK",TRUE,30,30,30,TRUE,16
 "BT928AF","OK",TRUE,2.4,2.3,3.4,TRUE,4
 "BT928AG","OK",FALSE,30,30,30,TRUE,16
 "BT928AL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928AL","No Data",NA,NA,NA,NA,FALSE,0
 "BT928AN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928AN","No Data",NA,NA,NA,NA,TRUE,0
 "BT928AP","OK",TRUE,2,2,4,TRUE,8
 "BT928AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928AQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT928AR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928AR","No Data",NA,NA,NA,NA,TRUE,0
 "BT928AT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928AT","No Data",NA,NA,NA,NA,TRUE,0
 "BT928AU","OK",TRUE,3.2,4,5.5,TRUE,7
 "BT928AW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928AW","No Data",NA,NA,NA,NA,TRUE,0
 "BT928AX","OK",TRUE,5.8,1.9,30,TRUE,10
 "BT928AY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928AY","No Data",NA,NA,NA,NA,TRUE,0
 "BT928AZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928AZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT928BA","OK",TRUE,3,2.8,7.3,TRUE,16
 "BT928BB","OK",TRUE,1.9,2,2.8,TRUE,3
 "BT928BD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT928BE","OK",TRUE,5.2,6,8.1,TRUE,8
 "BT928BF","OK",FALSE,8.6,7.4,26.2,TRUE,7
 "BT928BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928BG","No Data",NA,NA,NA,NA,FALSE,0
 "BT928BL","OK",TRUE,0.8,0.9,1.4,TRUE,12
 "BT928BQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928BQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT928BR","OK",TRUE,2.7,1.7,5.7,TRUE,3
 "BT928BS","No Data",NA,NA,NA,NA,TRUE,0
 "BT928BU","OK",TRUE,1.3,1.2,2.3,TRUE,9
 "BT928BW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928BW","No Data",NA,NA,NA,NA,TRUE,0
 "BT928BX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928BX","No Data",NA,NA,NA,NA,TRUE,0
 "BT928DD","OK",FALSE,20.6,8.1,30,TRUE,5
 "BT928DE","OK",FALSE,12.5,10.7,18.2,TRUE,5
 "BT928DF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928DF","No Data",NA,NA,NA,NA,TRUE,0
 "BT928DH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928DH","No Data",NA,NA,NA,NA,FALSE,0
 "BT928DL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928DL","No Data",NA,NA,NA,NA,TRUE,0
 "BT928DN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT928DR","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT928DS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT928DT","OK",TRUE,1.4,1,2.3,TRUE,5
 "BT928DW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928DW","No Data",NA,NA,NA,NA,FALSE,0
 "BT928DX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928DX","No Data",NA,NA,NA,NA,FALSE,0
 "BT928EA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928EA","No Data",NA,NA,NA,NA,TRUE,0
 "BT928EB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT928ED","OK",FALSE,4.3,4.3,5.7,TRUE,3
 "BT928EJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928EJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT928EN","OK",FALSE,28.5,30,30,TRUE,7
 "BT928ER","OK",TRUE,11.1,10,26.4,TRUE,5
 "BT928ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928ES","No Data",NA,NA,NA,NA,FALSE,0
 "BT928ET","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928ET","No Data",NA,NA,NA,NA,FALSE,0
 "BT928EU","OK",FALSE,30,30,30,TRUE,4
 "BT928EW","OK",FALSE,30,30,30,TRUE,32
 "BT928EY","No Data",NA,NA,NA,NA,TRUE,0
@@ -1132,12 +794,10 @@
 "BT928FF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT928FG","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT928FH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928FH","No Data",NA,NA,NA,NA,TRUE,0
 "BT928FL","OK",FALSE,30,30,30,TRUE,4
 "BT928FP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT928FR","OK",FALSE,4.8,4.8,6.2,TRUE,3
 "BT928FS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928FS","No Data",NA,NA,NA,NA,FALSE,0
 "BT928FT","OK",TRUE,4.5,5.1,7.4,TRUE,4
 "BT928FW","No Data",NA,NA,NA,NA,TRUE,0
 "BT928FX","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -1145,13 +805,10 @@
 "BT928GA","OK",TRUE,2.4,2.8,3.4,TRUE,3
 "BT928GB","OK",TRUE,1.1,1.3,1.9,TRUE,8
 "BT928GG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928GG","No Data",NA,NA,NA,NA,FALSE,0
 "BT928GJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928GJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT928GP","OK",FALSE,22.8,23.1,30,TRUE,4
 "BT928GQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT928GR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928GR","No Data",NA,NA,NA,NA,TRUE,0
 "BT928GT","OK",FALSE,30,30,30,TRUE,28
 "BT928GU","OK",FALSE,12.8,8.1,30,TRUE,6
 "BT928GW","OK",TRUE,0.9,0.7,1.7,TRUE,6
@@ -1159,70 +816,48 @@
 "BT928GY","OK",FALSE,20.7,10.6,30,TRUE,10
 "BT928GZ","OK",TRUE,0.5,0.6,0.6,TRUE,3
 "BT928HE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928HE","No Data",NA,NA,NA,NA,TRUE,0
 "BT928HF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT928HG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928HG","No Data",NA,NA,NA,NA,FALSE,0
 "BT928HN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT928HQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT928HR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928HR","No Data",NA,NA,NA,NA,TRUE,0
 "BT928HS","No Data",NA,NA,NA,NA,TRUE,0
 "BT928HT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928HT","No Data",NA,NA,NA,NA,FALSE,0
 "BT928HW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT928HX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928HX","No Data",NA,NA,NA,NA,FALSE,0
 "BT928HZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928HZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT928JA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928JA","No Data",NA,NA,NA,NA,FALSE,0
 "BT928JB","OK",FALSE,28.7,24.1,30,TRUE,8
 "BT928JD","OK",FALSE,22.9,23.3,30,TRUE,8
 "BT928JE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928JE","No Data",NA,NA,NA,NA,TRUE,0
 "BT928JG","OK",FALSE,4.8,5,6.8,TRUE,4
 "BT928JJ","OK",FALSE,30,30,30,TRUE,6
 "BT928JQ","OK",FALSE,13.9,16.4,18.4,TRUE,8
 "BT928JU","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT928JW","OK",FALSE,30,30,30,TRUE,14
 "BT928JZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928JZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT928LA","OK",FALSE,15.6,6.7,30,TRUE,7
 "BT928LB","OK",FALSE,26.5,30,30,TRUE,3
 "BT928LD","OK",FALSE,18.2,20.1,30,TRUE,3
 "BT928LE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928LE","No Data",NA,NA,NA,NA,TRUE,0
 "BT928LF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928LF","No Data",NA,NA,NA,NA,FALSE,0
 "BT928LG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928LG","No Data",NA,NA,NA,NA,TRUE,0
 "BT928LH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928LH","No Data",NA,NA,NA,NA,FALSE,0
 "BT928LL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928LL","No Data",NA,NA,NA,NA,TRUE,0
 "BT928LN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928LN","No Data",NA,NA,NA,NA,TRUE,0
 "BT928LU","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT928LW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928LW","No Data",NA,NA,NA,NA,FALSE,0
 "BT928LX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928LX","No Data",NA,NA,NA,NA,TRUE,0
 "BT928LY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT928LY","No Data",NA,NA,NA,NA,TRUE,0
 "BT928LZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928LZ","No Data",NA,NA,NA,NA,FALSE,0
 "BT928NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT928NA","No Data",NA,NA,NA,NA,FALSE,0
 "BT928NB","OK",TRUE,1.4,1.4,1.8,TRUE,3
 "BT928ND","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT929AB","OK",FALSE,8.1,8.1,8.1,FALSE,3
 "BT929AD","OK",FALSE,7.9,8.1,8.1,FALSE,7
 "BT929AG","OK",FALSE,27.4,30,30,TRUE,7
 "BT929AH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929AH","No Data",NA,NA,NA,NA,TRUE,0
 "BT929AJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929AJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT929AL","OK",FALSE,12.9,8.1,26,TRUE,3
 "BT929AN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT929AP","OK",TRUE,3,2.3,7.4,TRUE,23
@@ -1237,57 +872,43 @@
 "BT929BD","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT929BE","OK",FALSE,4.2,3.7,6.8,FALSE,6
 "BT929BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929BF","No Data",NA,NA,NA,NA,FALSE,0
 "BT929BG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT929BJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929BJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT929BL","OK",TRUE,17.5,2.8,30,TRUE,12
 "BT929BN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT929BP","OK",TRUE,12.5,14.4,23,TRUE,6
 "BT929BQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929BQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT929BR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929BR","No Data",NA,NA,NA,NA,TRUE,0
 "BT929BY","OK",TRUE,3.3,0.9,8.8,TRUE,3
 "BT929BZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT929DA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929DA","No Data",NA,NA,NA,NA,TRUE,0
 "BT929DB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929DB","No Data",NA,NA,NA,NA,FALSE,0
 "BT929DF","OK",FALSE,6.3,6,8.1,FALSE,9
 "BT929DH","OK",TRUE,9.2,11.4,15.1,TRUE,3
 "BT929DL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929DL","No Data",NA,NA,NA,NA,FALSE,0
 "BT929DR","OK",TRUE,1.1,1.2,1.2,TRUE,3
 "BT929DT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT929DW","OK",TRUE,5.4,4.9,14.6,TRUE,9
 "BT929DX","OK",FALSE,8.2,8.1,22.3,FALSE,23
 "BT929DY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929DY","No Data",NA,NA,NA,NA,TRUE,0
 "BT929DZ","OK",TRUE,4.5,4.6,8,FALSE,6
 "BT929EA","OK",FALSE,4.8,4.8,5.1,TRUE,3
 "BT929ED","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929ED","No Data",NA,NA,NA,NA,FALSE,0
 "BT929EE","OK",TRUE,1.7,1.7,3.1,TRUE,6
 "BT929EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929EH","No Data",NA,NA,NA,NA,FALSE,0
 "BT929EN","OK",TRUE,2.6,2.8,5.1,TRUE,8
 "BT929EQ","No Data",NA,NA,NA,NA,TRUE,0
 "BT929ES","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929ES","No Data",NA,NA,NA,NA,TRUE,0
 "BT929ET","OK",TRUE,4.5,4.5,8.8,TRUE,4
 "BT929EU","No Data",NA,NA,NA,NA,TRUE,0
 "BT929FA","OK",FALSE,20.3,20.3,30,TRUE,3
 "BT929FF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT929FH","OK",TRUE,6.6,7.4,10.7,TRUE,4
 "BT929FJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929FJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT929FP","OK",TRUE,5.2,0.9,17.9,TRUE,7
 "BT929FR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929FR","No Data",NA,NA,NA,NA,TRUE,0
 "BT929FS","No Data",NA,NA,NA,NA,TRUE,0
 "BT929FT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929FT","No Data",NA,NA,NA,NA,TRUE,0
 "BT929FY","OK",TRUE,1.5,1.2,3.1,TRUE,4
 "BT929GA","OK",TRUE,2.4,2.3,4,TRUE,4
 "BT929GE","OK",FALSE,7,7.7,8.1,FALSE,16
@@ -1299,44 +920,29 @@
 "BT929GQ","OK",TRUE,6.9,0.5,24.6,TRUE,6
 "BT929GR","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT929GT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929GT","No Data",NA,NA,NA,NA,FALSE,0
 "BT929GX","OK",FALSE,30,30,30,TRUE,5
 "BT929HF","OK",FALSE,9.2,6.8,15,TRUE,3
 "BT929HJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929HJ","No Data",NA,NA,NA,NA,TRUE,0
 "BT929HL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929HL","No Data",NA,NA,NA,NA,FALSE,0
 "BT929HN","No Data",NA,NA,NA,NA,FALSE,0
 "BT929HP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929HP","No Data",NA,NA,NA,NA,FALSE,0
 "BT929HQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929HQ","No Data",NA,NA,NA,NA,FALSE,0
 "BT929HS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929HS","No Data",NA,NA,NA,NA,FALSE,0
 "BT929HT","OK",TRUE,3.9,4.5,6.2,TRUE,5
 "BT929HU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929HU","No Data",NA,NA,NA,NA,FALSE,0
 "BT929HY","OK",FALSE,11.6,8.1,23.8,TRUE,3
 "BT929HZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929HZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT929JA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929JA","No Data",NA,NA,NA,NA,TRUE,0
 "BT929JD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929JD","No Data",NA,NA,NA,NA,TRUE,0
 "BT929JE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929JE","No Data",NA,NA,NA,NA,TRUE,0
 "BT929JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929JF","No Data",NA,NA,NA,NA,FALSE,0
 "BT929JG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929JG","No Data",NA,NA,NA,NA,TRUE,0
 "BT929JH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929JH","No Data",NA,NA,NA,NA,FALSE,0
 "BT929JQ","OK",FALSE,5.9,7.4,8,FALSE,4
 "BT929JS","OK",TRUE,6.5,6.5,11.4,TRUE,4
 "BT929JT","OK",TRUE,2.8,2.8,5.1,TRUE,13
 "BT929JU","OK",TRUE,5.3,2.8,21.1,TRUE,9
 "BT929JW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929JW","No Data",NA,NA,NA,NA,FALSE,0
 "BT929JX","OK",TRUE,1.6,1.2,2.8,TRUE,3
 "BT929JY","OK",TRUE,27.5,24.1,30,TRUE,12
 "BT929JZ","OK",TRUE,11.1,7.6,30,TRUE,40
@@ -1346,56 +952,43 @@
 "BT929LE","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT929LF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT929LG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929LG","No Data",NA,NA,NA,NA,TRUE,0
 "BT929LH","OK",FALSE,7.6,7.4,8.1,FALSE,7
 "BT929LJ","OK",TRUE,4.2,4.4,8.1,FALSE,4
 "BT929LN","OK",TRUE,2.1,1.6,5.7,FALSE,6
 "BT929LP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929LP","No Data",NA,NA,NA,NA,FALSE,0
 "BT929LQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT929LR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929LR","No Data",NA,NA,NA,NA,FALSE,0
 "BT929LS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT929LT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929LT","No Data",NA,NA,NA,NA,TRUE,0
 "BT929LU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929LU","No Data",NA,NA,NA,NA,FALSE,0
 "BT929LX","OK",FALSE,30,30,30,TRUE,6
 "BT929LY","OK",FALSE,26.7,29.7,30,TRUE,3
 "BT929NA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BT929NB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT929NE","OK",TRUE,9.5,5.7,21.4,TRUE,3
 "BT929NF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929NF","No Data",NA,NA,NA,NA,TRUE,0
 "BT929NG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929NG","No Data",NA,NA,NA,NA,FALSE,0
 "BT929NP","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BT929NQ","OK",TRUE,4.3,4,7.4,FALSE,5
 "BT929NR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929NR","No Data",NA,NA,NA,NA,FALSE,0
 "BT929NU","OK",TRUE,2.7,2.3,5.1,TRUE,7
 "BT929NX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT929NY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT929PA","OK",FALSE,17.9,11.8,30,TRUE,4
 "BT929PF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT929PG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929PG","No Data",NA,NA,NA,NA,TRUE,0
 "BT929PP","OK",FALSE,16.8,7.1,30,TRUE,6
 "BT929PR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929PR","No Data",NA,NA,NA,NA,TRUE,0
 "BT929PU","OK",FALSE,6.7,7.4,8.1,TRUE,13
 "BT929PY","OK",TRUE,30,3.7,30,TRUE,5
 "BT929PZ","No Data",NA,NA,NA,NA,TRUE,0
 "BT929QB","OK",TRUE,0.4,0.4,0.9,TRUE,9
 "BT929QD","OK",TRUE,0.9,0.9,1.8,TRUE,9
 "BT929QE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929QE","No Data",NA,NA,NA,NA,TRUE,0
 "BT929QF","OK",TRUE,30,30,30,TRUE,5
 "BT929QG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929QG","No Data",NA,NA,NA,NA,TRUE,0
 "BT929QJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BT929QL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BT929QL","No Data",NA,NA,NA,NA,TRUE,0
 "BT929QN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BT929QQ","OK",TRUE,30,30,30,TRUE,21
 "BT929QR","OK",FALSE,5.3,5.2,7.4,TRUE,9
@@ -1403,7 +996,5 @@
 "BT929QT","OK",TRUE,30,30,30,TRUE,11
 "BT929QU","OK",TRUE,0.5,0.6,0.6,TRUE,3
 "BT929QY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929QY","No Data",NA,NA,NA,NA,FALSE,0
 "BT929RJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BT929RJ","No Data",NA,NA,NA,NA,FALSE,0
 "BT929WZ","No premises",NA,NA,NA,NA,FALSE,0

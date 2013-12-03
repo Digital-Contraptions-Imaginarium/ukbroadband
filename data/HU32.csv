@@ -1,12 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HU32AA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU32AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU32AB","No Data",NA,NA,NA,NA,TRUE,0
 "HU32AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU32AF","No Data",NA,NA,NA,NA,FALSE,0
 "HU32AH","No Data",NA,NA,NA,NA,TRUE,0
 "HU32BB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU32BB","No Data",NA,NA,NA,NA,FALSE,0
 "HU32BE","No Data",NA,NA,NA,NA,TRUE,0
 "HU32BG","No Data",NA,NA,NA,NA,TRUE,0
 "HU32BJ","No premises",NA,NA,NA,NA,FALSE,0
@@ -16,7 +13,6 @@
 "HU32BT","No Data",NA,NA,NA,NA,TRUE,0
 "HU32BU","No Data",NA,NA,NA,NA,TRUE,0
 "HU32DB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU32DB","No Data",NA,NA,NA,NA,FALSE,0
 "HU32DD","No Data",NA,NA,NA,NA,TRUE,0
 "HU32DF","No Data",NA,NA,NA,NA,TRUE,0
 "HU32DG","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -24,7 +20,6 @@
 "HU32DJ","No premises",NA,NA,NA,NA,TRUE,0
 "HU32DQ","No Data",NA,NA,NA,NA,TRUE,0
 "HU32DR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU32DR","No Data",NA,NA,NA,NA,TRUE,0
 "HU32DT","No Data",NA,NA,NA,NA,TRUE,0
 "HU32DU","No premises",NA,NA,NA,NA,TRUE,0
 "HU32DX","No premises",NA,NA,NA,NA,TRUE,0
@@ -37,17 +32,14 @@
 "HU32EJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU32EL","OK",FALSE,14.2,16.1,20.2,FALSE,4
 "HU32EP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU32EP","No Data",NA,NA,NA,NA,TRUE,0
 "HU32EW","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU32EX","OK",FALSE,15.9,16.4,20.5,FALSE,7
 "HU32EY","OK",FALSE,12.2,13.1,15.9,TRUE,6
 "HU32EZ","OK",TRUE,12.3,14,18.4,FALSE,6
 "HU32HA","OK",FALSE,12.1,13.2,14.4,TRUE,6
 "HU32HB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU32HB","No Data",NA,NA,NA,NA,FALSE,0
 "HU32HD","OK",FALSE,12.3,12.9,17.1,TRUE,4
 "HU32HE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU32HE","No Data",NA,NA,NA,NA,TRUE,0
 "HU32HF","OK",FALSE,13.8,15.4,16.1,FALSE,4
 "HU32HG","OK",FALSE,14,17.4,18.4,FALSE,9
 "HU32HJ","OK",FALSE,14.3,14.2,17.8,FALSE,6
@@ -83,15 +75,12 @@
 "HU32NL","No Data",NA,NA,NA,NA,FALSE,0
 "HU32NS","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU32NT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU32NT","No Data",NA,NA,NA,NA,TRUE,0
 "HU32PA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU32PA","No Data",NA,NA,NA,NA,FALSE,0
 "HU32PB","No premises",NA,NA,NA,NA,TRUE,0
 "HU32PD","OK",FALSE,12.8,14.3,16.4,TRUE,20
 "HU32PE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "HU32PF","OK",TRUE,13,15.2,16.3,TRUE,8
 "HU32PG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU32PG","No Data",NA,NA,NA,NA,TRUE,0
 "HU32PH","No Data",NA,NA,NA,NA,TRUE,0
 "HU32PJ","OK",FALSE,8.5,8.2,11.3,FALSE,3
 "HU32PL","OK",FALSE,9.8,10.2,11.3,FALSE,5
@@ -107,7 +96,6 @@
 "HU32PY","OK",FALSE,11.9,13.8,15.4,FALSE,6
 "HU32PZ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU32QA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU32QA","No Data",NA,NA,NA,NA,TRUE,0
 "HU32QB","No Data",NA,NA,NA,NA,FALSE,0
 "HU32QE","OK",FALSE,10.9,10.8,13.7,FALSE,5
 "HU32QG","OK",FALSE,11.1,10.2,14,FALSE,5
@@ -117,7 +105,6 @@
 "HU32QN","OK",FALSE,10.9,10.9,14.5,FALSE,5
 "HU32QP","OK",FALSE,12.7,12.7,15.3,FALSE,4
 "HU32QQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU32QQ","No Data",NA,NA,NA,NA,FALSE,0
 "HU32QT","OK",FALSE,11.9,12.3,15.3,FALSE,7
 "HU32QU","OK",FALSE,11.4,12.2,18,FALSE,4
 "HU32QX","OK",FALSE,12.5,12.6,14.3,FALSE,6
@@ -128,7 +115,6 @@
 "HU32RD","OK",FALSE,11.5,11.8,14.6,TRUE,6
 "HU32RF","OK",FALSE,12.1,12.2,14.3,FALSE,8
 "HU32RP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU32RP","No Data",NA,NA,NA,NA,TRUE,0
 "HU32RS","No premises",NA,NA,NA,NA,TRUE,0
 "HU32RT","No premises",NA,NA,NA,NA,TRUE,0
 "HU32SA","OK",FALSE,10.5,11.6,12.3,TRUE,5

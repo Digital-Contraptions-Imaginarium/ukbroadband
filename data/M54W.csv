@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M54WB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M54WB","No Data",NA,NA,NA,NA,FALSE,0
 "M54WN","OK",FALSE,6.8,7.5,7.8,FALSE,4
 "M54WQ","No premises",NA,NA,NA,NA,FALSE,0
 "M54WS","No premises",NA,NA,NA,NA,FALSE,0
@@ -8,4 +7,3 @@
 "M54WU","No premises",NA,NA,NA,NA,FALSE,0
 "M54WW","No premises",NA,NA,NA,NA,FALSE,0
 "M54WX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M54WX","No Data",NA,NA,NA,NA,FALSE,0

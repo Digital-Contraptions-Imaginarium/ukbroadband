@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W24TA","OK",TRUE,18,19.7,30,TRUE,20
 "W24TB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W24TB","No Data",NA,NA,NA,NA,FALSE,0
 "W24TD","OK",FALSE,18.4,20.8,30,TRUE,9
 "W24TE","OK",FALSE,15,14.3,21.9,TRUE,60
 "W24TF","OK",FALSE,14.9,16.5,21.7,FALSE,30

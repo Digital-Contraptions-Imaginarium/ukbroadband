@@ -1,9 +1,7 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L53QE","OK",FALSE,21.1,20,30,TRUE,8
 "L53QF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L53QF","No Data",NA,NA,NA,NA,TRUE,0
 "L53QG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L53QG","No Data",NA,NA,NA,NA,TRUE,0
 "L53QN","OK",FALSE,17.1,14,30,TRUE,14
 "L53QQ","OK",FALSE,17.2,15.3,30,TRUE,6
 "L53QW","OK",FALSE,11.5,12.2,13.7,TRUE,8

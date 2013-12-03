@@ -1,12 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "ST42AA","No premises",NA,NA,NA,NA,TRUE,0
 "ST42AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42AB","No Data",NA,NA,NA,NA,TRUE,0
 "ST42AD","No Data",NA,NA,NA,NA,TRUE,0
 "ST42AE","No premises",NA,NA,NA,NA,TRUE,0
 "ST42AG","OK",FALSE,9.8,8.1,17.6,TRUE,7
 "ST42AH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42AH","No Data",NA,NA,NA,NA,TRUE,0
 "ST42AL","No premises",NA,NA,NA,NA,FALSE,0
 "ST42AR","No Data",NA,NA,NA,NA,TRUE,0
 "ST42AX","No premises",NA,NA,NA,NA,FALSE,0
@@ -28,7 +26,6 @@
 "ST42BY","OK",TRUE,23,17.4,30,TRUE,30
 "ST42BZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST42DD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42DD","No Data",NA,NA,NA,NA,TRUE,0
 "ST42DE","No premises",NA,NA,NA,NA,TRUE,0
 "ST42DF","No premises",NA,NA,NA,NA,FALSE,0
 "ST42DG","No premises",NA,NA,NA,NA,TRUE,0
@@ -37,17 +34,14 @@
 "ST42DN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST42DP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST42DQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42DQ","No Data",NA,NA,NA,NA,TRUE,0
 "ST42DR","No premises",NA,NA,NA,NA,TRUE,0
 "ST42DS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42DS","No Data",NA,NA,NA,NA,TRUE,0
 "ST42DT","OK",FALSE,30,30,30,TRUE,20
 "ST42DU","OK",FALSE,30,20,30,TRUE,18
 "ST42DW","No premises",NA,NA,NA,NA,TRUE,0
 "ST42DX","OK",FALSE,23.2,20,30,TRUE,26
 "ST42DY","OK",FALSE,29.1,20.3,30,TRUE,11
 "ST42EA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST42EA","No Data",NA,NA,NA,NA,FALSE,0
 "ST42EB","OK",FALSE,20.4,20,30,TRUE,15
 "ST42ED","OK",FALSE,30,20.4,30,TRUE,21
 "ST42EE","OK",TRUE,13.8,14.1,30,TRUE,5
@@ -66,7 +60,6 @@
 "ST42EX","OK",FALSE,24.7,20,30,TRUE,32
 "ST42EZ","No premises",NA,NA,NA,NA,FALSE,0
 "ST42FG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST42FG","No Data",NA,NA,NA,NA,FALSE,0
 "ST42HA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "ST42HB","No premises",NA,NA,NA,NA,TRUE,0
 "ST42HD","OK",FALSE,27.6,30,30,TRUE,13
@@ -81,17 +74,14 @@
 "ST42HS","OK",TRUE,4.5,4,8.1,FALSE,9
 "ST42HT","No premises",NA,NA,NA,NA,TRUE,0
 "ST42HU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42HU","No Data",NA,NA,NA,NA,TRUE,0
 "ST42HX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST42HY","No premises",NA,NA,NA,NA,TRUE,0
 "ST42HZ","No premises",NA,NA,NA,NA,FALSE,0
 "ST42JA","No premises",NA,NA,NA,NA,FALSE,0
 "ST42JB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42JB","No Data",NA,NA,NA,NA,TRUE,0
 "ST42JD","OK",TRUE,18.3,10.2,30,TRUE,16
 "ST42JE","OK",FALSE,30,30,30,TRUE,9
 "ST42JG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42JG","No Data",NA,NA,NA,NA,TRUE,0
 "ST42JH","OK",FALSE,30,25,30,TRUE,8
 "ST42JJ","OK",FALSE,25.7,11.9,30,TRUE,13
 "ST42JL","OK",TRUE,30,30,30,TRUE,3
@@ -116,7 +106,6 @@
 "ST42LX","OK",FALSE,16.2,8.9,30,TRUE,7
 "ST42LZ","OK",FALSE,13.8,9.3,30,TRUE,15
 "ST42NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST42NA","No Data",NA,NA,NA,NA,FALSE,0
 "ST42NG","No premises",NA,NA,NA,NA,TRUE,0
 "ST42NL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST42NN","OK",FALSE,30,20,30,TRUE,5
@@ -132,13 +121,11 @@
 "ST42PB","OK",FALSE,22.1,20,30,TRUE,33
 "ST42PD","OK",TRUE,18.9,20,30,TRUE,23
 "ST42PE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42PE","No Data",NA,NA,NA,NA,TRUE,0
 "ST42PH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST42PJ","No premises",NA,NA,NA,NA,TRUE,0
 "ST42PL","OK",FALSE,12.4,13,13.2,TRUE,5
 "ST42PN","No premises",NA,NA,NA,NA,TRUE,0
 "ST42PP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42PP","No Data",NA,NA,NA,NA,TRUE,0
 "ST42PQ","No premises",NA,NA,NA,NA,TRUE,0
 "ST42PR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST42PS","OK",FALSE,17.2,13.4,30,TRUE,13
@@ -146,14 +133,12 @@
 "ST42PX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST42PY","OK",FALSE,23.9,12.9,30,TRUE,10
 "ST42PZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST42PZ","No Data",NA,NA,NA,NA,FALSE,0
 "ST42QA","OK",FALSE,25.5,13.8,30,TRUE,7
 "ST42QB","No Data",NA,NA,NA,NA,TRUE,0
 "ST42QD","OK",TRUE,21.2,4,30,TRUE,23
 "ST42QH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST42QN","OK",FALSE,22.3,20,30,TRUE,3
 "ST42QR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST42QR","No Data",NA,NA,NA,NA,FALSE,0
 "ST42QW","OK",FALSE,30,30,30,TRUE,9
 "ST42QX","OK",FALSE,30,20,30,TRUE,6
 "ST42QY","No premises",NA,NA,NA,NA,TRUE,0
@@ -168,11 +153,9 @@
 "ST42RP","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST42RQ","OK",FALSE,8.5,8.1,11.3,FALSE,3
 "ST42RR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42RR","No Data",NA,NA,NA,NA,TRUE,0
 "ST42RS","OK",FALSE,5.5,3.9,10.7,TRUE,4
 "ST42RT","No premises",NA,NA,NA,NA,FALSE,0
 "ST42RU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST42RU","No Data",NA,NA,NA,NA,TRUE,0
 "ST42RW","OK",FALSE,14.1,14.4,19.3,TRUE,10
 "ST42SA","OK",FALSE,14.7,17.5,18.6,TRUE,3
 "ST42SE","OK",TRUE,2.9,2.5,4.6,TRUE,3

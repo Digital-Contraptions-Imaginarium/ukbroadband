@@ -6,15 +6,10 @@
 "G38HF","OK",FALSE,10.5,10.4,16.3,FALSE,43
 "G38HL","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G38HN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G38HN","No Data",NA,NA,NA,NA,FALSE,0
 "G38HP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G38HP","No Data",NA,NA,NA,NA,FALSE,0
 "G38HQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G38HQ","No Data",NA,NA,NA,NA,FALSE,0
 "G38HR","OK",FALSE,10,9.6,18.6,FALSE,61
 "G38HS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G38HS","No Data",NA,NA,NA,NA,FALSE,0
 "G38HT","No premises",NA,NA,NA,NA,FALSE,0
 "G38HY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G38HY","No Data",NA,NA,NA,NA,TRUE,0
 "G38HZ","OK",FALSE,11.9,8.1,19.7,FALSE,6

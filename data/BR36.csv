@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BR36AB","OK",FALSE,15.9,15.4,30,TRUE,19
 "BR36BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BR36BL","No Data",NA,NA,NA,NA,FALSE,0
 "BR36DG","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BR36LH","OK",FALSE,29.3,20,30,TRUE,15
 "BR36LJ","OK",FALSE,20.7,19.8,30,TRUE,11
@@ -11,7 +10,6 @@
 "BR36LQ","OK",FALSE,30,26.9,30,TRUE,9
 "BR36LR","OK",FALSE,27.7,20,30,TRUE,16
 "BR36LS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR36LS","No Data",NA,NA,NA,NA,TRUE,0
 "BR36LT","OK",FALSE,15.9,15.3,21.3,TRUE,8
 "BR36LU","OK",FALSE,19.4,19.3,30,TRUE,6
 "BR36LW","OK",TRUE,19,22.2,30,TRUE,6
@@ -104,7 +102,6 @@
 "BR36SX","OK",FALSE,30,20,30,TRUE,15
 "BR36SY","OK",FALSE,28.4,19,30,TRUE,6
 "BR36SZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR36SZ","No Data",NA,NA,NA,NA,TRUE,0
 "BR36TA","OK",TRUE,14.6,7.3,30,TRUE,23
 "BR36TB","OK",FALSE,29.6,20,30,TRUE,21
 "BR36TD","OK",TRUE,23,7.4,30,TRUE,20

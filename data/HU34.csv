@@ -2,30 +2,24 @@
 "HU34AA","No Data",NA,NA,NA,NA,FALSE,0
 "HU34AD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HU34AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU34AE","No Data",NA,NA,NA,NA,FALSE,0
 "HU34AL","No Data",NA,NA,NA,NA,FALSE,0
 "HU34AN","No premises",NA,NA,NA,NA,FALSE,0
 "HU34AQ","No Data",NA,NA,NA,NA,FALSE,0
 "HU34AS","No premises",NA,NA,NA,NA,FALSE,0
 "HU34AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU34AU","No Data",NA,NA,NA,NA,FALSE,0
 "HU34AY","No Data",NA,NA,NA,NA,FALSE,0
 "HU34BB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU34BB","No Data",NA,NA,NA,NA,FALSE,0
 "HU34BE","OK",FALSE,8.7,8.8,10,FALSE,3
 "HU34BG","No premises",NA,NA,NA,NA,FALSE,0
 "HU34BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU34BH","No Data",NA,NA,NA,NA,FALSE,0
 "HU34BJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU34BL","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU34BN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU34BN","No Data",NA,NA,NA,NA,FALSE,0
 "HU34BQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU34DA","OK",FALSE,7.9,7.7,11.2,FALSE,4
 "HU34DD","No Data",NA,NA,NA,NA,FALSE,0
 "HU34DL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HU34DP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU34DP","No Data",NA,NA,NA,NA,FALSE,0
 "HU34DY","No Data",NA,NA,NA,NA,FALSE,0
 "HU34EB","No Data",NA,NA,NA,NA,TRUE,0
 "HU34EH","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -38,12 +32,10 @@
 "HU34JF","No Data",NA,NA,NA,NA,TRUE,0
 "HU34JH","No Data",NA,NA,NA,NA,FALSE,0
 "HU34JP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU34JP","No Data",NA,NA,NA,NA,FALSE,0
 "HU34JR","No Data",NA,NA,NA,NA,TRUE,0
 "HU34LB","No Data",NA,NA,NA,NA,FALSE,0
 "HU34NA","No Data",NA,NA,NA,NA,TRUE,0
 "HU34NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU34NF","No Data",NA,NA,NA,NA,FALSE,0
 "HU34PE","No premises",NA,NA,NA,NA,FALSE,0
 "HU34PG","No premises",NA,NA,NA,NA,FALSE,0
 "HU34RB","No Data",NA,NA,NA,NA,FALSE,0
@@ -58,7 +50,6 @@
 "HU34UN","No premises",NA,NA,NA,NA,TRUE,0
 "HU34UQ","No Data",NA,NA,NA,NA,TRUE,0
 "HU34UR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU34UR","No Data",NA,NA,NA,NA,TRUE,0
 "HU34UU","No Data",NA,NA,NA,NA,FALSE,0
 "HU34UW","No Data",NA,NA,NA,NA,TRUE,0
 "HU34XA","No Data",NA,NA,NA,NA,TRUE,0
@@ -67,6 +58,5 @@
 "HU34XQ","No premises",NA,NA,NA,NA,TRUE,0
 "HU34XR","No premises",NA,NA,NA,NA,TRUE,0
 "HU34XS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU34XS","No Data",NA,NA,NA,NA,FALSE,0
 "HU34XT","No Data",NA,NA,NA,NA,FALSE,0
 "HU34ZF","No premises",NA,NA,NA,NA,FALSE,0

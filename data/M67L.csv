@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M67LB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M67LB","No Data",NA,NA,NA,NA,TRUE,0
 "M67LD","OK",FALSE,28.8,20,30,TRUE,6
 "M67LG","OK",FALSE,16,9.5,30,TRUE,18
 "M67LH","OK",TRUE,25.5,25,30,TRUE,12

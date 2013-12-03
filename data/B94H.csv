@@ -2,10 +2,8 @@
 "B94HA","OK",FALSE,23.4,21.7,30,TRUE,12
 "B94HB","OK",FALSE,25.3,21.4,30,TRUE,15
 "B94HE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94HE","No Data",NA,NA,NA,NA,FALSE,0
 "B94HF","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B94HH","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B94HN","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B94HQ","OK",FALSE,30,21.9,30,TRUE,16
 "B94HX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B94HX","No Data",NA,NA,NA,NA,TRUE,0

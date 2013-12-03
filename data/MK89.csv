@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "MK89AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK89AA","No Data",NA,NA,NA,NA,TRUE,0
 "MK89AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK89AB","No Data",NA,NA,NA,NA,TRUE,0
 "MK89AD","OK",TRUE,27.9,30,30,TRUE,17
 "MK89AE","OK",TRUE,27,22,30,TRUE,10
 "MK89AF","OK",TRUE,29.3,21.1,30,TRUE,15
@@ -13,7 +11,6 @@
 "MK89AN","OK",TRUE,30,30,30,TRUE,5
 "MK89AP","OK",TRUE,1.7,1.5,2.5,TRUE,5
 "MK89AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK89AQ","No Data",NA,NA,NA,NA,TRUE,0
 "MK89AR","OK",TRUE,30,30,30,TRUE,18
 "MK89AS","OK",TRUE,30,21.7,30,TRUE,20
 "MK89AT","OK",TRUE,1.9,2.5,3.2,TRUE,10
@@ -21,14 +18,12 @@
 "MK89AW","OK",TRUE,23.2,3.2,30,TRUE,6
 "MK89AX","OK",TRUE,10.8,1.3,30,TRUE,4
 "MK89AY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK89AY","No Data",NA,NA,NA,NA,TRUE,0
 "MK89AZ","OK",TRUE,2.9,2.9,4.2,TRUE,13
 "MK89BA","OK",TRUE,7.6,2.2,30,TRUE,8
 "MK89BB","OK",TRUE,18.5,2.6,30,TRUE,7
 "MK89BD","OK",TRUE,23.3,3,30,TRUE,20
 "MK89BE","OK",TRUE,2.5,2.5,3.5,TRUE,5
 "MK89BF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK89BF","No Data",NA,NA,NA,NA,TRUE,0
 "MK89BG","OK",TRUE,19.8,3.9,30,TRUE,21
 "MK89BH","OK",TRUE,20.3,4.2,30,TRUE,25
 "MK89BJ","OK",TRUE,24.5,2.3,30,TRUE,8
@@ -52,7 +47,6 @@
 "MK89DH","OK",TRUE,26.6,21.5,30,TRUE,6
 "MK89DJ","OK",TRUE,14.3,3.9,30,TRUE,7
 "MK89DL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK89DL","No Data",NA,NA,NA,NA,TRUE,0
 "MK89DN","OK",TRUE,28.1,30,30,TRUE,21
 "MK89DP","OK",TRUE,21.1,3.9,30,TRUE,18
 "MK89DQ","Insufficient Data",NA,NA,NA,NA,TRUE,2

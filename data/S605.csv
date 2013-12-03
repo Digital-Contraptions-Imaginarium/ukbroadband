@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S605AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S605AE","No Data",NA,NA,NA,NA,FALSE,0
 "S605AG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "S605AH","OK",TRUE,4.7,4.8,6.4,TRUE,16
 "S605AJ","OK",TRUE,5.5,5.9,7.9,FALSE,16
@@ -19,7 +18,6 @@
 "S605BA","OK",TRUE,2.6,2.8,3.7,FALSE,8
 "S605BB","OK",TRUE,3.3,3.5,5,TRUE,5
 "S605BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S605BD","No Data",NA,NA,NA,NA,FALSE,0
 "S605BE","OK",TRUE,4,3.2,30,TRUE,39
 "S605BG","OK",TRUE,6.7,4.8,30,TRUE,37
 "S605BJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -190,12 +188,9 @@
 "S605RD","OK",TRUE,1.5,1.5,2.7,FALSE,15
 "S605RE","OK",TRUE,1,1,1.2,FALSE,3
 "S605RF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S605RF","No Data",NA,NA,NA,NA,FALSE,0
 "S605RG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "S605RH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S605RH","No Data",NA,NA,NA,NA,FALSE,0
 "S605RQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S605RQ","No Data",NA,NA,NA,NA,FALSE,0
 "S605RR","OK",TRUE,1.3,1.4,1.9,FALSE,7
 "S605RS","OK",TRUE,4.7,3.4,30,TRUE,25
 "S605RT","OK",TRUE,7.5,3.3,30,TRUE,22
@@ -213,7 +208,6 @@
 "S605SH","OK",FALSE,3.5,3.4,4,TRUE,3
 "S605SJ","OK",TRUE,2.8,3,4.1,TRUE,7
 "S605SL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S605SL","No Data",NA,NA,NA,NA,TRUE,0
 "S605SN","OK",TRUE,14.7,3.1,30,TRUE,3
 "S605SP","OK",TRUE,3.1,3.1,4,TRUE,7
 "S605SQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -243,7 +237,6 @@
 "S605TX","OK",TRUE,3.4,2,30,TRUE,33
 "S605TY","OK",TRUE,1.7,1.7,3.8,FALSE,20
 "S605TZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S605TZ","No Data",NA,NA,NA,NA,FALSE,0
 "S605UA","OK",TRUE,2.3,2.3,2.8,TRUE,6
 "S605UB","OK",TRUE,4.2,1.8,30,TRUE,12
 "S605UD","OK",TRUE,4.2,2.2,30,TRUE,67
@@ -263,6 +256,5 @@
 "S605UW","OK",TRUE,9.6,1.4,30,TRUE,14
 "S605UX","OK",TRUE,1,0.9,1.7,FALSE,30
 "S605UY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S605UY","No Data",NA,NA,NA,NA,FALSE,0
 "S605WG","OK",FALSE,4.8,5.3,6.3,TRUE,3
 "S605YH","No premises",NA,NA,NA,NA,FALSE,0

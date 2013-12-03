@@ -1,16 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "ST51AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51AA","No Data",NA,NA,NA,NA,FALSE,0
 "ST51AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51AD","No Data",NA,NA,NA,NA,TRUE,0
 "ST51AG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST51AH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51AH","No Data",NA,NA,NA,NA,TRUE,0
 "ST51AN","OK",TRUE,11.1,8.1,18.7,FALSE,13
 "ST51AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51AQ","No Data",NA,NA,NA,NA,TRUE,0
 "ST51AR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51AR","No Data",NA,NA,NA,NA,FALSE,0
 "ST51AT","No premises",NA,NA,NA,NA,TRUE,0
 "ST51AU","OK",FALSE,18.8,17.7,30,TRUE,10
 "ST51AW","OK",FALSE,13.5,14.8,21.1,FALSE,3
@@ -26,7 +21,6 @@
 "ST51BH","OK",FALSE,30,20,30,TRUE,24
 "ST51BJ","OK",FALSE,25.7,30,30,TRUE,6
 "ST51BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51BN","No Data",NA,NA,NA,NA,TRUE,0
 "ST51BP","OK",FALSE,24.8,20,30,TRUE,15
 "ST51BS","OK",FALSE,16.9,14.8,30,TRUE,13
 "ST51BT","OK",FALSE,15.3,13.8,30,TRUE,11
@@ -36,9 +30,7 @@
 "ST51DD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST51DE","OK",TRUE,17.9,11.3,30,TRUE,19
 "ST51DF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51DF","No Data",NA,NA,NA,NA,TRUE,0
 "ST51DG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51DG","No Data",NA,NA,NA,NA,TRUE,0
 "ST51DJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST51DL","OK",FALSE,13.7,14.1,18.8,TRUE,9
 "ST51DN","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -48,16 +40,12 @@
 "ST51DS","OK",TRUE,12.6,8.2,30,TRUE,34
 "ST51DU","No premises",NA,NA,NA,NA,TRUE,0
 "ST51DW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51DW","No Data",NA,NA,NA,NA,TRUE,0
 "ST51EA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51EA","No Data",NA,NA,NA,NA,TRUE,0
 "ST51EB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51EB","No Data",NA,NA,NA,NA,FALSE,0
 "ST51ED","OK",FALSE,14.4,14.3,18.7,TRUE,4
 "ST51EE","No premises",NA,NA,NA,NA,TRUE,0
 "ST51EF","OK",FALSE,8.9,8.5,11.1,TRUE,5
 "ST51EG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51EG","No Data",NA,NA,NA,NA,FALSE,0
 "ST51EH","OK",FALSE,30,14.9,30,TRUE,5
 "ST51EJ","No Data",NA,NA,NA,NA,TRUE,0
 "ST51EL","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -70,7 +58,6 @@
 "ST51HE","OK",FALSE,17.5,20.8,24,TRUE,6
 "ST51HF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST51HG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51HG","No Data",NA,NA,NA,NA,FALSE,0
 "ST51HH","OK",FALSE,15.9,16.2,21.5,FALSE,19
 "ST51HJ","No premises",NA,NA,NA,NA,FALSE,0
 "ST51HL","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -102,11 +89,9 @@
 "ST51JZ","OK",TRUE,16.8,15.5,30,TRUE,11
 "ST51LA","OK",FALSE,28.2,12.2,30,TRUE,21
 "ST51LB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51LB","No Data",NA,NA,NA,NA,TRUE,0
 "ST51LF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST51LG","OK",FALSE,13.6,11.8,19.5,FALSE,5
 "ST51LH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51LH","No Data",NA,NA,NA,NA,FALSE,0
 "ST51LJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST51LL","OK",FALSE,22.4,19.7,30,TRUE,11
 "ST51LN","OK",FALSE,26.3,18.9,30,TRUE,4
@@ -119,12 +104,9 @@
 "ST51LW","OK",FALSE,19.1,20,30,TRUE,17
 "ST51LX","OK",FALSE,26.8,20.6,30,TRUE,34
 "ST51LY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51LY","No Data",NA,NA,NA,NA,FALSE,0
 "ST51LZ","OK",FALSE,22.5,19.3,30,TRUE,15
 "ST51NA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51NA","No Data",NA,NA,NA,NA,TRUE,0
 "ST51NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51NB","No Data",NA,NA,NA,NA,FALSE,0
 "ST51ND","OK",FALSE,16.4,11.7,30,TRUE,16
 "ST51NE","OK",FALSE,21.9,20,30,TRUE,16
 "ST51NF","OK",FALSE,22.8,20,30,TRUE,33
@@ -143,7 +125,6 @@
 "ST51NX","OK",TRUE,19.8,16.7,30,TRUE,14
 "ST51NY","OK",FALSE,18.8,9.7,30,TRUE,26
 "ST51NZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51NZ","No Data",NA,NA,NA,NA,TRUE,0
 "ST51PB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST51PE","OK",FALSE,13.2,13.2,13.8,TRUE,3
 "ST51PG","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -152,24 +133,20 @@
 "ST51PS","OK",FALSE,12.9,13,21.7,TRUE,8
 "ST51PT","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST51PW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51PW","No Data",NA,NA,NA,NA,FALSE,0
 "ST51PZ","No premises",NA,NA,NA,NA,FALSE,0
 "ST51QE","No premises",NA,NA,NA,NA,FALSE,0
 "ST51QG","OK",FALSE,10.7,10.7,17.2,TRUE,3
 "ST51QJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51QJ","No Data",NA,NA,NA,NA,FALSE,0
 "ST51QL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST51QN","No premises",NA,NA,NA,NA,FALSE,0
 "ST51QQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST51QS","OK",TRUE,13.7,16.1,23.5,TRUE,3
 "ST51QU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51QU","No Data",NA,NA,NA,NA,FALSE,0
 "ST51QY","No premises",NA,NA,NA,NA,FALSE,0
 "ST51QZ","OK",FALSE,13.8,13.8,21.4,TRUE,4
 "ST51RA","OK",FALSE,9.8,10.4,12.3,TRUE,4
 "ST51RB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "ST51RD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51RD","No Data",NA,NA,NA,NA,FALSE,0
 "ST51RE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST51RF","OK",FALSE,15.6,17.2,22,TRUE,3
 "ST51RG","No premises",NA,NA,NA,NA,FALSE,0
@@ -177,7 +154,6 @@
 "ST51RP","OK",FALSE,15.6,15.6,23.2,TRUE,6
 "ST51RW","OK",FALSE,13.1,12.4,19.6,TRUE,4
 "ST51SD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST51SD","No Data",NA,NA,NA,NA,FALSE,0
 "ST51SG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST51SH","OK",FALSE,19,10.7,30,TRUE,8
 "ST51SQ","No premises",NA,NA,NA,NA,FALSE,0
@@ -188,7 +164,5 @@
 "ST51TJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST51TT","OK",FALSE,9,8.1,14.3,TRUE,4
 "ST51TU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51TU","No Data",NA,NA,NA,NA,TRUE,0
 "ST51UE","No premises",NA,NA,NA,NA,FALSE,0
 "ST51UP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST51UP","No Data",NA,NA,NA,NA,TRUE,0

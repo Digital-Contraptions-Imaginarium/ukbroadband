@@ -1,29 +1,18 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WS35AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WS35AA","No Data",NA,NA,NA,NA,TRUE,0
 "WS35AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AD","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AE","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AF","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AG","OK",TRUE,2.8,3.1,3.8,FALSE,4
 "WS35AH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AH","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AJ","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AL","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AN","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AP","OK",TRUE,1.5,1.3,2.4,FALSE,8
 "WS35AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AQ","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AS","OK",TRUE,2.4,2.6,3.2,FALSE,5
 "WS35AT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AT","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS35AU","No Data",NA,NA,NA,NA,FALSE,0
 "WS35AW","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WS35AX","OK",FALSE,30,30,30,TRUE,5
 "WS35AY","Insufficient Data",NA,NA,NA,NA,TRUE,1

@@ -4,7 +4,6 @@
 "L133AF","No premises",NA,NA,NA,NA,TRUE,0
 "L133AL","OK",FALSE,24.5,20,30,TRUE,22
 "L133AN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L133AN","No Data",NA,NA,NA,NA,TRUE,0
 "L133AP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L133AS","OK",FALSE,0,0,0,TRUE,3
 "L133AT","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -56,6 +55,5 @@
 "L133EQ","OK",FALSE,30,22.2,30,TRUE,30
 "L133EW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L133HS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L133HS","No Data",NA,NA,NA,NA,TRUE,0
 "L133HT","OK",FALSE,16.3,17.6,22.9,FALSE,37
 "L133WA","No premises",NA,NA,NA,NA,FALSE,0

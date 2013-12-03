@@ -2,13 +2,9 @@
 "W67NA","OK",FALSE,7.4,7.3,8.5,TRUE,4
 "W67NB","OK",TRUE,9.8,7.2,30,TRUE,24
 "W67ND","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W67ND","No Data",NA,NA,NA,NA,TRUE,0
 "W67NE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W67NE","No Data",NA,NA,NA,NA,TRUE,0
 "W67NF","No premises",NA,NA,NA,NA,TRUE,0
 "W67NH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W67NH","No Data",NA,NA,NA,NA,FALSE,0
 "W67NJ","OK",FALSE,7.6,7.6,9.7,FALSE,5
 "W67NL","OK",FALSE,16,7.6,30,TRUE,12
 "W67NN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W67NN","No Data",NA,NA,NA,NA,FALSE,0

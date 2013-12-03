@@ -1,24 +1,16 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M44DB","OK",FALSE,7,6.6,10.9,FALSE,16
 "M44DD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M44DD","No Data",NA,NA,NA,NA,FALSE,0
 "M44DE","OK",FALSE,9,8.7,13.8,TRUE,3
 "M44DG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M44DH","OK",TRUE,8.7,9.5,21.6,FALSE,25
 "M44DN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M44DN","No Data",NA,NA,NA,NA,FALSE,0
 "M44DP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M44DP","No Data",NA,NA,NA,NA,FALSE,0
 "M44DQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M44DQ","No Data",NA,NA,NA,NA,FALSE,0
 "M44DR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M44DR","No Data",NA,NA,NA,NA,FALSE,0
 "M44DS","OK",FALSE,12.1,12.1,17.1,FALSE,40
 "M44DT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M44DT","No Data",NA,NA,NA,NA,FALSE,0
 "M44DU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M44DU","No Data",NA,NA,NA,NA,TRUE,0
 "M44DW","No Data",NA,NA,NA,NA,TRUE,0
 "M44DX","OK",FALSE,10.5,10.2,19.6,FALSE,58
 "M44DY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M44DY","No Data",NA,NA,NA,NA,FALSE,0

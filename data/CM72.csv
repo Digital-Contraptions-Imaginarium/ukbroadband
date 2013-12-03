@@ -1,13 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CM72AA","OK",TRUE,4.1,3.8,7.2,TRUE,9
 "CM72AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM72AE","No Data",NA,NA,NA,NA,FALSE,0
 "CM72AF","OK",FALSE,6.2,5.2,13.2,FALSE,12
 "CM72AG","OK",TRUE,5.9,5.8,14.4,FALSE,17
 "CM72AH","OK",FALSE,7.2,6.8,14.5,FALSE,9
 "CM72AJ","OK",FALSE,5.8,6,6.5,FALSE,8
 "CM72AL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM72AL","No Data",NA,NA,NA,NA,FALSE,0
 "CM72AN","OK",FALSE,7.9,7.1,11.9,FALSE,4
 "CM72AS","OK",FALSE,18.2,9.2,30,TRUE,7
 "CM72ET","No premises",NA,NA,NA,NA,FALSE,0
@@ -17,7 +15,6 @@
 "CM72FJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "CM72GB","OK",TRUE,7.5,7.7,14.1,FALSE,8
 "CM72GD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CM72GD","No Data",NA,NA,NA,NA,TRUE,0
 "CM72GE","OK",TRUE,5.3,6.1,7.9,FALSE,3
 "CM72GT","OK",FALSE,13.7,5.5,30,TRUE,4
 "CM72LD","OK",TRUE,25.2,17.5,30,TRUE,14
@@ -93,7 +90,6 @@
 "CM72RF","OK",FALSE,6.5,6.5,6.6,FALSE,3
 "CM72RG","No Data",NA,NA,NA,NA,FALSE,0
 "CM72RH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM72RH","No Data",NA,NA,NA,NA,FALSE,0
 "CM72RJ","OK",FALSE,17.4,17.7,23.9,TRUE,5
 "CM72RN","No premises",NA,NA,NA,NA,FALSE,0
 "CM72RP","OK",TRUE,22.4,16.3,30,TRUE,32

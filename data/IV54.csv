@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "IV548AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV548AB","No Data",NA,NA,NA,NA,FALSE,0
 "IV548AG","No Data",NA,NA,NA,NA,FALSE,0
 "IV548LN","OK",TRUE,0.6,0.6,0.6,FALSE,8
 "IV548LP","OK",FALSE,0,0,0,FALSE,6
@@ -12,7 +11,6 @@
 "IV548LX","OK",FALSE,0,0,0,FALSE,8
 "IV548LY","OK",TRUE,0.6,0.6,0.6,FALSE,10
 "IV548LZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV548LZ","No Data",NA,NA,NA,NA,FALSE,0
 "IV548ND","OK",FALSE,0,0,0,FALSE,12
 "IV548NE","OK",TRUE,0.6,0.6,0.6,FALSE,4
 "IV548UD","OK",TRUE,4.9,5.1,7.4,FALSE,4
@@ -25,10 +23,8 @@
 "IV548XB","OK",TRUE,6.3,6.8,8.1,FALSE,34
 "IV548XD","OK",FALSE,7.5,7.7,8.1,FALSE,3
 "IV548XE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV548XE","No Data",NA,NA,NA,NA,FALSE,0
 "IV548XF","No Data",NA,NA,NA,NA,FALSE,0
 "IV548XG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV548XG","No Data",NA,NA,NA,NA,FALSE,0
 "IV548XH","OK",TRUE,4.9,4.8,8,FALSE,4
 "IV548XJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "IV548XL","No Data",NA,NA,NA,NA,FALSE,0
@@ -38,7 +34,6 @@
 "IV548XR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "IV548XS","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "IV548XT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV548XT","No Data",NA,NA,NA,NA,FALSE,0
 "IV548XU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "IV548XW","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "IV548XX","No Data",NA,NA,NA,NA,FALSE,0
@@ -60,5 +55,4 @@
 "IV548YT","OK",FALSE,7.5,8.1,8.1,FALSE,6
 "IV548YU","OK",FALSE,0,0,0,FALSE,16
 "IV548YW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV548YW","No Data",NA,NA,NA,NA,FALSE,0
 "IV548YX","OK",TRUE,1.6,1.4,3.4,FALSE,8

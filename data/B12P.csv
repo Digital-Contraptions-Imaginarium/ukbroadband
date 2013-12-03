@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B12PD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "B12PJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B12PJ","No Data",NA,NA,NA,NA,TRUE,0
 "B12PL","OK",FALSE,30,20,30,TRUE,20
 "B12PN","OK",FALSE,19.6,17.9,30,TRUE,18
 "B12PP","OK",FALSE,26.4,20.7,30,TRUE,14

@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B908AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B908AA","No Data",NA,NA,NA,NA,FALSE,0
 "B908AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B908AB","No Data",NA,NA,NA,NA,FALSE,0
 "B908AD","OK",TRUE,1.2,1.3,1.9,FALSE,4
 "B908AE","No premises",NA,NA,NA,NA,FALSE,0
 "B908AF","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -10,11 +8,8 @@
 "B908AJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B908AR","No premises",NA,NA,NA,NA,FALSE,0
 "B908AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B908AS","No Data",NA,NA,NA,NA,FALSE,0
 "B908AT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B908AT","No Data",NA,NA,NA,NA,FALSE,0
 "B908AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B908AU","No Data",NA,NA,NA,NA,FALSE,0
 "B908BG","No Data",NA,NA,NA,NA,FALSE,0
 "B908YA","No premises",NA,NA,NA,NA,FALSE,0
 "B908YB","No premises",NA,NA,NA,NA,FALSE,0

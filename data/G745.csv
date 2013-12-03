@@ -1,14 +1,12 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G745AA","OK",TRUE,3.2,3.2,5.4,TRUE,17
 "G745AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G745AB","No Data",NA,NA,NA,NA,FALSE,0
 "G745AD","OK",TRUE,5,4.7,16.5,TRUE,11
 "G745AE","OK",TRUE,4.2,4.1,9.6,FALSE,7
 "G745AF","OK",FALSE,4.2,3.6,6.7,FALSE,7
 "G745AG","OK",TRUE,5.1,5.6,10.8,FALSE,16
 "G745AH","OK",TRUE,4.5,3.7,14.9,FALSE,9
 "G745AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G745AJ","No Data",NA,NA,NA,NA,FALSE,0
 "G745AL","OK",TRUE,2.8,2.8,4.2,FALSE,3
 "G745AN","OK",TRUE,4.1,2.4,12.5,FALSE,13
 "G745AP","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -18,16 +16,13 @@
 "G745AT","OK",TRUE,2.7,3.4,4.3,FALSE,6
 "G745AU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "G745AW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G745AW","No Data",NA,NA,NA,NA,FALSE,0
 "G745AX","OK",FALSE,3.7,4,4.9,FALSE,7
 "G745AZ","OK",TRUE,2,1.9,4.7,FALSE,29
 "G745BA","OK",TRUE,4.4,3.4,8.3,TRUE,7
 "G745BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G745BD","No Data",NA,NA,NA,NA,FALSE,0
 "G745BJ","No premises",NA,NA,NA,NA,TRUE,0
 "G745BL","OK",TRUE,5.8,2.1,19.7,FALSE,5
 "G745BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G745BT","No Data",NA,NA,NA,NA,FALSE,0
 "G745BU","OK",TRUE,7.4,2.2,17.8,TRUE,4
 "G745BX","OK",TRUE,2.7,2.3,9,FALSE,41
 "G745BY","OK",TRUE,2.6,2.5,4.9,FALSE,14
@@ -52,9 +47,7 @@
 "G745JF","OK",FALSE,3.9,3.9,4.4,TRUE,3
 "G745LA","No premises",NA,NA,NA,NA,FALSE,0
 "G745LB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G745LB","No Data",NA,NA,NA,NA,FALSE,0
 "G745LD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G745LD","No Data",NA,NA,NA,NA,FALSE,0
 "G745LF","OK",TRUE,3.3,3.5,5.3,FALSE,11
 "G745LP","OK",FALSE,3.7,3.7,4.7,TRUE,4
 "G745LR","No premises",NA,NA,NA,NA,TRUE,0
@@ -62,11 +55,8 @@
 "G745LZ","No premises",NA,NA,NA,NA,FALSE,0
 "G745NA","OK",FALSE,6.4,6.7,8.9,TRUE,9
 "G745NH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G745NH","No Data",NA,NA,NA,NA,TRUE,0
 "G745NL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G745NL","No Data",NA,NA,NA,NA,TRUE,0
 "G745NR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G745NR","No Data",NA,NA,NA,NA,TRUE,0
 "G745NT","OK",TRUE,5.1,6.2,8.9,TRUE,6
 "G745NU","OK",FALSE,7,6.9,10.2,TRUE,3
 "G745NY","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -74,9 +64,7 @@
 "G745PB","No Data",NA,NA,NA,NA,TRUE,0
 "G745PE","No Data",NA,NA,NA,NA,TRUE,0
 "G745PF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G745PF","No Data",NA,NA,NA,NA,TRUE,0
 "G745PG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G745PG","No Data",NA,NA,NA,NA,FALSE,0
 "G745PH","OK",TRUE,2.2,2.2,2.8,TRUE,5
 "G745PJ","OK",TRUE,2.7,2.8,4.2,FALSE,11
 "G745PL","OK",TRUE,2.4,2.5,3.7,FALSE,34

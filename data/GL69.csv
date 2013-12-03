@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "GL69AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL69AA","No Data",NA,NA,NA,NA,FALSE,0
 "GL69AB","OK",TRUE,2.5,2,5.7,FALSE,14
 "GL69AD","OK",TRUE,5.5,3.5,17.7,FALSE,21
 "GL69AE","No Data",NA,NA,NA,NA,FALSE,0
@@ -20,14 +19,11 @@
 "GL69AX","OK",TRUE,1.7,1.9,2.5,FALSE,5
 "GL69AY","OK",TRUE,3,1.9,8.1,FALSE,6
 "GL69AZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL69AZ","No Data",NA,NA,NA,NA,FALSE,0
 "GL69BA","OK",TRUE,1.5,1.2,3.1,FALSE,20
 "GL69BB","OK",TRUE,1.7,2.2,2.7,FALSE,5
 "GL69BD","OK",TRUE,1.8,1.5,3.6,FALSE,8
 "GL69BE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"GL69BE","No Data",NA,NA,NA,NA,TRUE,0
 "GL69BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL69BH","No Data",NA,NA,NA,NA,FALSE,0
 "GL69BJ","OK",FALSE,5,3.8,8,FALSE,6
 "GL69BN","OK",TRUE,4.2,4.3,6.9,FALSE,19
 "GL69BP","OK",FALSE,6.6,5.6,15.4,FALSE,9
@@ -85,7 +81,6 @@
 "GL69HJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "GL69HL","OK",FALSE,14.3,15.7,20.7,FALSE,6
 "GL69HN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL69HN","No Data",NA,NA,NA,NA,FALSE,0
 "GL69HP","OK",FALSE,10.6,10.6,17.2,FALSE,12
 "GL69HQ","OK",FALSE,14.4,15.1,16.1,FALSE,4
 "GL69HR","OK",FALSE,11,8.5,21.8,FALSE,19
@@ -102,7 +97,6 @@
 "GL69JJ","OK",TRUE,3.4,3,5.5,FALSE,14
 "GL69JL","OK",TRUE,4,2.9,7.8,FALSE,14
 "GL69JN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL69JN","No Data",NA,NA,NA,NA,FALSE,0
 "GL69JP","OK",TRUE,4.6,5.4,7.5,FALSE,8
 "GL69JR","OK",FALSE,5.7,5.5,7.3,FALSE,6
 "GL69JS","OK",TRUE,4.3,3.9,7.9,FALSE,21

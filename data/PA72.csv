@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PA726JB","OK",TRUE,6.6,7.1,8.1,FALSE,26
 "PA726JD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PA726JD","No Data",NA,NA,NA,NA,FALSE,0
 "PA726JE","No premises",NA,NA,NA,NA,FALSE,0
 "PA726JF","OK",FALSE,6.2,7.1,8.1,FALSE,9
 "PA726JG","OK",FALSE,6.3,6.8,7.4,FALSE,9
@@ -12,7 +11,6 @@
 "PA726JP","OK",TRUE,5,6.5,8.1,FALSE,19
 "PA726JQ","No premises",NA,NA,NA,NA,FALSE,0
 "PA726JR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PA726JR","No Data",NA,NA,NA,NA,FALSE,0
 "PA726JS","OK",TRUE,3.4,3.4,6.2,FALSE,17
 "PA726JU","OK",TRUE,5.5,6.1,7.4,FALSE,7
 "PA726JW","No premises",NA,NA,NA,NA,FALSE,0

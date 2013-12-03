@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G212AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212AA","No Data",NA,NA,NA,NA,FALSE,0
 "G212AG","OK",TRUE,5.4,5.6,8.2,FALSE,22
 "G212AH","OK",TRUE,4.8,4.5,7.7,FALSE,11
 "G212AJ","OK",FALSE,4.9,5.3,6.3,FALSE,4
@@ -18,13 +17,9 @@
 "G212BN","OK",FALSE,3.6,3.3,5,FALSE,4
 "G212BS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "G212BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212BT","No Data",NA,NA,NA,NA,FALSE,0
 "G212BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212BU","No Data",NA,NA,NA,NA,FALSE,0
 "G212BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212BX","No Data",NA,NA,NA,NA,FALSE,0
 "G212BY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G212BY","No Data",NA,NA,NA,NA,TRUE,0
 "G212DD","OK",TRUE,5.5,6.5,8,FALSE,10
 "G212DE","OK",TRUE,3.4,2.9,8.3,FALSE,18
 "G212DF","OK",TRUE,4.2,4.7,5.9,FALSE,6
@@ -35,7 +30,6 @@
 "G212DN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G212DP","OK",FALSE,4.4,4,6.6,FALSE,5
 "G212DQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212DQ","No Data",NA,NA,NA,NA,FALSE,0
 "G212DR","OK",FALSE,4.1,4.2,5.3,FALSE,8
 "G212DS","OK",FALSE,5.2,5.4,6,FALSE,4
 "G212DT","OK",TRUE,4.1,4.4,7.5,FALSE,6
@@ -45,7 +39,6 @@
 "G212EA","No premises",NA,NA,NA,NA,FALSE,0
 "G212EB","OK",TRUE,2.5,2.3,11.6,FALSE,53
 "G212ED","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212ED","No Data",NA,NA,NA,NA,FALSE,0
 "G212EE","OK",TRUE,2.2,2.3,4.5,FALSE,21
 "G212EG","No premises",NA,NA,NA,NA,FALSE,0
 "G212EH","OK",TRUE,21.6,8.5,30,TRUE,46
@@ -70,7 +63,6 @@
 "G212HJ","OK",FALSE,15.7,20,20,TRUE,3
 "G212HL","OK",FALSE,23.9,9.1,30,TRUE,16
 "G212HN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G212HN","No Data",NA,NA,NA,NA,TRUE,0
 "G212JA","OK",TRUE,28.3,20,30,TRUE,37
 "G212JB","OK",FALSE,23.4,15.1,30,TRUE,18
 "G212JF","OK",TRUE,6.2,6.2,17.8,TRUE,42
@@ -101,7 +93,6 @@
 "G212LT","OK",FALSE,24.7,9.8,30,TRUE,17
 "G212LX","OK",FALSE,6.9,7.3,9.2,TRUE,8
 "G212NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212NF","No Data",NA,NA,NA,NA,FALSE,0
 "G212NN","OK",FALSE,22.2,16.5,30,TRUE,13
 "G212NP","OK",FALSE,18.1,11.3,30,TRUE,18
 "G212NQ","OK",TRUE,21.9,12,30,TRUE,20
@@ -109,14 +100,10 @@
 "G212NS","OK",TRUE,8.3,8.8,14.5,FALSE,16
 "G212NT","OK",FALSE,9,9.7,11.5,FALSE,8
 "G212NU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212NU","No Data",NA,NA,NA,NA,FALSE,0
 "G212NW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212NW","No Data",NA,NA,NA,NA,FALSE,0
 "G212NZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G212NZ","No Data",NA,NA,NA,NA,TRUE,0
 "G212PA","OK",FALSE,10.2,10.3,13.2,FALSE,18
 "G212PB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212PB","No Data",NA,NA,NA,NA,FALSE,0
 "G212PN","No premises",NA,NA,NA,NA,FALSE,0
 "G212PR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G212PS","No premises",NA,NA,NA,NA,FALSE,0
@@ -141,13 +128,11 @@
 "G212QT","OK",FALSE,28.3,30,30,TRUE,7
 "G212QU","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "G212QW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G212QW","No Data",NA,NA,NA,NA,TRUE,0
 "G212QY","No premises",NA,NA,NA,NA,FALSE,0
 "G212QZ","No premises",NA,NA,NA,NA,FALSE,0
 "G212RD","No premises",NA,NA,NA,NA,FALSE,0
 "G212RL","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G212RS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G212RS","No Data",NA,NA,NA,NA,FALSE,0
 "G212RT","No premises",NA,NA,NA,NA,FALSE,0
 "G212RU","No premises",NA,NA,NA,NA,FALSE,0
 "G212RX","No premises",NA,NA,NA,NA,FALSE,0

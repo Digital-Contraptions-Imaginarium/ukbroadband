@@ -3,7 +3,6 @@
 "M94AD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M94AE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M94AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M94AF","No Data",NA,NA,NA,NA,TRUE,0
 "M94AG","OK",FALSE,18,20,30,TRUE,4
 "M94AH","OK",FALSE,5.7,5.9,5.9,TRUE,3
 "M94AJ","OK",FALSE,6.3,6.9,7.6,TRUE,3

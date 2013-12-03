@@ -2,13 +2,10 @@
 "N18EA","OK",TRUE,7.1,8.8,12,TRUE,17
 "N18ED","OK",FALSE,6.9,5.4,15.2,FALSE,8
 "N18EE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N18EE","No Data",NA,NA,NA,NA,FALSE,0
 "N18EF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "N18EG","OK",FALSE,7.7,7.3,11.2,TRUE,18
 "N18EH","No premises",NA,NA,NA,NA,FALSE,0
 "N18EQ","OK",TRUE,6.8,5.3,12.7,TRUE,5
 "N18ES","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N18ES","No Data",NA,NA,NA,NA,TRUE,0
 "N18EY","OK",FALSE,28.5,30,30,TRUE,15
 "N18EZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N18EZ","No Data",NA,NA,NA,NA,TRUE,0

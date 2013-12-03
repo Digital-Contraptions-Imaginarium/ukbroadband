@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TR170AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TR170AA","No Data",NA,NA,NA,NA,TRUE,0
 "TR170AD","OK",TRUE,9.1,7.8,23.3,TRUE,9
 "TR170AE","OK",FALSE,8.1,8.1,8.1,TRUE,3
 "TR170AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TR170AF","No Data",NA,NA,NA,NA,TRUE,0
 "TR170AG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "TR170AH","OK",FALSE,10.6,8.1,19.4,TRUE,6
 "TR170AJ","OK",FALSE,6.9,7.6,8.1,TRUE,23
@@ -23,11 +21,9 @@
 "TR170BA","OK",FALSE,11,7.9,22.6,TRUE,5
 "TR170BB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "TR170BD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TR170BD","No Data",NA,NA,NA,NA,TRUE,0
 "TR170BE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "TR170BG","OK",FALSE,8.3,7,22,TRUE,7
 "TR170BH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TR170BH","No Data",NA,NA,NA,NA,TRUE,0
 "TR170BJ","OK",FALSE,10.9,8,30,TRUE,15
 "TR170BL","OK",TRUE,11.2,8.1,30,TRUE,29
 "TR170BN","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -51,7 +47,6 @@
 "TR170DL","OK",FALSE,10.7,8.1,27,TRUE,15
 "TR170DN","OK",TRUE,7.4,8.1,13.1,TRUE,7
 "TR170DP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TR170DP","No Data",NA,NA,NA,NA,TRUE,0
 "TR170DQ","OK",FALSE,23.4,6.8,30,TRUE,8
 "TR170DR","OK",FALSE,6.7,6.8,11.5,TRUE,34
 "TR170DS","OK",FALSE,8.1,8.1,8.1,TRUE,4
@@ -70,18 +65,14 @@
 "TR170EJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "TR170EL","OK",FALSE,28.2,15.3,30,TRUE,4
 "TR170EN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TR170EN","No Data",NA,NA,NA,NA,TRUE,0
 "TR170EP","No Data",NA,NA,NA,NA,TRUE,0
 "TR170EQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TR170EQ","No Data",NA,NA,NA,NA,TRUE,0
 "TR170ER","OK",FALSE,16.6,16.6,25,TRUE,3
 "TR170ES","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "TR170ET","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TR170ET","No Data",NA,NA,NA,NA,TRUE,0
 "TR170EU","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "TR170EX","OK",FALSE,13.8,8.1,30,TRUE,21
 "TR170EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TR170EZ","No Data",NA,NA,NA,NA,FALSE,0
 "TR170HA","OK",TRUE,24.8,30,30,TRUE,14
 "TR170HB","OK",TRUE,17.1,8.1,30,TRUE,28
 "TR170HE","Insufficient Data",NA,NA,NA,NA,TRUE,1

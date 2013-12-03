@@ -1,15 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G28LA","No premises",NA,NA,NA,NA,FALSE,0
 "G28LE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G28LE","No Data",NA,NA,NA,NA,FALSE,0
 "G28LH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G28LH","No Data",NA,NA,NA,NA,FALSE,0
 "G28LL","No premises",NA,NA,NA,NA,FALSE,0
 "G28LP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G28LP","No Data",NA,NA,NA,NA,FALSE,0
 "G28LR","No Data",NA,NA,NA,NA,FALSE,0
 "G28LT","OK",TRUE,15.7,18,22.4,FALSE,24
 "G28LU","No premises",NA,NA,NA,NA,FALSE,0
 "G28LX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G28LX","No Data",NA,NA,NA,NA,FALSE,0
 "G28LY","OK",FALSE,11,7.8,24.1,FALSE,5

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WN88AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WN88AB","No Data",NA,NA,NA,NA,TRUE,0
 "WN88AD","No premises",NA,NA,NA,NA,TRUE,0
 "WN88AE","OK",FALSE,21.8,18.4,30,TRUE,9
 "WN88AF","OK",FALSE,22.7,18,30,TRUE,42
@@ -48,11 +47,9 @@
 "WN88DW","OK",FALSE,21,19.3,30,TRUE,27
 "WN88DY","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "WN88DZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WN88DZ","No Data",NA,NA,NA,NA,FALSE,0
 "WN88EA","OK",FALSE,0,0,0,FALSE,3
 "WN88EB","OK",FALSE,4.3,4.3,4.6,FALSE,3
 "WN88ED","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WN88ED","No Data",NA,NA,NA,NA,FALSE,0
 "WN88EE","No premises",NA,NA,NA,NA,FALSE,0
 "WN88EF","OK",FALSE,12.7,4.3,30,FALSE,12
 "WN88EG","OK",TRUE,5.5,5.6,18.9,FALSE,44

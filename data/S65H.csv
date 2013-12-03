@@ -4,9 +4,7 @@
 "S65HD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S65HE","OK",TRUE,2.8,2.1,5.7,TRUE,4
 "S65HF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S65HF","No Data",NA,NA,NA,NA,TRUE,0
 "S65HG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S65HG","No Data",NA,NA,NA,NA,TRUE,0
 "S65HH","OK",TRUE,10.3,6.3,30,TRUE,16
 "S65HJ","OK",TRUE,8.7,3.7,30,TRUE,13
 "S65HL","OK",TRUE,10.2,3.9,30,TRUE,12

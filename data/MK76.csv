@@ -11,7 +11,6 @@
 "MK76AW","No premises",NA,NA,NA,NA,FALSE,0
 "MK76AY","No premises",NA,NA,NA,NA,FALSE,0
 "MK76BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK76BA","No Data",NA,NA,NA,NA,FALSE,0
 "MK76BB","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "MK76BD","No premises",NA,NA,NA,NA,FALSE,0
 "MK76BE","No premises",NA,NA,NA,NA,FALSE,0
@@ -24,9 +23,7 @@
 "MK76BT","No premises",NA,NA,NA,NA,FALSE,0
 "MK76BW","No premises",NA,NA,NA,NA,FALSE,0
 "MK76BY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK76BY","No Data",NA,NA,NA,NA,FALSE,0
 "MK76BZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK76BZ","No Data",NA,NA,NA,NA,FALSE,0
 "MK76DF","No premises",NA,NA,NA,NA,FALSE,0
 "MK76DH","No premises",NA,NA,NA,NA,FALSE,0
 "MK76DL","OK",TRUE,16.9,2.5,30,TRUE,13
@@ -71,7 +68,6 @@
 "MK76JN","OK",TRUE,30,30,30,TRUE,48
 "MK76JP","OK",TRUE,3.1,3.5,4.6,TRUE,14
 "MK76JR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK76JR","No Data",NA,NA,NA,NA,TRUE,0
 "MK76TT","No premises",NA,NA,NA,NA,FALSE,0
 "MK76WZ","No premises",NA,NA,NA,NA,FALSE,0
 "MK76XJ","No premises",NA,NA,NA,NA,FALSE,0

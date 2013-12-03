@@ -1,12 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HG11AA","No premises",NA,NA,NA,NA,TRUE,0
 "HG11AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HG11AB","No Data",NA,NA,NA,NA,FALSE,0
 "HG11AE","OK",FALSE,11.3,11.6,15.3,FALSE,8
 "HG11AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HG11AF","No Data",NA,NA,NA,NA,FALSE,0
 "HG11AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HG11AG","No Data",NA,NA,NA,NA,FALSE,0
 "HG11AX","OK",FALSE,30,30,30,TRUE,11
 "HG11BA","OK",FALSE,21.3,19.4,30,TRUE,5
 "HG11BB","OK",FALSE,19.4,15.3,30,TRUE,9
@@ -23,7 +20,6 @@
 "HG11DD","OK",FALSE,20.1,19.6,30,TRUE,11
 "HG11DH","OK",FALSE,19.4,16.4,30,TRUE,9
 "HG11DJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HG11DJ","No Data",NA,NA,NA,NA,FALSE,0
 "HG11DL","OK",FALSE,27.6,20,30,TRUE,47
 "HG11DP","OK",FALSE,15,16.4,21.1,TRUE,6
 "HG11DQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -46,12 +42,10 @@
 "HG11HP","OK",FALSE,30,20,30,TRUE,29
 "HG11HQ","OK",FALSE,20.6,15.7,30,TRUE,14
 "HG11HR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HG11HR","No Data",NA,NA,NA,NA,TRUE,0
 "HG11HS","OK",FALSE,20.7,18.8,30,TRUE,11
 "HG11HT","OK",TRUE,29.5,20,30,TRUE,15
 "HG11HU","No premises",NA,NA,NA,NA,FALSE,0
 "HG11HW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HG11HW","No Data",NA,NA,NA,NA,TRUE,0
 "HG11HX","OK",FALSE,30,13.2,30,TRUE,5
 "HG11HY","OK",FALSE,23.4,14.8,30,TRUE,4
 "HG11HZ","OK",FALSE,13.4,13.7,19.4,TRUE,6
@@ -69,11 +63,8 @@
 "HG11LB","OK",FALSE,17.5,20.1,23.1,TRUE,12
 "HG11LE","OK",FALSE,15.1,19.3,22.2,TRUE,11
 "HG11LL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HG11LL","No Data",NA,NA,NA,NA,TRUE,0
 "HG11LT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HG11LT","No Data",NA,NA,NA,NA,TRUE,0
 "HG11LW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HG11LW","No Data",NA,NA,NA,NA,FALSE,0
 "HG11LX","OK",FALSE,30,20.1,30,TRUE,8
 "HG11LY","No premises",NA,NA,NA,NA,TRUE,0
 "HG11NB","No premises",NA,NA,NA,NA,FALSE,0
@@ -93,7 +84,6 @@
 "HG11PW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HG11PY","OK",FALSE,12.2,13.3,15.2,TRUE,4
 "HG11QA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HG11QA","No Data",NA,NA,NA,NA,FALSE,0
 "HG11QE","OK",FALSE,12.4,9.8,19.7,TRUE,3
 "HG11QF","No premises",NA,NA,NA,NA,TRUE,0
 "HG11QH","OK",TRUE,11.9,13.8,16.8,TRUE,6
@@ -104,7 +94,6 @@
 "HG11QX","No premises",NA,NA,NA,NA,TRUE,0
 "HG11QY","OK",TRUE,6,8.1,8.1,TRUE,3
 "HG11RD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HG11RD","No Data",NA,NA,NA,NA,TRUE,0
 "HG11RE","No premises",NA,NA,NA,NA,TRUE,0
 "HG11RF","OK",TRUE,12.3,12,21.9,TRUE,15
 "HG11RH","OK",FALSE,22,22,24.4,TRUE,3
@@ -112,7 +101,6 @@
 "HG11RP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HG11RQ","No premises",NA,NA,NA,NA,FALSE,0
 "HG11RU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HG11RU","No Data",NA,NA,NA,NA,FALSE,0
 "HG11RW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HG11RX","OK",TRUE,7.5,7.6,14.5,TRUE,9
 "HG11SG","OK",FALSE,18,15.3,30,TRUE,5
@@ -129,7 +117,6 @@
 "HG11TS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HG11TT","OK",FALSE,13.4,13.7,18.4,TRUE,4
 "HG11TU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HG11TU","No Data",NA,NA,NA,NA,TRUE,0
 "HG11TW","No premises",NA,NA,NA,NA,TRUE,0
 "HG11TX","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HG11TY","OK",FALSE,14.4,15.1,19.4,TRUE,5

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L365AH","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "L365PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L365PL","No Data",NA,NA,NA,NA,FALSE,0
 "L365RG","No premises",NA,NA,NA,NA,FALSE,0
 "L365RL","OK",TRUE,14.7,16.6,21,TRUE,9
 "L365RP","OK",FALSE,10.4,9.2,23.7,TRUE,13
@@ -13,14 +12,12 @@
 "L365RZ","No premises",NA,NA,NA,NA,FALSE,0
 "L365SA","OK",FALSE,26.2,20,30,TRUE,13
 "L365SB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L365SB","No Data",NA,NA,NA,NA,FALSE,0
 "L365SD","OK",FALSE,30,20.2,30,TRUE,8
 "L365SE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "L365SF","OK",FALSE,23.4,20.2,30,TRUE,13
 "L365SH","OK",FALSE,19.9,19.6,30,TRUE,8
 "L365SJ","OK",FALSE,21.3,20,30,TRUE,9
 "L365SL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L365SL","No Data",NA,NA,NA,NA,TRUE,0
 "L365SN","OK",FALSE,22.4,20,30,TRUE,24
 "L365SP","OK",TRUE,18.8,19,30,TRUE,24
 "L365SQ","OK",FALSE,23,24.5,30,TRUE,4
@@ -31,7 +28,6 @@
 "L365SW","OK",FALSE,30,21.3,30,TRUE,3
 "L365SX","OK",FALSE,24.5,20,30,TRUE,12
 "L365SY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L365SY","No Data",NA,NA,NA,NA,TRUE,0
 "L365TA","OK",TRUE,18.2,20,30,TRUE,12
 "L365TB","OK",FALSE,30,30,30,TRUE,7
 "L365TD","OK",FALSE,30,20,30,TRUE,16
@@ -68,7 +64,6 @@
 "L365US","OK",TRUE,7.8,3.6,18.3,FALSE,3
 "L365UT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L365UU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L365UU","No Data",NA,NA,NA,NA,TRUE,0
 "L365UW","OK",FALSE,19.7,14.9,30,TRUE,19
 "L365UX","OK",FALSE,18.3,20,30,TRUE,8
 "L365UY","OK",FALSE,5.9,7.7,7.7,TRUE,3

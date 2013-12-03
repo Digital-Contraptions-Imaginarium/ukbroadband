@@ -1,11 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S47SA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S47SA","No Data",NA,NA,NA,NA,FALSE,0
 "S47SD","OK",TRUE,4.3,4.4,6.8,TRUE,19
 "S47SE","No premises",NA,NA,NA,NA,FALSE,0
 "S47SF","OK",TRUE,3.6,3.6,7.6,FALSE,11
 "S47SG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S47SG","No Data",NA,NA,NA,NA,FALSE,0
 "S47SN","OK",TRUE,4.1,4.1,6,FALSE,15
 "S47SP","OK",TRUE,4.4,4.2,6.8,FALSE,20
 "S47SS","OK",TRUE,4,4.1,6.4,FALSE,21

@@ -10,13 +10,9 @@
 "M66BL","OK",FALSE,29.7,25,30,TRUE,12
 "M66BN","OK",FALSE,19.6,15.3,30,TRUE,27
 "M66BP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M66BP","No Data",NA,NA,NA,NA,TRUE,0
 "M66BQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M66BQ","No Data",NA,NA,NA,NA,TRUE,0
 "M66BR","No premises",NA,NA,NA,NA,TRUE,0
 "M66BT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M66BT","No Data",NA,NA,NA,NA,TRUE,0
 "M66BU","No premises",NA,NA,NA,NA,FALSE,0
 "M66BW","OK",TRUE,17.8,14.7,30,TRUE,19
 "M66BY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M66BY","No Data",NA,NA,NA,NA,FALSE,0

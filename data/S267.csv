@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S267UA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S267UA","No Data",NA,NA,NA,NA,FALSE,0
 "S267UH","OK",TRUE,6.9,7.3,10.3,FALSE,10
 "S267UJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S267UL","OK",TRUE,4.1,4,7.2,FALSE,5
@@ -11,7 +10,6 @@
 "S267WD","OK",FALSE,6.6,6.2,8.2,FALSE,5
 "S267WE","OK",TRUE,3.8,2.8,7.3,FALSE,3
 "S267WG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S267WG","No Data",NA,NA,NA,NA,FALSE,0
 "S267WY","OK",TRUE,3.5,3.1,6.4,FALSE,15
 "S267XA","OK",TRUE,4.1,4,7,FALSE,19
 "S267XB","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -27,7 +25,6 @@
 "S267XQ","No Data",NA,NA,NA,NA,FALSE,0
 "S267XR","OK",TRUE,0.7,0.7,1.5,TRUE,15
 "S267XS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S267XS","No Data",NA,NA,NA,NA,TRUE,0
 "S267XT","OK",TRUE,3.9,4.6,5.7,FALSE,3
 "S267XU","OK",TRUE,3.6,3.7,6,FALSE,7
 "S267XW","OK",FALSE,6.2,6.5,8.1,FALSE,4
@@ -49,7 +46,6 @@
 "S267YR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S267YS","OK",TRUE,5.3,6,9.6,FALSE,23
 "S267YT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S267YT","No Data",NA,NA,NA,NA,FALSE,0
 "S267YU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S267YX","OK",FALSE,5.3,4.1,7.6,FALSE,3
 "S267YY","OK",TRUE,3.9,4.2,5.9,FALSE,8

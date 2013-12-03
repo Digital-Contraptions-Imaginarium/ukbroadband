@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N87EA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N87EA","No Data",NA,NA,NA,NA,TRUE,0
 "N87EB","OK",TRUE,13.8,9.8,30,TRUE,15
 "N87ED","OK",FALSE,12.1,12.2,16.4,TRUE,3
 "N87EE","OK",FALSE,15.8,12,30,TRUE,34

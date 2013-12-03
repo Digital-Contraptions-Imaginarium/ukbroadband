@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N78LA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N78LA","No Data",NA,NA,NA,NA,TRUE,0
 "N78LB","OK",FALSE,18.7,19,21.3,TRUE,12
 "N78LD","OK",FALSE,24.5,17.4,30,TRUE,15
 "N78LE","OK",FALSE,26.3,18.1,30,TRUE,21

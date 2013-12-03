@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L181BW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L181BW","No Data",NA,NA,NA,NA,TRUE,0
 "L181DA","OK",FALSE,9.5,9.1,20,TRUE,8
 "L181DB","OK",FALSE,13.2,12.3,20,TRUE,17
 "L181DD","OK",FALSE,12.2,13.1,20,TRUE,17
@@ -33,12 +32,10 @@
 "L181EN","OK",FALSE,13,13.3,20,TRUE,20
 "L181EP","OK",FALSE,30,20,30,TRUE,31
 "L181EQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L181EQ","No Data",NA,NA,NA,NA,TRUE,0
 "L181ER","OK",FALSE,30,20,30,TRUE,16
 "L181ES","OK",FALSE,30,20,30,TRUE,12
 "L181ET","OK",FALSE,22.3,17.9,30,TRUE,22
 "L181EU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L181EU","No Data",NA,NA,NA,NA,TRUE,0
 "L181EW","OK",FALSE,21.2,12.7,30,TRUE,31
 "L181EX","OK",FALSE,30,21,30,TRUE,15
 "L181EY","OK",FALSE,21,20,30,TRUE,29

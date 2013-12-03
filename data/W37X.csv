@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W37XA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "W37XB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W37XB","No Data",NA,NA,NA,NA,FALSE,0
 "W37XL","OK",FALSE,20.1,7,30,TRUE,4
 "W37XQ","No premises",NA,NA,NA,NA,FALSE,0
 "W37XR","OK",TRUE,3.6,3.5,7,FALSE,6
 "W37XS","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "W37XX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W37XX","No Data",NA,NA,NA,NA,FALSE,0

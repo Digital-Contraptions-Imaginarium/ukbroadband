@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W93LF","OK",TRUE,9.1,9.3,15.2,FALSE,27
 "W93LG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W93LG","No Data",NA,NA,NA,NA,TRUE,0
 "W93LL","OK",FALSE,9.7,9.7,17.9,FALSE,35
 "W93LP","OK",FALSE,10.6,10.5,16.7,FALSE,24
 "W93LQ","OK",FALSE,12.1,12.3,16.2,FALSE,9

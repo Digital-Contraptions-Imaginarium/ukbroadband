@@ -1,9 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M42AD","OK",FALSE,12.9,10.3,21.1,TRUE,8
 "M42AE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M42AE","No Data",NA,NA,NA,NA,TRUE,0
 "M42AF","OK",FALSE,11.1,10.6,19.5,TRUE,9
 "M42AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M42AG","No Data",NA,NA,NA,NA,FALSE,0
 "M42AH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M42AH","No Data",NA,NA,NA,NA,FALSE,0

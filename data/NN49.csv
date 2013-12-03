@@ -1,17 +1,12 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "NN49BA","OK",TRUE,4.2,3.3,8.1,FALSE,4
 "NN49BB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NN49BB","No Data",NA,NA,NA,NA,TRUE,0
 "NN49BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NN49BD","No Data",NA,NA,NA,NA,FALSE,0
 "NN49BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NN49BG","No Data",NA,NA,NA,NA,FALSE,0
 "NN49BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NN49BH","No Data",NA,NA,NA,NA,FALSE,0
 "NN49BP","No premises",NA,NA,NA,NA,FALSE,0
 "NN49BS","No Data",NA,NA,NA,NA,FALSE,0
 "NN49BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NN49BX","No Data",NA,NA,NA,NA,FALSE,0
 "NN49DA","OK",TRUE,30,30,30,TRUE,4
 "NN49DH","OK",FALSE,16.7,20,20,TRUE,3
 "NN49DJ","OK",FALSE,19.3,20,30,TRUE,5
@@ -42,7 +37,6 @@
 "NN49QW","OK",TRUE,23.2,7.2,30,TRUE,42
 "NN49QX","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "NN49QY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NN49QY","No Data",NA,NA,NA,NA,TRUE,0
 "NN49QZ","OK",FALSE,19.9,8.7,30,TRUE,7
 "NN49RA","OK",TRUE,23.8,13.4,30,TRUE,22
 "NN49RB","OK",TRUE,21.5,7.8,30,TRUE,15
@@ -70,7 +64,6 @@
 "NN49UE","OK",TRUE,30,25,30,TRUE,43
 "NN49UF","OK",TRUE,22.7,20,30,TRUE,60
 "NN49UG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NN49UG","No Data",NA,NA,NA,NA,TRUE,0
 "NN49UH","OK",TRUE,30,20,30,TRUE,20
 "NN49UL","OK",TRUE,27.1,20,30,TRUE,34
 "NN49UP","OK",TRUE,30,30,30,TRUE,19

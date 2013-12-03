@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M66SA","OK",FALSE,30,20,30,TRUE,5
 "M66SB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M66SB","No Data",NA,NA,NA,NA,TRUE,0
 "M66SD","OK",FALSE,10.1,7.8,20,TRUE,5
 "M66SE","OK",FALSE,25,16.5,30,TRUE,11
 "M66SF","OK",FALSE,30,30,30,TRUE,5
@@ -14,7 +13,6 @@
 "M66SQ","OK",FALSE,16.8,15.9,30,TRUE,13
 "M66SR","OK",FALSE,17.4,16.8,30,TRUE,5
 "M66ST","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M66ST","No Data",NA,NA,NA,NA,TRUE,0
 "M66SU","OK",FALSE,15.9,19.9,20,TRUE,3
 "M66SW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M66SX","Insufficient Data",NA,NA,NA,NA,TRUE,2

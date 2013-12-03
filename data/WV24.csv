@@ -9,11 +9,9 @@
 "WV24AT","OK",FALSE,15.2,19,21,FALSE,3
 "WV24AU","No premises",NA,NA,NA,NA,FALSE,0
 "WV24AW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV24AW","No Data",NA,NA,NA,NA,TRUE,0
 "WV24AX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WV24BA","No premises",NA,NA,NA,NA,FALSE,0
 "WV24BE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV24BE","No Data",NA,NA,NA,NA,FALSE,0
 "WV24BH","OK",FALSE,5.2,5.2,7.8,FALSE,4
 "WV24BS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WV24BT","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -21,12 +19,10 @@
 "WV24BY","No premises",NA,NA,NA,NA,FALSE,0
 "WV24BZ","No premises",NA,NA,NA,NA,FALSE,0
 "WV24DB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV24DB","No Data",NA,NA,NA,NA,FALSE,0
 "WV24DG","OK",FALSE,15.2,15.9,20,TRUE,10
 "WV24DN","No premises",NA,NA,NA,NA,FALSE,0
 "WV24DP","No premises",NA,NA,NA,NA,FALSE,0
 "WV24DT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV24DT","No Data",NA,NA,NA,NA,FALSE,0
 "WV24DU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "WV24DX","No premises",NA,NA,NA,NA,FALSE,0
 "WV24EA","OK",TRUE,3.7,3.7,7.2,FALSE,3
@@ -34,10 +30,8 @@
 "WV24EF","No premises",NA,NA,NA,NA,FALSE,0
 "WV24EJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WV24EN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV24EN","No Data",NA,NA,NA,NA,TRUE,0
 "WV24ER","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WV24ET","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV24ET","No Data",NA,NA,NA,NA,TRUE,0
 "WV24HD","No premises",NA,NA,NA,NA,FALSE,0
 "WV24HE","OK",FALSE,7.3,6.6,15.3,TRUE,8
 "WV24HH","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -50,16 +44,13 @@
 "WV24JS","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WV24JW","OK",TRUE,10.3,11.5,14.9,TRUE,8
 "WV24JX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV24JX","No Data",NA,NA,NA,NA,FALSE,0
 "WV24JZ","No premises",NA,NA,NA,NA,FALSE,0
 "WV24LA","OK",TRUE,11.5,2.7,30,TRUE,4
 "WV24LD","OK",FALSE,18.1,20.7,24.4,TRUE,5
 "WV24LE","OK",FALSE,14.1,13.4,24,TRUE,6
 "WV24LQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV24LQ","No Data",NA,NA,NA,NA,TRUE,0
 "WV24LR","OK",FALSE,7.2,6.8,12,TRUE,17
 "WV24LW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV24LW","No Data",NA,NA,NA,NA,FALSE,0
 "WV24LX","OK",FALSE,30,7.8,30,TRUE,3
 "WV24LY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WV24NA","OK",FALSE,16.8,13,30,TRUE,10
@@ -103,7 +94,6 @@
 "WV24QT","OK",FALSE,6.9,7.1,8.5,TRUE,5
 "WV24QX","OK",FALSE,15.3,16.9,19.8,FALSE,10
 "WV24QZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV24QZ","No Data",NA,NA,NA,NA,FALSE,0
 "WV24RA","No premises",NA,NA,NA,NA,TRUE,0
 "WV24SJ","OK",TRUE,7.3,8.1,14.3,FALSE,7
 "WV24UH","No premises",NA,NA,NA,NA,TRUE,0

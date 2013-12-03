@@ -1,4 +1,3 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L20QD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "L20QT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L20QT","No Data",NA,NA,NA,NA,TRUE,0

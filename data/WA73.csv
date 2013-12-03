@@ -1,11 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WA73AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73AB","No Data",NA,NA,NA,NA,FALSE,0
 "WA73AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73AD","No Data",NA,NA,NA,NA,FALSE,0
 "WA73AE","OK",TRUE,7.1,6.2,20,TRUE,20
 "WA73AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WA73AF","No Data",NA,NA,NA,NA,TRUE,0
 "WA73AH","OK",TRUE,3,3.4,4.5,FALSE,5
 "WA73AJ","OK",FALSE,7.4,8.9,10.1,TRUE,5
 "WA73AL","OK",TRUE,4.2,4,14.3,FALSE,49
@@ -14,49 +11,38 @@
 "WA73AQ","OK",FALSE,3.5,3.2,4.5,FALSE,6
 "WA73AR","OK",TRUE,2.5,2.6,4.1,FALSE,9
 "WA73AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73AS","No Data",NA,NA,NA,NA,FALSE,0
 "WA73AT","OK",TRUE,2.3,1.9,4,FALSE,7
 "WA73AU","OK",TRUE,1.9,1.5,3.5,FALSE,5
 "WA73AW","OK",TRUE,3.6,3.3,7.3,FALSE,6
 "WA73AX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73AX","No Data",NA,NA,NA,NA,FALSE,0
 "WA73AZ","No Data",NA,NA,NA,NA,FALSE,0
 "WA73BA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WA73BB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73BB","No Data",NA,NA,NA,NA,FALSE,0
 "WA73BD","OK",FALSE,7.8,7.7,11.1,FALSE,8
 "WA73BE","No premises",NA,NA,NA,NA,FALSE,0
 "WA73BH","OK",TRUE,5.8,4.7,30,TRUE,42
 "WA73BP","OK",TRUE,3.4,2.8,7,FALSE,29
 "WA73BQ","OK",FALSE,11.6,5.3,30,TRUE,31
 "WA73BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73BS","No Data",NA,NA,NA,NA,FALSE,0
 "WA73BT","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "WA73BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73BU","No Data",NA,NA,NA,NA,FALSE,0
 "WA73BW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73BW","No Data",NA,NA,NA,NA,FALSE,0
 "WA73BX","OK",TRUE,2.9,2.7,5,FALSE,7
 "WA73BZ","OK",TRUE,2.6,2.7,3.2,FALSE,5
 "WA73DA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73DA","No Data",NA,NA,NA,NA,FALSE,0
 "WA73DB","OK",TRUE,2,1.9,2.9,FALSE,3
 "WA73DD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73DD","No Data",NA,NA,NA,NA,FALSE,0
 "WA73DE","OK",TRUE,3.3,3.3,4.4,FALSE,4
 "WA73DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73DF","No Data",NA,NA,NA,NA,FALSE,0
 "WA73DG","OK",TRUE,2.2,2,3.4,FALSE,6
 "WA73DH","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WA73DJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "WA73DL","OK",TRUE,3.6,2.7,8.1,FALSE,9
 "WA73DN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73DN","No Data",NA,NA,NA,NA,FALSE,0
 "WA73DP","No premises",NA,NA,NA,NA,FALSE,0
 "WA73DS","No premises",NA,NA,NA,NA,FALSE,0
 "WA73DT","No Data",NA,NA,NA,NA,FALSE,0
 "WA73DU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73DU","No Data",NA,NA,NA,NA,FALSE,0
 "WA73DW","No premises",NA,NA,NA,NA,TRUE,0
 "WA73DX","No Data",NA,NA,NA,NA,FALSE,0
 "WA73DY","OK",FALSE,6.5,6.9,9.2,FALSE,15
@@ -66,7 +52,6 @@
 "WA73ED","OK",TRUE,4.3,4.5,6.5,FALSE,6
 "WA73EE","OK",TRUE,5.3,5.6,8.3,FALSE,5
 "WA73EF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73EF","No Data",NA,NA,NA,NA,FALSE,0
 "WA73EG","OK",FALSE,6.6,6.4,11,FALSE,6
 "WA73EH","OK",FALSE,10.1,8.4,30,TRUE,13
 "WA73EJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -74,7 +59,6 @@
 "WA73EN","OK",FALSE,30,16.4,30,TRUE,5
 "WA73EP","OK",TRUE,5.2,5.5,9,FALSE,17
 "WA73EQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73EQ","No Data",NA,NA,NA,NA,FALSE,0
 "WA73ER","OK",TRUE,4.9,5.5,7.9,FALSE,26
 "WA73ES","OK",FALSE,4.9,4.5,6.3,FALSE,5
 "WA73ET","OK",TRUE,5.6,5.8,9,FALSE,34
@@ -82,27 +66,21 @@
 "WA73EW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WA73EX","OK",FALSE,6.4,6.8,8.4,FALSE,10
 "WA73EY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73EY","No Data",NA,NA,NA,NA,FALSE,0
 "WA73EZ","OK",FALSE,6.8,4.8,15.2,FALSE,7
 "WA73FA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WA73FG","No premises",NA,NA,NA,NA,FALSE,0
 "WA73FP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73FP","No Data",NA,NA,NA,NA,FALSE,0
 "WA73FQ","No premises",NA,NA,NA,NA,FALSE,0
 "WA73FR","No Data",NA,NA,NA,NA,FALSE,0
 "WA73FT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73FT","No Data",NA,NA,NA,NA,FALSE,0
 "WA73FW","OK",TRUE,4.9,5.6,9,FALSE,7
 "WA73FX","OK",TRUE,3.2,3.7,5.5,FALSE,7
 "WA73FY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73FY","No Data",NA,NA,NA,NA,FALSE,0
 "WA73FZ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "WA73GA","No premises",NA,NA,NA,NA,FALSE,0
 "WA73GE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73GE","No Data",NA,NA,NA,NA,FALSE,0
 "WA73GF","OK",FALSE,5.8,5.7,8.1,FALSE,6
 "WA73GG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73GG","No Data",NA,NA,NA,NA,FALSE,0
 "WA73GH","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WA73HA","No premises",NA,NA,NA,NA,TRUE,0
 "WA73HB","No Data",NA,NA,NA,NA,TRUE,0
@@ -144,7 +122,6 @@
 "WA73LD","OK",TRUE,14.5,20,30,TRUE,14
 "WA73LE","OK",TRUE,27.5,5.2,30,TRUE,5
 "WA73LF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WA73LF","No Data",NA,NA,NA,NA,FALSE,0
 "WA73LG","OK",TRUE,18.7,13.3,30,TRUE,13
 "WA73LH","OK",FALSE,18.9,13.5,30,TRUE,3
 "WA73LJ","OK",FALSE,30,20,30,TRUE,7

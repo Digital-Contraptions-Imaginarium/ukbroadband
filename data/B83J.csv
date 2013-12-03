@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B83JA","OK",TRUE,17.3,20,30,TRUE,15
 "B83JF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B83JF","No Data",NA,NA,NA,NA,TRUE,0
 "B83JG","OK",FALSE,16.5,20,30,TRUE,22
 "B83JH","OK",FALSE,21.2,30,30,TRUE,7
 "B83JJ","OK",FALSE,19.1,5,30,TRUE,11

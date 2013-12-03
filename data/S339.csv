@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S339AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S339AA","No Data",NA,NA,NA,NA,FALSE,0
 "S339GA","OK",TRUE,5.2,6.1,8.5,FALSE,14
 "S339GD","OK",FALSE,5.3,4.5,7.4,FALSE,3
 "S339GF","OK",TRUE,4.9,5.6,8.1,FALSE,18
@@ -9,7 +8,6 @@
 "S339GZ","OK",TRUE,3.4,3.4,7,FALSE,21
 "S339HA","OK",FALSE,7.4,7.4,12,FALSE,10
 "S339HB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S339HB","No Data",NA,NA,NA,NA,FALSE,0
 "S339HD","OK",FALSE,6.6,6.8,8.9,FALSE,13
 "S339HE","OK",FALSE,5.4,6.1,6.2,FALSE,3
 "S339HF","OK",FALSE,4.6,5.1,6.8,FALSE,14
@@ -34,9 +32,7 @@
 "S339JF","OK",TRUE,4.9,6.1,6.5,FALSE,4
 "S339JG","OK",FALSE,5.9,6.1,7.6,FALSE,9
 "S339JH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S339JH","No Data",NA,NA,NA,NA,FALSE,0
 "S339JJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S339JJ","No Data",NA,NA,NA,NA,FALSE,0
 "S339JL","OK",TRUE,5.5,5.8,8.9,FALSE,22
 "S339JN","OK",FALSE,5.4,5.7,7.2,FALSE,5
 "S339JP","OK",TRUE,1.7,2,2,FALSE,4
@@ -45,17 +41,13 @@
 "S339JS","OK",TRUE,5.5,6.2,8.1,FALSE,12
 "S339JT","OK",TRUE,4.3,3.9,8.3,FALSE,18
 "S339JU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S339JU","No Data",NA,NA,NA,NA,FALSE,0
 "S339JW","OK",TRUE,5.2,5.7,7.6,FALSE,7
 "S339JX","OK",TRUE,4.8,5.1,7.5,FALSE,21
 "S339JY","OK",FALSE,5.7,5.7,7.4,FALSE,4
 "S339JZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S339JZ","No Data",NA,NA,NA,NA,FALSE,0
 "S339LA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S339LA","No Data",NA,NA,NA,NA,FALSE,0
 "S339LB","OK",FALSE,4.8,4.5,6.8,FALSE,7
 "S339LD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S339LD","No Data",NA,NA,NA,NA,FALSE,0
 "S339LE","OK",TRUE,4,5.1,6.2,FALSE,3
 "S339LF","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "S339NG","No premises",NA,NA,NA,NA,FALSE,0

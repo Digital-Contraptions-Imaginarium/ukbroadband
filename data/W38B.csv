@@ -6,8 +6,6 @@
 "W38BH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "W38BL","OK",TRUE,9.2,7,30,TRUE,16
 "W38BN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W38BN","No Data",NA,NA,NA,NA,FALSE,0
 "W38BP","OK",FALSE,13.2,6.1,30,TRUE,35
 "W38BW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W38BW","No Data",NA,NA,NA,NA,FALSE,0
 "W38BZ","No premises",NA,NA,NA,NA,TRUE,0

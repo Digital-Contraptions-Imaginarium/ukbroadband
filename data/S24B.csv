@@ -3,18 +3,13 @@
 "S24BB","OK",FALSE,10.5,14.2,14.4,TRUE,3
 "S24BD","No Data",NA,NA,NA,NA,FALSE,0
 "S24BE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S24BE","No Data",NA,NA,NA,NA,FALSE,0
 "S24BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S24BG","No Data",NA,NA,NA,NA,FALSE,0
 "S24BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S24BH","No Data",NA,NA,NA,NA,FALSE,0
 "S24BJ","OK",FALSE,17.5,19,20.4,TRUE,3
 "S24BL","OK",FALSE,26.3,20,30,TRUE,16
 "S24BN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S24BP","OK",FALSE,18.4,15.1,30,TRUE,21
 "S24BQ","OK",TRUE,18.7,11.7,30,TRUE,12
 "S24BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S24BS","No Data",NA,NA,NA,NA,FALSE,0
 "S24BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S24BT","No Data",NA,NA,NA,NA,FALSE,0
 "S24BX","No premises",NA,NA,NA,NA,TRUE,0

@@ -1,22 +1,17 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PO74AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74AB","No Data",NA,NA,NA,NA,FALSE,0
 "PO74AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74AD","No Data",NA,NA,NA,NA,FALSE,0
 "PO74AE","OK",FALSE,12.4,8.1,30,FALSE,18
 "PO74AF","OK",FALSE,7.9,7.9,8.1,FALSE,3
 "PO74QA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "PO74QH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74QH","No Data",NA,NA,NA,NA,FALSE,0
 "PO74QJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "PO74QL","OK",FALSE,7,7.6,8.1,FALSE,4
 "PO74QN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74QN","No Data",NA,NA,NA,NA,FALSE,0
 "PO74QP","OK",TRUE,2.8,3.1,4.5,FALSE,4
 "PO74QR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "PO74QS","OK",TRUE,4.9,5.5,7.6,FALSE,6
 "PO74QT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74QT","No Data",NA,NA,NA,NA,FALSE,0
 "PO74QU","OK",TRUE,0.8,0.9,1.1,TRUE,14
 "PO74QW","OK",FALSE,6.4,6.4,8.1,FALSE,6
 "PO74QX","OK",TRUE,0.9,0.9,1.2,TRUE,8
@@ -24,15 +19,12 @@
 "PO74QZ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PO74RA","OK",TRUE,1.5,1.3,2.8,FALSE,7
 "PO74RB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74RB","No Data",NA,NA,NA,NA,FALSE,0
 "PO74RD","OK",TRUE,3.4,4,7.3,FALSE,16
 "PO74RE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PO74RF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74RF","No Data",NA,NA,NA,NA,FALSE,0
 "PO74RG","OK",TRUE,3.4,4.5,5.1,FALSE,3
 "PO74RJ","OK",FALSE,7.5,7.5,8.1,FALSE,3
 "PO74RL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74RL","No Data",NA,NA,NA,NA,FALSE,0
 "PO74RN","OK",FALSE,7.6,7.4,8.1,FALSE,4
 "PO74RP","OK",FALSE,7.4,8.1,8.1,FALSE,9
 "PO74RQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -54,7 +46,6 @@
 "PO74SN","OK",TRUE,6.4,7.4,8.1,FALSE,28
 "PO74SP","OK",FALSE,6.8,7.5,8.1,FALSE,8
 "PO74SQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74SQ","No Data",NA,NA,NA,NA,FALSE,0
 "PO74SR","OK",FALSE,6.6,7.6,8.1,FALSE,4
 "PO74SS","OK",TRUE,6.3,7.6,8.1,FALSE,15
 "PO74ST","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -70,4 +61,3 @@
 "PO74TF","OK",FALSE,4,2.8,6.8,FALSE,3
 "PO74TG","OK",FALSE,6.2,6.4,8.1,FALSE,5
 "PO74TH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PO74TH","No Data",NA,NA,NA,NA,FALSE,0

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E47SB","OK",TRUE,12,5.8,30,TRUE,15
 "E47SD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E47SD","No Data",NA,NA,NA,NA,TRUE,0
 "E47SE","OK",FALSE,22.8,20,30,TRUE,10
 "E47SG","OK",FALSE,29.7,20,30,TRUE,38
 "E47SH","OK",FALSE,28.2,20,30,TRUE,25

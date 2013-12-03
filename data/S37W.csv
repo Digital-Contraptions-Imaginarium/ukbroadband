@@ -1,13 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S37WA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S37WA","No Data",NA,NA,NA,NA,TRUE,0
 "S37WB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S37WB","No Data",NA,NA,NA,NA,TRUE,0
 "S37WE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S37WE","No Data",NA,NA,NA,NA,FALSE,0
 "S37WH","OK",FALSE,30,30,30,TRUE,3
 "S37WJ","No premises",NA,NA,NA,NA,TRUE,0
 "S37WL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S37WQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S37WQ","No Data",NA,NA,NA,NA,TRUE,0
 "S37WR","No premises",NA,NA,NA,NA,FALSE,0

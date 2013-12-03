@@ -1,13 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L173AA","OK",TRUE,12.8,11.4,30,TRUE,33
 "L173AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L173AD","No Data",NA,NA,NA,NA,TRUE,0
 "L173AF","OK",FALSE,9.1,8.9,18.5,FALSE,29
 "L173AG","OK",FALSE,11.9,12.5,16.2,TRUE,17
 "L173AH","OK",TRUE,11.1,12.3,18.3,FALSE,15
 "L173AJ","OK",FALSE,12.8,13,16.9,FALSE,14
 "L173AL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L173AL","No Data",NA,NA,NA,NA,TRUE,0
 "L173AN","OK",TRUE,5.9,5.9,10.7,FALSE,32
 "L173AQ","OK",FALSE,10.4,9.7,17.4,TRUE,17
 "L173AR","OK",FALSE,10.3,9.7,19.7,FALSE,27

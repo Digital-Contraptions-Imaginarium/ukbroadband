@@ -1,9 +1,7 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "IV528TD","OK",FALSE,7.5,8.1,8.1,FALSE,22
 "IV528TE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV528TE","No Data",NA,NA,NA,NA,FALSE,0
 "IV528TF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV528TF","No Data",NA,NA,NA,NA,FALSE,0
 "IV528TG","OK",FALSE,7.1,7.4,8.1,FALSE,10
 "IV528TH","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "IV528TJ","OK",FALSE,7.9,8.1,8.1,FALSE,8

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M221AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M221AA","No Data",NA,NA,NA,NA,TRUE,0
 "M221AB","OK",FALSE,11.5,8.2,20,TRUE,3
 "M221AD","OK",TRUE,26.7,30,30,TRUE,10
 "M221AE","OK",FALSE,20.2,20,30,TRUE,17
@@ -17,7 +16,6 @@
 "M221AT","OK",FALSE,28.5,20,30,TRUE,13
 "M221AU","OK",TRUE,30,30,30,TRUE,14
 "M221AW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M221AW","No Data",NA,NA,NA,NA,TRUE,0
 "M221AX","OK",TRUE,21.3,20,30,TRUE,12
 "M221AY","OK",TRUE,25,7.8,30,TRUE,7
 "M221AZ","OK",FALSE,30,30,30,TRUE,7
@@ -25,7 +23,6 @@
 "M221BD","OK",FALSE,11.7,8.2,20,TRUE,4
 "M221BE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M221BF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M221BF","No Data",NA,NA,NA,NA,TRUE,0
 "M221BG","OK",FALSE,28.3,20,30,TRUE,9
 "M221BH","OK",FALSE,20.9,7.1,30,TRUE,11
 "M221BJ","OK",FALSE,19.5,6.8,30,TRUE,8
@@ -49,7 +46,6 @@
 "M221EQ","OK",TRUE,20.1,12.3,30,TRUE,20
 "M221ER","OK",FALSE,15.5,7.2,30,TRUE,18
 "M221ES","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M221ES","No Data",NA,NA,NA,NA,TRUE,0
 "M221ET","OK",TRUE,20.8,4.1,30,TRUE,14
 "M221EU","OK",TRUE,12.4,1.6,30,TRUE,8
 "M221GA","OK",FALSE,27.9,9.7,30,TRUE,10
@@ -159,7 +155,6 @@
 "M221TD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M221TE","No Data",NA,NA,NA,NA,TRUE,0
 "M221TG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M221TG","No Data",NA,NA,NA,NA,TRUE,0
 "M221TH","OK",TRUE,26.4,25,30,TRUE,6
 "M221TJ","OK",TRUE,28,4.2,30,TRUE,12
 "M221TL","Insufficient Data",NA,NA,NA,NA,TRUE,1

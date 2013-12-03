@@ -1,35 +1,26 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TW89AA","OK",FALSE,20,6.4,30,TRUE,19
 "TW89AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TW89AD","No Data",NA,NA,NA,NA,TRUE,0
 "TW89AG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "TW89AH","No premises",NA,NA,NA,NA,TRUE,0
 "TW89AN","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "TW89AX","No premises",NA,NA,NA,NA,FALSE,0
 "TW89AZ","No premises",NA,NA,NA,NA,FALSE,0
 "TW89BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89BA","No Data",NA,NA,NA,NA,FALSE,0
 "TW89BE","No premises",NA,NA,NA,NA,FALSE,0
 "TW89BP","No premises",NA,NA,NA,NA,FALSE,0
 "TW89BQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TW89BQ","No Data",NA,NA,NA,NA,TRUE,0
 "TW89BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89BS","No Data",NA,NA,NA,NA,FALSE,0
 "TW89BW","No Data",NA,NA,NA,NA,FALSE,0
 "TW89BZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89BZ","No Data",NA,NA,NA,NA,FALSE,0
 "TW89DD","OK",TRUE,8.4,7.8,25.7,TRUE,9
 "TW89DE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89DE","No Data",NA,NA,NA,NA,FALSE,0
 "TW89DF","OK",TRUE,6.9,7.5,10.9,TRUE,10
 "TW89DN","OK",TRUE,7.8,8.7,11.7,FALSE,10
 "TW89DP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89DP","No Data",NA,NA,NA,NA,FALSE,0
 "TW89DR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89DR","No Data",NA,NA,NA,NA,FALSE,0
 "TW89DS","No premises",NA,NA,NA,NA,TRUE,0
 "TW89DU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89DU","No Data",NA,NA,NA,NA,FALSE,0
 "TW89DW","OK",TRUE,6,5,13,FALSE,4
 "TW89DX","No premises",NA,NA,NA,NA,FALSE,0
 "TW89DZ","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -37,10 +28,8 @@
 "TW89EG","No premises",NA,NA,NA,NA,FALSE,0
 "TW89EP","No premises",NA,NA,NA,NA,TRUE,0
 "TW89ER","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89ER","No Data",NA,NA,NA,NA,FALSE,0
 "TW89ES","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "TW89ET","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89ET","No Data",NA,NA,NA,NA,FALSE,0
 "TW89EU","No premises",NA,NA,NA,NA,FALSE,0
 "TW89EW","OK",FALSE,12.5,13.9,17.9,TRUE,10
 "TW89EX","OK",FALSE,10.7,10.2,20,FALSE,17
@@ -48,17 +37,13 @@
 "TW89EZ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "TW89FJ","No premises",NA,NA,NA,NA,FALSE,0
 "TW89FX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89FX","No Data",NA,NA,NA,NA,FALSE,0
 "TW89GA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89GA","No Data",NA,NA,NA,NA,FALSE,0
 "TW89GB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89GB","No Data",NA,NA,NA,NA,FALSE,0
 "TW89GS","No premises",NA,NA,NA,NA,FALSE,0
 "TW89HA","No premises",NA,NA,NA,NA,FALSE,0
 "TW89HF","OK",TRUE,4.4,3,14,FALSE,9
 "TW89HH","No premises",NA,NA,NA,NA,FALSE,0
 "TW89HU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW89HU","No Data",NA,NA,NA,NA,FALSE,0
 "TW89JB","OK",FALSE,8.8,8.4,13,TRUE,15
 "TW89JF","OK",TRUE,10.1,5.4,30,TRUE,17
 "TW89JG","OK",TRUE,13.4,7.8,30,TRUE,13
@@ -89,7 +74,6 @@
 "TW89LS","OK",TRUE,4.2,4.4,6.6,TRUE,17
 "TW89LW","OK",TRUE,22.1,6.6,30,TRUE,24
 "TW89LX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TW89LX","No Data",NA,NA,NA,NA,TRUE,0
 "TW89LY","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "TW89LZ","OK",FALSE,14.2,8.7,30,TRUE,11
 "TW89NA","OK",FALSE,24.6,10.8,30,TRUE,37
@@ -138,13 +122,11 @@
 "TW89QQ","OK",TRUE,24.6,18.7,30,TRUE,15
 "TW89QR","OK",FALSE,4.8,4.7,6.7,FALSE,7
 "TW89QS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TW89QS","No Data",NA,NA,NA,NA,TRUE,0
 "TW89QT","OK",TRUE,24.3,4.6,30,TRUE,29
 "TW89QU","OK",TRUE,20.3,4.7,30,TRUE,42
 "TW89QW","No Data",NA,NA,NA,NA,FALSE,0
 "TW89QX","OK",TRUE,12.9,3.3,30,TRUE,30
 "TW89QY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"TW89QY","No Data",NA,NA,NA,NA,TRUE,0
 "TW89QZ","OK",TRUE,27.1,20,30,TRUE,44
 "TW89RA","OK",TRUE,22.7,17.5,30,TRUE,32
 "TW89RB","OK",TRUE,24.8,12.6,30,TRUE,24

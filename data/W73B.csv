@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W73BA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W73BA","No Data",NA,NA,NA,NA,TRUE,0
 "W73BB","OK",TRUE,24.8,9.1,30,TRUE,5
 "W73BD","OK",TRUE,10.3,4.3,30,TRUE,24
 "W73BE","OK",TRUE,24.2,5.9,30,TRUE,34

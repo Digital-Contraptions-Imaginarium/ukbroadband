@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LU34AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LU34AB","No Data",NA,NA,NA,NA,TRUE,0
 "LU34AD","No Data",NA,NA,NA,NA,TRUE,0
 "LU34AE","OK",FALSE,24.2,20,30,TRUE,23
 "LU34AF","OK",TRUE,25,20,30,TRUE,22

@@ -1,19 +1,14 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "GL23NJ","OK",TRUE,30,30,30,TRUE,29
 "GL23NP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL23NP","No Data",NA,NA,NA,NA,FALSE,0
 "GL23NQ","OK",FALSE,30,30,30,TRUE,20
 "GL23NR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL23NR","No Data",NA,NA,NA,NA,FALSE,0
 "GL23NS","OK",TRUE,3.4,4,5.1,FALSE,7
 "GL23NT","OK",TRUE,2.8,2.9,5,FALSE,16
 "GL23NU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL23NU","No Data",NA,NA,NA,NA,FALSE,0
 "GL23NW","OK",FALSE,4.3,4.7,5.8,TRUE,9
 "GL23NX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL23NX","No Data",NA,NA,NA,NA,FALSE,0
 "GL23NY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"GL23NY","No Data",NA,NA,NA,NA,FALSE,0
 "GL23QE","OK",TRUE,6.3,7.3,11,FALSE,11
 "GL23SG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "GL23SH","OK",TRUE,2.3,2.3,3.4,FALSE,3

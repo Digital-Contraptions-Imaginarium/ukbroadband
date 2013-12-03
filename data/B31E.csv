@@ -2,6 +2,4 @@
 "B31EH","OK",FALSE,30,7.8,30,TRUE,3
 "B31EP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "B31ER","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B31ER","No Data",NA,NA,NA,NA,TRUE,0
 "B31EU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B31EU","No Data",NA,NA,NA,NA,FALSE,0

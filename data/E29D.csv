@@ -1,12 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E29DA","OK",TRUE,17,7.6,30,TRUE,29
 "E29DE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E29DE","No Data",NA,NA,NA,NA,FALSE,0
 "E29DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E29DF","No Data",NA,NA,NA,NA,FALSE,0
 "E29DG","OK",FALSE,25.1,9.5,30,TRUE,14
 "E29DJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E29DJ","No Data",NA,NA,NA,NA,FALSE,0
 "E29DL","OK",FALSE,6.3,6.3,6.9,TRUE,3
 "E29DN","OK",FALSE,26.8,5.8,30,TRUE,20
 "E29DP","OK",TRUE,23,6,30,TRUE,23

@@ -1,19 +1,16 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B974AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B974AB","No Data",NA,NA,NA,NA,TRUE,0
 "B974AD","No premises",NA,NA,NA,NA,TRUE,0
 "B974AE","No premises",NA,NA,NA,NA,FALSE,0
 "B974AJ","OK",FALSE,13.4,13.4,18.8,TRUE,3
 "B974AL","No premises",NA,NA,NA,NA,TRUE,0
 "B974AN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B974AN","No Data",NA,NA,NA,NA,TRUE,0
 "B974BA","OK",FALSE,27,10.5,30,TRUE,4
 "B974BB","OK",FALSE,12.9,11.1,20.5,TRUE,13
 "B974BD","No premises",NA,NA,NA,NA,TRUE,0
 "B974BE","OK",FALSE,20.4,21,23.5,FALSE,16
 "B974BG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "B974BH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B974BH","No Data",NA,NA,NA,NA,TRUE,0
 "B974BJ","OK",FALSE,30,30,30,TRUE,12
 "B974BL","OK",FALSE,30,21.7,30,TRUE,15
 "B974BN","OK",FALSE,30,30,30,TRUE,7
@@ -25,10 +22,8 @@
 "B974BY","OK",FALSE,17.6,18.1,22,TRUE,12
 "B974DA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "B974DE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B974DE","No Data",NA,NA,NA,NA,FALSE,0
 "B974DH","No premises",NA,NA,NA,NA,TRUE,0
 "B974DJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B974DJ","No Data",NA,NA,NA,NA,TRUE,0
 "B974DL","OK",TRUE,12.6,12.4,24.4,TRUE,7
 "B974DN","No premises",NA,NA,NA,NA,FALSE,0
 "B974DP","No premises",NA,NA,NA,NA,TRUE,0
@@ -56,7 +51,6 @@
 "B974HH","No premises",NA,NA,NA,NA,FALSE,0
 "B974HJ","OK",TRUE,8.8,7.9,15.8,TRUE,20
 "B974HL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B974HL","No Data",NA,NA,NA,NA,FALSE,0
 "B974HN","No Data",NA,NA,NA,NA,FALSE,0
 "B974HP","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "B974HY","OK",FALSE,30,30,30,TRUE,10
@@ -111,7 +105,6 @@
 "B974NR","OK",TRUE,14.5,14.7,30,TRUE,13
 "B974NS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "B974NU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B974NU","No Data",NA,NA,NA,NA,TRUE,0
 "B974NX","OK",FALSE,14.7,8.5,30,TRUE,23
 "B974NZ","OK",TRUE,30,20,30,TRUE,25
 "B974PA","OK",TRUE,18.2,15.5,30,TRUE,29
@@ -135,7 +128,6 @@
 "B974PZ","OK",FALSE,17.3,14.1,30,TRUE,14
 "B974QB","OK",FALSE,30,30,30,TRUE,11
 "B974QN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B974QN","No Data",NA,NA,NA,NA,TRUE,0
 "B974QR","OK",FALSE,13.7,16,19.8,TRUE,7
 "B974QT","No premises",NA,NA,NA,NA,TRUE,0
 "B974QU","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -143,7 +135,6 @@
 "B974QY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "B974RA","OK",FALSE,7.4,7.8,7.8,TRUE,4
 "B974RB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B974RB","No Data",NA,NA,NA,NA,FALSE,0
 "B974RD","OK",TRUE,15.1,14.6,30,TRUE,7
 "B974RE","OK",FALSE,22.6,10.3,30,TRUE,13
 "B974RF","OK",TRUE,17.1,15.3,30,TRUE,18

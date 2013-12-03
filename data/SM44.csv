@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SM44AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SM44AB","No Data",NA,NA,NA,NA,FALSE,0
 "SM44AG","OK",TRUE,14.6,7.8,30,TRUE,35
 "SM44AH","OK",FALSE,18.5,9,30,TRUE,19
 "SM44AJ","OK",FALSE,30,30,30,TRUE,13
@@ -91,11 +90,8 @@
 "SM44LE","OK",TRUE,25.4,20,30,TRUE,54
 "SM44LF","OK",FALSE,27.9,10.3,30,TRUE,17
 "SM44LG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SM44LG","No Data",NA,NA,NA,NA,FALSE,0
 "SM44LL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SM44LL","No Data",NA,NA,NA,NA,TRUE,0
 "SM44LP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SM44LP","No Data",NA,NA,NA,NA,FALSE,0
 "SM44LR","OK",FALSE,30,20,30,TRUE,7
 "SM44LS","OK",FALSE,30,30,30,TRUE,5
 "SM44LU","OK",FALSE,4.5,4.5,4.5,TRUE,3
@@ -164,7 +160,6 @@
 "SM44SA","OK",TRUE,23.4,7.9,30,TRUE,18
 "SM44SE","OK",TRUE,25.5,20,30,TRUE,33
 "SM44SF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SM44SF","No Data",NA,NA,NA,NA,TRUE,0
 "SM44SG","OK",FALSE,26.5,20,30,TRUE,55
 "SM44SJ","OK",FALSE,12.3,6.9,29.5,TRUE,5
 "SM44SP","OK",FALSE,28.7,27.4,30,TRUE,18

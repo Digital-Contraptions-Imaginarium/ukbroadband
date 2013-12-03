@@ -1,18 +1,13 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PE356EA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PE356EA","No Data",NA,NA,NA,NA,FALSE,0
 "PE356EB","OK",TRUE,3.3,3.2,5.8,FALSE,12
 "PE356ED","OK",TRUE,4.5,5.4,6.9,FALSE,3
 "PE356EE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PE356EF","OK",FALSE,4.6,4,7.8,FALSE,4
 "PE356EG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PE356EG","No Data",NA,NA,NA,NA,FALSE,0
 "PE356EH","OK",TRUE,3.1,2.9,6.1,FALSE,4
 "PE356EJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PE356EJ","No Data",NA,NA,NA,NA,FALSE,0
 "PE356EN","No premises",NA,NA,NA,NA,FALSE,0
 "PE356EP","No premises",NA,NA,NA,NA,FALSE,0
 "PE356EQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PE356EQ","No Data",NA,NA,NA,NA,FALSE,0
 "PE356EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PE356EZ","No Data",NA,NA,NA,NA,FALSE,0

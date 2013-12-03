@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BD39AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39AA","No Data",NA,NA,NA,NA,TRUE,0
 "BD39AB","No Data",NA,NA,NA,NA,FALSE,0
 "BD39AH","OK",FALSE,9.7,9.2,13,TRUE,7
 "BD39AL","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -10,13 +9,10 @@
 "BD39AU","OK",FALSE,12.8,12.2,15.2,TRUE,3
 "BD39AY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BD39BB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39BB","No Data",NA,NA,NA,NA,FALSE,0
 "BD39BD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BD39BH","OK",FALSE,15.5,16.1,17.9,TRUE,5
 "BD39BN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39BN","No Data",NA,NA,NA,NA,FALSE,0
 "BD39BY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39BY","No Data",NA,NA,NA,NA,TRUE,0
 "BD39BZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BD39DA","OK",TRUE,17.7,7.3,30,TRUE,27
 "BD39DB","OK",TRUE,4.7,4.5,7.8,TRUE,9
@@ -25,7 +21,6 @@
 "BD39DF","OK",FALSE,19.4,20,30,TRUE,6
 "BD39DG","OK",FALSE,5.4,5.2,6.1,TRUE,7
 "BD39DJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39DJ","No Data",NA,NA,NA,NA,TRUE,0
 "BD39DN","OK",TRUE,12.4,7.7,30,TRUE,19
 "BD39DP","OK",FALSE,13.6,10.2,30,TRUE,25
 "BD39DQ","OK",FALSE,15.1,5.8,30,TRUE,5
@@ -34,7 +29,6 @@
 "BD39DT","OK",FALSE,18.3,20,30,TRUE,14
 "BD39DW","OK",FALSE,18,16.4,30,TRUE,6
 "BD39DX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39DX","No Data",NA,NA,NA,NA,TRUE,0
 "BD39DY","OK",FALSE,22.5,12.2,30,TRUE,49
 "BD39EA","OK",FALSE,18.9,15.6,30,TRUE,13
 "BD39EB","OK",FALSE,9.3,9.3,10.1,TRUE,8
@@ -48,27 +42,20 @@
 "BD39EN","OK",FALSE,26,30,30,TRUE,4
 "BD39EP","OK",FALSE,22.7,24,30,TRUE,4
 "BD39ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39ES","No Data",NA,NA,NA,NA,FALSE,0
 "BD39EW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39EW","No Data",NA,NA,NA,NA,TRUE,0
 "BD39EY","OK",FALSE,10.3,10.2,14.1,TRUE,10
 "BD39EZ","OK",FALSE,9.2,8.5,12.6,TRUE,18
 "BD39HA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BD39HB","OK",FALSE,16,15.4,19.2,TRUE,6
 "BD39HD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39HD","No Data",NA,NA,NA,NA,TRUE,0
 "BD39HE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39HE","No Data",NA,NA,NA,NA,TRUE,0
 "BD39HJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BD39HN","No premises",NA,NA,NA,NA,TRUE,0
 "BD39HR","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BD39HY","No premises",NA,NA,NA,NA,TRUE,0
 "BD39JA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39JA","No Data",NA,NA,NA,NA,FALSE,0
 "BD39JN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39JN","No Data",NA,NA,NA,NA,TRUE,0
 "BD39JP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39JP","No Data",NA,NA,NA,NA,FALSE,0
 "BD39JS","OK",FALSE,11.7,12,19.7,TRUE,38
 "BD39JT","OK",FALSE,10.2,9.7,17.5,TRUE,19
 "BD39JU","OK",FALSE,9.6,10,14.4,TRUE,26
@@ -83,12 +70,9 @@
 "BD39LJ","OK",TRUE,9.3,9.2,14.3,TRUE,17
 "BD39LN","OK",FALSE,10.1,9.7,13.3,TRUE,7
 "BD39LP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39LP","No Data",NA,NA,NA,NA,FALSE,0
 "BD39LS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39LS","No Data",NA,NA,NA,NA,FALSE,0
 "BD39LT","No premises",NA,NA,NA,NA,FALSE,0
 "BD39LW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39LW","No Data",NA,NA,NA,NA,FALSE,0
 "BD39LX","OK",FALSE,7.6,7.1,13.3,TRUE,3
 "BD39LY","OK",FALSE,30,8.5,30,TRUE,4
 "BD39NA","OK",TRUE,15.3,11.8,30,TRUE,14
@@ -115,17 +99,13 @@
 "BD39PQ","OK",FALSE,28.2,19.9,30,TRUE,16
 "BD39PS","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BD39QD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39QD","No Data",NA,NA,NA,NA,TRUE,0
 "BD39QF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39QF","No Data",NA,NA,NA,NA,FALSE,0
 "BD39QH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39QH","No Data",NA,NA,NA,NA,TRUE,0
 "BD39QL","OK",FALSE,9.8,9.4,16.9,TRUE,3
 "BD39QN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BD39QP","OK",FALSE,9.3,9.1,16,TRUE,5
 "BD39QQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BD39QT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39QT","No Data",NA,NA,NA,NA,TRUE,0
 "BD39QX","OK",FALSE,12.9,14.1,18.2,TRUE,16
 "BD39QY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BD39RA","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -134,9 +114,7 @@
 "BD39RH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BD39RJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "BD39RU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39RU","No Data",NA,NA,NA,NA,FALSE,0
 "BD39RW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39RW","No Data",NA,NA,NA,NA,TRUE,0
 "BD39RY","OK",FALSE,8.3,8.3,9.2,TRUE,3
 "BD39SB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BD39SE","OK",FALSE,7.5,6.7,10.6,FALSE,3
@@ -144,28 +122,20 @@
 "BD39SL","No premises",NA,NA,NA,NA,FALSE,0
 "BD39SN","OK",FALSE,8.3,8,10,TRUE,4
 "BD39SR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39SR","No Data",NA,NA,NA,NA,TRUE,0
 "BD39SU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39SU","No Data",NA,NA,NA,NA,TRUE,0
 "BD39SW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39SW","No Data",NA,NA,NA,NA,TRUE,0
 "BD39SX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39SX","No Data",NA,NA,NA,NA,FALSE,0
 "BD39TB","OK",FALSE,16.7,15.7,30,TRUE,11
 "BD39TD","OK",FALSE,26.3,20,30,TRUE,29
 "BD39TE","OK",FALSE,30,24.7,30,TRUE,4
 "BD39TF","No premises",NA,NA,NA,NA,TRUE,0
 "BD39TH","No premises",NA,NA,NA,NA,FALSE,0
 "BD39TJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39TJ","No Data",NA,NA,NA,NA,FALSE,0
 "BD39TN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39TN","No Data",NA,NA,NA,NA,TRUE,0
 "BD39TP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BD39TR","OK",FALSE,11.1,8.1,17.5,TRUE,3
 "BD39TU","No premises",NA,NA,NA,NA,TRUE,0
 "BD39TW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BD39TW","No Data",NA,NA,NA,NA,TRUE,0
 "BD39TX","OK",FALSE,12.8,14.6,17.8,TRUE,7
 "BD39TY","OK",FALSE,19.8,18,30,TRUE,14
 "BD39UD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BD39UD","No Data",NA,NA,NA,NA,FALSE,0

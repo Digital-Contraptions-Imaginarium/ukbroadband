@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B32QA","No premises",NA,NA,NA,NA,FALSE,0
 "B32QB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B32QB","No Data",NA,NA,NA,NA,FALSE,0
 "B32QD","OK",FALSE,16.9,18.5,21.1,FALSE,9
 "B32QL","No premises",NA,NA,NA,NA,FALSE,0
 "B32QN","No premises",NA,NA,NA,NA,FALSE,0

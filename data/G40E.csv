@@ -1,13 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G40EA","No premises",NA,NA,NA,NA,FALSE,0
 "G40EB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G40EB","No Data",NA,NA,NA,NA,FALSE,0
 "G40ED","No premises",NA,NA,NA,NA,FALSE,0
 "G40EE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G40EE","No Data",NA,NA,NA,NA,FALSE,0
 "G40EF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G40EF","No Data",NA,NA,NA,NA,FALSE,0
 "G40ES","No premises",NA,NA,NA,NA,FALSE,0
 "G40ET","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G40ET","No Data",NA,NA,NA,NA,FALSE,0
 "G40EZ","No premises",NA,NA,NA,NA,FALSE,0

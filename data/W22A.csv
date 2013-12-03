@@ -1,19 +1,15 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W22AA","OK",FALSE,14.5,15.4,21.6,TRUE,10
 "W22AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W22AB","No Data",NA,NA,NA,NA,TRUE,0
 "W22AD","OK",FALSE,12.8,12.2,19.9,TRUE,10
 "W22AE","OK",FALSE,16.7,19.5,21,TRUE,7
 "W22AF","OK",FALSE,13.3,13.8,18.3,TRUE,9
 "W22AH","OK",FALSE,18.3,18.2,22.7,FALSE,5
 "W22AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W22AJ","No Data",NA,NA,NA,NA,FALSE,0
 "W22AL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W22AL","No Data",NA,NA,NA,NA,FALSE,0
 "W22AN","OK",TRUE,16.4,18,23.4,FALSE,38
 "W22AP","No premises",NA,NA,NA,NA,FALSE,0
 "W22AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W22AQ","No Data",NA,NA,NA,NA,FALSE,0
 "W22AS","OK",FALSE,13.1,14.3,21.9,TRUE,18
 "W22AT","OK",FALSE,14.3,15.9,20.9,TRUE,11
 "W22AU","OK",FALSE,11,10.2,17,FALSE,8

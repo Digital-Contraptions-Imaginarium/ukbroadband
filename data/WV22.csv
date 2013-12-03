@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WV22AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV22AB","No Data",NA,NA,NA,NA,FALSE,0
 "WV22AD","OK",TRUE,11.3,9.6,30,TRUE,14
 "WV22AE","No premises",NA,NA,NA,NA,TRUE,0
 "WV22AF","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -9,7 +8,6 @@
 "WV22AR","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WV22AS","OK",TRUE,24.7,18.3,30,TRUE,9
 "WV22AT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV22AT","No Data",NA,NA,NA,NA,TRUE,0
 "WV22AU","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WV22AW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WV22AY","OK",FALSE,30,30,30,TRUE,4
@@ -22,7 +20,6 @@
 "WV22BH","OK",FALSE,23.3,20,30,TRUE,3
 "WV22BJ","OK",FALSE,27.4,20,30,TRUE,19
 "WV22BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV22BL","No Data",NA,NA,NA,NA,FALSE,0
 "WV22BP","No premises",NA,NA,NA,NA,TRUE,0
 "WV22BQ","OK",FALSE,30,30,30,TRUE,5
 "WV22BS","OK",FALSE,7.4,7.8,10.5,TRUE,3
@@ -32,7 +29,6 @@
 "WV22BZ","No Data",NA,NA,NA,NA,TRUE,0
 "WV22DA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WV22DB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV22DB","No Data",NA,NA,NA,NA,TRUE,0
 "WV22DE","OK",FALSE,20.8,15.1,30,TRUE,24
 "WV22DF","OK",FALSE,18.3,20,30,TRUE,14
 "WV22DG","OK",TRUE,24,30,30,TRUE,21
@@ -55,7 +51,6 @@
 "WV22ED","OK",FALSE,25,17.2,30,TRUE,34
 "WV22EE","No premises",NA,NA,NA,NA,FALSE,0
 "WV22EG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV22EG","No Data",NA,NA,NA,NA,TRUE,0
 "WV22EH","OK",TRUE,12.5,4.8,30,TRUE,16
 "WV22EJ","OK",TRUE,15.9,4.9,30,TRUE,9
 "WV22EL","OK",FALSE,24,20,30,TRUE,8
@@ -96,9 +91,7 @@
 "WV22JY","OK",FALSE,30,20,30,TRUE,21
 "WV22JZ","OK",FALSE,17.7,10.5,30,TRUE,14
 "WV22LA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV22LA","No Data",NA,NA,NA,NA,TRUE,0
 "WV22LB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV22LB","No Data",NA,NA,NA,NA,FALSE,0
 "WV22LD","OK",FALSE,7.4,7.8,8,FALSE,4
 "WV22LH","No premises",NA,NA,NA,NA,FALSE,0
 "WV22LJ","OK",FALSE,7.9,7.9,12,FALSE,9
@@ -120,14 +113,12 @@
 "WV22NH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WV22NJ","No premises",NA,NA,NA,NA,TRUE,0
 "WV22NL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV22NL","No Data",NA,NA,NA,NA,TRUE,0
 "WV22NN","OK",TRUE,19.8,20,30,TRUE,32
 "WV22NQ","OK",FALSE,30,30,30,TRUE,8
 "WV22NR","OK",FALSE,27.7,30,30,TRUE,22
 "WV22NS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WV22NT","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WV22NW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV22NW","No Data",NA,NA,NA,NA,TRUE,0
 "WV22NX","OK",FALSE,27.7,20,30,TRUE,9
 "WV22NY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WV22NZ","OK",FALSE,18.8,20,30,TRUE,6
@@ -135,7 +126,6 @@
 "WV22PB","OK",FALSE,19.3,10.5,30,TRUE,27
 "WV22PD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WV22PT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WV22PT","No Data",NA,NA,NA,NA,TRUE,0
 "WV22PY","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "WV22PZ","No premises",NA,NA,NA,NA,TRUE,0
 "WV22QD","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -147,9 +137,7 @@
 "WV22QY","OK",TRUE,20.4,4.5,30,TRUE,27
 "WV22QZ","OK",TRUE,25.1,20,30,TRUE,37
 "WV22RB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV22RB","No Data",NA,NA,NA,NA,FALSE,0
 "WV22RF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WV22RF","No Data",NA,NA,NA,NA,FALSE,0
 "WV22RH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WV22RJ","OK",FALSE,6.8,3.1,15,FALSE,4
 "WV22RL","Insufficient Data",NA,NA,NA,NA,FALSE,1

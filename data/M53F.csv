@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M53FA","OK",TRUE,5.6,7,9.8,TRUE,7
 "M53FE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M53FE","No Data",NA,NA,NA,NA,TRUE,0
 "M53FG","OK",FALSE,13,12.7,18.9,TRUE,4
 "M53FN","OK",FALSE,15.2,16.9,22,FALSE,67
 "M53FP","OK",FALSE,15.6,16.5,21.2,FALSE,69

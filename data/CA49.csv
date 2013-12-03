@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CA49PB","OK",FALSE,6.3,6.8,8.1,FALSE,22
 "CA49PD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49PD","No Data",NA,NA,NA,NA,FALSE,0
 "CA49PE","OK",FALSE,6.6,6.2,7.4,FALSE,5
 "CA49PF","OK",TRUE,6.3,7.9,8.1,FALSE,6
 "CA49PG","OK",FALSE,7.9,7.9,8.1,FALSE,3
@@ -12,7 +11,6 @@
 "CA49PP","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA49PQ","OK",FALSE,5.6,7.1,7.4,FALSE,4
 "CA49PR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49PR","No Data",NA,NA,NA,NA,FALSE,0
 "CA49PW","OK",TRUE,6.4,8.1,8.1,FALSE,6
 "CA49PX","OK",FALSE,6.3,6.8,8.1,FALSE,21
 "CA49PY","OK",FALSE,6.5,7.7,8.1,FALSE,9
@@ -20,12 +18,9 @@
 "CA49QA","OK",TRUE,4.3,4.7,8,FALSE,10
 "CA49QB","OK",TRUE,3,3.4,3.7,FALSE,3
 "CA49QD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49QD","No Data",NA,NA,NA,NA,FALSE,0
 "CA49QE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49QE","No Data",NA,NA,NA,NA,FALSE,0
 "CA49QF","OK",FALSE,6.3,6.2,7.4,FALSE,5
 "CA49QG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49QG","No Data",NA,NA,NA,NA,FALSE,0
 "CA49QH","OK",FALSE,7.2,7.6,8.1,FALSE,3
 "CA49QN","OK",FALSE,4.3,4,8,FALSE,17
 "CA49QP","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -36,7 +31,6 @@
 "CA49QW","OK",TRUE,3.7,3.7,6.5,FALSE,3
 "CA49QY","OK",TRUE,4.1,3.9,7.4,FALSE,9
 "CA49QZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49QZ","No Data",NA,NA,NA,NA,FALSE,0
 "CA49RA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA49RB","OK",TRUE,3.6,3.6,5.1,FALSE,3
 "CA49RD","OK",FALSE,6.1,6.1,8.1,FALSE,4
@@ -46,49 +40,35 @@
 "CA49RH","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA49RJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA49RL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49RL","No Data",NA,NA,NA,NA,FALSE,0
 "CA49RN","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA49RP","OK",FALSE,5.7,6.1,8.1,FALSE,4
 "CA49RQ","OK",TRUE,0.5,0.5,0.6,FALSE,3
 "CA49RR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49RR","No Data",NA,NA,NA,NA,FALSE,0
 "CA49RS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49RS","No Data",NA,NA,NA,NA,FALSE,0
 "CA49RT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49RT","No Data",NA,NA,NA,NA,FALSE,0
 "CA49RU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49RU","No Data",NA,NA,NA,NA,FALSE,0
 "CA49RW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49RW","No Data",NA,NA,NA,NA,FALSE,0
 "CA49RX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA49RY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49RY","No Data",NA,NA,NA,NA,FALSE,0
 "CA49RZ","OK",TRUE,5,5.8,8.1,FALSE,25
 "CA49SE","OK",FALSE,3.7,3.8,4.5,FALSE,3
 "CA49SF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49SF","No Data",NA,NA,NA,NA,FALSE,0
 "CA49SG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA49SH","OK",TRUE,3.8,4.3,4.5,FALSE,7
 "CA49SJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA49SL","OK",TRUE,6.5,8,8.1,FALSE,11
 "CA49SN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49SN","No Data",NA,NA,NA,NA,FALSE,0
 "CA49SP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49SP","No Data",NA,NA,NA,NA,FALSE,0
 "CA49SQ","OK",FALSE,2.6,2.6,2.8,FALSE,3
 "CA49SR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49SR","No Data",NA,NA,NA,NA,FALSE,0
 "CA49ST","OK",FALSE,5.8,5.9,8.1,FALSE,12
 "CA49SX","OK",TRUE,1.5,1.3,2.2,FALSE,5
 "CA49SY","OK",TRUE,2,1.7,4.5,FALSE,17
 "CA49SZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49SZ","No Data",NA,NA,NA,NA,FALSE,0
 "CA49TA","OK",TRUE,2.3,2.3,2.8,FALSE,3
 "CA49TB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA49TF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49TF","No Data",NA,NA,NA,NA,FALSE,0
 "CA49TG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49TG","No Data",NA,NA,NA,NA,FALSE,0
 "CA49TH","OK",TRUE,2.8,2.7,4.7,FALSE,11
 "CA49TJ","OK",FALSE,6.3,6.5,8.1,FALSE,8
 "CA49TN","OK",FALSE,5.9,6.2,6.8,FALSE,5
@@ -96,9 +76,6 @@
 "CA49TQ","OK",TRUE,2.5,2.8,3.4,FALSE,3
 "CA49TR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA49TS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49TS","No Data",NA,NA,NA,NA,FALSE,0
 "CA49TU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49TU","No Data",NA,NA,NA,NA,FALSE,0
 "CA49TW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA49TW","No Data",NA,NA,NA,NA,FALSE,0
 "CA49WB","No premises",NA,NA,NA,NA,FALSE,0

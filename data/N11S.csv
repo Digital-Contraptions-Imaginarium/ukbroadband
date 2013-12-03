@@ -1,17 +1,14 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N11SA","No premises",NA,NA,NA,NA,FALSE,0
 "N11SB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N11SB","No Data",NA,NA,NA,NA,TRUE,0
 "N11SD","OK",FALSE,30,30,30,TRUE,10
 "N11SE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N11SE","No Data",NA,NA,NA,NA,TRUE,0
 "N11SF","OK",FALSE,25,16.3,30,TRUE,4
 "N11SG","OK",FALSE,18.6,16.2,30,TRUE,35
 "N11SH","No premises",NA,NA,NA,NA,FALSE,0
 "N11SJ","OK",FALSE,25.9,20,30,TRUE,12
 "N11SL","No premises",NA,NA,NA,NA,FALSE,0
 "N11SN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N11SN","No Data",NA,NA,NA,NA,TRUE,0
 "N11SP","No premises",NA,NA,NA,NA,FALSE,0
 "N11SQ","No premises",NA,NA,NA,NA,FALSE,0
 "N11SR","No premises",NA,NA,NA,NA,FALSE,0
@@ -19,7 +16,6 @@
 "N11ST","OK",FALSE,28,30,30,TRUE,5
 "N11SU","OK",FALSE,25.4,19,30,TRUE,38
 "N11SW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N11SW","No Data",NA,NA,NA,NA,TRUE,0
 "N11SX","No premises",NA,NA,NA,NA,FALSE,0
 "N11SY","OK",FALSE,22.9,18.3,30,TRUE,23
 "N11SZ","OK",FALSE,19.6,18.5,30,TRUE,15

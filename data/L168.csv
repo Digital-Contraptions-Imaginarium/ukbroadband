@@ -1,19 +1,16 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L168GA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L168GA","No Data",NA,NA,NA,NA,FALSE,0
 "L168NA","OK",FALSE,17.2,18.3,21.3,TRUE,12
 "L168NB","OK",FALSE,19.5,20,30,TRUE,7
 "L168ND","No premises",NA,NA,NA,NA,TRUE,0
 "L168NE","OK",TRUE,13.3,13.2,30,TRUE,28
 "L168NF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L168NF","No Data",NA,NA,NA,NA,TRUE,0
 "L168NH","OK",TRUE,20.5,18.3,30,TRUE,16
 "L168NJ","OK",FALSE,21.3,20,30,TRUE,15
 "L168NL","OK",FALSE,20,16.7,30,TRUE,15
 "L168NN","OK",FALSE,17.2,15.9,30,TRUE,17
 "L168NP","OK",FALSE,17.1,15.6,30,TRUE,18
 "L168NQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L168NQ","No Data",NA,NA,NA,NA,TRUE,0
 "L168NR","OK",FALSE,12.2,13.2,20,TRUE,17
 "L168NS","OK",FALSE,24.9,20.2,30,TRUE,9
 "L168NT","OK",FALSE,15.8,16.4,21,TRUE,12

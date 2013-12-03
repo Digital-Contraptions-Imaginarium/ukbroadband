@@ -9,10 +9,7 @@
 "N64NR","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "N64NS","OK",TRUE,14.3,5.9,30,TRUE,12
 "N64NT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N64NT","No Data",NA,NA,NA,NA,TRUE,0
 "N64NU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N64NU","No Data",NA,NA,NA,NA,TRUE,0
 "N64NW","No premises",NA,NA,NA,NA,TRUE,0
 "N64NX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N64NX","No Data",NA,NA,NA,NA,TRUE,0
 "N64NY","OK",FALSE,17.6,8.1,30,TRUE,15

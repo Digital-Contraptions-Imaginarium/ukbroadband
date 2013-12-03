@@ -11,12 +11,10 @@
 "M73RP","OK",FALSE,6,6.9,8.1,TRUE,4
 "M73RQ","OK",FALSE,6.6,6.9,8.2,TRUE,6
 "M73RR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M73RR","No Data",NA,NA,NA,NA,TRUE,0
 "M73RS","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M73RT","OK",FALSE,6.3,7.1,7.6,TRUE,7
 "M73RU","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M73RW","OK",FALSE,5.1,5.6,6.2,TRUE,4
 "M73RX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M73RX","No Data",NA,NA,NA,NA,TRUE,0
 "M73RY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M73RZ","OK",FALSE,18.2,4.7,30,TRUE,5

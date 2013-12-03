@@ -3,7 +3,6 @@
 "M88HF","OK",FALSE,7.2,7,12,TRUE,8
 "M88HG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "M88HH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M88HH","No Data",NA,NA,NA,NA,TRUE,0
 "M88HN","OK",FALSE,6.8,7.8,7.9,TRUE,6
 "M88HP","No premises",NA,NA,NA,NA,FALSE,0
 "M88HQ","OK",FALSE,12,11.6,18.2,TRUE,7
@@ -11,4 +10,3 @@
 "M88HW","OK",TRUE,10.4,7.1,30,TRUE,15
 "M88HX","No premises",NA,NA,NA,NA,FALSE,0
 "M88HY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M88HY","No Data",NA,NA,NA,NA,TRUE,0

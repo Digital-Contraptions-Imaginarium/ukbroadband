@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "OL96AA","No premises",NA,NA,NA,NA,TRUE,0
 "OL96AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96AD","No Data",NA,NA,NA,NA,TRUE,0
 "OL96AJ","No Data",NA,NA,NA,NA,TRUE,0
 "OL96AL","OK",TRUE,11,12.4,18.8,TRUE,8
 "OL96AR","OK",FALSE,12.3,10.9,17.5,TRUE,7
@@ -11,16 +10,13 @@
 "OL96AW","OK",FALSE,29.5,30,30,TRUE,3
 "OL96AX","OK",FALSE,15.4,17.3,30,TRUE,9
 "OL96AY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96AY","No Data",NA,NA,NA,NA,TRUE,0
 "OL96AZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "OL96BB","OK",TRUE,14.5,10.8,30,TRUE,9
 "OL96BD","OK",FALSE,14.7,17,20,TRUE,11
 "OL96BE","OK",FALSE,20.6,17.3,30,TRUE,27
 "OL96BG","OK",FALSE,26.8,19.5,30,TRUE,9
 "OL96BH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96BH","No Data",NA,NA,NA,NA,TRUE,0
 "OL96BJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"OL96BJ","No Data",NA,NA,NA,NA,FALSE,0
 "OL96BL","OK",FALSE,10.5,7.8,16,TRUE,3
 "OL96BN","No premises",NA,NA,NA,NA,FALSE,0
 "OL96BW","No premises",NA,NA,NA,NA,TRUE,0
@@ -38,40 +34,28 @@
 "OL96EA","No premises",NA,NA,NA,NA,TRUE,0
 "OL96EE","No premises",NA,NA,NA,NA,TRUE,0
 "OL96EF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96EF","No Data",NA,NA,NA,NA,TRUE,0
 "OL96EG","OK",FALSE,15,13.8,20,TRUE,3
 "OL96EH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96EH","No Data",NA,NA,NA,NA,TRUE,0
 "OL96EJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96EJ","No Data",NA,NA,NA,NA,TRUE,0
 "OL96EP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96EP","No Data",NA,NA,NA,NA,TRUE,0
 "OL96ES","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96ES","No Data",NA,NA,NA,NA,TRUE,0
 "OL96ET","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96ET","No Data",NA,NA,NA,NA,TRUE,0
 "OL96EY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"OL96EY","No Data",NA,NA,NA,NA,FALSE,0
 "OL96HA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "OL96HB","OK",FALSE,16.3,18.4,18.6,TRUE,6
 "OL96HE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96HE","No Data",NA,NA,NA,NA,TRUE,0
 "OL96HF","OK",FALSE,19.1,20,30,TRUE,10
 "OL96HG","OK",FALSE,18.3,18.1,30,TRUE,11
 "OL96HJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96HJ","No Data",NA,NA,NA,NA,TRUE,0
 "OL96HL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"OL96HL","No Data",NA,NA,NA,NA,FALSE,0
 "OL96HN","OK",TRUE,4,2.2,9.6,TRUE,4
 "OL96HP","OK",FALSE,30,30,30,TRUE,6
 "OL96HQ","OK",FALSE,17.1,17.1,20,TRUE,3
 "OL96HR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "OL96HS","OK",FALSE,10.3,8.1,13.8,FALSE,5
 "OL96HT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"OL96HT","No Data",NA,NA,NA,NA,FALSE,0
 "OL96HW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "OL96HY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96HY","No Data",NA,NA,NA,NA,TRUE,0
 "OL96HZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "OL96JA","OK",FALSE,21.9,17.6,30,TRUE,25
 "OL96JB","OK",FALSE,29.5,16.1,30,TRUE,19
@@ -81,7 +65,6 @@
 "OL96JH","OK",FALSE,30,16.9,30,TRUE,4
 "OL96JN","No premises",NA,NA,NA,NA,TRUE,0
 "OL96JR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96JR","No Data",NA,NA,NA,NA,TRUE,0
 "OL96JU","OK",FALSE,19.3,14.5,30,TRUE,10
 "OL96JX","OK",TRUE,20.6,13.1,30,TRUE,11
 "OL96JY","OK",TRUE,17.3,14.4,30,TRUE,22
@@ -103,7 +86,6 @@
 "OL96LY","No premises",NA,NA,NA,NA,TRUE,0
 "OL96NA","OK",TRUE,9.1,11.1,14.9,TRUE,10
 "OL96NB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96NB","No Data",NA,NA,NA,NA,TRUE,0
 "OL96ND","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "OL96NE","No premises",NA,NA,NA,NA,TRUE,0
 "OL96NJ","OK",FALSE,30,20,30,TRUE,3
@@ -143,10 +125,8 @@
 "OL96QQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "OL96QR","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "OL96QT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96QT","No Data",NA,NA,NA,NA,TRUE,0
 "OL96QU","No premises",NA,NA,NA,NA,TRUE,0
 "OL96QY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"OL96QY","No Data",NA,NA,NA,NA,TRUE,0
 "OL96QZ","No Data",NA,NA,NA,NA,TRUE,0
 "OL96RB","OK",FALSE,26.9,11.6,30,TRUE,3
 "OL96RD","OK",TRUE,12.5,7,30,TRUE,15

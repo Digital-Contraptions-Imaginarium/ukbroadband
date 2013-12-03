@@ -1,18 +1,15 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PH185SA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH185SA","No Data",NA,NA,NA,NA,FALSE,0
 "PH185SG","OK",TRUE,4.7,5.7,8.1,FALSE,11
 "PH185SH","OK",TRUE,5.5,6,8.1,FALSE,6
 "PH185SJ","OK",FALSE,7,8,8.1,FALSE,10
 "PH185SL","OK",TRUE,7.2,8.1,8.1,FALSE,14
 "PH185SN","OK",FALSE,7.8,7.7,8.1,FALSE,4
 "PH185SP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH185SP","No Data",NA,NA,NA,NA,FALSE,0
 "PH185SQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PH185SR","No premises",NA,NA,NA,NA,FALSE,0
 "PH185SU","No premises",NA,NA,NA,NA,FALSE,0
 "PH185SW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH185SW","No Data",NA,NA,NA,NA,FALSE,0
 "PH185SX","OK",FALSE,7.4,8.1,8.1,FALSE,22
 "PH185SY","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PH185SZ","OK",FALSE,7.1,8.1,8.1,FALSE,8
@@ -24,14 +21,12 @@
 "PH185TG","OK",FALSE,5.7,6.8,6.8,FALSE,4
 "PH185TH","No premises",NA,NA,NA,NA,FALSE,0
 "PH185TJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH185TJ","No Data",NA,NA,NA,NA,FALSE,0
 "PH185TL","OK",FALSE,7.2,7.6,8.1,FALSE,12
 "PH185TN","OK",TRUE,3.5,3.7,5.1,FALSE,5
 "PH185TP","OK",FALSE,6.8,7.4,8.1,FALSE,9
 "PH185TQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PH185TR","OK",FALSE,6.7,7.4,8.1,FALSE,9
 "PH185TS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH185TS","No Data",NA,NA,NA,NA,FALSE,0
 "PH185TT","OK",TRUE,3.3,1.4,8,FALSE,3
 "PH185TU","OK",FALSE,5.8,6.5,8.1,FALSE,9
 "PH185TW","OK",FALSE,7.8,8.1,8.1,FALSE,8
@@ -50,4 +45,3 @@
 "PH185UP","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PH185UQ","No Data",NA,NA,NA,NA,FALSE,0
 "PH185UW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH185UW","No Data",NA,NA,NA,NA,FALSE,0

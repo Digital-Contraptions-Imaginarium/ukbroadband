@@ -13,7 +13,5 @@
 "M80ER","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M80ES","OK",FALSE,30,21.8,30,TRUE,4
 "M80ET","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M80ET","No Data",NA,NA,NA,NA,TRUE,0
 "M80EW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M80EW","No Data",NA,NA,NA,NA,TRUE,0
 "M80EZ","OK",FALSE,11.6,10,20,TRUE,4

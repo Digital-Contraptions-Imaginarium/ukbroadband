@@ -199,7 +199,6 @@
 "NG58PH","OK",TRUE,1.9,1.6,3.9,TRUE,4
 "NG58PJ","OK",TRUE,1.4,1.6,2.1,TRUE,3
 "NG58PL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG58PL","No Data",NA,NA,NA,NA,TRUE,0
 "NG58PN","OK",TRUE,1.7,1.9,2.3,TRUE,3
 "NG58PP","No premises",NA,NA,NA,NA,TRUE,0
 "NG58PQ","OK",TRUE,2,1.5,5.4,TRUE,7
@@ -207,7 +206,6 @@
 "NG58PS","OK",TRUE,4.4,5,8,TRUE,7
 "NG58PT","OK",TRUE,2.6,2.5,3.9,TRUE,7
 "NG58PU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG58PU","No Data",NA,NA,NA,NA,TRUE,0
 "NG58PW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "NG58PX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "NG58PZ","No premises",NA,NA,NA,NA,TRUE,0

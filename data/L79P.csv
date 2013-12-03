@@ -1,11 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L79PA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L79PA","No Data",NA,NA,NA,NA,FALSE,0
 "L79PE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L79PE","No Data",NA,NA,NA,NA,FALSE,0
 "L79PF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L79PG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L79PG","No Data",NA,NA,NA,NA,FALSE,0
 "L79PL","No premises",NA,NA,NA,NA,FALSE,0
 "L79PQ","No premises",NA,NA,NA,NA,FALSE,0
 "L79PT","No premises",NA,NA,NA,NA,FALSE,0

@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "RM77AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RM77AA","No Data",NA,NA,NA,NA,TRUE,0
 "RM77AB","OK",FALSE,27.8,15.7,30,TRUE,12
 "RM77AD","OK",FALSE,30,13.5,30,TRUE,3
 "RM77AE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RM77AE","No Data",NA,NA,NA,NA,TRUE,0
 "RM77AF","OK",TRUE,20.6,10.9,30,TRUE,42
 "RM77AG","OK",TRUE,25.5,13.5,30,TRUE,14
 "RM77AH","OK",TRUE,24.4,14.1,30,TRUE,52
@@ -19,7 +17,6 @@
 "RM77AW","OK",FALSE,20.4,14.5,30,TRUE,13
 "RM77AX","OK",TRUE,20.9,20,30,TRUE,17
 "RM77AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RM77AY","No Data",NA,NA,NA,NA,FALSE,0
 "RM77BA","OK",TRUE,13.3,8.4,30,TRUE,26
 "RM77BB","OK",TRUE,15.2,20,30,TRUE,16
 "RM77BD","OK",FALSE,24.8,23.7,30,TRUE,8
@@ -72,7 +69,6 @@
 "RM77JJ","OK",FALSE,12.9,8.6,20,TRUE,8
 "RM77JL","OK",FALSE,16.5,11.7,30,TRUE,3
 "RM77JN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RM77JN","No Data",NA,NA,NA,NA,TRUE,0
 "RM77JP","OK",FALSE,27.2,20,30,TRUE,9
 "RM77JR","OK",FALSE,21.7,8.2,30,TRUE,11
 "RM77JS","OK",TRUE,23.5,10.4,30,TRUE,40

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L89SA","OK",FALSE,25.6,20,30,TRUE,13
 "L89SB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L89SB","No Data",NA,NA,NA,NA,TRUE,0
 "L89SD","OK",FALSE,20,20,30,TRUE,25
 "L89SH","OK",FALSE,30,20,30,TRUE,26
 "L89SJ","OK",FALSE,23.3,21,30,TRUE,20

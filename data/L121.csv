@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L121JY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L121JY","No Data",NA,NA,NA,NA,TRUE,0
 "L121LA","OK",FALSE,12.7,5,30,TRUE,3
 "L121LB","OK",TRUE,11.4,7.8,30,TRUE,14
 "L121LD","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -22,7 +21,6 @@
 "L121LY","OK",FALSE,6.1,6.4,8.2,TRUE,9
 "L121NA","OK",TRUE,9.3,12.6,14.6,TRUE,3
 "L121NB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L121NB","No Data",NA,NA,NA,NA,TRUE,0
 "L121ND","OK",FALSE,21.5,9.9,30,TRUE,10
 "L121NE","OK",TRUE,20.2,7.9,30,TRUE,13
 "L121NF","OK",FALSE,18.7,14.5,30,TRUE,11

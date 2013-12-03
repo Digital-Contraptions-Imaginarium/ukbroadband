@@ -1,13 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M26AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M26AA","No Data",NA,NA,NA,NA,TRUE,0
 "M26AB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M26AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M26AD","No Data",NA,NA,NA,NA,TRUE,0
 "M26AF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M26AG","OK",FALSE,11.5,8.1,18.4,TRUE,3
 "M26AN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M26AN","No Data",NA,NA,NA,NA,TRUE,0
 "M26AQ","No Data",NA,NA,NA,NA,TRUE,0
 "M26AW","OK",FALSE,17.2,19.7,24.4,TRUE,5
 "M26AY","OK",FALSE,9.3,7.6,12.9,TRUE,3

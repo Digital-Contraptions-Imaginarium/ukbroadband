@@ -1,9 +1,7 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L131AA","OK",FALSE,30,20,30,TRUE,7
 "L131AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L131AD","No Data",NA,NA,NA,NA,TRUE,0
 "L131AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L131AJ","No Data",NA,NA,NA,NA,FALSE,0
 "L131AP","No Data",NA,NA,NA,NA,TRUE,0
 "L131BA","OK",FALSE,9.1,9.1,9.1,TRUE,3
 "L131BB","OK",FALSE,26.5,20,30,TRUE,5
@@ -19,7 +17,6 @@
 "L131DF","OK",FALSE,21.3,20,30,TRUE,19
 "L131DG","OK",FALSE,30,20,30,TRUE,22
 "L131DH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L131DH","No Data",NA,NA,NA,NA,TRUE,0
 "L131DJ","OK",FALSE,23.5,20,30,TRUE,31
 "L131DL","OK",FALSE,11,13.3,17.1,FALSE,35
 "L131DN","OK",FALSE,23.5,14.3,30,TRUE,7
@@ -36,7 +33,6 @@
 "L131EH","OK",FALSE,7.2,7,8.4,FALSE,4
 "L131EJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L131EN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L131EN","No Data",NA,NA,NA,NA,FALSE,0
 "L131EQ","OK",FALSE,16.3,10.1,30,TRUE,10
 "L131EW","OK",TRUE,7.4,8.1,10.5,TRUE,5
 "L131EZ","OK",TRUE,12.4,12.8,18.9,TRUE,21
@@ -47,7 +43,6 @@
 "L131HN","No Data",NA,NA,NA,NA,TRUE,0
 "L131HP","No premises",NA,NA,NA,NA,FALSE,0
 "L131HW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L131HW","No Data",NA,NA,NA,NA,TRUE,0
 "L131NW","No premises",NA,NA,NA,NA,FALSE,0
 "L131WA","No premises",NA,NA,NA,NA,FALSE,0
 "L131WB","No premises",NA,NA,NA,NA,FALSE,0

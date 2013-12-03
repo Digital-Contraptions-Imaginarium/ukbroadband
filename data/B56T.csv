@@ -1,4 +1,3 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B56TG","OK",FALSE,30,21.5,30,TRUE,3
 "B56TN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B56TN","No Data",NA,NA,NA,NA,FALSE,0

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M55EB","OK",TRUE,5.7,6.4,8.2,TRUE,53
 "M55ED","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M55ED","No Data",NA,NA,NA,NA,TRUE,0
 "M55EE","OK",TRUE,12.9,6.9,30,TRUE,14
 "M55EG","OK",FALSE,30,30,30,TRUE,13
 "M55ER","OK",TRUE,25.9,12.4,30,TRUE,14

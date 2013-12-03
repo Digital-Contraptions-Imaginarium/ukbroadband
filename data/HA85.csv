@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HA85AL","OK",FALSE,17.1,18.8,23.2,TRUE,25
 "HA85AN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA85AN","No Data",NA,NA,NA,NA,TRUE,0
 "HA85AP","OK",FALSE,25.6,19.2,30,TRUE,19
 "HA85AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA85AQ","No Data",NA,NA,NA,NA,TRUE,0
 "HA85AR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HA85AS","OK",FALSE,30,25,30,TRUE,11
 "HA85AT","No premises",NA,NA,NA,NA,TRUE,0
@@ -53,7 +51,6 @@
 "HA85EN","OK",FALSE,26,18.9,30,TRUE,9
 "HA85EP","OK",TRUE,22.8,13.5,30,TRUE,20
 "HA85EQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA85EQ","No Data",NA,NA,NA,NA,FALSE,0
 "HA85EY","OK",FALSE,18.2,11.1,30,TRUE,6
 "HA85EZ","OK",FALSE,15.2,13,30,TRUE,3
 "HA85FB","OK",TRUE,15.9,5.7,30,TRUE,32
@@ -187,7 +184,6 @@
 "HA85TA","OK",TRUE,24,7.9,30,TRUE,40
 "HA85TB","OK",FALSE,22.6,13.6,30,TRUE,30
 "HA85TD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA85TD","No Data",NA,NA,NA,NA,TRUE,0
 "HA85TE","OK",FALSE,30,6.2,30,TRUE,3
 "HA85TF","OK",FALSE,28,30,30,TRUE,7
 "HA85TG","OK",FALSE,25.4,20,30,TRUE,14
@@ -195,7 +191,6 @@
 "HA85TJ","OK",FALSE,26.5,20.1,30,TRUE,4
 "HA85TL","OK",FALSE,9.1,9.4,11.6,TRUE,4
 "HA85TN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA85TN","No Data",NA,NA,NA,NA,TRUE,0
 "HA85TP","OK",TRUE,16.4,9,30,TRUE,24
 "HA85TQ","OK",FALSE,30,9.5,30,TRUE,5
 "HA85TR","OK",TRUE,10.1,6.1,30,TRUE,13

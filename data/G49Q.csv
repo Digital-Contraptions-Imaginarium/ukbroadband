@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G49QH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G49QH","No Data",NA,NA,NA,NA,TRUE,0
 "G49QJ","OK",FALSE,22.7,20,30,TRUE,17
 "G49QL","OK",TRUE,28.6,30,30,TRUE,23
 "G49QU","OK",FALSE,12.8,14.2,20.8,FALSE,14
 "G49QX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G49QX","No Data",NA,NA,NA,NA,TRUE,0

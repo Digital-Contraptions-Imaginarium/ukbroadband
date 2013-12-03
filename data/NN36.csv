@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "NN36AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NN36AA","No Data",NA,NA,NA,NA,TRUE,0
 "NN36AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NN36AB","No Data",NA,NA,NA,NA,FALSE,0
 "NN36AD","No premises",NA,NA,NA,NA,TRUE,0
 "NN36AE","OK",TRUE,30,20.4,30,TRUE,16
 "NN36AF","OK",FALSE,23,18.9,30,TRUE,15
@@ -70,12 +68,10 @@
 "NN36FE","OK",FALSE,17.6,9.3,30,TRUE,12
 "NN36FF","OK",FALSE,24.5,9.2,30,TRUE,15
 "NN36FL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NN36FL","No Data",NA,NA,NA,NA,FALSE,0
 "NN36GL","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "NN36HA","OK",FALSE,18.2,17.5,30,TRUE,23
 "NN36HB","OK",FALSE,30,23.4,30,TRUE,4
 "NN36HE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NN36HE","No Data",NA,NA,NA,NA,FALSE,0
 "NN36HG","OK",FALSE,10.8,12.6,16.1,TRUE,7
 "NN36HH","No premises",NA,NA,NA,NA,TRUE,0
 "NN36HL","No Data",NA,NA,NA,NA,TRUE,0
@@ -109,7 +105,6 @@
 "NN36LG","OK",FALSE,6.8,6.8,6.8,FALSE,3
 "NN36LL","OK",FALSE,3.4,3.4,4.7,FALSE,7
 "NN36LR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NN36LR","No Data",NA,NA,NA,NA,TRUE,0
 "NN36LZ","OK",FALSE,9.1,7,30,TRUE,13
 "NN36NA","OK",FALSE,13.8,11.4,23.7,TRUE,6
 "NN36NB","No Data",NA,NA,NA,NA,TRUE,0
@@ -166,7 +161,6 @@
 "NN36QU","OK",FALSE,30,12.7,30,TRUE,5
 "NN36QW","OK",FALSE,9,7.7,17.6,TRUE,10
 "NN36QX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NN36QX","No Data",NA,NA,NA,NA,TRUE,0
 "NN36RL","OK",TRUE,7.5,8.2,11.5,FALSE,46
 "NN36RP","OK",TRUE,6.3,6.9,9.8,FALSE,53
 "NN36RQ","OK",TRUE,7,7.2,10.2,FALSE,34
@@ -189,12 +183,10 @@
 "NN36WA","No premises",NA,NA,NA,NA,FALSE,0
 "NN36WB","No premises",NA,NA,NA,NA,FALSE,0
 "NN36WD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NN36WD","No Data",NA,NA,NA,NA,FALSE,0
 "NN36WJ","OK",FALSE,18.2,13.1,30,TRUE,37
 "NN36WL","OK",TRUE,4.9,5,9,TRUE,19
 "NN36XF","OK",TRUE,3.5,3.5,6.6,TRUE,5
 "NN36XJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NN36XJ","No Data",NA,NA,NA,NA,TRUE,0
 "NN36XN","No premises",NA,NA,NA,NA,FALSE,0
 "NN36XS","No premises",NA,NA,NA,NA,FALSE,0
 "NN36XT","No premises",NA,NA,NA,NA,FALSE,0

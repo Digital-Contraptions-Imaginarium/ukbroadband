@@ -6,11 +6,9 @@
 "M80RF","OK",FALSE,17.4,10.3,30,TRUE,15
 "M80RG","OK",TRUE,9.1,10.7,13.3,FALSE,12
 "M80RH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M80RH","No Data",NA,NA,NA,NA,TRUE,0
 "M80RJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "M80RL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M80RN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M80RN","No Data",NA,NA,NA,NA,FALSE,0
 "M80RP","OK",FALSE,10,10,10.2,FALSE,3
 "M80RQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "M80RR","Insufficient Data",NA,NA,NA,NA,TRUE,1

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LA33AA","OK",FALSE,7.2,6.7,15.3,FALSE,23
 "LA33AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LA33AB","No Data",NA,NA,NA,NA,TRUE,0
 "LA33AD","OK",TRUE,6.5,6.2,10.8,FALSE,37
 "LA33AE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LA33AF","OK",FALSE,7.2,8.2,10.2,FALSE,8
@@ -49,7 +48,6 @@
 "LA33DY","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LA33EA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "LA33EB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33EB","No Data",NA,NA,NA,NA,FALSE,0
 "LA33ED","No Data",NA,NA,NA,NA,TRUE,0
 "LA33EE","OK",TRUE,8.2,3,30,TRUE,5
 "LA33EF","OK",FALSE,10.9,11.1,16.8,FALSE,14
@@ -66,7 +64,6 @@
 "LA33EU","OK",TRUE,0.7,0.5,1.2,FALSE,4
 "LA33EX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LA33EY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33EY","No Data",NA,NA,NA,NA,FALSE,0
 "LA33EZ","OK",TRUE,2.3,2,4.5,FALSE,28
 "LA33FB","OK",TRUE,3.6,2.6,7.3,TRUE,11
 "LA33FE","OK",TRUE,2.3,2,4.4,FALSE,3
@@ -88,7 +85,6 @@
 "LA33HL","OK",TRUE,2.4,2.6,3.5,FALSE,15
 "LA33HN","OK",TRUE,2.4,2.6,4.1,FALSE,16
 "LA33HP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33HP","No Data",NA,NA,NA,NA,FALSE,0
 "LA33HQ","OK",TRUE,2.4,2.4,4.2,FALSE,21
 "LA33HR","No Data",NA,NA,NA,NA,FALSE,0
 "LA33HS","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -102,15 +98,11 @@
 "LA33JB","OK",TRUE,2,1.9,3.1,FALSE,8
 "LA33JD","OK",TRUE,1.6,1.6,2.4,FALSE,4
 "LA33JE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33JE","No Data",NA,NA,NA,NA,FALSE,0
 "LA33JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33JF","No Data",NA,NA,NA,NA,FALSE,0
 "LA33JG","OK",FALSE,3,3,3.7,FALSE,5
 "LA33JH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33JH","No Data",NA,NA,NA,NA,FALSE,0
 "LA33JJ","OK",TRUE,6.2,6.2,12.1,FALSE,25
 "LA33JL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33JL","No Data",NA,NA,NA,NA,FALSE,0
 "LA33JN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LA33JP","No Data",NA,NA,NA,NA,FALSE,0
 "LA33JQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -153,7 +145,6 @@
 "LA33NP","OK",FALSE,9.1,9.5,12,FALSE,16
 "LA33NQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "LA33NR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33NR","No Data",NA,NA,NA,NA,FALSE,0
 "LA33NS","OK",FALSE,5.5,5.9,6.8,FALSE,4
 "LA33NT","OK",TRUE,17.2,6.2,30,FALSE,6
 "LA33NW","OK",FALSE,10.6,3.3,30,TRUE,5
@@ -165,19 +156,15 @@
 "LA33PD","OK",FALSE,3.3,3.1,4.1,FALSE,3
 "LA33PE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LA33PF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33PF","No Data",NA,NA,NA,NA,FALSE,0
 "LA33PG","OK",FALSE,3.5,3,4.4,TRUE,3
 "LA33PN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33PN","No Data",NA,NA,NA,NA,FALSE,0
 "LA33PP","OK",TRUE,2,2,3.4,FALSE,6
 "LA33PQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33PQ","No Data",NA,NA,NA,NA,FALSE,0
 "LA33PS","OK",FALSE,6.1,5.7,8,FALSE,3
 "LA33PT","OK",FALSE,3.9,3.8,5.7,FALSE,7
 "LA33PU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "LA33PW","No premises",NA,NA,NA,NA,FALSE,0
 "LA33PX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33PX","No Data",NA,NA,NA,NA,FALSE,0
 "LA33QA","OK",TRUE,9.7,6.3,30,TRUE,10
 "LA33QB","OK",TRUE,4.4,5.7,6.5,TRUE,6
 "LA33QD","OK",FALSE,11.5,7,30,TRUE,14
@@ -208,7 +195,6 @@
 "LA33RT","OK",FALSE,12.6,6,30,TRUE,8
 "LA33RU","OK",FALSE,29,30,30,TRUE,7
 "LA33RW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LA33RW","No Data",NA,NA,NA,NA,FALSE,0
 "LA33RX","OK",TRUE,15.7,3.7,30,TRUE,6
 "LA33RY","OK",TRUE,30,3.5,30,TRUE,33
 "LA33RZ","OK",TRUE,20.2,3.2,30,TRUE,32

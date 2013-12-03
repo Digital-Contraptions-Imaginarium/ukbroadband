@@ -22,11 +22,9 @@
 "S183BA","No premises",NA,NA,NA,NA,TRUE,0
 "S183BB","OK",FALSE,14.7,8.4,30,TRUE,5
 "S183BD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S183BD","No Data",NA,NA,NA,NA,TRUE,0
 "S183BE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S183BF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S183BG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S183BG","No Data",NA,NA,NA,NA,TRUE,0
 "S183BH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S183BJ","No premises",NA,NA,NA,NA,TRUE,0
 "S183BL","OK",FALSE,16.4,12.9,30,TRUE,9

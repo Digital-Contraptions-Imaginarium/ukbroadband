@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L29QA","OK",FALSE,13.3,14.2,21.9,TRUE,7
 "L29QJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L29QJ","No Data",NA,NA,NA,NA,FALSE,0
 "L29QN","No premises",NA,NA,NA,NA,FALSE,0
 "L29QU","OK",FALSE,7,7.8,8.1,TRUE,7

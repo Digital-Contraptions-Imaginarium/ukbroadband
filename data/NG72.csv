@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "NG72AB","OK",FALSE,11,11.6,14.2,FALSE,8
 "NG72AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72AD","No Data",NA,NA,NA,NA,FALSE,0
 "NG72AE","No premises",NA,NA,NA,NA,TRUE,0
 "NG72AG","No premises",NA,NA,NA,NA,FALSE,0
 "NG72AH","No premises",NA,NA,NA,NA,FALSE,0
@@ -18,10 +17,8 @@
 "NG72AZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "NG72BA","OK",FALSE,30,30,30,TRUE,22
 "NG72BD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72BD","No Data",NA,NA,NA,NA,TRUE,0
 "NG72BE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "NG72BG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72BG","No Data",NA,NA,NA,NA,TRUE,0
 "NG72BP","No Data",NA,NA,NA,NA,TRUE,0
 "NG72BQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "NG72BS","No Data",NA,NA,NA,NA,TRUE,0
@@ -76,7 +73,6 @@
 "NG72FG","OK",TRUE,28.5,23.6,30,TRUE,11
 "NG72FH","OK",FALSE,30,30,30,TRUE,8
 "NG72FJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72FJ","No Data",NA,NA,NA,NA,TRUE,0
 "NG72FL","OK",FALSE,24.9,30,30,TRUE,17
 "NG72FN","OK",FALSE,30,30,30,TRUE,16
 "NG72FP","OK",TRUE,26,30,30,TRUE,26
@@ -84,7 +80,6 @@
 "NG72FR","OK",FALSE,10.8,7.6,30,TRUE,12
 "NG72FS","OK",FALSE,20.7,20,30,TRUE,11
 "NG72FT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72FT","No Data",NA,NA,NA,NA,FALSE,0
 "NG72FW","OK",TRUE,27.8,20,30,TRUE,39
 "NG72GA","OK",FALSE,10.3,10.3,13.1,FALSE,3
 "NG72GB","No premises",NA,NA,NA,NA,TRUE,0
@@ -95,10 +90,8 @@
 "NG72GP","No premises",NA,NA,NA,NA,FALSE,0
 "NG72GQ","OK",FALSE,12.6,12.6,13.7,FALSE,3
 "NG72GR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72GR","No Data",NA,NA,NA,NA,TRUE,0
 "NG72GS","No premises",NA,NA,NA,NA,FALSE,0
 "NG72GT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72GT","No Data",NA,NA,NA,NA,FALSE,0
 "NG72GU","No Data",NA,NA,NA,NA,TRUE,0
 "NG72GW","OK",TRUE,8.9,8.2,14.3,FALSE,5
 "NG72GX","No premises",NA,NA,NA,NA,FALSE,0
@@ -156,7 +149,6 @@
 "NG72LX","OK",FALSE,5.8,6.4,7.9,TRUE,4
 "NG72NB","OK",FALSE,30,30,30,TRUE,10
 "NG72NE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72NE","No Data",NA,NA,NA,NA,FALSE,0
 "NG72NF","OK",FALSE,30,30,30,TRUE,25
 "NG72NG","OK",FALSE,24.1,9.1,30,TRUE,20
 "NG72NH","OK",TRUE,26.3,20,30,TRUE,21
@@ -187,7 +179,6 @@
 "NG72PU","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "NG72PX","OK",FALSE,5.4,5.4,6,FALSE,4
 "NG72PZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72PZ","No Data",NA,NA,NA,NA,FALSE,0
 "NG72QA","No Data",NA,NA,NA,NA,TRUE,0
 "NG72QB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "NG72QD","OK",FALSE,19.2,19.2,19.3,FALSE,3
@@ -198,7 +189,6 @@
 "NG72QJ","OK",TRUE,6.2,7,8.1,TRUE,8
 "NG72QL","No premises",NA,NA,NA,NA,FALSE,0
 "NG72QN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72QN","No Data",NA,NA,NA,NA,TRUE,0
 "NG72QP","OK",FALSE,6.3,6.5,8.1,FALSE,9
 "NG72QQ","No premises",NA,NA,NA,NA,TRUE,0
 "NG72QR","No premises",NA,NA,NA,NA,FALSE,0
@@ -215,12 +205,9 @@
 "NG72RE","No premises",NA,NA,NA,NA,FALSE,0
 "NG72RF","OK",FALSE,12.6,12.6,18.7,FALSE,3
 "NG72RG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72RG","No Data",NA,NA,NA,NA,TRUE,0
 "NG72RH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72RH","No Data",NA,NA,NA,NA,FALSE,0
 "NG72RJ","No premises",NA,NA,NA,NA,FALSE,0
 "NG72RL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72RL","No Data",NA,NA,NA,NA,FALSE,0
 "NG72RN","No Data",NA,NA,NA,NA,TRUE,0
 "NG72RP","OK",FALSE,30,30,30,TRUE,9
 "NG72RQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -234,11 +221,8 @@
 "NG72SB","OK",TRUE,3.6,3,5.9,TRUE,5
 "NG72SD","OK",TRUE,13.7,3.4,30,TRUE,5
 "NG72SF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72SF","No Data",NA,NA,NA,NA,TRUE,0
 "NG72SG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72SG","No Data",NA,NA,NA,NA,TRUE,0
 "NG72SJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72SJ","No Data",NA,NA,NA,NA,FALSE,0
 "NG72SP","No premises",NA,NA,NA,NA,FALSE,0
 "NG72SX","No premises",NA,NA,NA,NA,FALSE,0
 "NG72SZ","OK",FALSE,6.2,6,9.9,FALSE,8
@@ -246,16 +230,12 @@
 "NG72TD","No premises",NA,NA,NA,NA,FALSE,0
 "NG72TG","OK",TRUE,5.2,5,8.1,FALSE,8
 "NG72TJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72TJ","No Data",NA,NA,NA,NA,TRUE,0
 "NG72TN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NG72TN","No Data",NA,NA,NA,NA,TRUE,0
 "NG72TP","OK",FALSE,16.4,7.1,30,TRUE,36
 "NG72TQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72TQ","No Data",NA,NA,NA,NA,FALSE,0
 "NG72TR","OK",TRUE,2.3,1.9,3.5,FALSE,3
 "NG72TS","OK",TRUE,2.8,2.8,4,FALSE,14
 "NG72TU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NG72TU","No Data",NA,NA,NA,NA,FALSE,0
 "NG72UH","No premises",NA,NA,NA,NA,TRUE,0
 "NG72UJ","OK",TRUE,2.8,2.5,4.7,FALSE,6
 "NG72UL","OK",FALSE,4.5,4.5,5.6,FALSE,3

@@ -1,12 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HA96AA","OK",FALSE,13.3,14.6,19.7,TRUE,17
 "HA96AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA96AG","No Data",NA,NA,NA,NA,FALSE,0
 "HA96AH","OK",FALSE,16,19,23.2,TRUE,18
 "HA96AL","No Data",NA,NA,NA,NA,FALSE,0
 "HA96AP","No premises",NA,NA,NA,NA,FALSE,0
 "HA96AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA96AQ","No Data",NA,NA,NA,NA,FALSE,0
 "HA96AR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HA96AS","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HA96AT","No premises",NA,NA,NA,NA,FALSE,0
@@ -26,11 +24,9 @@
 "HA96BW","OK",TRUE,11.6,12.6,19.2,FALSE,32
 "HA96BX","No premises",NA,NA,NA,NA,FALSE,0
 "HA96BY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA96BY","No Data",NA,NA,NA,NA,FALSE,0
 "HA96BZ","No premises",NA,NA,NA,NA,FALSE,0
 "HA96DE","OK",TRUE,7.3,7.2,13.1,FALSE,27
 "HA96DF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA96DF","No Data",NA,NA,NA,NA,TRUE,0
 "HA96DG","OK",FALSE,9.4,6.1,23.7,TRUE,10
 "HA96DH","OK",TRUE,18.8,7.8,30,TRUE,24
 "HA96DL","OK",TRUE,16.9,6.7,30,TRUE,29
@@ -63,7 +59,6 @@
 "HA96HR","OK",TRUE,7,6.3,17.9,TRUE,26
 "HA96HS","OK",FALSE,7.7,8,10,TRUE,16
 "HA96HT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA96HT","No Data",NA,NA,NA,NA,FALSE,0
 "HA96HW","OK",FALSE,11.6,7.9,30,TRUE,9
 "HA96JA","OK",FALSE,22.6,9.1,30,TRUE,13
 "HA96JB","OK",FALSE,14.9,6.5,30,TRUE,16
@@ -78,7 +73,6 @@
 "HA96JP","OK",TRUE,4.9,4.3,12.9,FALSE,30
 "HA96JQ","OK",TRUE,6.7,6.9,9.8,FALSE,25
 "HA96JR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA96JR","No Data",NA,NA,NA,NA,FALSE,0
 "HA96JS","OK",TRUE,4,4.6,6.3,FALSE,27
 "HA96JT","OK",TRUE,4.5,4.6,7.4,FALSE,23
 "HA96JU","OK",TRUE,9.8,5.9,30,TRUE,28
@@ -92,7 +86,6 @@
 "HA96LN","OK",TRUE,14.9,9.8,30,TRUE,15
 "HA96LP","OK",FALSE,30,30,30,TRUE,4
 "HA96LR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA96LR","No Data",NA,NA,NA,NA,TRUE,0
 "HA96LS","OK",FALSE,14.6,11,30,TRUE,17
 "HA96LT","OK",FALSE,11.9,12.6,17.3,TRUE,6
 "HA96LU","OK",FALSE,18.2,12.7,30,TRUE,27

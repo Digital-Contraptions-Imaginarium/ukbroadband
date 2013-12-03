@@ -2,13 +2,11 @@
 "M903AE","No premises",NA,NA,NA,NA,FALSE,0
 "M903AF","OK",FALSE,3.2,3,4.2,FALSE,3
 "M903AH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M903AH","No Data",NA,NA,NA,NA,FALSE,0
 "M903AL","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "M903BB","OK",TRUE,2.5,1.6,5.2,FALSE,9
 "M903DA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "M903DE","No premises",NA,NA,NA,NA,FALSE,0
 "M903DN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M903DN","No Data",NA,NA,NA,NA,FALSE,0
 "M903DP","No premises",NA,NA,NA,NA,FALSE,0
 "M903DQ","OK",TRUE,2.8,3.3,3.6,TRUE,3
 "M903EX","No premises",NA,NA,NA,NA,FALSE,0
@@ -22,18 +20,14 @@
 "M903NT","No premises",NA,NA,NA,NA,FALSE,0
 "M903NU","No premises",NA,NA,NA,NA,FALSE,0
 "M903NW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M903NW","No Data",NA,NA,NA,NA,FALSE,0
 "M903NZ","No premises",NA,NA,NA,NA,FALSE,0
 "M903RA","No premises",NA,NA,NA,NA,FALSE,0
 "M903RR","OK",TRUE,2.8,3.4,4.5,FALSE,5
 "M903SA","No premises",NA,NA,NA,NA,FALSE,0
 "M903SB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M903SB","No Data",NA,NA,NA,NA,FALSE,0
 "M903TH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M903TH","No Data",NA,NA,NA,NA,FALSE,0
 "M903TR","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "M903WR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M903WR","No Data",NA,NA,NA,NA,FALSE,0
 "M903WT","No premises",NA,NA,NA,NA,FALSE,0
 "M903WU","No premises",NA,NA,NA,NA,FALSE,0
 "M903WW","No premises",NA,NA,NA,NA,FALSE,0

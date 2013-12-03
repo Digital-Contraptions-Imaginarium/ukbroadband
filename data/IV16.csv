@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "IV169AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV169AB","No Data",NA,NA,NA,NA,FALSE,0
 "IV169UA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "IV169UB","OK",FALSE,8.1,8.1,8.1,FALSE,4
 "IV169UD","OK",FALSE,7.7,8.1,8.1,FALSE,10
@@ -12,7 +11,6 @@
 "IV169UP","OK",FALSE,5.7,6.2,8.1,FALSE,5
 "IV169UQ","OK",FALSE,7.7,8.1,17.6,FALSE,16
 "IV169UR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV169UR","No Data",NA,NA,NA,NA,FALSE,0
 "IV169UT","OK",TRUE,7,7.8,8.1,FALSE,21
 "IV169UU","OK",TRUE,6.4,7.1,8.1,FALSE,27
 "IV169UW","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -45,14 +43,12 @@
 "IV169YD","OK",FALSE,6.5,7.2,8.1,FALSE,13
 "IV169YE","No Data",NA,NA,NA,NA,FALSE,0
 "IV169YF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV169YF","No Data",NA,NA,NA,NA,FALSE,0
 "IV169YG","OK",FALSE,7.4,8.1,8.1,FALSE,11
 "IV169YH","OK",FALSE,7.4,8.1,8.1,FALSE,18
 "IV169YJ","OK",FALSE,6.7,7.4,8.1,FALSE,6
 "IV169YL","No premises",NA,NA,NA,NA,FALSE,0
 "IV169YN","OK",FALSE,7.2,7.4,8.1,FALSE,20
 "IV169YP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IV169YP","No Data",NA,NA,NA,NA,FALSE,0
 "IV169YQ","OK",FALSE,7.9,8.1,8.1,FALSE,5
 "IV169YR","OK",TRUE,6.6,7.4,8.1,FALSE,15
 "IV169YS","OK",FALSE,6.8,7.4,8.1,FALSE,17

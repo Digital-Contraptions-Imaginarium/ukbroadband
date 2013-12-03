@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S89JA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S89JA","No Data",NA,NA,NA,NA,TRUE,0
 "S89JB","OK",FALSE,24.7,20,30,TRUE,19
 "S89JD","OK",TRUE,21.8,20,30,TRUE,40
 "S89JE","OK",FALSE,21.7,20,30,TRUE,27
@@ -12,4 +11,3 @@
 "S89JN","OK",TRUE,11.6,6.1,30,TRUE,24
 "S89JP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S89JQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S89JQ","No Data",NA,NA,NA,NA,FALSE,0

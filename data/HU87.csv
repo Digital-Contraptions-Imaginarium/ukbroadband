@@ -2,39 +2,29 @@
 "HU87AB","No Data",NA,NA,NA,NA,FALSE,0
 "HU87AF","No Data",NA,NA,NA,NA,FALSE,0
 "HU87AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87AJ","No Data",NA,NA,NA,NA,FALSE,0
 "HU87AL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87AL","No Data",NA,NA,NA,NA,FALSE,0
 "HU87AN","No Data",NA,NA,NA,NA,FALSE,0
 "HU87AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87AP","No Data",NA,NA,NA,NA,FALSE,0
 "HU87AR","No premises",NA,NA,NA,NA,FALSE,0
 "HU87AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87AS","No Data",NA,NA,NA,NA,FALSE,0
 "HU87AU","No Data",NA,NA,NA,NA,FALSE,0
 "HU87BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87BA","No Data",NA,NA,NA,NA,FALSE,0
 "HU87BB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87BB","No Data",NA,NA,NA,NA,FALSE,0
 "HU87BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87BD","No Data",NA,NA,NA,NA,FALSE,0
 "HU87BE","No premises",NA,NA,NA,NA,FALSE,0
 "HU87BF","No Data",NA,NA,NA,NA,FALSE,0
 "HU87BG","No premises",NA,NA,NA,NA,FALSE,0
 "HU87BJ","No Data",NA,NA,NA,NA,FALSE,0
 "HU87BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87BL","No Data",NA,NA,NA,NA,FALSE,0
 "HU87DA","No Data",NA,NA,NA,NA,FALSE,0
 "HU87DS","No premises",NA,NA,NA,NA,FALSE,0
 "HU87EB","No premises",NA,NA,NA,NA,FALSE,0
 "HU87ED","No Data",NA,NA,NA,NA,FALSE,0
 "HU87EN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87EN","No Data",NA,NA,NA,NA,FALSE,0
 "HU87EX","No Data",NA,NA,NA,NA,FALSE,0
 "HU87EY","No Data",NA,NA,NA,NA,FALSE,0
 "HU87FB","No Data",NA,NA,NA,NA,FALSE,0
 "HU87HA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87HA","No Data",NA,NA,NA,NA,FALSE,0
 "HU87HB","No premises",NA,NA,NA,NA,FALSE,0
 "HU87HE","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU87HG","OK",FALSE,8.4,8.2,11.3,FALSE,6
@@ -57,16 +47,13 @@
 "HU87JH","No Data",NA,NA,NA,NA,FALSE,0
 "HU87JJ","No Data",NA,NA,NA,NA,FALSE,0
 "HU87JQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87JQ","No Data",NA,NA,NA,NA,FALSE,0
 "HU87JR","No premises",NA,NA,NA,NA,FALSE,0
 "HU87LA","No premises",NA,NA,NA,NA,FALSE,0
 "HU87LB","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU87LD","No premises",NA,NA,NA,NA,FALSE,0
 "HU87LE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87LE","No Data",NA,NA,NA,NA,FALSE,0
 "HU87LG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU87LL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU87LL","No Data",NA,NA,NA,NA,FALSE,0
 "HU87LN","No premises",NA,NA,NA,NA,FALSE,0
 "HU87NA","No Data",NA,NA,NA,NA,FALSE,0
 "HU87NE","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -98,7 +85,6 @@
 "HU87SY","OK",FALSE,30,23.1,30,TRUE,5
 "HU87SZ","OK",FALSE,30,30,30,TRUE,11
 "HU87TD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU87TD","No Data",NA,NA,NA,NA,TRUE,0
 "HU87TE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "HU87TF","OK",FALSE,2.9,3.1,3.1,FALSE,3
 "HU87TG","Insufficient Data",NA,NA,NA,NA,FALSE,1

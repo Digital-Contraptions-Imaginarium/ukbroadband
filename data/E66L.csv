@@ -10,6 +10,5 @@
 "E66LL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "E66LP","OK",TRUE,6.8,3,30,TRUE,10
 "E66LR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E66LR","No Data",NA,NA,NA,NA,TRUE,0
 "E66LS","OK",FALSE,28.3,28.3,30,TRUE,3
 "E66LW","Insufficient Data",NA,NA,NA,NA,TRUE,2

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L152HA","OK",FALSE,25.4,21.8,30,TRUE,20
 "L152HB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L152HB","No Data",NA,NA,NA,NA,FALSE,0
 "L152HD","OK",FALSE,25,20,30,TRUE,17
 "L152HE","No Data",NA,NA,NA,NA,TRUE,0
 "L152HF","OK",FALSE,23.2,18.5,30,TRUE,10
@@ -25,7 +24,6 @@
 "L152JD","OK",FALSE,24.8,30,30,TRUE,10
 "L152JE","OK",FALSE,29.3,21.7,30,TRUE,27
 "L152JJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L152JJ","No Data",NA,NA,NA,NA,FALSE,0
 "L152JZ","OK",FALSE,18.1,18.6,20.1,TRUE,11
 "L152LA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "L152LQ","No premises",NA,NA,NA,NA,TRUE,0

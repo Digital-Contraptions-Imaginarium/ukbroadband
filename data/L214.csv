@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L214LA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L214LA","No Data",NA,NA,NA,NA,TRUE,0
 "L214LB","OK",FALSE,8.5,9.3,9.9,TRUE,6
 "L214LD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L214LE","No Data",NA,NA,NA,NA,TRUE,0
@@ -12,11 +11,8 @@
 "L214LP","OK",FALSE,17.4,11.3,30,TRUE,9
 "L214LR","OK",FALSE,15.4,14.6,20,TRUE,5
 "L214LS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L214LS","No Data",NA,NA,NA,NA,TRUE,0
 "L214LT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L214LT","No Data",NA,NA,NA,NA,TRUE,0
 "L214LU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L214LU","No Data",NA,NA,NA,NA,TRUE,0
 "L214LW","OK",FALSE,15.9,15.4,30,TRUE,8
 "L214LX","OK",FALSE,26.6,18.8,30,TRUE,21
 "L214LY","OK",FALSE,19.1,10.7,30,TRUE,8

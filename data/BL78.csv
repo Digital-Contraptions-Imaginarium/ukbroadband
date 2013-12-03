@@ -18,27 +18,19 @@
 "BL78AX","OK",FALSE,6.9,8.1,8.1,FALSE,6
 "BL78AY","OK",FALSE,7.8,8.1,8.1,FALSE,6
 "BL78AZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL78AZ","No Data",NA,NA,NA,NA,FALSE,0
 "BL78BA","OK",FALSE,7.2,7.2,8.1,FALSE,3
 "BL78BB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL78BB","No Data",NA,NA,NA,NA,FALSE,0
 "BL78BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL78BD","No Data",NA,NA,NA,NA,FALSE,0
 "BL78BE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL78BE","No Data",NA,NA,NA,NA,FALSE,0
 "BL78BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL78BG","No Data",NA,NA,NA,NA,FALSE,0
 "BL78BH","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "BL78BJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL78BJ","No Data",NA,NA,NA,NA,FALSE,0
 "BL78BL","OK",TRUE,5.8,7.4,8.1,FALSE,3
 "BL78BN","No premises",NA,NA,NA,NA,FALSE,0
 "BL78BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL78BQ","No Data",NA,NA,NA,NA,FALSE,0
 "BL78BR","OK",FALSE,7.3,7.6,8.1,FALSE,23
 "BL78BS","OK",FALSE,7.4,8.1,8.1,FALSE,22
 "BL78BW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL78BW","No Data",NA,NA,NA,NA,FALSE,0
 "BL781AA","No premises",NA,NA,NA,NA,FALSE,0
 "BL781AB","No premises",NA,NA,NA,NA,FALSE,0
 "BL781AD","No premises",NA,NA,NA,NA,FALSE,0

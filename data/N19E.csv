@@ -1,14 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N19EA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N19EA","No Data",NA,NA,NA,NA,TRUE,0
 "N19EB","OK",FALSE,12.8,11.3,30,TRUE,21
 "N19ED","OK",FALSE,30,20,30,TRUE,8
 "N19EE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N19EE","No Data",NA,NA,NA,NA,TRUE,0
 "N19EF","OK",FALSE,26.6,19.1,30,TRUE,13
 "N19EG","OK",FALSE,19.3,13,30,TRUE,24
 "N19EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N19EH","No Data",NA,NA,NA,NA,FALSE,0
 "N19EJ","OK",FALSE,30,30,30,TRUE,11
 "N19EL","OK",TRUE,3.4,3.5,5.4,TRUE,3
 "N19EN","OK",TRUE,16,3,30,TRUE,23

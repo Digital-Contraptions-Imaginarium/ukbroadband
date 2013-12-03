@@ -1,10 +1,7 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M73SA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M73SA","No Data",NA,NA,NA,NA,TRUE,0
 "M73SB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M73SB","No Data",NA,NA,NA,NA,FALSE,0
 "M73SD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M73SD","No Data",NA,NA,NA,NA,TRUE,0
 "M73SE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M73SF","OK",FALSE,25.9,8.4,30,TRUE,5
 "M73SG","OK",FALSE,30,30,30,TRUE,4

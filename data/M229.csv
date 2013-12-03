@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M229AA","No premises",NA,NA,NA,NA,TRUE,0
 "M229AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M229AF","No Data",NA,NA,NA,NA,TRUE,0
 "M229AJ","OK",TRUE,13.1,4.3,30,TRUE,68
 "M229AL","OK",TRUE,10.7,4.3,30,TRUE,68
 "M229AN","OK",TRUE,6.4,4.2,30,TRUE,49
@@ -122,7 +121,6 @@
 "M229RZ","OK",TRUE,18.7,12.9,30,TRUE,19
 "M229SA","OK",FALSE,30,30,30,TRUE,3
 "M229SB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M229SB","No Data",NA,NA,NA,NA,TRUE,0
 "M229SG","OK",FALSE,27.7,30,30,TRUE,8
 "M229SJ","OK",FALSE,18.5,5,30,TRUE,5
 "M229SN","OK",FALSE,21,20,30,TRUE,7
@@ -138,12 +136,10 @@
 "M229SZ","OK",TRUE,30,30,30,TRUE,21
 "M229TA","OK",FALSE,30,30,30,TRUE,3
 "M229TB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M229TB","No Data",NA,NA,NA,NA,TRUE,0
 "M229TD","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M229TE","OK",TRUE,30,5.7,30,TRUE,16
 "M229TF","OK",TRUE,13.8,7.9,30,TRUE,12
 "M229TG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M229TG","No Data",NA,NA,NA,NA,TRUE,0
 "M229TH","OK",TRUE,30,5.5,30,TRUE,12
 "M229TJ","OK",FALSE,22.2,4.5,30,TRUE,3
 "M229TL","OK",TRUE,23.2,5.5,30,TRUE,13

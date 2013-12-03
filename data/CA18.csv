@@ -1,13 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CA181RD","OK",TRUE,6.7,8,8.1,FALSE,6
 "CA181RF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA181RF","No Data",NA,NA,NA,NA,FALSE,0
 "CA181RG","OK",FALSE,7.4,8.1,8.1,FALSE,3
 "CA181RJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA181RL","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA181RN","OK",TRUE,2.7,2.8,4.5,FALSE,7
 "CA181RQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA181RQ","No Data",NA,NA,NA,NA,FALSE,0
 "CA181RR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA181RS","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA181RT","OK",TRUE,2.1,1.2,5.7,FALSE,4
@@ -20,7 +18,6 @@
 "CA181SJ","OK",FALSE,6.5,7.8,8.1,FALSE,9
 "CA181SL","OK",FALSE,7.2,8.1,8.1,FALSE,9
 "CA181SN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA181SN","No Data",NA,NA,NA,NA,FALSE,0
 "CA181SP","OK",FALSE,7.3,7.6,8.1,FALSE,4
 "CA181SQ","OK",FALSE,6.8,7.4,8.1,FALSE,7
 "CA181SR","OK",FALSE,7.5,7.8,8.1,FALSE,6

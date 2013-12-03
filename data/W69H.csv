@@ -1,11 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W69HA","OK",TRUE,10.4,8.2,30,TRUE,43
 "W69HB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W69HB","No Data",NA,NA,NA,NA,TRUE,0
 "W69HE","OK",TRUE,19.3,11.9,30,TRUE,25
 "W69HF","OK",TRUE,17,8.4,30,TRUE,23
 "W69HH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W69HH","No Data",NA,NA,NA,NA,TRUE,0
 "W69HJ","OK",FALSE,16.7,7.5,30,TRUE,16
 "W69HL","OK",FALSE,13.1,6.9,30,TRUE,10
 "W69HN","OK",FALSE,20.6,9.8,30,TRUE,23
@@ -13,7 +11,6 @@
 "W69HQ","No premises",NA,NA,NA,NA,FALSE,0
 "W69HR","OK",FALSE,9.2,8.1,14.4,TRUE,5
 "W69HS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W69HS","No Data",NA,NA,NA,NA,FALSE,0
 "W69HW","OK",FALSE,17.7,19.2,22,TRUE,7
 "W69HX","OK",TRUE,30,21.9,30,TRUE,16
 "W69HY","No premises",NA,NA,NA,NA,TRUE,0

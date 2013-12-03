@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W41SA","OK",FALSE,30,20.2,30,TRUE,9
 "W41SD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W41SD","No Data",NA,NA,NA,NA,TRUE,0
 "W41SE","OK",TRUE,30,19,30,TRUE,40
 "W41SF","OK",FALSE,30,18.4,30,TRUE,33
 "W41SH","OK",TRUE,26,19.1,30,TRUE,6

@@ -1,59 +1,40 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DY75AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AA","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AB","OK",FALSE,8.3,8.8,10.4,FALSE,4
 "DY75AD","OK",FALSE,5.2,4.9,7.3,FALSE,4
 "DY75AE","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AF","OK",TRUE,4.9,4.7,6.7,FALSE,15
 "DY75AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AG","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AH","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DY75AL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AL","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AN","OK",TRUE,1.5,1.2,3.7,FALSE,5
 "DY75AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AP","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AQ","OK",TRUE,2.3,2.4,4,FALSE,9
 "DY75AR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AR","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AS","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AT","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AU","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AW","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AX","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AY","No Data",NA,NA,NA,NA,FALSE,0
 "DY75AZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75AZ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75BA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DY75BB","OK",FALSE,3.8,4.1,5,FALSE,6
 "DY75BD","OK",TRUE,4.1,4.2,8.3,FALSE,12
 "DY75BE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75BE","No Data",NA,NA,NA,NA,FALSE,0
 "DY75BF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DY75BG","OK",TRUE,4.4,4.8,6.5,FALSE,8
 "DY75BH","OK",TRUE,3.5,4.3,6.4,FALSE,6
 "DY75BJ","OK",TRUE,3,3.5,4.8,FALSE,5
 "DY75BL","No premises",NA,NA,NA,NA,FALSE,0
 "DY75BN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75BN","No Data",NA,NA,NA,NA,FALSE,0
 "DY75BP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75BP","No Data",NA,NA,NA,NA,FALSE,0
 "DY75BQ","OK",TRUE,3,2.8,5.4,FALSE,12
 "DY75BS","OK",TRUE,2.9,1.7,7.6,FALSE,5
 "DY75BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75BT","No Data",NA,NA,NA,NA,FALSE,0
 "DY75BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75BU","No Data",NA,NA,NA,NA,FALSE,0
 "DY75BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75BX","No Data",NA,NA,NA,NA,FALSE,0
 "DY75BY","OK",FALSE,7.8,8.1,8.1,FALSE,5
 "DY75BZ","OK",FALSE,6.5,7.2,8.1,FALSE,16
 "DY75DA","OK",FALSE,10.7,8.1,21.1,FALSE,6
@@ -61,21 +42,15 @@
 "DY75DD","OK",FALSE,8,8.1,8.1,FALSE,10
 "DY75DE","OK",FALSE,7.1,8.1,8.1,FALSE,15
 "DY75DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75DF","No Data",NA,NA,NA,NA,FALSE,0
 "DY75DH","OK",FALSE,4.9,4.4,8.1,FALSE,5
 "DY75DJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75DJ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75DL","OK",FALSE,6.7,6.8,8.1,FALSE,6
 "DY75DP","OK",FALSE,7.1,8,8.1,FALSE,7
 "DY75DQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75DQ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75DR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75DR","No Data",NA,NA,NA,NA,FALSE,0
 "DY75DT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75DT","No Data",NA,NA,NA,NA,FALSE,0
 "DY75DU","OK",FALSE,5.8,7.1,7.4,FALSE,4
 "DY75DX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75DX","No Data",NA,NA,NA,NA,FALSE,0
 "DY75DY","OK",TRUE,6.8,8.1,8.1,FALSE,11
 "DY75DZ","OK",TRUE,2.5,3.4,3.4,FALSE,4
 "DY75EA","OK",FALSE,7.1,8,8.1,FALSE,17
@@ -85,40 +60,28 @@
 "DY75EF","OK",TRUE,4.7,4.5,8.1,FALSE,13
 "DY75EG","OK",FALSE,4.8,4.3,6.8,FALSE,9
 "DY75EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75EH","No Data",NA,NA,NA,NA,FALSE,0
 "DY75EJ","OK",FALSE,5.6,5.7,8.1,FALSE,3
 "DY75EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75EL","No Data",NA,NA,NA,NA,FALSE,0
 "DY75EN","OK",FALSE,5.5,5.6,8.1,FALSE,5
 "DY75EP","OK",FALSE,5.3,6.3,7.4,FALSE,8
 "DY75EQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75EQ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75ER","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75ER","No Data",NA,NA,NA,NA,FALSE,0
 "DY75ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75ES","No Data",NA,NA,NA,NA,FALSE,0
 "DY75ET","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75ET","No Data",NA,NA,NA,NA,FALSE,0
 "DY75EU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75EU","No Data",NA,NA,NA,NA,FALSE,0
 "DY75EW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75EW","No Data",NA,NA,NA,NA,FALSE,0
 "DY75HA","OK",TRUE,3.6,3.5,5.4,FALSE,13
 "DY75HB","OK",TRUE,2.5,1.9,4.3,FALSE,5
 "DY75HD","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DY75HE","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DY75HF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75HF","No Data",NA,NA,NA,NA,FALSE,0
 "DY75HG","OK",TRUE,1.8,1.9,2.2,FALSE,5
 "DY75HH","OK",TRUE,1.6,1.5,2.5,FALSE,3
 "DY75HJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75HJ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75HL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75HL","No Data",NA,NA,NA,NA,FALSE,0
 "DY75HN","OK",TRUE,1.7,1.6,2.2,FALSE,6
 "DY75HP","OK",TRUE,1.7,1.9,3.2,FALSE,5
 "DY75HQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75HQ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75HR","OK",TRUE,1.9,1.8,3.6,FALSE,10
 "DY75HS","OK",TRUE,2.2,2.1,2.9,FALSE,4
 "DY75HT","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -128,99 +91,63 @@
 "DY75JA","OK",TRUE,2.2,2.1,4.5,FALSE,8
 "DY75JB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DY75JD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JD","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JE","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JF","OK",TRUE,1.6,1.8,2.3,FALSE,13
 "DY75JG","OK",TRUE,1.5,1.6,2.5,FALSE,6
 "DY75JH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JH","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JJ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JL","OK",TRUE,3.4,3.7,6.2,FALSE,5
 "DY75JN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JN","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JP","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JQ","OK",FALSE,3.3,3.1,4.4,FALSE,6
 "DY75JR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JR","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JS","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JT","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JU","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JW","No Data",NA,NA,NA,NA,FALSE,0
 "DY75JX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75JX","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LB","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LD","OK",TRUE,1.6,1.8,2,FALSE,3
 "DY75LE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LE","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LF","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LG","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LH","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LJ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LQ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LR","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LS","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LT","OK",FALSE,5.3,5.3,5.5,FALSE,4
 "DY75LU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LU","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LX","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75LY","No Data",NA,NA,NA,NA,FALSE,0
 "DY75LZ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DY75NA","OK",TRUE,1.3,1.1,2.1,FALSE,3
 "DY75NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75NB","No Data",NA,NA,NA,NA,FALSE,0
 "DY75ND","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DY75NE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75NE","No Data",NA,NA,NA,NA,FALSE,0
 "DY75NF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75NF","No Data",NA,NA,NA,NA,FALSE,0
 "DY75NG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75NG","No Data",NA,NA,NA,NA,FALSE,0
 "DY75NH","OK",TRUE,1.4,1.4,2.4,FALSE,4
 "DY75NJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75NJ","No Data",NA,NA,NA,NA,FALSE,0
 "DY75NL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75NL","No Data",NA,NA,NA,NA,FALSE,0
 "DY75NN","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DY75NP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75NP","No Data",NA,NA,NA,NA,FALSE,0
 "DY75NQ","OK",TRUE,2,1.9,2.4,FALSE,3
 "DY75NR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75NR","No Data",NA,NA,NA,NA,FALSE,0
 "DY75NW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75NW","No Data",NA,NA,NA,NA,FALSE,0
 "DY75PA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DY75PB","OK",TRUE,2.7,2.9,5.1,FALSE,7
 "DY75PD","OK",TRUE,2.8,2.1,4.6,FALSE,5
 "DY75PE","OK",TRUE,2.4,2.1,3.6,FALSE,4
 "DY75PF","OK",TRUE,2.8,3.1,3.5,FALSE,11
 "DY75PG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75PG","No Data",NA,NA,NA,NA,FALSE,0
 "DY75QH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75QH","No Data",NA,NA,NA,NA,FALSE,0
 "DY75QJ","OK",TRUE,4.1,4.2,6.1,TRUE,3
 "DY75QL","OK",TRUE,8.9,2.3,30,TRUE,5
 "DY75QN","OK",TRUE,5.5,3.3,22.2,TRUE,32
 "DY75QP","OK",TRUE,3.5,3.3,5.4,TRUE,6
 "DY75QQ","OK",TRUE,2.8,3.1,4.5,TRUE,5
 "DY75QS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DY75QS","No Data",NA,NA,NA,NA,FALSE,0
 "DY75QT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DY75QW","OK",TRUE,4.4,3.5,30,TRUE,25
 "DY75WZ","No premises",NA,NA,NA,NA,FALSE,0

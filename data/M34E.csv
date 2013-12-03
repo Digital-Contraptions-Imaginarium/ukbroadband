@@ -1,14 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M34EA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M34EA","No Data",NA,NA,NA,NA,TRUE,0
 "M34EB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M34EB","No Data",NA,NA,NA,NA,TRUE,0
 "M34ED","No Data",NA,NA,NA,NA,FALSE,0
 "M34EE","OK",TRUE,6.8,6.5,11.3,FALSE,58
 "M34EF","OK",TRUE,8.5,8.5,15.4,FALSE,54
 "M34EH","OK",FALSE,9.6,8.9,19,FALSE,46
 "M34EJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M34EJ","No Data",NA,NA,NA,NA,FALSE,0
 "M34EL","No premises",NA,NA,NA,NA,TRUE,0
 "M34EN","OK",FALSE,9.3,8.1,15.4,TRUE,13
 "M34EP","OK",TRUE,8.5,8.3,15.8,TRUE,48

@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W38TE","No premises",NA,NA,NA,NA,TRUE,0
 "W38TG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W38TG","No Data",NA,NA,NA,NA,TRUE,0
 "W38TH","OK",FALSE,21.4,15.8,30,TRUE,34
 "W38TJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W38TJ","No Data",NA,NA,NA,NA,TRUE,0
 "W38TQ","OK",FALSE,19.6,15.4,30,TRUE,30
 "W38TT","No Data",NA,NA,NA,NA,TRUE,0
 "W38TU","Insufficient Data",NA,NA,NA,NA,TRUE,2

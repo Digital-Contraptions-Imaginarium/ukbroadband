@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E33EA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E33EA","No Data",NA,NA,NA,NA,FALSE,0
 "E33EB","OK",FALSE,7.9,7.9,8.3,TRUE,3
 "E33ED","No premises",NA,NA,NA,NA,FALSE,0
 "E33EE","OK",FALSE,15.3,11.8,30,TRUE,14
@@ -10,7 +9,6 @@
 "E33EJ","OK",FALSE,18.2,11.2,30,TRUE,22
 "E33EL","OK",FALSE,12.1,9.6,30,TRUE,22
 "E33EN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E33EN","No Data",NA,NA,NA,NA,TRUE,0
 "E33EP","OK",FALSE,9.2,7.8,13.4,TRUE,3
 "E33EQ","OK",TRUE,12.3,10.3,30,TRUE,14
 "E33ER","No premises",NA,NA,NA,NA,TRUE,0

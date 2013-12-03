@@ -6,9 +6,7 @@
 "G15HF","OK",TRUE,6.2,5.8,12.5,TRUE,7
 "G15HH","OK",FALSE,15.5,15.9,20.3,FALSE,20
 "G15HN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G15HN","No Data",NA,NA,NA,NA,FALSE,0
 "G15HT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G15HT","No Data",NA,NA,NA,NA,FALSE,0
 "G15HU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "G15HX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "G15HY","Insufficient Data",NA,NA,NA,NA,FALSE,1

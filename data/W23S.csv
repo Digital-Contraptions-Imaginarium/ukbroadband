@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W23SA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W23SA","No Data",NA,NA,NA,NA,FALSE,0
 "W23SF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W23SF","No Data",NA,NA,NA,NA,TRUE,0
 "W23SG","OK",FALSE,18.1,16.2,30,TRUE,7
 "W23SH","OK",FALSE,17,18.2,21.2,TRUE,24
 "W23SJ","No premises",NA,NA,NA,NA,TRUE,0

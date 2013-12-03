@@ -1,13 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G209AA","OK",FALSE,11.3,12.2,13.6,FALSE,3
 "G209AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G209AB","No Data",NA,NA,NA,NA,TRUE,0
 "G209AD","OK",FALSE,21,20,30,TRUE,18
 "G209AE","OK",FALSE,11.5,8,23.2,TRUE,4
 "G209AG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "G209AN","No premises",NA,NA,NA,NA,FALSE,0
 "G209AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G209AQ","No Data",NA,NA,NA,NA,TRUE,0
 "G209AT","OK",FALSE,22.4,20.8,30,TRUE,12
 "G209AX","OK",FALSE,15.4,16.1,22.2,TRUE,3
 "G209AY","OK",FALSE,19.3,22.6,23.6,TRUE,4
@@ -18,7 +16,6 @@
 "G209BP","OK",FALSE,30,21.8,30,TRUE,16
 "G209BQ","No Data",NA,NA,NA,NA,FALSE,0
 "G209BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G209BS","No Data",NA,NA,NA,NA,FALSE,0
 "G209BT","OK",FALSE,9,9,10,TRUE,3
 "G209BW","OK",FALSE,30,20,30,TRUE,7
 "G209BY","OK",FALSE,20.8,20,30,TRUE,5
@@ -110,11 +107,9 @@
 "G209TA","OK",FALSE,25.3,23,30,TRUE,19
 "G209TB","OK",FALSE,24,24.1,30,TRUE,4
 "G209TD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G209TD","No Data",NA,NA,NA,NA,TRUE,0
 "G209TE","OK",FALSE,27.2,23.6,30,TRUE,26
 "G209TG","OK",FALSE,23.6,20,30,TRUE,11
 "G209TH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G209TH","No Data",NA,NA,NA,NA,TRUE,0
 "G209TJ","OK",FALSE,20.8,20,30,TRUE,23
 "G209TL","OK",FALSE,24.3,27.2,30,TRUE,4
 "G209TP","OK",FALSE,27.6,21.4,30,TRUE,14

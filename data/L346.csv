@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L346HA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L346HA","No Data",NA,NA,NA,NA,TRUE,0
 "L346HB","OK",FALSE,29.2,22.3,30,TRUE,24
 "L346HD","OK",FALSE,30,21.2,30,TRUE,18
 "L346HE","OK",FALSE,16.1,21.4,22.9,TRUE,8
@@ -33,7 +32,6 @@
 "L346JP","OK",FALSE,26.6,21.6,30,TRUE,8
 "L346JQ","OK",FALSE,9.1,6.7,24.9,TRUE,6
 "L346JR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L346JR","No Data",NA,NA,NA,NA,TRUE,0
 "L346JS","OK",FALSE,18.5,15,30,TRUE,13
 "L346JT","OK",FALSE,25.7,20,30,TRUE,14
 "L346JU","OK",FALSE,26.1,20,30,TRUE,8
@@ -54,6 +52,5 @@
 "L346NE","OK",FALSE,19,19,22,TRUE,6
 "L346NF","OK",FALSE,18.7,18,20.6,TRUE,5
 "L346NG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L346NG","No Data",NA,NA,NA,NA,TRUE,0
 "L346NJ","OK",FALSE,25.4,19,30,TRUE,7
 "L346NL","OK",FALSE,23.7,19.6,30,TRUE,8

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G37AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G37AA","No Data",NA,NA,NA,NA,TRUE,0
 "G37AD","OK",FALSE,30,20,30,TRUE,12
 "G37AE","OK",FALSE,23,20,30,TRUE,28
 "G37AG","OK",FALSE,16.8,17.6,20.3,TRUE,43

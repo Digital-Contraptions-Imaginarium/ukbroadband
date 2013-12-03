@@ -1,18 +1,15 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WS66AA","OK",FALSE,12.9,10.8,30,TRUE,6
 "WS66AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WS66AB","No Data",NA,NA,NA,NA,TRUE,0
 "WS66AD","OK",TRUE,9.3,6,30,TRUE,28
 "WS66AE","OK",TRUE,8.9,5.5,30,TRUE,16
 "WS66AF","OK",TRUE,8.6,5.6,30,TRUE,8
 "WS66AG","OK",FALSE,5.9,6.1,8.1,TRUE,9
 "WS66AH","OK",TRUE,8.9,5.6,30,TRUE,17
 "WS66AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS66AJ","No Data",NA,NA,NA,NA,FALSE,0
 "WS66AP","OK",TRUE,11,6.7,30,TRUE,7
 "WS66AQ","OK",TRUE,10.7,5,30,TRUE,30
 "WS66AR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WS66AR","No Data",NA,NA,NA,NA,TRUE,0
 "WS66AS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WS66AT","OK",TRUE,3.6,3.8,7.4,TRUE,42
 "WS66AU","OK",TRUE,4.9,4.7,7.3,TRUE,25
@@ -100,7 +97,6 @@
 "WS66JA","OK",FALSE,13.2,9.5,30,TRUE,18
 "WS66JB","OK",TRUE,10.4,7.9,30,TRUE,12
 "WS66JD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WS66JD","No Data",NA,NA,NA,NA,TRUE,0
 "WS66JE","OK",TRUE,18,9.2,30,TRUE,21
 "WS66JF","OK",TRUE,14.1,10,30,TRUE,33
 "WS66JG","OK",TRUE,12.6,8,30,TRUE,28
@@ -162,9 +158,7 @@
 "WS66PE","OK",TRUE,18,17.1,30,TRUE,31
 "WS66PF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WS66PG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WS66PG","No Data",NA,NA,NA,NA,TRUE,0
 "WS66PP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS66PP","No Data",NA,NA,NA,NA,FALSE,0
 "WS66PT","OK",FALSE,20.1,13.8,30,TRUE,22
 "WS66PZ","OK",TRUE,16.2,17.2,23.8,FALSE,22
 "WS66QA","OK",TRUE,22,10.5,30,TRUE,5

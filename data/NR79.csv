@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "NR79AA","OK",TRUE,22.9,5.1,30,TRUE,27
 "NR79AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NR79AB","No Data",NA,NA,NA,NA,TRUE,0
 "NR79AD","OK",FALSE,30,20,30,TRUE,11
 "NR79AE","OK",TRUE,22.2,4.9,30,TRUE,8
 "NR79AF","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -11,15 +10,12 @@
 "NR79AL","No premises",NA,NA,NA,NA,TRUE,0
 "NR79AN","OK",TRUE,23.7,16.3,30,TRUE,5
 "NR79AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NR79AP","No Data",NA,NA,NA,NA,FALSE,0
 "NR79AQ","OK",TRUE,3.6,4.5,4.8,TRUE,3
 "NR79AR","No Data",NA,NA,NA,NA,TRUE,0
 "NR79AT","No premises",NA,NA,NA,NA,FALSE,0
 "NR79AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"NR79AU","No Data",NA,NA,NA,NA,FALSE,0
 "NR79AW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "NR79AY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NR79AY","No Data",NA,NA,NA,NA,TRUE,0
 "NR79AZ","OK",TRUE,3.1,3.2,4.9,TRUE,4
 "NR79BB","OK",TRUE,2.2,1.1,4.6,TRUE,5
 "NR79BD","No premises",NA,NA,NA,NA,TRUE,0
@@ -73,14 +69,12 @@
 "NR79LL","OK",TRUE,25,20,30,TRUE,32
 "NR79LN","OK",FALSE,14.7,9.5,30,TRUE,5
 "NR79LQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NR79LQ","No Data",NA,NA,NA,NA,TRUE,0
 "NR79LS","OK",TRUE,12.8,4.6,30,TRUE,21
 "NR79LT","OK",TRUE,25.6,20,30,TRUE,18
 "NR79LW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "NR79NA","OK",TRUE,14.5,5.9,30,TRUE,17
 "NR79NB","OK",TRUE,18.1,5.2,30,TRUE,5
 "NR79ND","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NR79ND","No Data",NA,NA,NA,NA,TRUE,0
 "NR79NE","OK",TRUE,12.5,6.5,30,TRUE,10
 "NR79NF","OK",FALSE,25,20,30,TRUE,39
 "NR79NG","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -93,9 +87,7 @@
 "NR79NR","OK",FALSE,30,20,30,TRUE,9
 "NR79NS","OK",FALSE,27.2,13.9,30,TRUE,14
 "NR79NT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NR79NT","No Data",NA,NA,NA,NA,TRUE,0
 "NR79NW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NR79NW","No Data",NA,NA,NA,NA,TRUE,0
 "NR79NY","OK",TRUE,15.3,6.7,30,TRUE,22
 "NR79NZ","OK",FALSE,23.4,13.5,30,TRUE,28
 "NR79QA","OK",TRUE,26.5,20,30,TRUE,16
@@ -144,7 +136,6 @@
 "NR79TL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "NR79TN","OK",TRUE,2,2,3.6,TRUE,18
 "NR79TP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NR79TP","No Data",NA,NA,NA,NA,TRUE,0
 "NR79TQ","OK",FALSE,24.7,25,30,TRUE,8
 "NR79TR","OK",TRUE,21.3,9.3,30,TRUE,17
 "NR79TS","OK",FALSE,21.5,20,30,TRUE,16
@@ -187,5 +178,4 @@
 "NR79XQ","OK",FALSE,30,30,30,TRUE,15
 "NR79XU","No premises",NA,NA,NA,NA,FALSE,0
 "NR79XW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"NR79XW","No Data",NA,NA,NA,NA,TRUE,0
 "NR79ZA","No premises",NA,NA,NA,NA,FALSE,0

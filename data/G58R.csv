@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G58RA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G58RA","No Data",NA,NA,NA,NA,FALSE,0
 "G58RE","OK",FALSE,15,16.4,21.8,FALSE,19
 "G58RH","No premises",NA,NA,NA,NA,FALSE,0
 "G58RJ","OK",TRUE,6.8,7.3,10.5,FALSE,9
 "G58RL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G58RL","No Data",NA,NA,NA,NA,FALSE,0
 "G58RR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G58RS","OK",FALSE,16.9,15.6,21.9,FALSE,3

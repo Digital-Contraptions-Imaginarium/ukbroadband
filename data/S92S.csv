@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S92SG","No premises",NA,NA,NA,NA,FALSE,0
 "S92SN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S92SN","No Data",NA,NA,NA,NA,FALSE,0
 "S92SP","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S92SR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S92SR","No Data",NA,NA,NA,NA,FALSE,0
 "S92SU","OK",FALSE,9.1,9.1,10,FALSE,3

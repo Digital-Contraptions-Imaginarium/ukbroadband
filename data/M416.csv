@@ -1,11 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M416AP","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M416AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M416AS","No Data",NA,NA,NA,NA,TRUE,0
 "M416AZ","No premises",NA,NA,NA,NA,FALSE,0
 "M416DS","No premises",NA,NA,NA,NA,FALSE,0
 "M416DU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M416DU","No Data",NA,NA,NA,NA,TRUE,0
 "M416EA","OK",FALSE,26.1,17.8,30,TRUE,12
 "M416EB","OK",FALSE,18.3,11.6,30,TRUE,14
 "M416ED","OK",FALSE,22.6,20,30,TRUE,13
@@ -18,7 +16,6 @@
 "M416EN","OK",FALSE,25.4,20,30,TRUE,25
 "M416EP","OK",TRUE,20.6,11.3,30,TRUE,18
 "M416EQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M416EQ","No Data",NA,NA,NA,NA,TRUE,0
 "M416ER","OK",TRUE,25.5,20,30,TRUE,35
 "M416EW","OK",FALSE,23,15.5,30,TRUE,13
 "M416EY","No premises",NA,NA,NA,NA,TRUE,0
@@ -90,7 +87,6 @@
 "M416LP","OK",FALSE,25.3,20,30,TRUE,20
 "M416LQ","OK",FALSE,30,30,30,TRUE,6
 "M416LR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M416LR","No Data",NA,NA,NA,NA,TRUE,0
 "M416LS","OK",TRUE,20.4,20,30,TRUE,9
 "M416LU","OK",TRUE,24.9,20,30,TRUE,13
 "M416LW","OK",FALSE,21.7,20,30,TRUE,21
@@ -136,7 +132,6 @@
 "M416QN","OK",FALSE,17.9,12.5,30,TRUE,11
 "M416QP","OK",FALSE,25.3,20,30,TRUE,13
 "M416QQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M416QQ","No Data",NA,NA,NA,NA,TRUE,0
 "M416QR","OK",FALSE,18.4,5.6,30,TRUE,4
 "M416QS","OK",TRUE,26.3,8.1,30,TRUE,14
 "M416QT","OK",TRUE,10,4.8,30,TRUE,7

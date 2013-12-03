@@ -1,8 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G22XD","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G22XL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G22XL","No Data",NA,NA,NA,NA,FALSE,0
 "G22XT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G22XT","No Data",NA,NA,NA,NA,FALSE,0
 "G22XW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G22XW","No Data",NA,NA,NA,NA,FALSE,0

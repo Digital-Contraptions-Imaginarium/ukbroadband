@@ -9,17 +9,11 @@
 "N12SL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "N12SN","OK",TRUE,19.5,15,30,TRUE,22
 "N12SP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N12SP","No Data",NA,NA,NA,NA,TRUE,0
 "N12SQ","OK",FALSE,30,14,30,TRUE,5
 "N12SR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N12SR","No Data",NA,NA,NA,NA,TRUE,0
 "N12SS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N12SS","No Data",NA,NA,NA,NA,TRUE,0
 "N12ST","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N12ST","No Data",NA,NA,NA,NA,TRUE,0
 "N12SU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N12SU","No Data",NA,NA,NA,NA,TRUE,0
 "N12SX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N12SX","No Data",NA,NA,NA,NA,TRUE,0
 "N12SY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "N12SZ","Insufficient Data",NA,NA,NA,NA,TRUE,2

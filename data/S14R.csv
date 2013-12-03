@@ -4,7 +4,6 @@
 "S14RD","No Data",NA,NA,NA,NA,FALSE,0
 "S14RE","OK",FALSE,17.1,16.1,20,TRUE,3
 "S14RF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S14RF","No Data",NA,NA,NA,NA,TRUE,0
 "S14RG","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S14RH","OK",FALSE,12.2,12.3,17,TRUE,5
 "S14RJ","No Data",NA,NA,NA,NA,TRUE,0
@@ -14,4 +13,3 @@
 "S14RS","No premises",NA,NA,NA,NA,TRUE,0
 "S14RT","OK",FALSE,14.3,16.7,19.5,TRUE,10
 "S14RZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S14RZ","No Data",NA,NA,NA,NA,FALSE,0

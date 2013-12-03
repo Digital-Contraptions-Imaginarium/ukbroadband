@@ -1,13 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N183AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N183AB","No Data",NA,NA,NA,NA,FALSE,0
 "N183AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N183AF","No Data",NA,NA,NA,NA,FALSE,0
 "N183AG","No premises",NA,NA,NA,NA,TRUE,0
 "N183AH","OK",TRUE,5.5,6.3,10,FALSE,5
 "N183AJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "N183BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N183BA","No Data",NA,NA,NA,NA,FALSE,0
 "N183BB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "N183BD","OK",FALSE,5.6,4.5,10.2,FALSE,4
 "N183BF","No Data",NA,NA,NA,NA,FALSE,0
@@ -17,11 +14,9 @@
 "N183DB","No premises",NA,NA,NA,NA,FALSE,0
 "N183DJ","No premises",NA,NA,NA,NA,FALSE,0
 "N183DW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N183DW","No Data",NA,NA,NA,NA,FALSE,0
 "N183EA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "N183HA","OK",TRUE,6.9,7.8,10.8,FALSE,3
 "N183HF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N183HF","No Data",NA,NA,NA,NA,TRUE,0
 "N183HQ","No Data",NA,NA,NA,NA,FALSE,0
 "N183HT","OK",TRUE,4,3.9,6.2,FALSE,7
 "N183HU","OK",TRUE,3.2,3.4,5.9,FALSE,5
@@ -36,17 +31,13 @@
 "N183PR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "N183PS","No Data",NA,NA,NA,NA,FALSE,0
 "N183PU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N183PU","No Data",NA,NA,NA,NA,TRUE,0
 "N183QB","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "N183QH","OK",TRUE,6.6,6.6,14.1,FALSE,12
 "N183QJ","No Data",NA,NA,NA,NA,FALSE,0
 "N183QL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N183QL","No Data",NA,NA,NA,NA,FALSE,0
 "N183QN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N183QN","No Data",NA,NA,NA,NA,FALSE,0
 "N183QP","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "N183QQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N183QQ","No Data",NA,NA,NA,NA,FALSE,0
 "N183QR","No Data",NA,NA,NA,NA,FALSE,0
 "N183QS","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "N183QT","Insufficient Data",NA,NA,NA,NA,FALSE,1

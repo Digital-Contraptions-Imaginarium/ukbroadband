@@ -1,11 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S92TE","No premises",NA,NA,NA,NA,FALSE,0
 "S92TF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S92TF","No Data",NA,NA,NA,NA,FALSE,0
 "S92TJ","OK",TRUE,7.2,8,8.1,FALSE,8
 "S92TP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S92TP","No Data",NA,NA,NA,NA,FALSE,0
 "S92TW","OK",TRUE,8.7,7.8,17,FALSE,6
 "S92TX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S92TZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S92TZ","No Data",NA,NA,NA,NA,FALSE,0

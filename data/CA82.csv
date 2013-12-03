@@ -1,16 +1,12 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CA82AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82AA","No Data",NA,NA,NA,NA,FALSE,0
 "CA82AB","OK",FALSE,13.1,11.1,20.4,FALSE,3
 "CA82AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82AP","No Data",NA,NA,NA,NA,FALSE,0
 "CA82AR","OK",FALSE,8.1,8.1,8.1,FALSE,3
 "CA82AT","OK",FALSE,6,6.2,7.6,FALSE,5
 "CA82AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82AU","No Data",NA,NA,NA,NA,FALSE,0
 "CA82AX","OK",TRUE,4.9,5.4,7,FALSE,6
 "CA82AY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82AY","No Data",NA,NA,NA,NA,FALSE,0
 "CA82AZ","OK",TRUE,1.5,1.5,2.3,FALSE,6
 "CA82BA","OK",TRUE,1.1,1.1,1.6,FALSE,4
 "CA82BB","OK",TRUE,1.1,1.2,2.3,FALSE,10
@@ -18,13 +14,11 @@
 "CA82BE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82BG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA82BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82BL","No Data",NA,NA,NA,NA,FALSE,0
 "CA82BN","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA82BP","OK",TRUE,1,1.2,1.4,FALSE,3
 "CA82BQ","OK",TRUE,0.5,0.4,0.9,FALSE,8
 "CA82BS","OK",TRUE,0.9,0.9,1.3,FALSE,4
 "CA82BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82BT","No Data",NA,NA,NA,NA,FALSE,0
 "CA82BU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA82BW","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA82BX","OK",TRUE,0.9,0.8,1.4,FALSE,4
@@ -37,25 +31,17 @@
 "CA82DW","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82DX","OK",TRUE,3.1,2.9,4.8,FALSE,5
 "CA82DY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82DY","No Data",NA,NA,NA,NA,FALSE,0
 "CA82DZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82DZ","No Data",NA,NA,NA,NA,FALSE,0
 "CA82EA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA82EB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82EH","OK",TRUE,0.6,0.6,0.8,FALSE,5
 "CA82EJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82EJ","No Data",NA,NA,NA,NA,FALSE,0
 "CA82EL","OK",TRUE,0.9,0.9,1.3,FALSE,3
 "CA82EN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82EN","No Data",NA,NA,NA,NA,FALSE,0
 "CA82ER","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82ER","No Data",NA,NA,NA,NA,FALSE,0
 "CA82ES","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82ES","No Data",NA,NA,NA,NA,FALSE,0
 "CA82ET","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82ET","No Data",NA,NA,NA,NA,FALSE,0
 "CA82EW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82EW","No Data",NA,NA,NA,NA,FALSE,0
 "CA82EY","OK",FALSE,11.4,11.4,17.9,FALSE,6
 "CA82EZ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA82GB","No premises",NA,NA,NA,NA,FALSE,0
@@ -67,31 +53,23 @@
 "CA82HG","OK",TRUE,3.1,3.2,5.1,FALSE,4
 "CA82HH","OK",TRUE,2.5,2.2,4.3,FALSE,5
 "CA82HJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82HJ","No Data",NA,NA,NA,NA,FALSE,0
 "CA82HL","OK",TRUE,2.1,2.8,3.1,FALSE,3
 "CA82HN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82HQ","OK",TRUE,3.2,2.8,6.4,FALSE,14
 "CA82HX","OK",TRUE,2.7,2.1,5.1,FALSE,13
 "CA82HY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82HY","No Data",NA,NA,NA,NA,FALSE,0
 "CA82HZ","OK",FALSE,8.5,9.2,9.6,FALSE,3
 "CA82JA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82JA","No Data",NA,NA,NA,NA,FALSE,0
 "CA82JB","OK",TRUE,1,0.6,2.4,FALSE,6
 "CA82JD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82JD","No Data",NA,NA,NA,NA,FALSE,0
 "CA82JE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82JE","No Data",NA,NA,NA,NA,FALSE,0
 "CA82JF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82JG","OK",TRUE,2.6,2.1,5.1,FALSE,4
 "CA82JH","OK",TRUE,1.4,1.5,1.9,FALSE,20
 "CA82JJ","OK",TRUE,1.3,1.4,1.7,FALSE,8
 "CA82JL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82JL","No Data",NA,NA,NA,NA,FALSE,0
 "CA82JN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82JN","No Data",NA,NA,NA,NA,FALSE,0
 "CA82JP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82JP","No Data",NA,NA,NA,NA,FALSE,0
 "CA82JQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82JR","OK",TRUE,2.2,2.4,3,FALSE,6
 "CA82JT","No premises",NA,NA,NA,NA,FALSE,0
@@ -99,11 +77,8 @@
 "CA82LE","OK",TRUE,2.4,2,6.2,FALSE,17
 "CA82LF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82LG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82LG","No Data",NA,NA,NA,NA,FALSE,0
 "CA82LH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82LH","No Data",NA,NA,NA,NA,FALSE,0
 "CA82LJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82LJ","No Data",NA,NA,NA,NA,FALSE,0
 "CA82LL","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82LN","OK",TRUE,2.1,2,3.7,FALSE,14
 "CA82LP","OK",TRUE,2.2,1.9,4,FALSE,7
@@ -112,50 +87,37 @@
 "CA82LS","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82LT","OK",TRUE,1.5,2,2.3,FALSE,5
 "CA82LU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82LU","No Data",NA,NA,NA,NA,FALSE,0
 "CA82LW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82LW","No Data",NA,NA,NA,NA,FALSE,0
 "CA82LX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82LX","No Data",NA,NA,NA,NA,FALSE,0
 "CA82LY","OK",TRUE,1.6,1.7,1.9,FALSE,6
 "CA82LZ","OK",TRUE,0.9,1.2,1.2,FALSE,3
 "CA82NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82NA","No Data",NA,NA,NA,NA,FALSE,0
 "CA82NB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82ND","OK",TRUE,2.6,2.8,3.4,FALSE,7
 "CA82NE","OK",FALSE,4.6,4.6,5.2,FALSE,3
 "CA82NF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82NG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82NG","No Data",NA,NA,NA,NA,FALSE,0
 "CA82NH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82NH","No Data",NA,NA,NA,NA,FALSE,0
 "CA82NJ","OK",TRUE,6.6,7.5,8.1,FALSE,25
 "CA82NL","OK",FALSE,8.1,8.1,8.1,FALSE,3
 "CA82NN","OK",FALSE,7.7,8.1,8.1,FALSE,3
 "CA82NP","OK",FALSE,8.1,8.1,8.1,FALSE,3
 "CA82NQ","OK",FALSE,6.6,6.5,8.1,FALSE,4
 "CA82NW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82NW","No Data",NA,NA,NA,NA,FALSE,0
 "CA82NX","OK",FALSE,7.6,7.4,8.1,FALSE,3
 "CA82PA","OK",FALSE,7.3,7.4,8.1,FALSE,6
 "CA82PE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82PE","No Data",NA,NA,NA,NA,FALSE,0
 "CA82PF","OK",FALSE,6.3,6.7,8.1,FALSE,9
 "CA82PG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82PG","No Data",NA,NA,NA,NA,FALSE,0
 "CA82PH","OK",FALSE,6.5,6.5,8.1,FALSE,3
 "CA82PJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82PJ","No Data",NA,NA,NA,NA,FALSE,0
 "CA82PL","OK",FALSE,7.7,7.7,8.1,FALSE,8
 "CA82PN","OK",FALSE,7.6,7.4,8.1,FALSE,5
 "CA82PP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82PP","No Data",NA,NA,NA,NA,FALSE,0
 "CA82PQ","OK",TRUE,6.7,7.4,8.1,FALSE,13
 "CA82PR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82PR","No Data",NA,NA,NA,NA,FALSE,0
 "CA82PS","OK",FALSE,7.7,8.1,8.1,FALSE,4
 "CA82PT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82PT","No Data",NA,NA,NA,NA,FALSE,0
 "CA82PU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82PW","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CA82PX","OK",TRUE,5.3,6.3,8.1,FALSE,4
@@ -164,22 +126,16 @@
 "CA82QB","OK",TRUE,3.6,3.7,6.8,FALSE,4
 "CA82QD","OK",TRUE,3.7,3.7,6.8,FALSE,4
 "CA82QE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82QE","No Data",NA,NA,NA,NA,FALSE,0
 "CA82QF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82QF","No Data",NA,NA,NA,NA,FALSE,0
 "CA82QG","OK",TRUE,2.4,2.1,4.4,FALSE,6
 "CA82QH","OK",TRUE,1.2,1,2,FALSE,4
 "CA82QJ","OK",TRUE,1.8,1.6,3.7,FALSE,5
 "CA82QN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CA82QQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82QQ","No Data",NA,NA,NA,NA,FALSE,0
 "CA82QR","OK",FALSE,7.2,7.9,8.1,FALSE,4
 "CA82QS","OK",FALSE,8.9,8.9,9.7,FALSE,4
 "CA82QT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82QT","No Data",NA,NA,NA,NA,FALSE,0
 "CA82QU","OK",TRUE,3.2,2.8,5.2,FALSE,6
 "CA82QW","OK",TRUE,2,1.6,3.4,FALSE,3
 "CA82QX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82QX","No Data",NA,NA,NA,NA,FALSE,0
 "CA82QZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CA82QZ","No Data",NA,NA,NA,NA,FALSE,0

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "ST32AA","OK",FALSE,14,8.2,30,TRUE,5
 "ST32AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST32AB","No Data",NA,NA,NA,NA,TRUE,0
 "ST32AD","OK",FALSE,26.6,20,30,TRUE,19
 "ST32AE","OK",TRUE,25.7,20,30,TRUE,20
 "ST32AF","OK",FALSE,24.3,20,30,TRUE,6
@@ -101,7 +100,6 @@
 "ST32JN","No Data",NA,NA,NA,NA,TRUE,0
 "ST32JR","OK",TRUE,11,10.1,23.1,TRUE,4
 "ST32JU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ST32JU","No Data",NA,NA,NA,NA,TRUE,0
 "ST32JW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST32LB","OK",FALSE,11.3,7.8,18.4,TRUE,3
 "ST32LG","OK",FALSE,17.8,18.3,20.5,FALSE,6
@@ -138,18 +136,15 @@
 "ST32PF","No premises",NA,NA,NA,NA,TRUE,0
 "ST32PJ","No premises",NA,NA,NA,NA,FALSE,0
 "ST32PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST32PL","No Data",NA,NA,NA,NA,FALSE,0
 "ST32PP","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "ST32PU","OK",TRUE,7.9,8.2,11.3,FALSE,6
 "ST32QA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST32QA","No Data",NA,NA,NA,NA,FALSE,0
 "ST32QB","OK",TRUE,3.9,3.8,6.1,TRUE,21
 "ST32QD","OK",FALSE,4.4,4.6,6.5,FALSE,14
 "ST32QE","OK",TRUE,8.2,8,20,TRUE,6
 "ST32QF","OK",FALSE,4.2,4.1,4.8,FALSE,5
 "ST32QH","No premises",NA,NA,NA,NA,FALSE,0
 "ST32QL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST32QL","No Data",NA,NA,NA,NA,FALSE,0
 "ST32QN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ST32QP","OK",FALSE,13.8,11.9,18.9,TRUE,5
 "ST32QR","OK",FALSE,17.7,17.8,18.6,FALSE,4
@@ -193,7 +188,6 @@
 "ST32SW","OK",FALSE,19.5,13.3,30,TRUE,7
 "ST32SX","OK",FALSE,13.9,16.7,20,TRUE,6
 "ST32TA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"ST32TA","No Data",NA,NA,NA,NA,FALSE,0
 "ST32TE","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "ST32TG","OK",FALSE,22.5,15.2,30,TRUE,5
 "ST32TJ","OK",FALSE,5.4,5.4,6.4,FALSE,4

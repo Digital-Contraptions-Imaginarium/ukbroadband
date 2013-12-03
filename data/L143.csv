@@ -23,7 +23,6 @@
 "L143NB","OK",FALSE,4.7,5,5.2,TRUE,6
 "L143ND","OK",TRUE,9.1,6.6,28.5,TRUE,8
 "L143NG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L143NG","No Data",NA,NA,NA,NA,TRUE,0
 "L143NL","No premises",NA,NA,NA,NA,TRUE,0
 "L143NN","OK",FALSE,26.5,8.9,30,TRUE,9
 "L143NP","OK",TRUE,20.7,15,30,TRUE,23
@@ -32,8 +31,6 @@
 "L143NU","OK",TRUE,15.4,6.5,30,TRUE,17
 "L143NZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "L143PA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L143PA","No Data",NA,NA,NA,NA,TRUE,0
 "L143PE","No premises",NA,NA,NA,NA,TRUE,0
 "L143PJ","No premises",NA,NA,NA,NA,TRUE,0
 "L143PL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L143PL","No Data",NA,NA,NA,NA,TRUE,0

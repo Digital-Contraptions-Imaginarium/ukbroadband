@@ -2,18 +2,14 @@
 "SL14AA","OK",TRUE,5.3,4.8,9.7,TRUE,10
 "SL14AG","OK",TRUE,2.6,1.9,7.7,FALSE,21
 "SL14AN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL14AN","No Data",NA,NA,NA,NA,TRUE,0
 "SL14AQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "SL14AU","No premises",NA,NA,NA,NA,FALSE,0
 "SL14AX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL14AX","No Data",NA,NA,NA,NA,TRUE,0
 "SL14BA","No premises",NA,NA,NA,NA,FALSE,0
 "SL14BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14BD","No Data",NA,NA,NA,NA,FALSE,0
 "SL14BG","OK",TRUE,2.1,2,3.3,FALSE,7
 "SL14BH","No premises",NA,NA,NA,NA,FALSE,0
 "SL14DE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14DE","No Data",NA,NA,NA,NA,FALSE,0
 "SL14DG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "SL14DH","No premises",NA,NA,NA,NA,FALSE,0
 "SL14DX","OK",TRUE,5.3,6.2,13.2,TRUE,33
@@ -21,7 +17,6 @@
 "SL14EP","OK",TRUE,2.5,3.1,4.2,FALSE,8
 "SL14EQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "SL14EU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14EU","No Data",NA,NA,NA,NA,FALSE,0
 "SL14FJ","No premises",NA,NA,NA,NA,FALSE,0
 "SL14FN","No premises",NA,NA,NA,NA,FALSE,0
 "SL14FR","No premises",NA,NA,NA,NA,FALSE,0
@@ -29,27 +24,20 @@
 "SL14FX","No premises",NA,NA,NA,NA,FALSE,0
 "SL14GP","No premises",NA,NA,NA,NA,FALSE,0
 "SL14HA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14HA","No Data",NA,NA,NA,NA,FALSE,0
 "SL14HB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL14HE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL14HF","No Data",NA,NA,NA,NA,FALSE,0
 "SL14HG","No Data",NA,NA,NA,NA,FALSE,0
 "SL14HL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14HL","No Data",NA,NA,NA,NA,FALSE,0
 "SL14HR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "SL14HY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14HY","No Data",NA,NA,NA,NA,FALSE,0
 "SL14JA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14JA","No Data",NA,NA,NA,NA,FALSE,0
 "SL14JB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14JB","No Data",NA,NA,NA,NA,FALSE,0
 "SL14JG","OK",TRUE,0.7,0.6,1.4,FALSE,5
 "SL14JU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14JU","No Data",NA,NA,NA,NA,FALSE,0
 "SL14JW","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "SL14JX","No premises",NA,NA,NA,NA,FALSE,0
 "SL14LA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14LA","No Data",NA,NA,NA,NA,FALSE,0
 "SL14LE","No premises",NA,NA,NA,NA,TRUE,0
 "SL14LG","No premises",NA,NA,NA,NA,FALSE,0
 "SL14LH","Insufficient Data",NA,NA,NA,NA,FALSE,1
@@ -61,22 +49,18 @@
 "SL14NB","OK",TRUE,1.7,0.5,8.1,FALSE,9
 "SL14NH","OK",TRUE,2,1.6,3.4,FALSE,4
 "SL14NJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14NJ","No Data",NA,NA,NA,NA,FALSE,0
 "SL14NL","OK",FALSE,6.5,8.1,8.1,FALSE,3
 "SL14NN","OK",TRUE,2,1.9,7.7,FALSE,57
 "SL14PF","OK",TRUE,5,3.9,19.5,TRUE,20
 "SL14PG","No Data",NA,NA,NA,NA,FALSE,0
 "SL14PH","No Data",NA,NA,NA,NA,FALSE,0
 "SL14PJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14PJ","No Data",NA,NA,NA,NA,FALSE,0
 "SL14PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14PL","No Data",NA,NA,NA,NA,FALSE,0
 "SL14PN","OK",FALSE,8.1,8.1,8.1,TRUE,4
 "SL14PY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL14QA","OK",TRUE,2.6,2.4,5.8,FALSE,6
 "SL14QB","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "SL14QD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14QD","No Data",NA,NA,NA,NA,FALSE,0
 "SL14QQ","No premises",NA,NA,NA,NA,FALSE,0
 "SL14QT","OK",TRUE,2.9,1.4,8.1,TRUE,9
 "SL14QU","OK",FALSE,13.3,5.2,30,TRUE,8
@@ -102,14 +86,12 @@
 "SL14TP","No Data",NA,NA,NA,NA,FALSE,0
 "SL14TS","No Data",NA,NA,NA,NA,FALSE,0
 "SL14TT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL14TT","No Data",NA,NA,NA,NA,FALSE,0
 "SL14TU","No Data",NA,NA,NA,NA,FALSE,0
 "SL14UE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "SL14UF","No Data",NA,NA,NA,NA,FALSE,0
 "SL14UG","No premises",NA,NA,NA,NA,FALSE,0
 "SL14UN","OK",TRUE,4.5,4.7,6.9,TRUE,7
 "SL14UT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL14UT","No Data",NA,NA,NA,NA,TRUE,0
 "SL14WA","No premises",NA,NA,NA,NA,FALSE,0
 "SL14WB","No premises",NA,NA,NA,NA,FALSE,0
 "SL14WE","No premises",NA,NA,NA,NA,FALSE,0

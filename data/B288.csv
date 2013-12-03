@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B288AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B288AA","No Data",NA,NA,NA,NA,FALSE,0
 "B288AB","OK",FALSE,8.8,8.1,14.7,TRUE,3
 "B288AD","OK",FALSE,10.8,8.1,19.8,TRUE,12
 "B288AE","OK",FALSE,14.1,16.7,21.7,TRUE,13
@@ -8,7 +7,6 @@
 "B288AJ","No premises",NA,NA,NA,NA,TRUE,0
 "B288AP","OK",TRUE,17.2,19.7,30,TRUE,14
 "B288AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B288AQ","No Data",NA,NA,NA,NA,TRUE,0
 "B288AR","OK",TRUE,14,16.5,20,TRUE,15
 "B288AS","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "B288AT","OK",FALSE,15.9,15.1,19.2,FALSE,11
@@ -18,16 +16,13 @@
 "B288BB","OK",FALSE,18.9,17.9,30,TRUE,7
 "B288BD","OK",FALSE,12.8,14.7,15.5,TRUE,3
 "B288BE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B288BE","No Data",NA,NA,NA,NA,TRUE,0
 "B288BG","No Data",NA,NA,NA,NA,TRUE,0
 "B288BH","OK",FALSE,15.4,16.5,30,TRUE,22
 "B288BJ","OK",TRUE,12.4,16.4,20.9,TRUE,12
 "B288BL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "B288BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B288BN","No Data",NA,NA,NA,NA,TRUE,0
 "B288BQ","OK",FALSE,14.8,17.1,20.3,TRUE,7
 "B288BU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B288BU","No Data",NA,NA,NA,NA,TRUE,0
 "B288BX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "B288BZ","OK",FALSE,21.1,20,30,TRUE,5
 "B288DA","OK",FALSE,23.2,19.9,30,TRUE,28
@@ -93,7 +88,6 @@
 "B288LQ","No premises",NA,NA,NA,NA,TRUE,0
 "B288LU","OK",FALSE,20.6,20.9,30,TRUE,8
 "B288LW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B288LW","No Data",NA,NA,NA,NA,TRUE,0
 "B288LX","OK",FALSE,27.7,20,30,TRUE,9
 "B288LY","OK",FALSE,26.3,20,30,TRUE,18
 "B288LZ","OK",TRUE,19.5,20,30,TRUE,21
@@ -163,7 +157,6 @@
 "B288ST","OK",TRUE,10.7,1.9,30,TRUE,3
 "B288SU","OK",FALSE,23.5,18.7,30,TRUE,12
 "B288SW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B288SW","No Data",NA,NA,NA,NA,TRUE,0
 "B288SX","OK",TRUE,23.2,20,30,TRUE,6
 "B288SY","OK",FALSE,21.1,18,30,TRUE,16
 "B288SZ","OK",TRUE,29.8,20,30,TRUE,20

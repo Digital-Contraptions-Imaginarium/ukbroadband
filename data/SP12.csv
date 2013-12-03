@@ -1,12 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SP12AA","OK",TRUE,7,8.1,8.1,TRUE,7
 "SP12AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SP12AB","No Data",NA,NA,NA,NA,FALSE,0
 "SP12AE","No premises",NA,NA,NA,NA,FALSE,0
 "SP12AF","OK",TRUE,13,14.4,21.4,FALSE,8
 "SP12AG","OK",TRUE,10.9,8.1,20.3,FALSE,13
 "SP12AH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SP12AH","No Data",NA,NA,NA,NA,TRUE,0
 "SP12AJ","OK",TRUE,11.3,11.2,20,TRUE,6
 "SP12AL","No premises",NA,NA,NA,NA,FALSE,0
 "SP12AN","No premises",NA,NA,NA,NA,FALSE,0
@@ -21,7 +19,6 @@
 "SP12BD","OK",FALSE,24.9,19.7,30,TRUE,21
 "SP12BG","OK",TRUE,30,20,30,TRUE,13
 "SP12BH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SP12BH","No Data",NA,NA,NA,NA,TRUE,0
 "SP12BJ","OK",FALSE,26.7,30,30,TRUE,3
 "SP12BL","OK",FALSE,26.5,18.9,30,TRUE,5
 "SP12BN","OK",FALSE,27.3,17.4,30,TRUE,4
@@ -58,7 +55,6 @@
 "SP12EP","No premises",NA,NA,NA,NA,TRUE,0
 "SP12EQ","No premises",NA,NA,NA,NA,TRUE,0
 "SP12ER","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SP12ER","No Data",NA,NA,NA,NA,FALSE,0
 "SP12ES","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SP12ET","OK",FALSE,12.7,10,30,TRUE,19
 "SP12EW","No premises",NA,NA,NA,NA,FALSE,0
@@ -109,7 +105,6 @@
 "SP12LH","OK",TRUE,18.1,17.1,30,TRUE,24
 "SP12LJ","OK",FALSE,19.6,14.4,30,TRUE,7
 "SP12LN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SP12LN","No Data",NA,NA,NA,NA,TRUE,0
 "SP12LP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SP12LU","OK",FALSE,23.7,16.6,30,TRUE,25
 "SP12LW","No premises",NA,NA,NA,NA,TRUE,0
@@ -117,11 +112,9 @@
 "SP12LZ","No premises",NA,NA,NA,NA,TRUE,0
 "SP12NB","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "SP12ND","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SP12ND","No Data",NA,NA,NA,NA,TRUE,0
 "SP12NE","OK",FALSE,13.4,13.5,22.8,TRUE,6
 "SP12NG","OK",FALSE,10,7.8,19.1,TRUE,8
 "SP12NH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SP12NH","No Data",NA,NA,NA,NA,TRUE,0
 "SP12NJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SP12NN","No premises",NA,NA,NA,NA,FALSE,0
 "SP12NP","No premises",NA,NA,NA,NA,TRUE,0
@@ -146,21 +139,16 @@
 "SP12QL","OK",FALSE,30,30,30,TRUE,14
 "SP12QP","OK",FALSE,30,30,30,TRUE,22
 "SP12QQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SP12QQ","No Data",NA,NA,NA,NA,FALSE,0
 "SP12QR","No premises",NA,NA,NA,NA,TRUE,0
 "SP12QS","OK",FALSE,30,30,30,TRUE,5
 "SP12QT","OK",FALSE,23.4,12.3,30,TRUE,9
 "SP12QU","OK",FALSE,18.3,15.6,30,TRUE,16
 "SP12QW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SP12QW","No Data",NA,NA,NA,NA,FALSE,0
 "SP12QX","OK",TRUE,25,20,30,TRUE,32
 "SP12QY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SP12QY","No Data",NA,NA,NA,NA,FALSE,0
 "SP12QZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SP12QZ","No Data",NA,NA,NA,NA,TRUE,0
 "SP12RA","No premises",NA,NA,NA,NA,TRUE,0
 "SP12RB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SP12RB","No Data",NA,NA,NA,NA,TRUE,0
 "SP12RD","No premises",NA,NA,NA,NA,FALSE,0
 "SP12RE","OK",FALSE,16.2,14.9,30,TRUE,7
 "SP12RF","OK",FALSE,11.9,13.9,16.8,TRUE,5
@@ -173,7 +161,6 @@
 "SP12RQ","OK",FALSE,14.1,10,30,TRUE,21
 "SP12RR","OK",FALSE,22.3,20,30,TRUE,21
 "SP12RS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SP12RS","No Data",NA,NA,NA,NA,TRUE,0
 "SP12RT","OK",TRUE,15.4,11.6,30,TRUE,6
 "SP12RU","OK",FALSE,27.6,20,30,TRUE,34
 "SP12RX","OK",FALSE,13.4,12.5,20,TRUE,9
@@ -191,7 +178,6 @@
 "SP12SP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SP12SQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SP12SR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SP12SR","No Data",NA,NA,NA,NA,TRUE,0
 "SP12SS","OK",FALSE,16.2,13.3,30,TRUE,5
 "SP12SU","OK",FALSE,18.2,16,30,TRUE,19
 "SP12SW","OK",FALSE,12,12.2,15.6,FALSE,10

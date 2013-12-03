@@ -6,30 +6,22 @@
 "RG94AF","OK",TRUE,7.4,4.9,28.6,TRUE,10
 "RG94AG","OK",TRUE,4.9,5.8,7.2,TRUE,4
 "RG94AH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94AH","No Data",NA,NA,NA,NA,TRUE,0
 "RG94AJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94AJ","No Data",NA,NA,NA,NA,TRUE,0
 "RG94AL","OK",TRUE,3.9,4.6,5.8,TRUE,4
 "RG94AN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "RG94AP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94AP","No Data",NA,NA,NA,NA,TRUE,0
 "RG94AQ","OK",TRUE,3,3.4,5.8,TRUE,11
 "RG94AR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94AR","No Data",NA,NA,NA,NA,TRUE,0
 "RG94AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94AS","No Data",NA,NA,NA,NA,TRUE,0
 "RG94AT","OK",FALSE,10.3,9.9,14.7,TRUE,4
 "RG94AU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94AU","No Data",NA,NA,NA,NA,TRUE,0
 "RG94AW","No premises",NA,NA,NA,NA,FALSE,0
 "RG94AX","OK",FALSE,10.6,8,16,TRUE,8
 "RG94AY","OK",FALSE,5.7,5.6,9.1,TRUE,6
 "RG94BB","OK",FALSE,30,26.4,30,TRUE,4
 "RG94BG","OK",TRUE,3.3,2.5,5.4,FALSE,3
 "RG94BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94BH","No Data",NA,NA,NA,NA,FALSE,0
 "RG94BJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94BJ","No Data",NA,NA,NA,NA,FALSE,0
 "RG94BL","OK",FALSE,5.4,4.6,7.3,FALSE,3
 "RG94BN","No Data",NA,NA,NA,NA,FALSE,0
 "RG94BS","OK",TRUE,5.1,5.2,8.1,FALSE,6
@@ -39,52 +31,37 @@
 "RG94BX","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "RG94BY","OK",FALSE,4.9,4.9,6.1,FALSE,3
 "RG94DA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94DA","No Data",NA,NA,NA,NA,FALSE,0
 "RG94DB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94DB","No Data",NA,NA,NA,NA,FALSE,0
 "RG94DD","OK",TRUE,5.3,6.5,7.3,FALSE,4
 "RG94DE","OK",FALSE,4.6,5.3,5.9,FALSE,3
 "RG94DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94DF","No Data",NA,NA,NA,NA,FALSE,0
 "RG94DG","OK",TRUE,4.5,4.3,6.7,FALSE,27
 "RG94DH","OK",TRUE,3,2.5,5.9,FALSE,12
 "RG94DJ","OK",TRUE,3.8,4.8,5.6,FALSE,5
 "RG94DL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94DL","No Data",NA,NA,NA,NA,FALSE,0
 "RG94DN","OK",FALSE,5.3,5.7,9.4,FALSE,6
 "RG94DP","OK",TRUE,1.2,0.9,2.9,TRUE,14
 "RG94DR","OK",TRUE,1.1,0.9,2.4,TRUE,5
 "RG94DS","OK",TRUE,1.5,1.3,2.4,TRUE,6
 "RG94DT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94DT","No Data",NA,NA,NA,NA,TRUE,0
 "RG94DU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94DU","No Data",NA,NA,NA,NA,TRUE,0
 "RG94DW","OK",TRUE,3.3,2.8,5.6,FALSE,10
 "RG94DX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94DX","No Data",NA,NA,NA,NA,TRUE,0
 "RG94DY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94DY","No Data",NA,NA,NA,NA,TRUE,0
 "RG94DZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94DZ","No Data",NA,NA,NA,NA,TRUE,0
 "RG94EA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "RG94EB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "RG94ED","OK",TRUE,0.9,0.8,1.4,TRUE,19
 "RG94EE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94EE","No Data",NA,NA,NA,NA,TRUE,0
 "RG94EF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94EF","No Data",NA,NA,NA,NA,TRUE,0
 "RG94EG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94EG","No Data",NA,NA,NA,NA,TRUE,0
 "RG94EH","OK",TRUE,1,1,1.8,TRUE,12
 "RG94EJ","OK",TRUE,0.9,0.9,1.6,TRUE,7
 "RG94EL","OK",TRUE,0.7,0.7,1,TRUE,5
 "RG94EN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94EN","No Data",NA,NA,NA,NA,FALSE,0
 "RG94EP","OK",TRUE,0.6,0.5,1.1,TRUE,5
 "RG94EQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94EQ","No Data",NA,NA,NA,NA,TRUE,0
 "RG94ER","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94ER","No Data",NA,NA,NA,NA,TRUE,0
 "RG94ES","OK",FALSE,3.7,4.3,4.4,FALSE,3
 "RG94HA","OK",FALSE,8.9,8.9,15.5,TRUE,3
 "RG94HB","OK",TRUE,9.4,5.4,30,TRUE,13
@@ -92,77 +69,50 @@
 "RG94HE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "RG94HF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "RG94HG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94HG","No Data",NA,NA,NA,NA,TRUE,0
 "RG94HH","OK",FALSE,8.7,8.1,12.2,TRUE,3
 "RG94HJ","OK",TRUE,5.6,4.9,12.1,TRUE,4
 "RG94HL","OK",FALSE,8.5,8.1,15.5,TRUE,11
 "RG94HN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94HN","No Data",NA,NA,NA,NA,TRUE,0
 "RG94HP","OK",FALSE,5.5,5.2,8.5,TRUE,8
 "RG94HQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94HQ","No Data",NA,NA,NA,NA,TRUE,0
 "RG94HR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94HR","No Data",NA,NA,NA,NA,TRUE,0
 "RG94HS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94HS","No Data",NA,NA,NA,NA,TRUE,0
 "RG94HT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94HT","No Data",NA,NA,NA,NA,TRUE,0
 "RG94HU","OK",FALSE,3.1,3.3,3.8,TRUE,3
 "RG94HX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "RG94HY","OK",TRUE,2.9,2.9,4.9,TRUE,5
 "RG94HZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94HZ","No Data",NA,NA,NA,NA,TRUE,0
 "RG94JB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94JB","No Data",NA,NA,NA,NA,TRUE,0
 "RG94JD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94JD","No Data",NA,NA,NA,NA,TRUE,0
 "RG94JE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94JE","No Data",NA,NA,NA,NA,FALSE,0
 "RG94JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94JF","No Data",NA,NA,NA,NA,FALSE,0
 "RG94JG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94JG","No Data",NA,NA,NA,NA,FALSE,0
 "RG94JH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94JH","No Data",NA,NA,NA,NA,FALSE,0
 "RG94JJ","OK",TRUE,3.3,3.4,4.8,TRUE,3
 "RG94JL","OK",TRUE,7,8,11.8,FALSE,7
 "RG94JN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "RG94JP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94JP","No Data",NA,NA,NA,NA,FALSE,0
 "RG94JQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94JQ","No Data",NA,NA,NA,NA,FALSE,0
 "RG94JR","OK",TRUE,1.6,1.6,2.3,TRUE,5
 "RG94JS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "RG94JT","OK",TRUE,2.5,2,3.9,TRUE,6
 "RG94JU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94JU","No Data",NA,NA,NA,NA,TRUE,0
 "RG94JW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94JW","No Data",NA,NA,NA,NA,FALSE,0
 "RG94JX","OK",TRUE,3.1,3.3,3.6,TRUE,4
 "RG94JY","OK",TRUE,2.7,2.3,4.9,TRUE,9
 "RG94JZ","OK",TRUE,5.4,3.3,18.2,TRUE,6
 "RG94LA","OK",TRUE,1.1,1.2,1.4,TRUE,3
 "RG94LB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LB","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LD","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LE","OK",TRUE,1,0.9,1.3,TRUE,3
 "RG94LF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LF","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LG","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LH","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LJ","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LL","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LN","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LP","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94LQ","No Data",NA,NA,NA,NA,TRUE,0
 "RG94LR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "RG94LS","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "RG94LT","OK",TRUE,0.8,0.6,1.9,TRUE,9
@@ -172,87 +122,60 @@
 "RG94LY","OK",TRUE,0.6,0.4,1.2,TRUE,8
 "RG94LZ","OK",TRUE,0.3,0.2,0.5,TRUE,3
 "RG94NA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94NA","No Data",NA,NA,NA,NA,TRUE,0
 "RG94NB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "RG94ND","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94ND","No Data",NA,NA,NA,NA,TRUE,0
 "RG94NE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94NE","No Data",NA,NA,NA,NA,TRUE,0
 "RG94NF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"RG94NF","No Data",NA,NA,NA,NA,TRUE,0
 "RG94NG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "RG94NL","OK",TRUE,1.1,0.9,1.9,TRUE,4
 "RG94NR","OK",TRUE,14.9,13.6,30,TRUE,27
 "RG94NT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "RG94NU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94NU","No Data",NA,NA,NA,NA,FALSE,0
 "RG94NX","OK",FALSE,3.1,3.1,3.4,FALSE,3
 "RG94NY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94NY","No Data",NA,NA,NA,NA,FALSE,0
 "RG94NZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94NZ","No Data",NA,NA,NA,NA,FALSE,0
 "RG94PA","OK",FALSE,4.2,3.4,7.6,FALSE,4
 "RG94PB","OK",FALSE,5.1,5.3,5.7,FALSE,3
 "RG94PD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94PD","No Data",NA,NA,NA,NA,FALSE,0
 "RG94PG","OK",TRUE,5.3,5.3,7.6,FALSE,7
 "RG94PH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94PH","No Data",NA,NA,NA,NA,FALSE,0
 "RG94PJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "RG94PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94PL","No Data",NA,NA,NA,NA,FALSE,0
 "RG94PN","OK",FALSE,7.1,7.4,8.1,FALSE,5
 "RG94PP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94PP","No Data",NA,NA,NA,NA,FALSE,0
 "RG94PR","OK",FALSE,7,7.2,9.7,FALSE,13
 "RG94PS","No premises",NA,NA,NA,NA,FALSE,0
 "RG94PU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94PU","No Data",NA,NA,NA,NA,FALSE,0
 "RG94PX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94PX","No Data",NA,NA,NA,NA,FALSE,0
 "RG94PY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94PY","No Data",NA,NA,NA,NA,FALSE,0
 "RG94PZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94PZ","No Data",NA,NA,NA,NA,FALSE,0
 "RG94QA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94QA","No Data",NA,NA,NA,NA,FALSE,0
 "RG94QB","OK",FALSE,6.6,7.4,8.1,FALSE,14
 "RG94QD","OK",FALSE,5.7,6.5,7.4,FALSE,5
 "RG94QE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94QE","No Data",NA,NA,NA,NA,FALSE,0
 "RG94QF","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "RG94QG","OK",TRUE,9.2,7.5,30,FALSE,14
 "RG94QH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94QH","No Data",NA,NA,NA,NA,FALSE,0
 "RG94QJ","OK",FALSE,6.3,5.7,8.1,FALSE,5
 "RG94QL","OK",FALSE,7.5,7.6,8.1,FALSE,9
 "RG94QN","OK",FALSE,6.4,6.4,6.5,FALSE,3
 "RG94QQ","OK",FALSE,9.2,6.8,20.2,FALSE,7
 "RG94QR","OK",TRUE,3.8,3.8,6.8,FALSE,5
 "RG94QS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94QS","No Data",NA,NA,NA,NA,FALSE,0
 "RG94QT","OK",FALSE,6,7.5,8.1,FALSE,10
 "RG94QW","OK",FALSE,7.9,7.9,8.1,FALSE,3
 "RG94QY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94QY","No Data",NA,NA,NA,NA,FALSE,0
 "RG94QZ","OK",FALSE,6.6,6.3,8.1,FALSE,11
 "RG94RA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94RA","No Data",NA,NA,NA,NA,FALSE,0
 "RG94RB","OK",FALSE,5.9,6.8,7.6,FALSE,4
 "RG94RD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94RD","No Data",NA,NA,NA,NA,FALSE,0
 "RG94RE","OK",FALSE,7.3,7.4,8.1,FALSE,7
 "RG94RG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94RG","No Data",NA,NA,NA,NA,FALSE,0
 "RG94RH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94RH","No Data",NA,NA,NA,NA,FALSE,0
 "RG94RQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94RQ","No Data",NA,NA,NA,NA,FALSE,0
 "RG94RS","OK",TRUE,2.1,1.8,4.1,FALSE,4
 "RG94RT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94RT","No Data",NA,NA,NA,NA,FALSE,0
 "RG94RU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"RG94RU","No Data",NA,NA,NA,NA,FALSE,0
 "RG94RX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "RG94RY","OK",TRUE,1.4,1.2,2.1,FALSE,3
 "RG94RZ","OK",TRUE,2.9,2.9,4.1,FALSE,4

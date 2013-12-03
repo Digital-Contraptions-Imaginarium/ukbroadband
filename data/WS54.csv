@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WS54AL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WS54AL","No Data",NA,NA,NA,NA,FALSE,0
 "WS54AN","No premises",NA,NA,NA,NA,TRUE,0
 "WS54AW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WS54AX","No premises",NA,NA,NA,NA,TRUE,0
@@ -14,7 +13,6 @@
 "WS54BT","OK",FALSE,25.8,25,30,TRUE,13
 "WS54BU","OK",TRUE,28.1,30,30,TRUE,24
 "WS54BW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WS54BW","No Data",NA,NA,NA,NA,TRUE,0
 "WS54BX","OK",TRUE,18.4,20,30,TRUE,15
 "WS54BY","OK",TRUE,20.1,4.7,30,TRUE,18
 "WS54BZ","OK",TRUE,25.9,30,30,TRUE,16
@@ -79,7 +77,6 @@
 "WS54JW","OK",TRUE,21.4,20,30,TRUE,15
 "WS54JX","OK",FALSE,19.2,20,30,TRUE,6
 "WS54JY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WS54JY","No Data",NA,NA,NA,NA,TRUE,0
 "WS54JZ","OK",TRUE,28.8,30,30,TRUE,23
 "WS54LA","OK",TRUE,18,11.2,30,TRUE,6
 "WS54LB","OK",TRUE,12.6,3.4,30,TRUE,17
@@ -118,7 +115,6 @@
 "WS54NX","OK",FALSE,30,25,30,TRUE,8
 "WS54NY","No premises",NA,NA,NA,NA,FALSE,0
 "WS54NZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WS54NZ","No Data",NA,NA,NA,NA,TRUE,0
 "WS54PA","OK",FALSE,29.1,30,30,TRUE,24
 "WS54PB","OK",TRUE,22.5,20,30,TRUE,32
 "WS54PD","OK",TRUE,22.6,20,30,TRUE,29

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M231AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M231AA","No Data",NA,NA,NA,NA,TRUE,0
 "M231AB","OK",FALSE,27.4,20,30,TRUE,21
 "M231AD","OK",FALSE,16.7,11.9,30,TRUE,20
 "M231AE","OK",FALSE,25.2,20,30,TRUE,21
@@ -132,18 +131,14 @@
 "M231LU","OK",FALSE,23.7,19.9,30,TRUE,10
 "M231LW","OK",TRUE,26.5,20,30,TRUE,32
 "M231LX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M231LX","No Data",NA,NA,NA,NA,TRUE,0
 "M231LY","OK",FALSE,25.3,20,30,TRUE,8
 "M231LZ","OK",TRUE,30,30,30,TRUE,24
 "M231NA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M231NA","No Data",NA,NA,NA,NA,TRUE,0
 "M231NB","OK",FALSE,25.8,8,30,TRUE,43
 "M231ND","OK",FALSE,22.4,30,30,TRUE,10
 "M231NE","OK",TRUE,11.3,6.6,30,TRUE,4
 "M231NF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M231NF","No Data",NA,NA,NA,NA,TRUE,0
 "M231NG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M231NG","No Data",NA,NA,NA,NA,TRUE,0
 "M231NH","OK",FALSE,28.3,13.4,30,TRUE,10
 "M231NJ","OK",TRUE,17.5,8.4,30,TRUE,8
 "M231NL","OK",FALSE,25.1,20,30,TRUE,16

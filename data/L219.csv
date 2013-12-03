@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L219HA","OK",FALSE,23,20,30,TRUE,17
 "L219HB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L219HB","No Data",NA,NA,NA,NA,TRUE,0
 "L219HD","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L219HE","OK",FALSE,30,30,30,TRUE,3
 "L219HF","OK",FALSE,28.4,25,30,TRUE,4
@@ -53,7 +52,6 @@
 "L219LR","OK",TRUE,7.5,4.3,20,TRUE,8
 "L219LS","OK",FALSE,22.1,5.4,30,TRUE,5
 "L219LT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L219LT","No Data",NA,NA,NA,NA,TRUE,0
 "L219LU","OK",FALSE,8.6,3.1,20,TRUE,3
 "L219LW","OK",TRUE,9.1,4.3,20,TRUE,6
 "L219LX","Insufficient Data",NA,NA,NA,NA,TRUE,1

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LE74AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74AB","No Data",NA,NA,NA,NA,FALSE,0
 "LE74AD","OK",FALSE,7.2,7.4,8.1,FALSE,15
 "LE74DA","OK",TRUE,6.6,7.4,8.1,FALSE,12
 "LE74FY","OK",FALSE,7.3,8,8.1,FALSE,12
@@ -10,10 +9,8 @@
 "LE74PL","OK",TRUE,3.8,3.4,7.2,FALSE,32
 "LE74PN","OK",FALSE,5,5.6,6.4,FALSE,4
 "LE74RA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74RA","No Data",NA,NA,NA,NA,FALSE,0
 "LE74RB","OK",TRUE,5.7,5.4,8.1,FALSE,28
 "LE74RD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74RD","No Data",NA,NA,NA,NA,FALSE,0
 "LE74RF","OK",FALSE,6.6,6.9,8.1,FALSE,4
 "LE74RG","OK",FALSE,6.5,6.5,6.5,FALSE,3
 "LE74RH","OK",TRUE,6.4,6.8,8.1,FALSE,22
@@ -21,10 +18,8 @@
 "LE74RQ","OK",FALSE,5,4.3,7.6,FALSE,4
 "LE74SB","OK",TRUE,2.4,2.3,5.8,FALSE,9
 "LE74SE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74SE","No Data",NA,NA,NA,NA,FALSE,0
 "LE74SF","OK",TRUE,3.7,3.4,5.6,TRUE,13
 "LE74SG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74SG","No Data",NA,NA,NA,NA,FALSE,0
 "LE74SH","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LE74SJ","OK",FALSE,5.1,6.1,7.2,FALSE,7
 "LE74SL","OK",TRUE,2.8,2.7,3.9,FALSE,4
@@ -40,17 +35,14 @@
 "LE74TG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LE74TH","OK",FALSE,7,7.4,8.1,FALSE,15
 "LE74TJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74TJ","No Data",NA,NA,NA,NA,FALSE,0
 "LE74TL","OK",FALSE,5.9,5.8,8,FALSE,10
 "LE74TN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LE74TP","OK",FALSE,7.9,8.1,8.1,FALSE,7
 "LE74TQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74TQ","No Data",NA,NA,NA,NA,FALSE,0
 "LE74TR","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LE74TS","OK",FALSE,7.7,7.7,8.1,FALSE,4
 "LE74TT","OK",FALSE,5.9,6.2,7.6,FALSE,10
 "LE74TU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74TU","No Data",NA,NA,NA,NA,FALSE,0
 "LE74TZ","No premises",NA,NA,NA,NA,FALSE,0
 "LE74UA","OK",FALSE,5.6,6.2,7.6,FALSE,14
 "LE74UB","OK",TRUE,5.8,6.1,8.1,FALSE,15
@@ -87,13 +79,10 @@
 "LE74WW","No premises",NA,NA,NA,NA,FALSE,0
 "LE74WX","No premises",NA,NA,NA,NA,FALSE,0
 "LE74XB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74XB","No Data",NA,NA,NA,NA,FALSE,0
 "LE74XD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74XD","No Data",NA,NA,NA,NA,FALSE,0
 "LE74XE","OK",FALSE,7.6,8.1,8.1,FALSE,7
 "LE74XF","OK",FALSE,6.8,7.2,8.1,FALSE,4
 "LE74XG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74XG","No Data",NA,NA,NA,NA,FALSE,0
 "LE74XJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LE74XT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LE74XU","OK",TRUE,4.4,4.4,8.2,FALSE,40
@@ -116,7 +105,6 @@
 "LE74YR","OK",TRUE,7,7.6,8.1,FALSE,33
 "LE74YS","OK",FALSE,7.4,8,8.1,FALSE,32
 "LE74YT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE74YT","No Data",NA,NA,NA,NA,FALSE,0
 "LE74YU","OK",FALSE,6.1,5.7,6.8,FALSE,3
 "LE74YW","OK",TRUE,3.9,3.9,6.8,FALSE,30
 "LE74YX","OK",TRUE,5.3,6,8.1,TRUE,15

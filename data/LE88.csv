@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LE88AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE88AA","No Data",NA,NA,NA,NA,FALSE,0
 "LE88AB","OK",FALSE,16.2,20.1,20.3,FALSE,3
 "LE88AD","OK",TRUE,10.5,11,19.8,FALSE,28
 "LE88AE","OK",FALSE,13.7,14.7,20.2,FALSE,28

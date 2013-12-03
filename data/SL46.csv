@@ -2,10 +2,8 @@
 "SL46AA","OK",FALSE,22,19,30,TRUE,9
 "SL46AB","OK",FALSE,18.5,14.7,30,TRUE,16
 "SL46AE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46AE","No Data",NA,NA,NA,NA,TRUE,0
 "SL46AF","OK",TRUE,17.5,16.4,30,TRUE,24
 "SL46AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46AG","No Data",NA,NA,NA,NA,FALSE,0
 "SL46AH","OK",FALSE,13.5,16.3,17.4,TRUE,3
 "SL46AJ","No premises",NA,NA,NA,NA,TRUE,0
 "SL46AL","OK",FALSE,14.5,10.4,30,TRUE,6
@@ -32,91 +30,58 @@
 "SL46BS","OK",FALSE,28.4,14.4,30,TRUE,9
 "SL46BT","OK",FALSE,25.6,18.5,30,TRUE,10
 "SL46BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46BU","No Data",NA,NA,NA,NA,FALSE,0
 "SL46BW","OK",FALSE,19.7,13.7,30,TRUE,10
 "SL46BY","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DB","OK",FALSE,24.9,14.9,30,TRUE,8
 "SL46DD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46DD","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DE","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DG","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46DH","No Data",NA,NA,NA,NA,FALSE,0
 "SL46DJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46DJ","No Data",NA,NA,NA,NA,FALSE,0
 "SL46DL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46DL","No Data",NA,NA,NA,NA,FALSE,0
 "SL46DN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46DN","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46DP","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46DQ","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46DR","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46DS","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DT","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DU","OK",FALSE,17.6,9.1,30,TRUE,6
 "SL46DW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46DW","No Data",NA,NA,NA,NA,TRUE,0
 "SL46DX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46DX","No Data",NA,NA,NA,NA,FALSE,0
 "SL46DY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL46DZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46DZ","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46EA","No Data",NA,NA,NA,NA,FALSE,0
 "SL46EB","No Data",NA,NA,NA,NA,TRUE,0
 "SL46ED","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46ED","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EE","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46EF","No Data",NA,NA,NA,NA,FALSE,0
 "SL46EG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EG","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EH","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EJ","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EL","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EN","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EP","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EQ","No Data",NA,NA,NA,NA,TRUE,0
 "SL46ER","No Data",NA,NA,NA,NA,TRUE,0
 "SL46ES","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46ES","No Data",NA,NA,NA,NA,TRUE,0
 "SL46ET","OK",FALSE,25.3,10.7,30,TRUE,3
 "SL46EU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EU","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EW","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EX","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EY","No Data",NA,NA,NA,NA,TRUE,0
 "SL46EZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46EZ","No Data",NA,NA,NA,NA,TRUE,0
 "SL46FD","No Data",NA,NA,NA,NA,TRUE,0
 "SL46FE","OK",TRUE,9.5,9.2,15.9,FALSE,13
 "SL46HA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46HA","No Data",NA,NA,NA,NA,TRUE,0
 "SL46HB","OK",FALSE,10.2,11.4,16.7,TRUE,5
 "SL46HD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46HD","No Data",NA,NA,NA,NA,TRUE,0
 "SL46HE","No Data",NA,NA,NA,NA,FALSE,0
 "SL46HF","OK",FALSE,30,13.5,30,TRUE,3
 "SL46HH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46HH","No Data",NA,NA,NA,NA,TRUE,0
 "SL46HJ","OK",FALSE,9.8,10,11.3,TRUE,4
 "SL46HL","OK",TRUE,7.9,8.8,19.7,FALSE,15
 "SL46HN","No Data",NA,NA,NA,NA,FALSE,0
 "SL46HP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46HP","No Data",NA,NA,NA,NA,FALSE,0
 "SL46HR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL46HU","OK",FALSE,11.8,10.5,18.4,FALSE,3
 "SL46HW","OK",FALSE,7.2,6.9,10.6,TRUE,3
@@ -147,7 +112,6 @@
 "SL46LG","OK",FALSE,30,30,30,TRUE,12
 "SL46LH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL46LJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46LJ","No Data",NA,NA,NA,NA,TRUE,0
 "SL46LL","OK",TRUE,30,30,30,TRUE,3
 "SL46LN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL46LQ","OK",TRUE,22.7,4.6,30,TRUE,17
@@ -184,14 +148,11 @@
 "SL46PY","OK",TRUE,2.3,2.3,2.6,TRUE,3
 "SL46PZ","OK",TRUE,1.4,1.5,2.2,TRUE,3
 "SL46QA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46QA","No Data",NA,NA,NA,NA,TRUE,0
 "SL46QB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "SL46QD","OK",TRUE,3.8,1.6,17.9,TRUE,7
 "SL46QE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46QE","No Data",NA,NA,NA,NA,TRUE,0
 "SL46QF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "SL46QG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46QG","No Data",NA,NA,NA,NA,TRUE,0
 "SL46QH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL46QJ","OK",TRUE,1.9,2.3,3.1,TRUE,12
 "SL46QL","OK",TRUE,2.4,2.6,2.8,TRUE,3
@@ -199,22 +160,18 @@
 "SL46QP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL46QQ","OK",FALSE,9.1,3.2,21.6,TRUE,3
 "SL46QR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46QR","No Data",NA,NA,NA,NA,TRUE,0
 "SL46QS","OK",TRUE,3.7,4,8,TRUE,10
 "SL46QT","OK",FALSE,3.9,4.2,4.4,TRUE,3
 "SL46QU","OK",TRUE,4.6,4,10.5,TRUE,8
 "SL46QW","OK",TRUE,2.9,2.4,10,TRUE,15
 "SL46QX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46QX","No Data",NA,NA,NA,NA,FALSE,0
 "SL46QY","OK",TRUE,20.8,3.4,30,TRUE,11
 "SL46QZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SL46QZ","No Data",NA,NA,NA,NA,TRUE,0
 "SL46RA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL46RF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SL46RH","OK",TRUE,11,11.1,18.7,TRUE,5
 "SL46SA","OK",FALSE,10.5,9.5,19,FALSE,14
 "SL46SS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SL46SS","No Data",NA,NA,NA,NA,FALSE,0
 "SL46WA","No premises",NA,NA,NA,NA,FALSE,0
 "SL46XJ","No premises",NA,NA,NA,NA,FALSE,0
 "SL46ZQ","No premises",NA,NA,NA,NA,FALSE,0

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L240RB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L240RB","No Data",NA,NA,NA,NA,FALSE,0
 "L240SA","OK",FALSE,30,20,30,TRUE,31
 "L240SB","OK",TRUE,19.8,8.9,30,TRUE,26
 "L240SD","OK",FALSE,16,7.7,30,TRUE,28
@@ -35,5 +34,4 @@
 "L240TR","OK",TRUE,20.5,10.4,30,TRUE,20
 "L240TS","OK",FALSE,30,25,30,TRUE,7
 "L240TW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L240TW","No Data",NA,NA,NA,NA,FALSE,0
 "L240TY","No Data",NA,NA,NA,NA,TRUE,0

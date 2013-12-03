@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L74JB","OK",FALSE,16.5,16.6,19,TRUE,6
 "L74JE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L74JE","No Data",NA,NA,NA,NA,TRUE,0
 "L74JF","OK",FALSE,14.6,18.5,20.2,TRUE,7
 "L74JG","OK",FALSE,20.9,17.8,30,TRUE,15
 "L74JP","OK",FALSE,22.3,20,30,TRUE,16

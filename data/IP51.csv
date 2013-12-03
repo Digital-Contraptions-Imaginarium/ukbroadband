@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "IP51AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"IP51AA","No Data",NA,NA,NA,NA,TRUE,0
 "IP51AB","OK",FALSE,15.3,14.7,23.9,TRUE,4
 "IP51AD","OK",TRUE,23.1,15.6,30,TRUE,14
 "IP51AE","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -18,29 +17,23 @@
 "IP51AU","OK",FALSE,12.3,8.7,30,TRUE,15
 "IP51AW","OK",FALSE,25.2,14.5,30,TRUE,12
 "IP51AX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"IP51AX","No Data",NA,NA,NA,NA,TRUE,0
 "IP51AY","OK",TRUE,12.2,8.5,30,TRUE,17
 "IP51AZ","OK",FALSE,12,9.9,30,TRUE,13
 "IP51BA","OK",FALSE,15.2,11.1,30,TRUE,23
 "IP51BE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"IP51BE","No Data",NA,NA,NA,NA,TRUE,0
 "IP51BG","OK",FALSE,14.3,11.5,30,TRUE,10
 "IP51BH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "IP51BJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"IP51BJ","No Data",NA,NA,NA,NA,TRUE,0
 "IP51BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IP51BL","No Data",NA,NA,NA,NA,FALSE,0
 "IP51BN","OK",FALSE,19.7,19.4,23,FALSE,4
 "IP51BP","OK",FALSE,30,18.2,30,TRUE,16
 "IP51BQ","OK",FALSE,19.2,15.3,30,TRUE,9
 "IP51BT","OK",TRUE,2,2.1,3.1,FALSE,4
 "IP51BW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IP51BW","No Data",NA,NA,NA,NA,FALSE,0
 "IP51BX","OK",TRUE,2.4,2.5,2.7,FALSE,3
 "IP51BY","OK",TRUE,2.6,2.2,4.6,FALSE,8
 "IP51DA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "IP51DB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IP51DB","No Data",NA,NA,NA,NA,FALSE,0
 "IP51DD","OK",TRUE,6.3,6.1,9.9,TRUE,7
 "IP51DE","OK",TRUE,3.3,2.1,11.4,TRUE,21
 "IP51DF","OK",TRUE,1.8,1.6,2.8,FALSE,3
@@ -50,7 +43,6 @@
 "IP51DL","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "IP51DN","OK",TRUE,2.2,2.2,4.6,FALSE,32
 "IP51DP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"IP51DP","No Data",NA,NA,NA,NA,FALSE,0
 "IP51DQ","OK",TRUE,3.1,2.5,6,FALSE,7
 "IP51DR","OK",TRUE,2.8,2.4,3.8,FALSE,3
 "IP51DS","OK",TRUE,2.2,2.1,2.5,TRUE,3

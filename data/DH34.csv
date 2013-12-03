@@ -43,21 +43,15 @@
 "DH34EH","OK",TRUE,2.2,2.8,3.2,FALSE,3
 "DH34EJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DH34EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DH34EL","No Data",NA,NA,NA,NA,FALSE,0
 "DH34EN","OK",TRUE,2.9,0.5,7.7,FALSE,3
 "DH34EP","OK",TRUE,9,2.6,22.3,TRUE,3
 "DH34EQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DH34ER","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DH34ES","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34ES","No Data",NA,NA,NA,NA,TRUE,0
 "DH34EU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34EU","No Data",NA,NA,NA,NA,TRUE,0
 "DH34EW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34EW","No Data",NA,NA,NA,NA,TRUE,0
 "DH34EX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34EX","No Data",NA,NA,NA,NA,TRUE,0
 "DH34EY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34EY","No Data",NA,NA,NA,NA,TRUE,0
 "DH34GW","OK",TRUE,10.7,4.2,30,TRUE,11
 "DH34HA","OK",TRUE,4.1,4.1,6.1,TRUE,3
 "DH34HB","OK",TRUE,5.2,5.5,7.4,TRUE,8
@@ -77,7 +71,6 @@
 "DH34HX","OK",TRUE,3.3,2.3,22.4,TRUE,18
 "DH34HY","OK",TRUE,6.9,2.6,30,TRUE,15
 "DH34HZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34HZ","No Data",NA,NA,NA,NA,TRUE,0
 "DH34JB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DH34JD","OK",TRUE,2.6,2.3,3.5,TRUE,3
 "DH34JE","OK",FALSE,16.3,4.2,30,TRUE,12
@@ -85,12 +78,9 @@
 "DH34JG","OK",TRUE,17.2,2.4,30,TRUE,5
 "DH34JH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "DH34JJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34JJ","No Data",NA,NA,NA,NA,TRUE,0
 "DH34JL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34JL","No Data",NA,NA,NA,NA,TRUE,0
 "DH34JN","OK",TRUE,15,4,30,TRUE,7
 "DH34JP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34JP","No Data",NA,NA,NA,NA,TRUE,0
 "DH34JR","OK",TRUE,0.3,0.3,0.4,TRUE,3
 "DH34JS","OK",TRUE,7.7,2.2,30,TRUE,20
 "DH34JT","OK",TRUE,7.5,2.3,26.6,TRUE,29
@@ -130,42 +120,30 @@
 "DH34NL","OK",TRUE,15.8,3.9,30,TRUE,31
 "DH34NQ","OK",FALSE,12.2,4.1,30,TRUE,14
 "DH34NS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34NS","No Data",NA,NA,NA,NA,TRUE,0
 "DH34NT","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DH34NU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34NU","No Data",NA,NA,NA,NA,TRUE,0
 "DH34NX","No premises",NA,NA,NA,NA,TRUE,0
 "DH34PA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "DH34PB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DH34PB","No Data",NA,NA,NA,NA,FALSE,0
 "DH34PD","OK",FALSE,11.9,12,15.4,FALSE,4
 "DH34PE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34PE","No Data",NA,NA,NA,NA,TRUE,0
 "DH34PF","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DH34PG","OK",FALSE,14.1,14.3,18.5,FALSE,5
 "DH34PH","OK",FALSE,12.9,7,30,TRUE,6
 "DH34PJ","OK",FALSE,10.8,10.6,13.8,FALSE,5
 "DH34PL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DH34PL","No Data",NA,NA,NA,NA,FALSE,0
 "DH34PN","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "DH34PP","OK",TRUE,2.3,2.4,3.6,TRUE,3
 "DH34PQ","No premises",NA,NA,NA,NA,TRUE,0
 "DH34PS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DH34PS","No Data",NA,NA,NA,NA,FALSE,0
 "DH34PT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DH34PT","No Data",NA,NA,NA,NA,FALSE,0
 "DH34PU","OK",TRUE,3.3,3.2,6,FALSE,5
 "DH34PW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34PW","No Data",NA,NA,NA,NA,TRUE,0
 "DH34PX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34PX","No Data",NA,NA,NA,NA,TRUE,0
 "DH34PY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34PY","No Data",NA,NA,NA,NA,TRUE,0
 "DH34PZ","No Data",NA,NA,NA,NA,FALSE,0
 "DH34QA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DH34QA","No Data",NA,NA,NA,NA,FALSE,0
 "DH34QB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34QB","No Data",NA,NA,NA,NA,TRUE,0
 "DH34QG","OK",FALSE,4.3,4.3,4.9,FALSE,3
 "DH34QH","OK",TRUE,15.6,3.2,30,TRUE,16
 "DH34QJ","OK",TRUE,12.3,3.1,30,TRUE,7
@@ -174,9 +152,7 @@
 "DH34QP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "DH34QQ","OK",TRUE,12.6,3.3,30,TRUE,14
 "DH34QR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34QR","No Data",NA,NA,NA,NA,TRUE,0
 "DH34QS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DH34QS","No Data",NA,NA,NA,NA,TRUE,0
 "DH34QW","No Data",NA,NA,NA,NA,TRUE,0
 "DH34SH","OK",TRUE,13.5,2.8,30,TRUE,56
 "DH34SJ","OK",TRUE,3.5,1.5,18.3,TRUE,21

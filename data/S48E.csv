@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S48EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S48EH","No Data",NA,NA,NA,NA,FALSE,0
 "S48EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S48EL","No Data",NA,NA,NA,NA,FALSE,0
 "S48EN","OK",FALSE,5.7,6.3,8.1,FALSE,3
 "S48ES","OK",FALSE,6.1,6.1,7,FALSE,7
 "S48ET","OK",TRUE,3.8,4,6.8,FALSE,7

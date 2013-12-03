@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M332AA","OK",FALSE,14.6,15.3,21,TRUE,16
 "M332AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M332AB","No Data",NA,NA,NA,NA,TRUE,0
 "M332AD","OK",FALSE,11,9.7,16.1,TRUE,7
 "M332AE","OK",FALSE,24,15.8,30,TRUE,39
 "M332AF","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -138,7 +137,6 @@
 "M332JS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "M332JT","OK",FALSE,21.5,20.5,30,TRUE,3
 "M332JU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M332JU","No Data",NA,NA,NA,NA,TRUE,0
 "M332JW","OK",FALSE,20.5,15,30,TRUE,6
 "M332JX","OK",FALSE,23.8,9.1,30,TRUE,17
 "M332JY","OK",FALSE,30,20,30,TRUE,8
@@ -210,10 +208,8 @@
 "M332QT","OK",FALSE,16.2,5.9,30,TRUE,5
 "M332QU","OK",FALSE,30,30,30,TRUE,3
 "M332QW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M332QW","No Data",NA,NA,NA,NA,TRUE,0
 "M332QZ","No premises",NA,NA,NA,NA,FALSE,0
 "M332RA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M332RA","No Data",NA,NA,NA,NA,TRUE,0
 "M332RB","OK",FALSE,22.5,30,30,TRUE,5
 "M332RD","OK",TRUE,21.3,20,30,TRUE,21
 "M332RE","OK",FALSE,27.4,30,30,TRUE,15

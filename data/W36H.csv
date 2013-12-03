@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W36HA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W36HA","No Data",NA,NA,NA,NA,TRUE,0
 "W36HB","OK",FALSE,22.5,20,30,TRUE,20
 "W36HD","OK",FALSE,30,20,30,TRUE,14
 "W36HE","OK",FALSE,17.4,17.6,30,TRUE,12
@@ -12,7 +11,6 @@
 "W36HN","OK",TRUE,29.8,30,30,TRUE,30
 "W36HP","OK",TRUE,23.6,20,30,TRUE,17
 "W36HQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W36HQ","No Data",NA,NA,NA,NA,TRUE,0
 "W36HR","OK",FALSE,30,20.9,30,TRUE,37
 "W36HT","OK",FALSE,12.5,11.7,19.2,TRUE,4
 "W36HW","OK",FALSE,29.1,18.2,30,TRUE,17

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E59SA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E59SA","No Data",NA,NA,NA,NA,TRUE,0
 "E59SH","No premises",NA,NA,NA,NA,FALSE,0
 "E59SP","OK",FALSE,18.2,16.9,30,TRUE,37
 "E59SR","OK",FALSE,14.6,14.3,30,TRUE,24

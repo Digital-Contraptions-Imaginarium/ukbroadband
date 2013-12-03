@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L23PF","No premises",NA,NA,NA,NA,FALSE,0
 "L23PG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L23PG","No Data",NA,NA,NA,NA,FALSE,0
 "L23PH","OK",FALSE,14.6,14.8,20.2,FALSE,21
 "L23PQ","OK",FALSE,7.6,7.8,8.1,FALSE,5
 "L23PS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L23PS","No Data",NA,NA,NA,NA,FALSE,0

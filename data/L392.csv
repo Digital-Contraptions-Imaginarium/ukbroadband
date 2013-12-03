@@ -4,7 +4,6 @@
 "L392AG","OK",TRUE,1.8,1.8,2.3,FALSE,3
 "L392AH","OK",FALSE,17.4,19.9,21.4,FALSE,4
 "L392AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392AJ","No Data",NA,NA,NA,NA,FALSE,0
 "L392AL","No premises",NA,NA,NA,NA,FALSE,0
 "L392AN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "L392AP","OK",TRUE,20.5,19.5,30,TRUE,36
@@ -71,60 +70,34 @@
 "L392JG","No premises",NA,NA,NA,NA,FALSE,0
 "L392JN","OK",FALSE,11,13.1,13.3,TRUE,5
 "L392JQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392JQ","No Data",NA,NA,NA,NA,FALSE,0
 "L392JW","No premises",NA,NA,NA,NA,TRUE,0
 "L392JX","No premises",NA,NA,NA,NA,FALSE,0
 "L392SA","No premises",NA,NA,NA,NA,FALSE,0
 "L392SB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SB","No Data",NA,NA,NA,NA,FALSE,0
 "L392SD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SD","No Data",NA,NA,NA,NA,FALSE,0
 "L392SE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SE","No Data",NA,NA,NA,NA,FALSE,0
 "L392SF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SF","No Data",NA,NA,NA,NA,FALSE,0
 "L392SG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SG","No Data",NA,NA,NA,NA,FALSE,0
 "L392SH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SH","No Data",NA,NA,NA,NA,FALSE,0
 "L392SJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SJ","No Data",NA,NA,NA,NA,FALSE,0
 "L392SL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SL","No Data",NA,NA,NA,NA,FALSE,0
 "L392SN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SN","No Data",NA,NA,NA,NA,FALSE,0
 "L392SP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SP","No Data",NA,NA,NA,NA,FALSE,0
 "L392SQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SQ","No Data",NA,NA,NA,NA,FALSE,0
 "L392SR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SR","No Data",NA,NA,NA,NA,FALSE,0
 "L392SS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SS","No Data",NA,NA,NA,NA,FALSE,0
 "L392ST","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392ST","No Data",NA,NA,NA,NA,FALSE,0
 "L392SU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SU","No Data",NA,NA,NA,NA,FALSE,0
 "L392SW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SW","No Data",NA,NA,NA,NA,FALSE,0
 "L392SX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SX","No Data",NA,NA,NA,NA,FALSE,0
 "L392SY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SY","No Data",NA,NA,NA,NA,FALSE,0
 "L392SZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392SZ","No Data",NA,NA,NA,NA,FALSE,0
 "L392TA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392TA","No Data",NA,NA,NA,NA,FALSE,0
 "L392TB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392TB","No Data",NA,NA,NA,NA,FALSE,0
 "L392TD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392TD","No Data",NA,NA,NA,NA,FALSE,0
 "L392TE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392TE","No Data",NA,NA,NA,NA,FALSE,0
 "L392TF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392TF","No Data",NA,NA,NA,NA,FALSE,0
 "L392TH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392TH","No Data",NA,NA,NA,NA,FALSE,0
 "L392WA","No premises",NA,NA,NA,NA,FALSE,0
 "L392WB","No premises",NA,NA,NA,NA,FALSE,0
 "L392WF","No premises",NA,NA,NA,NA,FALSE,0
@@ -151,6 +124,5 @@
 "L392YS","OK",FALSE,22.3,13.7,30,TRUE,13
 "L392YT","OK",FALSE,19.3,15.5,30,TRUE,23
 "L392YU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L392YU","No Data",NA,NA,NA,NA,FALSE,0
 "L392YW","OK",FALSE,30,16.6,30,TRUE,12
 "L392YX","OK",FALSE,13.6,11.4,30,TRUE,24

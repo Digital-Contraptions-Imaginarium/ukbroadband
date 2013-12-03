@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "KT82AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"KT82AB","No Data",NA,NA,NA,NA,FALSE,0
 "KT82AD","OK",TRUE,2.5,2.6,4.1,TRUE,10
 "KT82AE","OK",TRUE,17.1,2.5,30,TRUE,4
 "KT82AS","OK",TRUE,30,23.5,30,TRUE,19
@@ -52,7 +51,6 @@
 "KT82JG","OK",TRUE,30,20,30,TRUE,19
 "KT82JH","OK",FALSE,17.3,14.8,30,TRUE,7
 "KT82JL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"KT82JL","No Data",NA,NA,NA,NA,TRUE,0
 "KT82JN","OK",FALSE,19.4,14.3,30,TRUE,12
 "KT82JP","OK",TRUE,24.5,20,30,TRUE,29
 "KT82JQ","OK",FALSE,9.8,10.1,10.2,TRUE,3
@@ -89,12 +87,10 @@
 "KT82NJ","OK",TRUE,29.4,20,30,TRUE,41
 "KT82NL","OK",TRUE,20.2,5.2,30,TRUE,26
 "KT82NP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"KT82NP","No Data",NA,NA,NA,NA,TRUE,0
 "KT82NQ","OK",TRUE,29.3,30,30,TRUE,37
 "KT82NS","OK",FALSE,26.1,20,30,TRUE,15
 "KT82NT","OK",TRUE,21.2,5.7,30,TRUE,21
 "KT82NU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"KT82NU","No Data",NA,NA,NA,NA,TRUE,0
 "KT82NW","OK",TRUE,25.2,5.6,30,TRUE,26
 "KT82NY","OK",TRUE,19.3,6.6,30,TRUE,22
 "KT82NZ","No premises",NA,NA,NA,NA,TRUE,0
@@ -135,19 +131,15 @@
 "KT82QZ","OK",TRUE,2.5,1.7,5.2,TRUE,9
 "KT82RF","No premises",NA,NA,NA,NA,TRUE,0
 "KT82RG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"KT82RG","No Data",NA,NA,NA,NA,TRUE,0
 "KT82RH","OK",FALSE,11.7,5.6,30,TRUE,12
 "KT82RT","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "KT82RX","No premises",NA,NA,NA,NA,FALSE,0
 "KT82RY","OK",FALSE,8.6,5,19.8,TRUE,5
 "KT82SA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"KT82SA","No Data",NA,NA,NA,NA,TRUE,0
 "KT82SB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"KT82SB","No Data",NA,NA,NA,NA,TRUE,0
 "KT82SY","OK",FALSE,27.9,20,30,TRUE,25
 "KT82SZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "KT82TA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"KT82TA","No Data",NA,NA,NA,NA,TRUE,0
 "KT82TB","OK",TRUE,30,20,30,TRUE,27
 "KT82TD","OK",TRUE,18.9,20,30,TRUE,24
 "KT82TE","OK",TRUE,16.1,7,30,TRUE,19
@@ -168,7 +160,6 @@
 "KT82UA","No premises",NA,NA,NA,NA,TRUE,0
 "KT82UP","No premises",NA,NA,NA,NA,TRUE,0
 "KT82UU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"KT82UU","No Data",NA,NA,NA,NA,TRUE,0
 "KT82UZ","OK",FALSE,30,30,30,TRUE,5
 "KT82XF","No premises",NA,NA,NA,NA,FALSE,0
 "KT82YN","No premises",NA,NA,NA,NA,FALSE,0

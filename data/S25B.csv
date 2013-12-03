@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S25BA","No premises",NA,NA,NA,NA,FALSE,0
 "S25BD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S25BD","No Data",NA,NA,NA,NA,TRUE,0
 "S25BE","OK",TRUE,14.1,5.3,30,TRUE,14
 "S25BG","OK",TRUE,17.7,4.9,30,TRUE,29
 "S25BH","OK",TRUE,10.8,4.8,30,TRUE,11

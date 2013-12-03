@@ -1,11 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L38HA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "L38HB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L38HB","No Data",NA,NA,NA,NA,FALSE,0
 "L38HD","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "L38HE","OK",FALSE,8.4,8.1,14.3,FALSE,7
 "L38HJ","OK",FALSE,12,12.3,14.8,FALSE,26
 "L38HL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L38HL","No Data",NA,NA,NA,NA,FALSE,0
 "L38HR","OK",TRUE,7.9,6.4,17.6,TRUE,19
 "L38HY","OK",FALSE,17.4,18,22,FALSE,40

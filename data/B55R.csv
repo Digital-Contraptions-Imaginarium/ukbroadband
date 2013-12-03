@@ -1,16 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B55RA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B55RA","No Data",NA,NA,NA,NA,FALSE,0
 "B55RB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B55RB","No Data",NA,NA,NA,NA,FALSE,0
 "B55RD","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B55RF","OK",FALSE,9.8,7.7,17.1,FALSE,4
 "B55RG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B55RH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B55RH","No Data",NA,NA,NA,NA,FALSE,0
 "B55RR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B55RR","No Data",NA,NA,NA,NA,FALSE,0
 "B55RS","No Data",NA,NA,NA,NA,FALSE,0
 "B55RT","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B55RX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B55RX","No Data",NA,NA,NA,NA,FALSE,0

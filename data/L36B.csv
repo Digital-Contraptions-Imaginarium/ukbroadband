@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L36BA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "L36BG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L36BG","No Data",NA,NA,NA,NA,FALSE,0
 "L36BL","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L36BN","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "L36BR","No Data",NA,NA,NA,NA,TRUE,0

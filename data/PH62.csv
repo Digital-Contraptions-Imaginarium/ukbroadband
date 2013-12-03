@@ -1,17 +1,14 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PH62AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62AB","No Data",NA,NA,NA,NA,FALSE,0
 "PH62BA","OK",FALSE,8.1,8.1,8.1,FALSE,7
 "PH62BB","OK",TRUE,6.8,7.8,8.1,FALSE,7
 "PH62DA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62DA","No Data",NA,NA,NA,NA,FALSE,0
 "PH62DB","OK",FALSE,9.4,8.1,13.4,FALSE,4
 "PH62DD","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "PH62DE","OK",FALSE,7.3,3.7,19,FALSE,5
 "PH62DF","OK",FALSE,5.5,5.5,8.1,FALSE,3
 "PH62DG","OK",FALSE,8,8,8.1,FALSE,3
 "PH62DH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62DH","No Data",NA,NA,NA,NA,FALSE,0
 "PH62DJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PH62DL","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "PH62DN","No premises",NA,NA,NA,NA,FALSE,0
@@ -64,16 +61,13 @@
 "PH62HT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PH62HU","OK",FALSE,7,7.4,8.1,FALSE,7
 "PH62HW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62HW","No Data",NA,NA,NA,NA,FALSE,0
 "PH62HX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62HX","No Data",NA,NA,NA,NA,FALSE,0
 "PH62HZ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PH62JA","OK",FALSE,5.8,5.2,8.1,FALSE,4
 "PH62JB","OK",TRUE,4,4,7.4,FALSE,3
 "PH62JD","OK",FALSE,4.3,4.3,6.4,FALSE,3
 "PH62JE","OK",FALSE,5.3,5.1,5.8,FALSE,3
 "PH62JF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62JF","No Data",NA,NA,NA,NA,FALSE,0
 "PH62JG","OK",FALSE,4,4.5,5.1,FALSE,3
 "PH62JH","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "PH62JJ","OK",TRUE,2.9,2.9,4.5,FALSE,6
@@ -90,7 +84,6 @@
 "PH62LB","OK",TRUE,1.8,1,4.3,FALSE,4
 "PH62LD","OK",FALSE,3.2,2.8,4,FALSE,4
 "PH62LE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62LE","No Data",NA,NA,NA,NA,FALSE,0
 "PH62LJ","OK",FALSE,9.1,8.1,15.3,FALSE,7
 "PH62LN","OK",FALSE,7.2,8.1,12.6,FALSE,25
 "PH62LP","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -103,16 +96,13 @@
 "PH62LZ","OK",FALSE,7.2,7.8,8.1,FALSE,6
 "PH62NA","OK",TRUE,6.8,8.1,8.1,FALSE,16
 "PH62NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62NB","No Data",NA,NA,NA,NA,FALSE,0
 "PH62ND","OK",TRUE,6.1,7.6,8.1,FALSE,18
 "PH62NE","OK",FALSE,7,7.1,8.1,FALSE,8
 "PH62NF","OK",FALSE,7,7.6,8.1,FALSE,28
 "PH62NG","OK",TRUE,5.3,5.7,8.1,FALSE,12
 "PH62NH","OK",TRUE,4.9,5.7,8.1,FALSE,5
 "PH62NJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62NJ","No Data",NA,NA,NA,NA,FALSE,0
 "PH62NL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PH62NL","No Data",NA,NA,NA,NA,FALSE,0
 "PH62NN","No Data",NA,NA,NA,NA,FALSE,0
 "PH62NQ","OK",FALSE,7.6,7.8,8.1,FALSE,5
 "PH62NW","OK",FALSE,6.7,7.7,8.1,FALSE,22

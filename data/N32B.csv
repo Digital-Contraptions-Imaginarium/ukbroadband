@@ -3,7 +3,6 @@
 "N32BB","No premises",NA,NA,NA,NA,TRUE,0
 "N32BE","OK",FALSE,25.3,17,30,TRUE,8
 "N32BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"N32BF","No Data",NA,NA,NA,NA,FALSE,0
 "N32BG","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "N32BH","No premises",NA,NA,NA,NA,TRUE,0
 "N32BJ","OK",FALSE,21.1,15.4,30,TRUE,6

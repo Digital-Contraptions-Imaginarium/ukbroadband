@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WF95AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WF95AA","No Data",NA,NA,NA,NA,TRUE,0
 "WF95AJ","OK",TRUE,3.8,4.3,7.7,TRUE,10
 "WF95AL","OK",FALSE,22.5,22.5,30,TRUE,3
 "WF95AN","OK",TRUE,1.1,1.1,1.2,TRUE,3
@@ -33,7 +32,6 @@
 "WF95DB","OK",TRUE,4.9,4.8,8.4,FALSE,14
 "WF95DD","OK",FALSE,5.1,5.1,6.7,FALSE,5
 "WF95DE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WF95DE","No Data",NA,NA,NA,NA,TRUE,0
 "WF95DF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WF95DG","OK",FALSE,5.8,4.5,21.4,TRUE,15
 "WF95DH","OK",TRUE,4.1,4.1,7.3,TRUE,18
@@ -51,7 +49,6 @@
 "WF95DY","OK",FALSE,17.9,8.2,30,TRUE,4
 "WF95DZ","OK",TRUE,10.6,6.7,30,TRUE,7
 "WF95EA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WF95EA","No Data",NA,NA,NA,NA,TRUE,0
 "WF95EB","OK",FALSE,9.1,7.8,15.4,TRUE,4
 "WF95ED","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WF95EE","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -62,7 +59,6 @@
 "WF95EN","OK",FALSE,7.2,4.8,13.2,TRUE,5
 "WF95EP","No Data",NA,NA,NA,NA,FALSE,0
 "WF95EQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WF95EQ","No Data",NA,NA,NA,NA,TRUE,0
 "WF95ER","OK",FALSE,6.3,6.7,11.9,TRUE,11
 "WF95ES","OK",FALSE,13.5,13.3,16,TRUE,7
 "WF95EW","OK",FALSE,11.4,12.3,15.6,TRUE,12
@@ -81,7 +77,6 @@
 "WF95HP","OK",FALSE,20.2,19.6,24.4,FALSE,6
 "WF95HQ","OK",FALSE,8.9,9,10.4,TRUE,4
 "WF95HR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WF95HR","No Data",NA,NA,NA,NA,FALSE,0
 "WF95HS","OK",FALSE,18.8,20.1,22.7,FALSE,10
 "WF95HT","OK",FALSE,13.2,13.8,19.9,FALSE,8
 "WF95HU","OK",FALSE,15.4,17.2,21.2,FALSE,6
@@ -89,12 +84,9 @@
 "WF95HY","OK",FALSE,14.3,15.2,19.9,TRUE,13
 "WF95HZ","OK",FALSE,14.1,14.8,21,FALSE,12
 "WF95JA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"WF95JA","No Data",NA,NA,NA,NA,FALSE,0
 "WF95JB","OK",TRUE,6.4,2.9,30,TRUE,14
 "WF95JD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WF95JD","No Data",NA,NA,NA,NA,TRUE,0
 "WF95JE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WF95JE","No Data",NA,NA,NA,NA,TRUE,0
 "WF95JF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "WF95JH","OK",FALSE,14.6,8.8,30,TRUE,23
 "WF95JJ","OK",FALSE,7.3,6.6,11.4,TRUE,6

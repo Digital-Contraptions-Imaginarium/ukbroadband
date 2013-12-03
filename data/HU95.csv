@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HU95AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95AA","No Data",NA,NA,NA,NA,FALSE,0
 "HU95AB","OK",FALSE,11.6,10.8,13.4,FALSE,3
 "HU95AD","OK",FALSE,11.3,10.3,15.4,FALSE,3
 "HU95AF","OK",TRUE,7.2,8.5,9.9,FALSE,6
@@ -35,7 +34,6 @@
 "HU95DD","OK",FALSE,30,5.7,30,TRUE,5
 "HU95DE","OK",FALSE,11.4,5.1,30,TRUE,7
 "HU95DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95DF","No Data",NA,NA,NA,NA,FALSE,0
 "HU95DG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "HU95DH","OK",TRUE,3.3,3.3,6.1,FALSE,7
 "HU95DJ","OK",FALSE,3.7,3.1,7.2,FALSE,8
@@ -102,7 +100,6 @@
 "HU95LN","No premises",NA,NA,NA,NA,TRUE,0
 "HU95LP","No Data",NA,NA,NA,NA,TRUE,0
 "HU95LR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU95LR","No Data",NA,NA,NA,NA,TRUE,0
 "HU95LS","No premises",NA,NA,NA,NA,TRUE,0
 "HU95LT","No premises",NA,NA,NA,NA,TRUE,0
 "HU95LU","No Data",NA,NA,NA,NA,TRUE,0
@@ -110,20 +107,16 @@
 "HU95LZ","No premises",NA,NA,NA,NA,TRUE,0
 "HU95NA","No premises",NA,NA,NA,NA,TRUE,0
 "HU95NF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU95NF","No Data",NA,NA,NA,NA,TRUE,0
 "HU95NJ","No premises",NA,NA,NA,NA,TRUE,0
 "HU95NL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU95NL","No Data",NA,NA,NA,NA,TRUE,0
 "HU95NP","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HU95NS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95NS","No Data",NA,NA,NA,NA,FALSE,0
 "HU95NU","No premises",NA,NA,NA,NA,TRUE,0
 "HU95NX","No Data",NA,NA,NA,NA,TRUE,0
 "HU95PB","No Data",NA,NA,NA,NA,TRUE,0
 "HU95PE","No Data",NA,NA,NA,NA,TRUE,0
 "HU95PJ","No premises",NA,NA,NA,NA,TRUE,0
 "HU95PL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU95PL","No Data",NA,NA,NA,NA,TRUE,0
 "HU95PQ","No premises",NA,NA,NA,NA,TRUE,0
 "HU95PR","No Data",NA,NA,NA,NA,TRUE,0
 "HU95PS","No premises",NA,NA,NA,NA,TRUE,0
@@ -153,11 +146,8 @@
 "HU95RN","OK",FALSE,6.4,6.7,8.1,TRUE,7
 "HU95RQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "HU95RS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95RS","No Data",NA,NA,NA,NA,FALSE,0
 "HU95RT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95RT","No Data",NA,NA,NA,NA,FALSE,0
 "HU95RX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95RX","No Data",NA,NA,NA,NA,FALSE,0
 "HU95SA","OK",FALSE,5.7,6.5,7.4,TRUE,10
 "HU95SB","OK",TRUE,5.1,5.6,6.9,TRUE,9
 "HU95SD","No Data",NA,NA,NA,NA,TRUE,0
@@ -166,14 +156,12 @@
 "HU95SJ","OK",FALSE,6.3,7.1,7.6,FALSE,9
 "HU95SL","OK",FALSE,7.4,7.7,11.3,FALSE,12
 "HU95SN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95SN","No Data",NA,NA,NA,NA,FALSE,0
 "HU95SP","OK",FALSE,6.2,6.1,7.4,FALSE,3
 "HU95SQ","OK",FALSE,6.7,7.2,8.9,FALSE,7
 "HU95SR","OK",FALSE,6.2,6.8,7.2,FALSE,4
 "HU95SS","OK",FALSE,7.1,7.2,8.2,FALSE,5
 "HU95ST","OK",FALSE,5.4,5.9,6.9,FALSE,14
 "HU95SU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95SU","No Data",NA,NA,NA,NA,FALSE,0
 "HU95SW","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "HU95SY","OK",FALSE,5.8,6.1,7.8,FALSE,43
 "HU95SZ","OK",TRUE,6.1,6.1,8.2,FALSE,14
@@ -209,20 +197,15 @@
 "HU95UW","OK",FALSE,7.1,8.2,9.2,FALSE,10
 "HU95UX","OK",FALSE,6,6.2,9,FALSE,8
 "HU95UY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95UY","No Data",NA,NA,NA,NA,FALSE,0
 "HU95UZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95UZ","No Data",NA,NA,NA,NA,FALSE,0
 "HU95WA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HU95WA","No Data",NA,NA,NA,NA,TRUE,0
 "HU95WE","OK",FALSE,7.4,8.2,8.3,FALSE,4
 "HU95XA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "HU95XB","OK",FALSE,10.1,10.1,12.8,FALSE,6
 "HU95XD","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HU95XS","OK",FALSE,14.4,16.8,18.1,FALSE,5
 "HU95XT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95XT","No Data",NA,NA,NA,NA,FALSE,0
 "HU95XU","OK",FALSE,13.8,14.1,19.2,FALSE,21
 "HU95XZ","OK",FALSE,12.8,12.9,14.8,FALSE,8
 "HU95YA","OK",FALSE,9.8,9,14.6,FALSE,10
 "HU95YB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HU95YB","No Data",NA,NA,NA,NA,FALSE,0

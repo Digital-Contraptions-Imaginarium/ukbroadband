@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HA12AA","OK",FALSE,9.3,8.1,13.5,TRUE,7
 "HA12AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA12AB","No Data",NA,NA,NA,NA,FALSE,0
 "HA12AD","No premises",NA,NA,NA,NA,TRUE,0
 "HA12AE","No premises",NA,NA,NA,NA,TRUE,0
 "HA12AG","OK",FALSE,8.6,7.8,10.2,TRUE,4
@@ -9,7 +8,6 @@
 "HA12AN","No premises",NA,NA,NA,NA,FALSE,0
 "HA12AP","OK",FALSE,11.2,11.4,13.3,TRUE,5
 "HA12AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA12AQ","No Data",NA,NA,NA,NA,FALSE,0
 "HA12AT","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HA12AU","No premises",NA,NA,NA,NA,FALSE,0
 "HA12AW","OK",TRUE,14.7,14.3,30,TRUE,16
@@ -26,7 +24,6 @@
 "HA12BW","OK",TRUE,28,10.7,30,TRUE,26
 "HA12BX","OK",FALSE,11.4,8.3,30,TRUE,20
 "HA12DD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA12DD","No Data",NA,NA,NA,NA,TRUE,0
 "HA12DE","OK",FALSE,6.8,7.4,10,TRUE,4
 "HA12DH","No premises",NA,NA,NA,NA,TRUE,0
 "HA12DR","OK",TRUE,6.9,7.7,9.1,TRUE,7
@@ -47,9 +44,7 @@
 "HA12ET","OK",FALSE,23.9,11.5,30,TRUE,12
 "HA12EU","No premises",NA,NA,NA,NA,FALSE,0
 "HA12EW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA12EW","No Data",NA,NA,NA,NA,FALSE,0
 "HA12EX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA12EX","No Data",NA,NA,NA,NA,TRUE,0
 "HA12EY","No premises",NA,NA,NA,NA,TRUE,0
 "HA12FH","OK",TRUE,22.5,4.9,30,TRUE,4
 "HA12FJ","OK",FALSE,16.8,8.9,30,TRUE,17
@@ -170,7 +165,6 @@
 "HA12RT","OK",FALSE,29.9,20,30,TRUE,16
 "HA12RU","OK",FALSE,12,11.2,15.8,TRUE,5
 "HA12RW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA12RW","No Data",NA,NA,NA,NA,TRUE,0
 "HA12RX","OK",FALSE,20.4,17.2,30,TRUE,41
 "HA12RY","OK",FALSE,27.6,23.2,30,TRUE,7
 "HA12RZ","OK",TRUE,27,19,30,TRUE,61
@@ -179,7 +173,6 @@
 "HA12SF","OK",FALSE,22.3,17.9,30,TRUE,25
 "HA12SG","OK",FALSE,30,20,30,TRUE,23
 "HA12SL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA12SL","No Data",NA,NA,NA,NA,TRUE,0
 "HA12SP","OK",TRUE,8.1,8,14.3,TRUE,10
 "HA12SQ","OK",TRUE,22,16.8,30,TRUE,28
 "HA12SU","No Data",NA,NA,NA,NA,FALSE,0
@@ -223,7 +216,6 @@
 "HA12XS","No premises",NA,NA,NA,NA,FALSE,0
 "HA12XU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HA12XY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA12XY","No Data",NA,NA,NA,NA,FALSE,0
 "HA12XZ","No premises",NA,NA,NA,NA,FALSE,0
 "HA12YD","OK",FALSE,20.6,25,30,TRUE,10
 "HA12YF","No premises",NA,NA,NA,NA,FALSE,0

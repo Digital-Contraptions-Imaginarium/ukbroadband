@@ -5,12 +5,10 @@
 "E145AG","No premises",NA,NA,NA,NA,FALSE,0
 "E145AH","OK",FALSE,7.8,8.1,8.1,FALSE,7
 "E145AJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145AJ","No Data",NA,NA,NA,NA,FALSE,0
 "E145AL","No premises",NA,NA,NA,NA,FALSE,0
 "E145AN","No premises",NA,NA,NA,NA,FALSE,0
 "E145AP","No premises",NA,NA,NA,NA,FALSE,0
 "E145AQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145AQ","No Data",NA,NA,NA,NA,FALSE,0
 "E145AW","No premises",NA,NA,NA,NA,FALSE,0
 "E145AX","OK",TRUE,6.7,8.1,8.1,FALSE,16
 "E145BA","No premises",NA,NA,NA,NA,FALSE,0
@@ -44,16 +42,11 @@
 "E145DX","No premises",NA,NA,NA,NA,FALSE,0
 "E145DY","No premises",NA,NA,NA,NA,FALSE,0
 "E145EA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145EA","No Data",NA,NA,NA,NA,FALSE,0
 "E145EB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145EB","No Data",NA,NA,NA,NA,FALSE,0
 "E145ED","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145ED","No Data",NA,NA,NA,NA,FALSE,0
 "E145EE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145EE","No Data",NA,NA,NA,NA,FALSE,0
 "E145EG","No premises",NA,NA,NA,NA,FALSE,0
 "E145EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145EH","No Data",NA,NA,NA,NA,FALSE,0
 "E145EJ","No premises",NA,NA,NA,NA,FALSE,0
 "E145EL","No premises",NA,NA,NA,NA,FALSE,0
 "E145EN","No premises",NA,NA,NA,NA,FALSE,0
@@ -72,15 +65,12 @@
 "E145GE","OK",FALSE,6.6,5.5,12.2,FALSE,8
 "E145GH","No premises",NA,NA,NA,NA,FALSE,0
 "E145GJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145GJ","No Data",NA,NA,NA,NA,FALSE,0
 "E145GL","No premises",NA,NA,NA,NA,FALSE,0
 "E145GN","No premises",NA,NA,NA,NA,FALSE,0
 "E145GP","No premises",NA,NA,NA,NA,FALSE,0
 "E145HA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145HA","No Data",NA,NA,NA,NA,FALSE,0
 "E145HB","No premises",NA,NA,NA,NA,FALSE,0
 "E145HD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145HD","No Data",NA,NA,NA,NA,FALSE,0
 "E145HH","No premises",NA,NA,NA,NA,FALSE,0
 "E145HJ","No premises",NA,NA,NA,NA,FALSE,0
 "E145HN","No premises",NA,NA,NA,NA,FALSE,0
@@ -88,10 +78,8 @@
 "E145HQ","No premises",NA,NA,NA,NA,TRUE,0
 "E145HS","No premises",NA,NA,NA,NA,FALSE,0
 "E145HU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145HU","No Data",NA,NA,NA,NA,FALSE,0
 "E145HX","OK",FALSE,7.2,7.4,8.1,FALSE,3
 "E145HZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145HZ","No Data",NA,NA,NA,NA,FALSE,0
 "E145JJ","No premises",NA,NA,NA,NA,FALSE,0
 "E145JP","No premises",NA,NA,NA,NA,FALSE,0
 "E145LB","No premises",NA,NA,NA,NA,TRUE,0
@@ -109,7 +97,6 @@
 "E145NT","No premises",NA,NA,NA,NA,FALSE,0
 "E145NU","No premises",NA,NA,NA,NA,FALSE,0
 "E145NW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E145NW","No Data",NA,NA,NA,NA,FALSE,0
 "E145NY","OK",TRUE,4.8,5.4,6.8,TRUE,36
 "E145RB","OK",TRUE,5.7,6,7.7,FALSE,14
 "E145RD","No premises",NA,NA,NA,NA,FALSE,0
@@ -119,7 +106,6 @@
 "E145SG","OK",TRUE,5.8,6,10.1,FALSE,54
 "E145SH","OK",TRUE,16.8,6.6,30,TRUE,103
 "E145SP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"E145SP","No Data",NA,NA,NA,NA,TRUE,0
 "E145SQ","OK",FALSE,7.1,6.7,23.2,FALSE,61
 "E145ST","OK",TRUE,9.6,8.1,18.3,FALSE,10
 "E145SU","No premises",NA,NA,NA,NA,FALSE,0

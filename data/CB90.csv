@@ -26,11 +26,8 @@
 "CB90BG","No premises",NA,NA,NA,NA,FALSE,0
 "CB90BL","OK",FALSE,25.4,9.4,30,TRUE,8
 "CB90BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CB90BN","No Data",NA,NA,NA,NA,TRUE,0
 "CB90BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CB90BQ","No Data",NA,NA,NA,NA,FALSE,0
 "CB90BW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CB90BW","No Data",NA,NA,NA,NA,TRUE,0
 "CB90BZ","OK",TRUE,15.8,17.1,20.8,FALSE,45
 "CB90DA","OK",TRUE,16.2,18.1,22.9,FALSE,27
 "CB90DB","Insufficient Data",NA,NA,NA,NA,FALSE,2

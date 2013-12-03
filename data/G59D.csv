@@ -3,5 +3,4 @@
 "G59DE","OK",TRUE,14,15.5,21.2,FALSE,26
 "G59DS","No premises",NA,NA,NA,NA,FALSE,0
 "G59DT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G59DT","No Data",NA,NA,NA,NA,FALSE,0
 "G59DW","Insufficient Data",NA,NA,NA,NA,FALSE,2

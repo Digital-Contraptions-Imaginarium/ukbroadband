@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HD11AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD11AA","No Data",NA,NA,NA,NA,FALSE,0
 "HD11BA","OK",FALSE,11.6,8.1,18.9,TRUE,3
 "HD11BG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HD11BL","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -15,9 +14,7 @@
 "HD11DD","OK",FALSE,20.1,22.4,30,TRUE,5
 "HD11DE","No premises",NA,NA,NA,NA,FALSE,0
 "HD11DG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD11DG","No Data",NA,NA,NA,NA,TRUE,0
 "HD11DH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD11DH","No Data",NA,NA,NA,NA,TRUE,0
 "HD11DL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD11DR","OK",TRUE,16.3,15.4,30,TRUE,9
 "HD11DT","OK",TRUE,10.4,10.8,17.2,TRUE,6
@@ -26,7 +23,6 @@
 "HD11EB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HD11ED","No premises",NA,NA,NA,NA,FALSE,0
 "HD11EG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD11EG","No Data",NA,NA,NA,NA,TRUE,0
 "HD11EH","OK",TRUE,14.2,13.9,22.5,TRUE,17
 "HD11ER","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HD11ES","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -40,7 +36,6 @@
 "HD11LA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HD11LE","No premises",NA,NA,NA,NA,FALSE,0
 "HD11LJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD11LJ","No Data",NA,NA,NA,NA,TRUE,0
 "HD11LN","No Data",NA,NA,NA,NA,FALSE,0
 "HD11LS","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HD11LY","No premises",NA,NA,NA,NA,FALSE,0
@@ -50,7 +45,6 @@
 "HD11NU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HD11NX","OK",TRUE,16.2,19,22.5,TRUE,12
 "HD11NY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD11NY","No Data",NA,NA,NA,NA,TRUE,0
 "HD11PA","No premises",NA,NA,NA,NA,FALSE,0
 "HD11PB","OK",FALSE,13.7,13.5,17,TRUE,4
 "HD11QA","OK",TRUE,16.3,20.6,23,TRUE,5
@@ -59,32 +53,23 @@
 "HD11QH","OK",FALSE,14.7,16.9,19,TRUE,4
 "HD11QJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD11QQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD11QQ","No Data",NA,NA,NA,NA,FALSE,0
 "HD11QS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD11QS","No Data",NA,NA,NA,NA,TRUE,0
 "HD11QT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD11QT","No Data",NA,NA,NA,NA,FALSE,0
 "HD11QX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD11QY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD11QZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "HD11RA","OK",FALSE,30,18.8,30,TRUE,6
 "HD11RD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD11RD","No Data",NA,NA,NA,NA,FALSE,0
 "HD11RL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HD11RU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD11RU","No Data",NA,NA,NA,NA,TRUE,0
 "HD11RW","No premises",NA,NA,NA,NA,TRUE,0
 "HD11RX","No premises",NA,NA,NA,NA,FALSE,0
 "HD11SE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD11SE","No Data",NA,NA,NA,NA,FALSE,0
 "HD11SF","No premises",NA,NA,NA,NA,TRUE,0
 "HD11SG","OK",FALSE,17.6,18.3,24.4,TRUE,7
 "HD11SP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HD11SP","No Data",NA,NA,NA,NA,TRUE,0
 "HD11SR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD11SR","No Data",NA,NA,NA,NA,FALSE,0
 "HD11SS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HD11SS","No Data",NA,NA,NA,NA,FALSE,0
 "HD11ST","No premises",NA,NA,NA,NA,FALSE,0
 "HD11SU","No premises",NA,NA,NA,NA,FALSE,0
 "HD11SW","No premises",NA,NA,NA,NA,FALSE,0

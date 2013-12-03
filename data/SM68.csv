@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SM68AA","OK",TRUE,30,21,30,TRUE,43
 "SM68AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SM68AB","No Data",NA,NA,NA,NA,TRUE,0
 "SM68AD","OK",FALSE,28.5,25.3,30,TRUE,10
 "SM68AE","OK",FALSE,30,30,30,TRUE,10
 "SM68AF","OK",FALSE,23.6,22.7,30,TRUE,5
@@ -24,7 +23,6 @@
 "SM68BD","OK",FALSE,30,21,30,TRUE,34
 "SM68BE","OK",FALSE,29.9,20.3,30,TRUE,22
 "SM68BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SM68BF","No Data",NA,NA,NA,NA,FALSE,0
 "SM68BG","OK",FALSE,27,21.5,30,TRUE,40
 "SM68BJ","OK",FALSE,28.3,20,30,TRUE,31
 "SM68BL","OK",FALSE,22,19.1,30,TRUE,26
@@ -57,7 +55,6 @@
 "SM68EG","OK",FALSE,19.9,30,30,TRUE,7
 "SM68EH","OK",FALSE,27.1,30,30,TRUE,7
 "SM68EJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SM68EJ","No Data",NA,NA,NA,NA,TRUE,0
 "SM68EL","OK",FALSE,20,13.3,30,TRUE,21
 "SM68EN","OK",FALSE,30,25,30,TRUE,26
 "SM68EP","OK",FALSE,26.7,16.6,30,TRUE,26

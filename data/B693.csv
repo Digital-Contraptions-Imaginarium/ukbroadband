@@ -1,27 +1,21 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B693AD","OK",FALSE,14.2,12.9,22.5,TRUE,8
 "B693AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B693AF","No Data",NA,NA,NA,NA,FALSE,0
 "B693AG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B693AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B693AP","No Data",NA,NA,NA,NA,FALSE,0
 "B693AY","OK",FALSE,8.2,8.6,10.2,FALSE,4
 "B693AZ","OK",FALSE,11.2,10.6,17.8,FALSE,9
 "B693BH","OK",FALSE,14.1,13.3,21.2,FALSE,10
 "B693BL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B693BL","No Data",NA,NA,NA,NA,FALSE,0
 "B693BP","No premises",NA,NA,NA,NA,FALSE,0
 "B693BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B693BU","No Data",NA,NA,NA,NA,FALSE,0
 "B693BY","No premises",NA,NA,NA,NA,TRUE,0
 "B693DA","No premises",NA,NA,NA,NA,FALSE,0
 "B693DB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B693DB","No Data",NA,NA,NA,NA,TRUE,0
 "B693DD","OK",TRUE,9.1,9.2,16,FALSE,5
 "B693DE","No premises",NA,NA,NA,NA,TRUE,0
 "B693DF","No premises",NA,NA,NA,NA,TRUE,0
 "B693DH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B693DH","No Data",NA,NA,NA,NA,TRUE,0
 "B693DL","No premises",NA,NA,NA,NA,TRUE,0
 "B693DN","OK",FALSE,27,20,30,TRUE,5
 "B693DP","OK",TRUE,11.8,3.8,30,TRUE,3
@@ -37,10 +31,8 @@
 "B693EF","OK",FALSE,16.8,8.9,30,TRUE,28
 "B693EG","OK",FALSE,7.5,7.6,11.4,TRUE,5
 "B693EH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B693EH","No Data",NA,NA,NA,NA,FALSE,0
 "B693EJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B693EL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B693EL","No Data",NA,NA,NA,NA,FALSE,0
 "B693EQ","OK",TRUE,23.6,16,30,TRUE,16
 "B693ES","OK",FALSE,11.7,8.1,18.8,TRUE,3
 "B693ET","No premises",NA,NA,NA,NA,TRUE,0
@@ -58,7 +50,6 @@
 "B693HU","OK",FALSE,7.6,7.5,8.1,TRUE,3
 "B693HW","No Data",NA,NA,NA,NA,FALSE,0
 "B693HX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B693HX","No Data",NA,NA,NA,NA,TRUE,0
 "B693HY","OK",FALSE,7.6,5.6,14.2,TRUE,5
 "B693JA","OK",FALSE,21.2,7.5,30,TRUE,8
 "B693JB","OK",FALSE,12.3,7.4,30,TRUE,21

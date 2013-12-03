@@ -1,9 +1,7 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W60NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W60NA","No Data",NA,NA,NA,NA,FALSE,0
 "W60NB","OK",FALSE,14.1,15.5,22.4,FALSE,6
 "W60ND","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W60ND","No Data",NA,NA,NA,NA,FALSE,0
 "W60NE","OK",TRUE,13.1,9.7,30,TRUE,38
 "W60NG","No Data",NA,NA,NA,NA,FALSE,0
 "W60NJ","OK",TRUE,20.1,11.6,30,TRUE,99

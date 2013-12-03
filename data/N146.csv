@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N146AA","OK",FALSE,25,30,30,TRUE,7
 "N146AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N146AD","No Data",NA,NA,NA,NA,TRUE,0
 "N146AE","OK",FALSE,26.1,13.3,30,TRUE,11
 "N146AF","OK",TRUE,30,30,30,TRUE,8
 "N146AG","OK",FALSE,10.7,9.4,15.3,TRUE,5
@@ -11,7 +10,6 @@
 "N146AN","OK",FALSE,11.3,6.6,30,TRUE,6
 "N146AP","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "N146AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N146AQ","No Data",NA,NA,NA,NA,TRUE,0
 "N146AR","OK",FALSE,20.5,7.6,30,TRUE,18
 "N146AS","OK",TRUE,21.5,19.3,30,TRUE,8
 "N146AT","OK",TRUE,23.3,7.6,30,TRUE,10
@@ -28,7 +26,6 @@
 "N146BQ","No premises",NA,NA,NA,NA,FALSE,0
 "N146BS","No premises",NA,NA,NA,NA,TRUE,0
 "N146BT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N146BT","No Data",NA,NA,NA,NA,TRUE,0
 "N146BW","No premises",NA,NA,NA,NA,TRUE,0
 "N146BY","No premises",NA,NA,NA,NA,FALSE,0
 "N146BZ","OK",FALSE,28.4,30,30,TRUE,47
@@ -81,7 +78,6 @@
 "N146HY","OK",TRUE,16.2,11,30,TRUE,9
 "N146HZ","OK",TRUE,17.4,10.9,30,TRUE,23
 "N146JA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N146JA","No Data",NA,NA,NA,NA,TRUE,0
 "N146JD","OK",FALSE,8,7,12.3,FALSE,7
 "N146JE","OK",FALSE,8.1,7,13.3,FALSE,16
 "N146JF","OK",TRUE,7.6,7.6,12.3,TRUE,28
@@ -146,7 +142,6 @@
 "N146QP","OK",FALSE,25.2,20,30,TRUE,21
 "N146QS","OK",FALSE,26.5,16.8,30,TRUE,13
 "N146QT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N146QT","No Data",NA,NA,NA,NA,TRUE,0
 "N146QU","OK",FALSE,19.5,18,30,TRUE,18
 "N146QW","OK",FALSE,25.9,20,30,TRUE,27
 "N146QX","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -163,7 +158,6 @@
 "N146RP","OK",FALSE,21.2,20,30,TRUE,9
 "N146RR","OK",FALSE,30,20,30,TRUE,12
 "N146RS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N146RS","No Data",NA,NA,NA,NA,TRUE,0
 "N146RT","No premises",NA,NA,NA,NA,TRUE,0
 "N146SP","OK",FALSE,21.5,20,30,TRUE,36
 "N146UY","No premises",NA,NA,NA,NA,FALSE,0

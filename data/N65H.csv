@@ -1,11 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N65HA","OK",TRUE,30,20,30,TRUE,24
 "N65HD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N65HD","No Data",NA,NA,NA,NA,TRUE,0
 "N65HE","OK",TRUE,27.1,7.9,30,TRUE,19
 "N65HF","No premises",NA,NA,NA,NA,TRUE,0
 "N65HG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N65HG","No Data",NA,NA,NA,NA,TRUE,0
 "N65HH","OK",FALSE,10.9,9.2,20,TRUE,4
 "N65HJ","OK",FALSE,15.8,10.2,30,TRUE,12
 "N65HL","OK",TRUE,24.7,20,30,TRUE,38

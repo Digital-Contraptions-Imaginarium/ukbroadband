@@ -2,7 +2,6 @@
 "W44HA","No Data",NA,NA,NA,NA,TRUE,0
 "W44HB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "W44HD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W44HD","No Data",NA,NA,NA,NA,TRUE,0
 "W44HE","OK",TRUE,30,20,30,TRUE,50
 "W44HF","OK",FALSE,30,30,30,TRUE,9
 "W44HG","OK",TRUE,28.6,20,30,TRUE,27
@@ -10,4 +9,3 @@
 "W44HJ","No premises",NA,NA,NA,NA,TRUE,0
 "W44HS","OK",FALSE,16.7,15.8,30,TRUE,21
 "W44HT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W44HT","No Data",NA,NA,NA,NA,TRUE,0

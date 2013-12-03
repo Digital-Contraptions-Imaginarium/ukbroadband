@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L161HZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L161HZ","No Data",NA,NA,NA,NA,TRUE,0
 "L161JA","OK",FALSE,20.4,15.4,30,TRUE,18
 "L161JB","OK",FALSE,25.6,20,30,TRUE,20
 "L161JD","OK",FALSE,24.9,20,30,TRUE,20

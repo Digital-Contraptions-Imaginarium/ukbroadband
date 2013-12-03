@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W38JA","OK",TRUE,30,20.9,30,TRUE,7
 "W38JB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W38JB","No Data",NA,NA,NA,NA,TRUE,0
 "W38JD","OK",FALSE,17.3,20,22,TRUE,8
 "W38JE","OK",TRUE,28.9,20.6,30,TRUE,30
 "W38JF","OK",FALSE,30,21.7,30,TRUE,39

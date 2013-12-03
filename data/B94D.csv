@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B94DE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94DE","No Data",NA,NA,NA,NA,FALSE,0
 "B94DG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B94DG","No Data",NA,NA,NA,NA,FALSE,0
 "B94DH","OK",FALSE,17.3,17.6,17.9,FALSE,3
 "B94DR","No premises",NA,NA,NA,NA,FALSE,0
 "B94DS","Insufficient Data",NA,NA,NA,NA,FALSE,2

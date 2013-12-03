@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G11QA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G11QA","No Data",NA,NA,NA,NA,FALSE,0
 "G11QB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G11QB","No Data",NA,NA,NA,NA,FALSE,0
 "G11QD","OK",FALSE,14.5,13.5,23.1,FALSE,21
 "G11QE","OK",FALSE,16.2,16.2,24.4,FALSE,4
 "G11QF","No Data",NA,NA,NA,NA,FALSE,0
@@ -13,8 +11,6 @@
 "G11QS","OK",FALSE,19.6,20.4,23.3,FALSE,51
 "G11QT","OK",TRUE,20.1,21.5,23.4,FALSE,53
 "G11QU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G11QU","No Data",NA,NA,NA,NA,FALSE,0
 "G11QW","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "G11QX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G11QX","No Data",NA,NA,NA,NA,FALSE,0
 "G11QZ","No premises",NA,NA,NA,NA,FALSE,0

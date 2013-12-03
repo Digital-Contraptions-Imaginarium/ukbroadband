@@ -1,9 +1,7 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B356AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B356AA","No Data",NA,NA,NA,NA,FALSE,0
 "B356AB","OK",FALSE,7.8,7.8,8.6,FALSE,3
 "B356AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B356AE","No Data",NA,NA,NA,NA,FALSE,0
 "B356AG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B356AH","No Data",NA,NA,NA,NA,FALSE,0
 "B356AJ","OK",TRUE,0.3,0.3,0.3,FALSE,3
@@ -20,7 +18,6 @@
 "B356BL","OK",TRUE,3.5,3.1,6.8,TRUE,17
 "B356BP","OK",TRUE,7.3,3.7,30,TRUE,21
 "B356BS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B356BS","No Data",NA,NA,NA,NA,TRUE,0
 "B356BT","OK",TRUE,3.9,4,5.6,TRUE,13
 "B356BU","OK",TRUE,1.9,1.8,2.9,TRUE,6
 "B356BX","OK",TRUE,3.3,3.1,6.1,TRUE,8
@@ -43,7 +40,6 @@
 "B356DY","OK",TRUE,3.7,3.7,5.8,FALSE,6
 "B356EA","OK",TRUE,2.9,3.4,5.7,FALSE,12
 "B356EE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B356EE","No Data",NA,NA,NA,NA,TRUE,0
 "B356HB","OK",TRUE,2.6,1.8,6.2,FALSE,6
 "B356HE","OK",TRUE,4,5.1,5.3,TRUE,3
 "B356HG","OK",TRUE,22,3.3,30,TRUE,4
@@ -99,12 +95,10 @@
 "B356NT","OK",TRUE,3.4,3.2,5.1,FALSE,17
 "B356NU","OK",TRUE,6.5,3.1,30,TRUE,24
 "B356NX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B356NX","No Data",NA,NA,NA,NA,TRUE,0
 "B356NY","OK",TRUE,3.2,3.7,4.7,FALSE,16
 "B356PA","OK",TRUE,3.4,3.4,4.8,FALSE,8
 "B356PB","OK",TRUE,2.4,2.6,4.4,FALSE,25
 "B356PD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B356PD","No Data",NA,NA,NA,NA,TRUE,0
 "B356PE","OK",FALSE,2.9,2.7,3.2,FALSE,3
 "B356PF","OK",FALSE,3.6,3.6,4.5,FALSE,8
 "B356PG","OK",TRUE,2.6,2.6,4.7,FALSE,15

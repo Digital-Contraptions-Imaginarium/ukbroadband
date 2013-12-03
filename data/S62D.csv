@@ -1,12 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S62DA","OK",FALSE,8.7,9.5,13,TRUE,5
 "S62DD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S62DD","No Data",NA,NA,NA,NA,TRUE,0
 "S62DE","No premises",NA,NA,NA,NA,FALSE,0
 "S62DF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S62DH","OK",FALSE,17.6,13.1,30,TRUE,9
 "S62DL","OK",FALSE,18.1,13,30,FALSE,4
 "S62DQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S62DQ","No Data",NA,NA,NA,NA,FALSE,0
 "S62DR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S62DR","No Data",NA,NA,NA,NA,TRUE,0

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N65JE","No premises",NA,NA,NA,NA,FALSE,0
 "N65JF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N65JF","No Data",NA,NA,NA,NA,TRUE,0
 "N65JG","OK",FALSE,10,8.6,30,TRUE,18
 "N65JJ","OK",FALSE,8.1,8.6,12.5,TRUE,7
 "N65JL","OK",FALSE,11.9,11.3,20,TRUE,6

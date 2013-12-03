@@ -1,5 +1,4 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S80DA","OK",FALSE,24.1,25,30,TRUE,6
 "S80DB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S80DB","No Data",NA,NA,NA,NA,FALSE,0
 "S80DY","OK",FALSE,11.6,14.3,15.2,TRUE,6

@@ -1,20 +1,16 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "TW61AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW61AA","No Data",NA,NA,NA,NA,FALSE,0
 "TW61AJ","No premises",NA,NA,NA,NA,FALSE,0
 "TW61AL","No premises",NA,NA,NA,NA,FALSE,0
 "TW61AP","OK",TRUE,6.1,6.6,15.1,FALSE,47
 "TW61AS","No premises",NA,NA,NA,NA,FALSE,0
 "TW61AT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW61AT","No Data",NA,NA,NA,NA,FALSE,0
 "TW61AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW61AU","No Data",NA,NA,NA,NA,FALSE,0
 "TW61AY","No premises",NA,NA,NA,NA,FALSE,0
 "TW61BH","No premises",NA,NA,NA,NA,FALSE,0
 "TW61BJ","No premises",NA,NA,NA,NA,FALSE,0
 "TW61BN","No premises",NA,NA,NA,NA,FALSE,0
 "TW61BP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW61BP","No Data",NA,NA,NA,NA,FALSE,0
 "TW61BW","No premises",NA,NA,NA,NA,FALSE,0
 "TW61BZ","No premises",NA,NA,NA,NA,FALSE,0
 "TW61DB","No premises",NA,NA,NA,NA,FALSE,0
@@ -33,7 +29,6 @@
 "TW61EY","No premises",NA,NA,NA,NA,FALSE,0
 "TW61EZ","No premises",NA,NA,NA,NA,FALSE,0
 "TW61FB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW61FB","No Data",NA,NA,NA,NA,FALSE,0
 "TW61HA","No premises",NA,NA,NA,NA,FALSE,0
 "TW61HN","No premises",NA,NA,NA,NA,FALSE,0
 "TW61HP","No premises",NA,NA,NA,NA,FALSE,0
@@ -83,20 +78,16 @@
 "TW61QL","No premises",NA,NA,NA,NA,FALSE,0
 "TW61QQ","No premises",NA,NA,NA,NA,FALSE,0
 "TW61QT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW61QT","No Data",NA,NA,NA,NA,FALSE,0
 "TW61QU","No premises",NA,NA,NA,NA,FALSE,0
 "TW61RA","No premises",NA,NA,NA,NA,FALSE,0
 "TW61RB","No premises",NA,NA,NA,NA,FALSE,0
 "TW61RR","No premises",NA,NA,NA,NA,FALSE,0
 "TW61RU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW61RU","No Data",NA,NA,NA,NA,FALSE,0
 "TW61SD","OK",FALSE,9.7,9.5,12.8,FALSE,5
 "TW61SF","No premises",NA,NA,NA,NA,FALSE,0
 "TW61SL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW61SL","No Data",NA,NA,NA,NA,FALSE,0
 "TW61SS","No premises",NA,NA,NA,NA,FALSE,0
 "TW61ST","No premises",NA,NA,NA,NA,FALSE,0
 "TW61SX","No premises",NA,NA,NA,NA,FALSE,0
 "TW61TA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"TW61TA","No Data",NA,NA,NA,NA,FALSE,0
 "TW61WD","No premises",NA,NA,NA,NA,FALSE,0

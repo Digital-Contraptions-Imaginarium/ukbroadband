@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B661AA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B661AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661AB","No Data",NA,NA,NA,NA,FALSE,0
 "B661AE","No premises",NA,NA,NA,NA,FALSE,0
 "B661AF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661AF","No Data",NA,NA,NA,NA,FALSE,0
 "B661AL","No premises",NA,NA,NA,NA,FALSE,0
 "B661AQ","OK",FALSE,10.8,10.7,15.8,TRUE,5
 "B661AT","No premises",NA,NA,NA,NA,FALSE,0
@@ -13,19 +11,15 @@
 "B661BA","OK",TRUE,8.6,8.4,13.9,FALSE,13
 "B661BB","OK",TRUE,3.6,3.6,6.1,FALSE,4
 "B661BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661BD","No Data",NA,NA,NA,NA,FALSE,0
 "B661BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661BF","No Data",NA,NA,NA,NA,FALSE,0
 "B661BG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B661BH","OK",FALSE,8.2,8,12,FALSE,8
 "B661BL","No premises",NA,NA,NA,NA,FALSE,0
 "B661BN","No premises",NA,NA,NA,NA,FALSE,0
 "B661BQ","OK",TRUE,7,7.2,13.5,FALSE,22
 "B661BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661BS","No Data",NA,NA,NA,NA,FALSE,0
 "B661BT","OK",TRUE,3.7,3.7,5.6,FALSE,3
 "B661BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661BU","No Data",NA,NA,NA,NA,FALSE,0
 "B661BY","OK",FALSE,3.9,3.9,3.9,FALSE,4
 "B661BZ","OK",FALSE,8.9,8.1,10.5,FALSE,3
 "B661DE","OK",TRUE,5.8,6,9.3,FALSE,19
@@ -42,7 +36,6 @@
 "B661DW","No premises",NA,NA,NA,NA,FALSE,0
 "B661DX","OK",FALSE,11.8,12.3,15.5,TRUE,6
 "B661EA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661EA","No Data",NA,NA,NA,NA,FALSE,0
 "B661ED","No premises",NA,NA,NA,NA,FALSE,0
 "B661EE","OK",TRUE,3.3,2.8,5.1,FALSE,3
 "B661EG","No Data",NA,NA,NA,NA,TRUE,0
@@ -59,16 +52,11 @@
 "B661HE","OK",FALSE,3.9,3.3,7.7,TRUE,8
 "B661HF","OK",FALSE,19.7,5.1,30,TRUE,13
 "B661HJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661HJ","No Data",NA,NA,NA,NA,FALSE,0
 "B661HN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661HN","No Data",NA,NA,NA,NA,FALSE,0
 "B661HR","OK",FALSE,30,30,30,TRUE,4
 "B661HU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661HU","No Data",NA,NA,NA,NA,FALSE,0
 "B661HX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661HX","No Data",NA,NA,NA,NA,FALSE,0
 "B661JA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B661JA","No Data",NA,NA,NA,NA,TRUE,0
 "B661JE","OK",FALSE,4.3,4.4,5,TRUE,4
 "B661JF","OK",TRUE,4.9,5,8.1,FALSE,12
 "B661JG","OK",TRUE,1.2,1,2.5,FALSE,8
@@ -80,7 +68,6 @@
 "B661NA","OK",TRUE,16.5,6.5,30,TRUE,8
 "B661ND","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B661NH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661NH","No Data",NA,NA,NA,NA,FALSE,0
 "B661NJ","OK",TRUE,2.1,2.1,2.1,TRUE,4
 "B661NN","OK",FALSE,10.2,7.8,19.3,TRUE,7
 "B661NR","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -88,7 +75,6 @@
 "B661NU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B661NY","No premises",NA,NA,NA,NA,FALSE,0
 "B661NZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B661NZ","No Data",NA,NA,NA,NA,FALSE,0
 "B661PE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B661PF","No premises",NA,NA,NA,NA,FALSE,0
 "B661PT","No premises",NA,NA,NA,NA,FALSE,0

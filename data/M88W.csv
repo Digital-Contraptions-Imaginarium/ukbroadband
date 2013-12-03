@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M88WA","OK",TRUE,5.5,7.1,7.3,TRUE,4
 "M88WB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M88WB","No Data",NA,NA,NA,NA,TRUE,0
 "M88WD","No Data",NA,NA,NA,NA,TRUE,0
 "M88WE","OK",FALSE,9.8,9.8,10.2,FALSE,3
 "M88WF","OK",FALSE,15.3,15.3,20,TRUE,3

@@ -1,5 +1,4 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S39SA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S39SJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S39SJ","No Data",NA,NA,NA,NA,TRUE,0
 "S39SR","Insufficient Data",NA,NA,NA,NA,TRUE,2

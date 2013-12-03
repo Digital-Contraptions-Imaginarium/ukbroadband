@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W52HA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W52HA","No Data",NA,NA,NA,NA,TRUE,0
 "W52HB","OK",FALSE,27.8,20,30,TRUE,27
 "W52HD","No premises",NA,NA,NA,NA,FALSE,0
 "W52HE","OK",TRUE,28.3,20,30,TRUE,97

@@ -36,7 +36,6 @@
 "SN35BX","OK",TRUE,27.1,30,30,TRUE,22
 "SN35BY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "SN35BZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SN35BZ","No Data",NA,NA,NA,NA,TRUE,0
 "SN35DA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "SN35DB","OK",TRUE,30,30,30,TRUE,12
 "SN35DD","OK",TRUE,28.5,20,30,TRUE,14
@@ -77,7 +76,6 @@
 "SN35EX","OK",TRUE,19.9,2.9,30,TRUE,30
 "SN35EY","No premises",NA,NA,NA,NA,FALSE,0
 "SN35EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SN35EZ","No Data",NA,NA,NA,NA,FALSE,0
 "SN35GP","No premises",NA,NA,NA,NA,FALSE,0
 "SN35HE","No premises",NA,NA,NA,NA,FALSE,0
 "SN35HF","No premises",NA,NA,NA,NA,FALSE,0
@@ -98,9 +96,7 @@
 "SN35JU","No premises",NA,NA,NA,NA,FALSE,0
 "SN35JW","No premises",NA,NA,NA,NA,FALSE,0
 "SN35JX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SN35JX","No Data",NA,NA,NA,NA,FALSE,0
 "SN35JY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SN35JY","No Data",NA,NA,NA,NA,FALSE,0
 "SN35LB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "SN35LD","OK",TRUE,10.9,1.4,30,TRUE,3
 "SN35LJ","OK",TRUE,28,20,30,TRUE,16
@@ -111,9 +107,7 @@
 "SN35LW","OK",TRUE,20.7,20.9,30,TRUE,8
 "SN35NQ","No premises",NA,NA,NA,NA,FALSE,0
 "SN35PA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SN35PA","No Data",NA,NA,NA,NA,FALSE,0
 "SN35TG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SN35TG","No Data",NA,NA,NA,NA,FALSE,0
 "SN35TQ","No premises",NA,NA,NA,NA,FALSE,0
 "SN35WS","No premises",NA,NA,NA,NA,FALSE,0
 "SN35WU","No premises",NA,NA,NA,NA,FALSE,0

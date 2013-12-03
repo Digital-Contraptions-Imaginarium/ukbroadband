@@ -1,22 +1,17 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "SW31AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SW31AA","No Data",NA,NA,NA,NA,TRUE,0
 "SW31AJ","OK",FALSE,11,11.8,12.3,TRUE,5
 "SW31AL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SW31AL","No Data",NA,NA,NA,NA,TRUE,0
 "SW31AN","OK",TRUE,24.2,17.1,30,TRUE,18
 "SW31AP","OK",TRUE,16.3,8.9,30,TRUE,24
 "SW31AR","OK",TRUE,21,20,30,TRUE,7
 "SW31AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SW31AS","No Data",NA,NA,NA,NA,TRUE,0
 "SW31AT","No premises",NA,NA,NA,NA,TRUE,0
 "SW31AU","No premises",NA,NA,NA,NA,FALSE,0
 "SW31AW","OK",FALSE,12.9,12.4,30,TRUE,14
 "SW31AX","OK",FALSE,18.2,16.1,30,TRUE,19
 "SW31BA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SW31BA","No Data",NA,NA,NA,NA,TRUE,0
 "SW31BB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SW31BB","No Data",NA,NA,NA,NA,TRUE,0
 "SW31BW","OK",FALSE,12.2,14.3,16.9,FALSE,23
 "SW31DB","OK",TRUE,7.6,8.1,13.6,TRUE,3
 "SW31DE","OK",FALSE,12.3,12.3,13.5,TRUE,3
@@ -71,7 +66,6 @@
 "SW31QE","OK",TRUE,14.7,12.4,30,FALSE,19
 "SW31QF","No premises",NA,NA,NA,NA,FALSE,0
 "SW31QH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"SW31QH","No Data",NA,NA,NA,NA,TRUE,0
 "SW31QP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "SW31QQ","OK",FALSE,15.6,12.7,30,TRUE,14
 "SW31RB","OK",FALSE,9.7,7.8,16,TRUE,4
@@ -80,7 +74,6 @@
 "SW31RH","OK",FALSE,13.3,11.7,21.6,TRUE,5
 "SW31RJ","OK",TRUE,15.2,17.1,30,TRUE,7
 "SW31RL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"SW31RL","No Data",NA,NA,NA,NA,FALSE,0
 "SW31RN","OK",FALSE,16.3,16.8,22.7,FALSE,21
 "SW31RT","OK",FALSE,17.7,15.4,30,TRUE,13
 "SW31RW","OK",FALSE,17.5,14.3,30,TRUE,14

@@ -1,15 +1,12 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BS42AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BS42AB","No Data",NA,NA,NA,NA,TRUE,0
 "BS42AD","OK",FALSE,26.3,18.7,30,TRUE,17
 "BS42AE","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BS42AG","OK",FALSE,28.9,30,30,TRUE,22
 "BS42AL","OK",TRUE,14.8,13.6,30,TRUE,19
 "BS42AX","OK",TRUE,29.8,20,30,TRUE,19
 "BS42BA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BS42BA","No Data",NA,NA,NA,NA,TRUE,0
 "BS42BE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BS42BE","No Data",NA,NA,NA,NA,TRUE,0
 "BS42BG","OK",FALSE,30,30,30,TRUE,25
 "BS42BH","OK",FALSE,30,20,30,TRUE,8
 "BS42BJ","OK",FALSE,30,21,30,TRUE,7
@@ -83,7 +80,6 @@
 "BS42JS","OK",FALSE,30,20,30,TRUE,12
 "BS42JT","OK",FALSE,30,30,30,TRUE,17
 "BS42JU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BS42JU","No Data",NA,NA,NA,NA,TRUE,0
 "BS42JW","OK",FALSE,27.6,20,30,TRUE,39
 "BS42LA","OK",FALSE,30,30,30,TRUE,14
 "BS42LB","OK",FALSE,30,20,30,TRUE,33
@@ -185,7 +181,6 @@
 "BS42SZ","OK",FALSE,28.3,20,30,TRUE,14
 "BS42TA","OK",FALSE,26.4,30,30,TRUE,13
 "BS42TH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BS42TH","No Data",NA,NA,NA,NA,FALSE,0
 "BS42TJ","OK",FALSE,30,25,30,TRUE,8
 "BS42TL","OK",FALSE,29.7,20,30,TRUE,27
 "BS42TN","OK",TRUE,30,30,30,TRUE,18

@@ -1,12 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L52RA","OK",FALSE,20.5,16.4,30,TRUE,13
 "L52RB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L52RB","No Data",NA,NA,NA,NA,FALSE,0
 "L52RE","OK",FALSE,26.5,21.9,30,TRUE,5
 "L52RF","OK",FALSE,17.9,14.5,30,TRUE,14
 "L52RR","OK",TRUE,16.8,20,30,TRUE,3
 "L52RU","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L52RW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L52RW","No Data",NA,NA,NA,NA,TRUE,0
 "L52RY","OK",FALSE,19.7,20,30,TRUE,9
 "L52RZ","OK",FALSE,30,25,30,TRUE,4

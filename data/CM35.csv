@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CM35AW","No premises",NA,NA,NA,NA,FALSE,0
 "CM35BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM35BF","No Data",NA,NA,NA,NA,FALSE,0
 "CM35DD","OK",FALSE,6.9,6.9,8,FALSE,12
 "CM35DE","OK",FALSE,7.7,7.6,10.2,FALSE,18
 "CM35EH","No premises",NA,NA,NA,NA,FALSE,0
@@ -65,7 +64,6 @@
 "CM35JY","OK",TRUE,11.7,4.5,30,TRUE,26
 "CM35JZ","OK",TRUE,19.9,4.6,30,TRUE,40
 "CM35LA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM35LA","No Data",NA,NA,NA,NA,FALSE,0
 "CM35LB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "CM35LD","OK",FALSE,16,7,30,TRUE,29
 "CM35LE","OK",FALSE,16.6,13.7,30,TRUE,38
@@ -97,7 +95,6 @@
 "CM35NN","OK",TRUE,23,15.4,30,TRUE,9
 "CM35NP","OK",TRUE,25.6,16.6,30,TRUE,24
 "CM35NQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CM35NQ","No Data",NA,NA,NA,NA,TRUE,0
 "CM35NR","OK",FALSE,15.5,14.6,30,TRUE,25
 "CM35NS","OK",FALSE,29.5,30,30,TRUE,5
 "CM35NT","OK",TRUE,15,13.2,30,TRUE,32
@@ -143,7 +140,6 @@
 "CM35QU","OK",FALSE,15.4,15.2,23.7,FALSE,8
 "CM35QX","OK",FALSE,9.1,10.1,14.3,FALSE,5
 "CM35QY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CM35QY","No Data",NA,NA,NA,NA,FALSE,0
 "CM35QZ","OK",TRUE,8.4,8.1,17.1,FALSE,9
 "CM35RB","No premises",NA,NA,NA,NA,FALSE,0
 "CM35RE","OK",TRUE,9.5,10,14.3,FALSE,11
@@ -194,7 +190,6 @@
 "CM35UD","OK",FALSE,17,17,20,FALSE,19
 "CM35UF","No premises",NA,NA,NA,NA,TRUE,0
 "CM35UG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CM35UG","No Data",NA,NA,NA,NA,TRUE,0
 "CM35UH","OK",FALSE,7.9,7.7,10,TRUE,3
 "CM35UL","OK",FALSE,19.8,10.6,30,FALSE,8
 "CM35UP","Insufficient Data",NA,NA,NA,NA,FALSE,2

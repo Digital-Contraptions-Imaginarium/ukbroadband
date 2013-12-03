@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S323AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S323AA","No Data",NA,NA,NA,NA,FALSE,0
 "S323WD","OK",FALSE,6.5,6.6,8,FALSE,7
 "S323WT","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "S323WU","OK",TRUE,2.3,2.2,3.8,FALSE,15
@@ -28,11 +27,9 @@
 "S323XY","OK",FALSE,5.7,5.9,8.5,FALSE,7
 "S323XZ","OK",TRUE,3.5,2.8,5.7,FALSE,5
 "S323YA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S323YA","No Data",NA,NA,NA,NA,FALSE,0
 "S323YB","OK",TRUE,2.3,2.1,7.8,FALSE,16
 "S323YD","OK",TRUE,2.4,2,5,FALSE,24
 "S323YE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S323YE","No Data",NA,NA,NA,NA,FALSE,0
 "S323YF","OK",TRUE,2.5,2.1,4.1,FALSE,4
 "S323YG","OK",TRUE,1.6,1.4,2.8,FALSE,6
 "S323YH","OK",TRUE,2,1.6,5.6,FALSE,18
@@ -42,10 +39,8 @@
 "S323YP","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S323YQ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "S323YR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S323YR","No Data",NA,NA,NA,NA,FALSE,0
 "S323YS","OK",FALSE,4.4,3.8,6.8,FALSE,8
 "S323YT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S323YT","No Data",NA,NA,NA,NA,FALSE,0
 "S323YU","OK",TRUE,2.3,2.2,4.5,FALSE,12
 "S323YW","OK",TRUE,2.6,2.8,5.4,FALSE,11
 "S323YX","OK",TRUE,2.4,2.3,3.5,FALSE,4
@@ -55,7 +50,6 @@
 "S323ZB","OK",TRUE,4.4,4.2,7.6,FALSE,10
 "S323ZD","OK",FALSE,4.6,4,6.8,FALSE,4
 "S323ZE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S323ZE","No Data",NA,NA,NA,NA,FALSE,0
 "S323ZF","OK",FALSE,5.8,6.3,9.7,FALSE,6
 "S323ZH","OK",TRUE,4.4,4.3,8,FALSE,3
 "S323ZJ","OK",TRUE,4.5,4.5,7.5,FALSE,9

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BR87AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BR87AA","No Data",NA,NA,NA,NA,FALSE,0
 "BR87AB","OK",TRUE,15.2,20.8,24,FALSE,9
 "BR87AD","No Data",NA,NA,NA,NA,FALSE,0
 "BR87AE","OK",FALSE,10.8,8.1,16.2,TRUE,3
@@ -9,7 +8,6 @@
 "BR87AJ","No premises",NA,NA,NA,NA,TRUE,0
 "BR87AL","OK",FALSE,30,22.2,30,TRUE,6
 "BR87AP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87AP","No Data",NA,NA,NA,NA,TRUE,0
 "BR87AQ","OK",FALSE,30,22.2,30,TRUE,12
 "BR87AR","OK",FALSE,22.8,19.5,30,TRUE,9
 "BR87AS","OK",FALSE,28.8,20,30,TRUE,4
@@ -151,27 +149,20 @@
 "BR87NG","OK",FALSE,7.5,7.7,10.8,TRUE,7
 "BR87NL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BR87NN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87NN","No Data",NA,NA,NA,NA,TRUE,0
 "BR87NP","OK",FALSE,29.6,4.7,30,TRUE,3
 "BR87NQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87NQ","No Data",NA,NA,NA,NA,TRUE,0
 "BR87NR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87NR","No Data",NA,NA,NA,NA,TRUE,0
 "BR87NS","OK",FALSE,5.9,4.2,9.8,TRUE,3
 "BR87NT","OK",FALSE,6.9,6.6,8.5,TRUE,3
 "BR87NU","OK",TRUE,6.9,5.7,13.3,TRUE,3
 "BR87NW","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BR87NX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BR87NX","No Data",NA,NA,NA,NA,FALSE,0
 "BR87NY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87NY","No Data",NA,NA,NA,NA,TRUE,0
 "BR87NZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87NZ","No Data",NA,NA,NA,NA,TRUE,0
 "BR87PA","OK",TRUE,11.2,4.8,30,TRUE,15
 "BR87PB","OK",FALSE,7.1,5,20,TRUE,5
 "BR87PD","OK",TRUE,2.3,2.8,2.8,TRUE,4
 "BR87PE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87PE","No Data",NA,NA,NA,NA,TRUE,0
 "BR87PF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BR87PG","OK",TRUE,0.7,0.7,1,TRUE,4
 "BR87PH","OK",TRUE,1.7,1.4,2.8,TRUE,4
@@ -186,26 +177,20 @@
 "BR87PU","OK",FALSE,17.3,6.4,30,TRUE,3
 "BR87PW","OK",FALSE,11.6,7.3,30,TRUE,8
 "BR87PX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87PX","No Data",NA,NA,NA,NA,TRUE,0
 "BR87PY","OK",TRUE,16.5,13.3,30,TRUE,17
 "BR87PZ","OK",FALSE,12.4,12.1,14.3,TRUE,5
 "BR87QA","OK",TRUE,9.1,13.2,14,TRUE,7
 "BR87QD","OK",TRUE,14.3,13.3,30,TRUE,4
 "BR87QE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87QE","No Data",NA,NA,NA,NA,TRUE,0
 "BR87QF","OK",FALSE,30,25.8,30,TRUE,6
 "BR87QG","OK",FALSE,15.2,14.3,22.4,TRUE,7
 "BR87QH","OK",TRUE,14,11.1,30,TRUE,12
 "BR87QJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87QJ","No Data",NA,NA,NA,NA,TRUE,0
 "BR87QL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87QL","No Data",NA,NA,NA,NA,TRUE,0
 "BR87QN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BR87QP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87QP","No Data",NA,NA,NA,NA,TRUE,0
 "BR87QQ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BR87QR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BR87QR","No Data",NA,NA,NA,NA,TRUE,0
 "BR87QS","OK",FALSE,22.8,7.9,30,TRUE,33
 "BR87QT","OK",TRUE,22.7,8.2,30,TRUE,46
 "BR87QU","OK",TRUE,17.6,6.1,30,TRUE,80

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S23GA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S23GA","No Data",NA,NA,NA,NA,FALSE,0
 "S23GD","OK",TRUE,15.1,7.1,30,TRUE,20
 "S23GE","OK",FALSE,16.9,20,30,TRUE,29
 "S23GG","OK",FALSE,21.7,30,30,TRUE,7

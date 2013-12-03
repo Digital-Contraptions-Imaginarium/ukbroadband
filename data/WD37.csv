@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WD37AL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WD37AL","No Data",NA,NA,NA,NA,TRUE,0
 "WD37AN","OK",FALSE,30,30,30,TRUE,18
 "WD37AP","OK",FALSE,30,20,30,TRUE,8
 "WD37AR","OK",FALSE,17.4,15.3,30,TRUE,3
@@ -16,7 +15,6 @@
 "WD37BE","OK",FALSE,14.4,12,30,TRUE,8
 "WD37BF","No premises",NA,NA,NA,NA,FALSE,0
 "WD37BG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WD37BG","No Data",NA,NA,NA,NA,TRUE,0
 "WD37BQ","OK",FALSE,16.3,16.5,30,TRUE,8
 "WD37BT","OK",FALSE,30,30,30,TRUE,17
 "WD37BU","OK",FALSE,30,21.1,30,TRUE,10
@@ -63,7 +61,6 @@
 "WD37HL","OK",FALSE,17.9,8.6,30,TRUE,20
 "WD37HN","OK",FALSE,30,17.4,30,TRUE,14
 "WD37HP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WD37HP","No Data",NA,NA,NA,NA,TRUE,0
 "WD37HQ","OK",FALSE,30,22,30,TRUE,6
 "WD37HU","OK",FALSE,30,30,30,TRUE,5
 "WD37HW","OK",FALSE,30,30,30,TRUE,11

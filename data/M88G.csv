@@ -1,9 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M88GF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M88GF","No Data",NA,NA,NA,NA,TRUE,0
 "M88GG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M88GG","No Data",NA,NA,NA,NA,TRUE,0
 "M88GJ","No Data",NA,NA,NA,NA,TRUE,0
 "M88GQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M88GQ","No Data",NA,NA,NA,NA,TRUE,0
 "M88GW","Insufficient Data",NA,NA,NA,NA,TRUE,2

@@ -68,7 +68,6 @@
 "L177HR","OK",TRUE,24.1,12.3,30,TRUE,29
 "L177HW","OK",FALSE,15.5,15.9,30,TRUE,14
 "L177JA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L177JA","No Data",NA,NA,NA,NA,TRUE,0
 "L177JE","No premises",NA,NA,NA,NA,FALSE,0
 "L177JG","No premises",NA,NA,NA,NA,FALSE,0
 "L177JQ","Insufficient Data",NA,NA,NA,NA,TRUE,1

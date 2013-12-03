@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M380AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M380AA","No Data",NA,NA,NA,NA,TRUE,0
 "M380BF","OK",TRUE,30,30,30,TRUE,11
 "M380BN","OK",FALSE,30,20,30,TRUE,11
 "M380BQ","OK",FALSE,30,30,30,TRUE,3
@@ -76,6 +75,5 @@
 "M380PT","OK",TRUE,3.4,2.6,5.2,TRUE,3
 "M380PU","OK",FALSE,20.2,13.9,30,TRUE,13
 "M380UP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M380UP","No Data",NA,NA,NA,NA,TRUE,0
 "M380WH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M380WW","No premises",NA,NA,NA,NA,FALSE,0

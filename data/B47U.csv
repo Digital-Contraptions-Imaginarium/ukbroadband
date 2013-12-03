@@ -1,6 +1,4 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B47UD","OK",FALSE,8.7,7.3,14.2,FALSE,4
 "B47UG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B47UG","No Data",NA,NA,NA,NA,FALSE,0
 "B47UL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B47UL","No Data",NA,NA,NA,NA,FALSE,0

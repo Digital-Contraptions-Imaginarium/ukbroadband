@@ -56,6 +56,26 @@
 
 <p>This website is provided "as is", without warranty of any kind, express or implied. Don't buy your next house basing your decision on this information! :-)</p>
 
+<h2>How the data was processed</h2>
+
+<p>Ofcom's original .zip file includes three .csv files: 
+<ul>
+	<li>ofcom-part1-fixed-broadband-postcode-level-data-2013.csv
+	<li>ofcom-part2-fixed-broadband-postcode-level-data-2013.csv
+	<li>Postcode Data for Consumers FINAL2.csv
+</ul>
+I presumed that only the first two files were supposed for distribution and ignored the third, that appears to be an intermediate file Ofcom worked on, before splitting it to a more manageable size.</p>
+
+<p>Using R I merged the two .csv files back into one <i>data.frame</i>.</p>
+
+<p>Duplicates were founds for several postcodes, that all matched the same pattern of having one record whose "Postcode.Data.Status" was "No Data" and the other "Insufficient Premises". I presumed that this was a mistake introduced by the process by which Ofcom anonymised the data (see the "Columns description" section below) and kept only the "Insufficient Premises" record for each duplicate. The data processed up to this stage is available, see the "Get the data" section below.</p>
+
+<p>Then, I converted the values in selected columns from character to numeric so that I could run some numerical statistical analysis (not published at the moment of writing). E.g. Ofcom's original specified ">=30" for connection speeds >=30Mbps: I replaced that with the 'conservative' value of 30. See the "Columns description" section below for the full list of changes.</p>
+
+<p>Finally, I've split the dataset in several .csv files, one for each combination of four characters the postcodes begin with. These are the files used by this web page and that you can download from the "Get the data" section below.</p>
+
+<h2>Columns description</h2>
+
 <p>Column headers are as follows:</p>
 
 <ul>
@@ -94,7 +114,10 @@
 </ul>
 
 <h2>Get the data</h2>
-<p>Below is the list of files the original Ofcom data has been split into to be manageable by this website.</p>
+
+<p>The original Ofcom data after removing the duplicates but before any other kind of processing can be downloaded from <a href="./data/ofcom_no_duplicates.csv.gz">here</a>.</p>
+
+<p>Below instead is the list of files the original Ofcom data has been split into to be manageable by this website.</p>
 <div id="filesListArea"></div>
 
 <script>

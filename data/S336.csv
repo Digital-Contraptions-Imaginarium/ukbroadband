@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S336AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S336AA","No Data",NA,NA,NA,NA,FALSE,0
 "S336AF","OK",FALSE,4.8,4.8,6.2,FALSE,3
 "S336BW","No premises",NA,NA,NA,NA,FALSE,0
 "S336RA","OK",TRUE,6.7,7.1,16.1,FALSE,18
@@ -25,7 +24,6 @@
 "S336SA","OK",FALSE,5.5,5.9,8,FALSE,5
 "S336SB","OK",TRUE,9.8,8,23.1,FALSE,40
 "S336SD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S336SD","No Data",NA,NA,NA,NA,FALSE,0
 "S336SE","OK",FALSE,10.5,7.9,22.6,FALSE,10
 "S336SF","OK",FALSE,9.4,8,20.4,FALSE,14
 "S336TF","No Data",NA,NA,NA,NA,FALSE,0
@@ -33,4 +31,3 @@
 "S336ZE","OK",FALSE,8.8,8.1,19,FALSE,10
 "S336ZF","OK",TRUE,9.2,8.1,22.6,FALSE,42
 "S336ZG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S336ZG","No Data",NA,NA,NA,NA,FALSE,0

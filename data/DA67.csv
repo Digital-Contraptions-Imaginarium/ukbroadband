@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DA67AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DA67AA","No Data",NA,NA,NA,NA,TRUE,0
 "DA67AB","No premises",NA,NA,NA,NA,TRUE,0
 "DA67AE","OK",TRUE,30,25,30,TRUE,16
 "DA67AF","OK",FALSE,25.5,19.6,30,TRUE,27
@@ -25,7 +24,6 @@
 "DA67DE","OK",FALSE,8.1,8.1,8.1,TRUE,3
 "DA67DF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DA67DJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DA67DJ","No Data",NA,NA,NA,NA,TRUE,0
 "DA67DL","No premises",NA,NA,NA,NA,TRUE,0
 "DA67DP","No premises",NA,NA,NA,NA,TRUE,0
 "DA67DQ","OK",FALSE,11.6,8.1,20.4,TRUE,7
@@ -59,11 +57,9 @@
 "DA67HZ","No premises",NA,NA,NA,NA,FALSE,0
 "DA67JG","No premises",NA,NA,NA,NA,TRUE,0
 "DA67JH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DA67JH","No Data",NA,NA,NA,NA,TRUE,0
 "DA67JJ","OK",TRUE,8.5,8.1,19.2,TRUE,27
 "DA67JN","OK",TRUE,11.3,10.4,23.8,TRUE,14
 "DA67JZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DA67JZ","No Data",NA,NA,NA,NA,FALSE,0
 "DA67LA","OK",FALSE,13.3,15.2,20.1,TRUE,11
 "DA67LB","No premises",NA,NA,NA,NA,TRUE,0
 "DA67LE","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -115,7 +111,6 @@
 "DA67QE","OK",FALSE,20.3,16.5,30,TRUE,32
 "DA67QF","OK",TRUE,25.7,20,30,TRUE,26
 "DA67QG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DA67QG","No Data",NA,NA,NA,NA,TRUE,0
 "DA67QH","OK",TRUE,15,10.8,30,TRUE,38
 "DA67QJ","OK",FALSE,25.1,18.7,30,TRUE,15
 "DA67QL","OK",FALSE,22.3,8.4,30,TRUE,28

@@ -6,7 +6,6 @@
 "S56NF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S56NG","OK",TRUE,3.7,1.3,30,TRUE,16
 "S56NH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S56NH","No Data",NA,NA,NA,NA,TRUE,0
 "S56NJ","OK",TRUE,6.9,1.9,30,TRUE,6
 "S56NL","OK",TRUE,30,30,30,TRUE,14
 "S56NN","OK",TRUE,28.2,18.9,30,TRUE,18
@@ -16,4 +15,3 @@
 "S56NS","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "S56NT","OK",TRUE,18.9,2,30,TRUE,5
 "S56NU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S56NU","No Data",NA,NA,NA,NA,TRUE,0

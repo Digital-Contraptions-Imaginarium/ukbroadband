@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L249BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L249BA","No Data",NA,NA,NA,NA,FALSE,0
 "L249BB","No Data",NA,NA,NA,NA,FALSE,0
 "L249BD","No Data",NA,NA,NA,NA,FALSE,0
 "L249BF","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -15,11 +14,9 @@
 "L249HD","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L249HE","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L249HH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L249HH","No Data",NA,NA,NA,NA,FALSE,0
 "L249HJ","OK",FALSE,11.5,12.2,22.2,FALSE,26
 "L249HL","OK",FALSE,8.9,8.1,10.3,FALSE,3
 "L249HP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L249HP","No Data",NA,NA,NA,NA,FALSE,0
 "L249HQ","No premises",NA,NA,NA,NA,FALSE,0
 "L249HW","OK",FALSE,13.7,14.3,21.9,TRUE,8
 "L249HX","OK",FALSE,14.3,14.1,21.1,FALSE,6
@@ -44,14 +41,11 @@
 "L249PH","No premises",NA,NA,NA,NA,FALSE,0
 "L249PL","No premises",NA,NA,NA,NA,FALSE,0
 "L249PN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L249PN","No Data",NA,NA,NA,NA,FALSE,0
 "L249PQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L249PQ","No Data",NA,NA,NA,NA,FALSE,0
 "L249PS","No premises",NA,NA,NA,NA,FALSE,0
 "L249PT","No premises",NA,NA,NA,NA,FALSE,0
 "L249PY","No premises",NA,NA,NA,NA,FALSE,0
 "L249PZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L249PZ","No Data",NA,NA,NA,NA,TRUE,0
 "L249RR","No premises",NA,NA,NA,NA,FALSE,0
 "L249WA","No premises",NA,NA,NA,NA,FALSE,0
 "L249WD","No premises",NA,NA,NA,NA,FALSE,0
@@ -59,4 +53,3 @@
 "L249WN","No premises",NA,NA,NA,NA,FALSE,0
 "L249WU","No premises",NA,NA,NA,NA,FALSE,0
 "L249WX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L249WX","No Data",NA,NA,NA,NA,FALSE,0

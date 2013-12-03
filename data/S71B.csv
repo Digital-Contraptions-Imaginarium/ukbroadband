@@ -1,14 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S71BA","OK",FALSE,11.6,9.4,30,TRUE,14
 "S71BE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S71BE","No Data",NA,NA,NA,NA,TRUE,0
 "S71BG","OK",FALSE,24.2,16.6,30,TRUE,4
 "S71BJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S71BJ","No Data",NA,NA,NA,NA,TRUE,0
 "S71BT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S71BT","No Data",NA,NA,NA,NA,TRUE,0
 "S71BU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S71BU","No Data",NA,NA,NA,NA,TRUE,0
 "S71BW","OK",FALSE,29.9,30,30,TRUE,49
 "S71BX","OK",FALSE,26.4,22.4,30,TRUE,32
 "S71BY","OK",TRUE,26.7,20.2,30,TRUE,28

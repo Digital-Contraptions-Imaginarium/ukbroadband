@@ -1,5 +1,4 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N77AJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N77AJ","No Data",NA,NA,NA,NA,TRUE,0
 "N77AT","OK",TRUE,7.3,7,20.2,FALSE,63
 "N77AY","OK",TRUE,9.6,9.7,19.5,TRUE,25

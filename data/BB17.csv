@@ -1,13 +1,11 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BB17AF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BB17AF","No Data",NA,NA,NA,NA,TRUE,0
 "BB17AG","No premises",NA,NA,NA,NA,TRUE,0
 "BB17AJ","No premises",NA,NA,NA,NA,TRUE,0
 "BB17AP","No premises",NA,NA,NA,NA,FALSE,0
 "BB17AQ","No premises",NA,NA,NA,NA,TRUE,0
 "BB17AR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BB17AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BB17AS","No Data",NA,NA,NA,NA,FALSE,0
 "BB17AT","No Data",NA,NA,NA,NA,TRUE,0
 "BB17AW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BB17BB","No premises",NA,NA,NA,NA,TRUE,0

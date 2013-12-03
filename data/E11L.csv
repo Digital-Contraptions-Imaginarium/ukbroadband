@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E11LA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E11LA","No Data",NA,NA,NA,NA,FALSE,0
 "E11LB","OK",FALSE,8.3,8,13.7,FALSE,17
 "E11LD","OK",TRUE,12.4,14.8,19.9,FALSE,5
 "E11LF","OK",TRUE,15.1,15.4,30,FALSE,73

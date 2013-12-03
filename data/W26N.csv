@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W26NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W26NA","No Data",NA,NA,NA,NA,FALSE,0
 "W26NB","OK",FALSE,6.7,6.4,8.1,FALSE,4
 "W26ND","OK",FALSE,13.6,15.3,15.7,TRUE,4
 "W26NE","OK",FALSE,12.1,11.7,19.7,FALSE,48
@@ -9,7 +8,6 @@
 "W26NH","OK",FALSE,14,10.8,30,TRUE,17
 "W26NJ","OK",FALSE,30,13.4,30,TRUE,14
 "W26NL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W26NL","No Data",NA,NA,NA,NA,TRUE,0
 "W26NN","OK",FALSE,12.5,11.9,18.3,FALSE,12
 "W26NP","OK",FALSE,12.5,13.1,17.6,FALSE,20
 "W26NQ","OK",FALSE,30,30,30,TRUE,11

@@ -7,8 +7,6 @@
 "S12LL","OK",FALSE,18.1,19,21.9,FALSE,49
 "S12LN","OK",FALSE,17,17.9,20.2,FALSE,24
 "S12LP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S12LP","No Data",NA,NA,NA,NA,TRUE,0
 "S12LQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S12LQ","No Data",NA,NA,NA,NA,TRUE,0
 "S12LW","OK",FALSE,13.4,12.5,21,TRUE,4
 "S12LX","Insufficient Data",NA,NA,NA,NA,TRUE,1

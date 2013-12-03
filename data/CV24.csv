@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CV24AA","OK",FALSE,30,20,30,TRUE,30
 "CV24AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CV24AB","No Data",NA,NA,NA,NA,FALSE,0
 "CV24AD","OK",TRUE,18.3,12.6,30,TRUE,27
 "CV24AE","OK",FALSE,23.3,20,30,TRUE,24
 "CV24AF","OK",TRUE,30,20,30,TRUE,24
@@ -55,7 +54,6 @@
 "CV24DX","OK",TRUE,26,20,30,TRUE,29
 "CV24DZ","OK",FALSE,30,20,30,TRUE,22
 "CV24EA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CV24EA","No Data",NA,NA,NA,NA,FALSE,0
 "CV24EB","OK",TRUE,30,19.2,30,TRUE,12
 "CV24ED","OK",TRUE,12.3,7.9,30,TRUE,10
 "CV24EF","No premises",NA,NA,NA,NA,FALSE,0
@@ -156,7 +154,6 @@
 "CV24LE","OK",FALSE,29.4,20,30,TRUE,19
 "CV24LF","OK",TRUE,18.8,20,30,TRUE,21
 "CV24LG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CV24LG","No Data",NA,NA,NA,NA,TRUE,0
 "CV24LH","OK",FALSE,9,5.9,20,TRUE,4
 "CV24LJ","OK",TRUE,17.6,6.3,30,TRUE,13
 "CV24LL","OK",FALSE,12.8,6.5,30,TRUE,37

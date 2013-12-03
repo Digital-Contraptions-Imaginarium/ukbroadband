@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "HA90AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA90AA","No Data",NA,NA,NA,NA,FALSE,0
 "HA90AB","OK",FALSE,14.7,13.7,30,FALSE,35
 "HA90AD","OK",FALSE,19.6,9.5,30,TRUE,25
 "HA90AE","OK",TRUE,19.8,10,30,TRUE,33
@@ -15,7 +14,6 @@
 "HA90AT","OK",TRUE,14.5,7.7,30,TRUE,11
 "HA90BP","No Data",NA,NA,NA,NA,TRUE,0
 "HA90BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA90BU","No Data",NA,NA,NA,NA,FALSE,0
 "HA90BY","OK",FALSE,16.4,17,21,FALSE,14
 "HA90DE","No premises",NA,NA,NA,NA,FALSE,0
 "HA90DL","No premises",NA,NA,NA,NA,FALSE,0
@@ -26,12 +24,9 @@
 "HA90EW","OK",FALSE,8.6,7.8,12.3,TRUE,5
 "HA90EY","OK",FALSE,16,16.6,20,FALSE,27
 "HA90FE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA90FE","No Data",NA,NA,NA,NA,FALSE,0
 "HA90FF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA90FF","No Data",NA,NA,NA,NA,FALSE,0
 "HA90HB","OK",FALSE,11.1,8.6,18.2,FALSE,8
 "HA90HD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA90HD","No Data",NA,NA,NA,NA,FALSE,0
 "HA90HE","No premises",NA,NA,NA,NA,FALSE,0
 "HA90HF","OK",TRUE,7.9,7.8,13,FALSE,14
 "HA90HJ","OK",FALSE,13.1,13.7,16.3,FALSE,21
@@ -48,10 +43,8 @@
 "HA90LH","OK",TRUE,3.8,4,6.3,FALSE,9
 "HA90LJ","No premises",NA,NA,NA,NA,FALSE,0
 "HA90LP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"HA90LP","No Data",NA,NA,NA,NA,TRUE,0
 "HA90LQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "HA90NH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA90NH","No Data",NA,NA,NA,NA,FALSE,0
 "HA90NL","OK",FALSE,6.4,6.5,7.8,TRUE,4
 "HA90NP","OK",FALSE,6.8,8,9,TRUE,4
 "HA90NU","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -71,7 +64,6 @@
 "HA90RQ","OK",TRUE,7.7,7.7,14.1,FALSE,11
 "HA90RS","OK",TRUE,6.8,5.7,13.8,FALSE,33
 "HA90RZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA90RZ","No Data",NA,NA,NA,NA,FALSE,0
 "HA90TB","No premises",NA,NA,NA,NA,FALSE,0
 "HA90TF","OK",FALSE,23.6,25.1,30,TRUE,9
 "HA90TU","No premises",NA,NA,NA,NA,FALSE,0
@@ -79,7 +71,6 @@
 "HA90UU","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "HA90WS","No premises",NA,NA,NA,NA,FALSE,0
 "HA90XA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"HA90XA","No Data",NA,NA,NA,NA,FALSE,0
 "HA90XJ","No premises",NA,NA,NA,NA,FALSE,0
 "HA90XR","No premises",NA,NA,NA,NA,FALSE,0
 "HA90XT","No premises",NA,NA,NA,NA,FALSE,0

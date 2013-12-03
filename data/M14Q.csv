@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M14QD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M14QD","No Data",NA,NA,NA,NA,TRUE,0
 "M14QT","No premises",NA,NA,NA,NA,TRUE,0
 "M14QU","OK",FALSE,17.9,16.1,22.8,TRUE,3
 "M14QX","OK",FALSE,15.7,15.1,23,TRUE,4

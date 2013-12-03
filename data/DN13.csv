@@ -7,12 +7,9 @@
 "DN13AH","OK",FALSE,14.6,14.1,19.3,TRUE,5
 "DN13AJ","No premises",NA,NA,NA,NA,TRUE,0
 "DN13AN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DN13AN","No Data",NA,NA,NA,NA,FALSE,0
 "DN13AP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13AP","No Data",NA,NA,NA,NA,TRUE,0
 "DN13AQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DN13AR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13AR","No Data",NA,NA,NA,NA,TRUE,0
 "DN13AS","OK",FALSE,14.5,16.4,20.6,FALSE,11
 "DN13AT","OK",FALSE,15.8,16.1,18.6,FALSE,15
 "DN13AU","OK",FALSE,30,18.4,30,TRUE,6
@@ -33,21 +30,16 @@
 "DN13BT","No premises",NA,NA,NA,NA,FALSE,0
 "DN13BU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "DN13BX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13BX","No Data",NA,NA,NA,NA,TRUE,0
 "DN13BY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DN13BY","No Data",NA,NA,NA,NA,FALSE,0
 "DN13DF","OK",FALSE,15.8,17.5,24.4,TRUE,5
 "DN13DH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13DH","No Data",NA,NA,NA,NA,TRUE,0
 "DN13DJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "DN13DP","No Data",NA,NA,NA,NA,TRUE,0
 "DN13DQ","No premises",NA,NA,NA,NA,FALSE,0
 "DN13DR","No premises",NA,NA,NA,NA,FALSE,0
 "DN13DS","No Data",NA,NA,NA,NA,TRUE,0
 "DN13DY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13DY","No Data",NA,NA,NA,NA,TRUE,0
 "DN13DZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13DZ","No Data",NA,NA,NA,NA,TRUE,0
 "DN13EA","OK",TRUE,11.5,8.1,24,TRUE,5
 "DN13EB","No premises",NA,NA,NA,NA,FALSE,0
 "DN13EF","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -57,9 +49,7 @@
 "DN13EN","OK",FALSE,30,23.7,30,TRUE,3
 "DN13EQ","No premises",NA,NA,NA,NA,FALSE,0
 "DN13ER","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13ER","No Data",NA,NA,NA,NA,TRUE,0
 "DN13ET","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13ET","No Data",NA,NA,NA,NA,TRUE,0
 "DN13EW","No premises",NA,NA,NA,NA,TRUE,0
 "DN13EY","OK",FALSE,22.8,20.3,30,TRUE,3
 "DN13EZ","No premises",NA,NA,NA,NA,TRUE,0
@@ -69,23 +59,19 @@
 "DN13HT","No premises",NA,NA,NA,NA,FALSE,0
 "DN13HU","No premises",NA,NA,NA,NA,FALSE,0
 "DN13HX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13HX","No Data",NA,NA,NA,NA,TRUE,0
 "DN13JE","No premises",NA,NA,NA,NA,FALSE,0
 "DN13JH","No Data",NA,NA,NA,NA,TRUE,0
 "DN13JL","OK",FALSE,30,20,30,TRUE,4
 "DN13JN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DN13JQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13JQ","No Data",NA,NA,NA,NA,TRUE,0
 "DN13JU","No Data",NA,NA,NA,NA,TRUE,0
 "DN13JX","OK",FALSE,22.4,22.4,23.1,TRUE,3
 "DN13JY","OK",FALSE,17,17.6,23.1,TRUE,6
 "DN13JZ","OK",FALSE,18.4,22.2,23.3,TRUE,6
 "DN13LE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13LE","No Data",NA,NA,NA,NA,TRUE,0
 "DN13LH","OK",FALSE,18.4,17.5,22.2,TRUE,4
 "DN13LL","No premises",NA,NA,NA,NA,FALSE,0
 "DN13LN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13LN","No Data",NA,NA,NA,NA,TRUE,0
 "DN13LU","OK",FALSE,16.9,20.8,22,TRUE,4
 "DN13LW","OK",FALSE,30,22,30,TRUE,3
 "DN13NA","OK",FALSE,0,0,0,TRUE,3
@@ -101,16 +87,13 @@
 "DN13PD","No premises",NA,NA,NA,NA,FALSE,0
 "DN13PE","No premises",NA,NA,NA,NA,FALSE,0
 "DN13PS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13PS","No Data",NA,NA,NA,NA,TRUE,0
 "DN13QA","No premises",NA,NA,NA,NA,FALSE,0
 "DN13QG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13QG","No Data",NA,NA,NA,NA,TRUE,0
 "DN13QJ","OK",FALSE,23.2,25,30,TRUE,14
 "DN13QL","OK",FALSE,21,20,30,TRUE,16
 "DN13QP","OK",FALSE,26.1,30,30,TRUE,17
 "DN13QQ","OK",FALSE,22,18.5,30,TRUE,6
 "DN13QR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13QR","No Data",NA,NA,NA,NA,TRUE,0
 "DN13QS","OK",FALSE,26.8,25,30,TRUE,24
 "DN13QT","OK",TRUE,28,30,30,TRUE,16
 "DN13QU","Insufficient Data",NA,NA,NA,NA,TRUE,2
@@ -118,7 +101,6 @@
 "DN13QZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "DN13RA","No premises",NA,NA,NA,NA,TRUE,0
 "DN13RB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13RB","No Data",NA,NA,NA,NA,TRUE,0
 "DN13RE","OK",FALSE,11.4,10.9,17.8,TRUE,6
 "DN13RF","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DN13RH","OK",FALSE,14.6,13,30,TRUE,5
@@ -152,7 +134,6 @@
 "DN13TA","No premises",NA,NA,NA,NA,FALSE,0
 "DN13TJ","No premises",NA,NA,NA,NA,FALSE,0
 "DN13TR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DN13TR","No Data",NA,NA,NA,NA,TRUE,0
 "DN13WY","No premises",NA,NA,NA,NA,FALSE,0
 "DN13XW","No premises",NA,NA,NA,NA,FALSE,0
 "DN13XX","No premises",NA,NA,NA,NA,FALSE,0

@@ -1,29 +1,22 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LS72AA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "LS72AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LS72AG","No Data",NA,NA,NA,NA,FALSE,0
 "LS72AH","OK",FALSE,10.6,10.8,12.8,TRUE,3
 "LS72AL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "LS72AP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "LS72AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LS72AQ","No Data",NA,NA,NA,NA,TRUE,0
 "LS72AR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LS72AR","No Data",NA,NA,NA,NA,FALSE,0
 "LS72AS","No Data",NA,NA,NA,NA,FALSE,0
 "LS72AT","No premises",NA,NA,NA,NA,TRUE,0
 "LS72AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LS72AU","No Data",NA,NA,NA,NA,FALSE,0
 "LS72AW","OK",FALSE,11.1,11.5,15.1,TRUE,7
 "LS72BA","No premises",NA,NA,NA,NA,FALSE,0
 "LS72BB","OK",FALSE,9.3,8.7,13.8,TRUE,6
 "LS72BH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LS72BH","No Data",NA,NA,NA,NA,FALSE,0
 "LS72BP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LS72BP","No Data",NA,NA,NA,NA,TRUE,0
 "LS72BQ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "LS72BT","No premises",NA,NA,NA,NA,FALSE,0
 "LS72BX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LS72BX","No Data",NA,NA,NA,NA,TRUE,0
 "LS72BY","No premises",NA,NA,NA,NA,TRUE,0
 "LS72DA","No premises",NA,NA,NA,NA,TRUE,0
 "LS72DB","No Data",NA,NA,NA,NA,TRUE,0
@@ -36,7 +29,6 @@
 "LS72DN","OK",FALSE,18.9,9.3,30,TRUE,15
 "LS72DP","OK",FALSE,19.6,14.4,30,TRUE,10
 "LS72DQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LS72DQ","No Data",NA,NA,NA,NA,TRUE,0
 "LS72DR","OK",TRUE,11.6,8.9,30,TRUE,32
 "LS72DS","OK",FALSE,30,30,30,TRUE,8
 "LS72DT","OK",FALSE,27.8,20,30,TRUE,23
@@ -82,12 +74,10 @@
 "LS72HR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "LS72HZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "LS72JB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LS72JB","No Data",NA,NA,NA,NA,TRUE,0
 "LS72JD","OK",FALSE,10.6,8.4,18.1,TRUE,4
 "LS72JE","No premises",NA,NA,NA,NA,TRUE,0
 "LS72JF","OK",TRUE,24.1,20,30,TRUE,26
 "LS72JH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LS72JH","No Data",NA,NA,NA,NA,TRUE,0
 "LS72JL","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "LS72JP","No premises",NA,NA,NA,NA,TRUE,0
 "LS72JT","OK",TRUE,21,20,30,TRUE,26
@@ -144,7 +134,6 @@
 "LS72QY","OK",FALSE,26,25,30,TRUE,9
 "LS72RB","No premises",NA,NA,NA,NA,TRUE,0
 "LS72RE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LS72RE","No Data",NA,NA,NA,NA,FALSE,0
 "LS72RF","OK",FALSE,15.1,10.1,30,TRUE,17
 "LS72RG","OK",FALSE,19.6,15,30,TRUE,23
 "LS72RH","OK",TRUE,24.9,20,30,TRUE,25
@@ -177,7 +166,6 @@
 "LS72TB","OK",FALSE,19.3,9.8,30,TRUE,13
 "LS72TD","OK",TRUE,19.9,8.6,30,TRUE,18
 "LS72TE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LS72TE","No Data",NA,NA,NA,NA,TRUE,0
 "LS72TF","OK",TRUE,12.4,6.4,30,TRUE,8
 "LS72TG","OK",FALSE,4.8,4.9,6.1,TRUE,9
 "LS72TH","OK",TRUE,11,7.3,30,TRUE,13

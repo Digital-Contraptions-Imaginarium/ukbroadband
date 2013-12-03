@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G38TB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G38TB","No Data",NA,NA,NA,NA,FALSE,0
 "G38TD","OK",TRUE,18.5,4.1,30,TRUE,8
 "G38TE","OK",TRUE,25.4,30,30,TRUE,25
 "G38TF","No premises",NA,NA,NA,NA,FALSE,0
@@ -11,7 +10,6 @@
 "G38TP","OK",FALSE,30,30,30,TRUE,3
 "G38TQ","OK",FALSE,24,20,30,TRUE,28
 "G38TR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G38TR","No Data",NA,NA,NA,NA,TRUE,0
 "G38TT","No premises",NA,NA,NA,NA,FALSE,0
 "G38TW","OK",FALSE,30,30,30,TRUE,9
 "G38TX","OK",FALSE,12.9,5.7,30,TRUE,35

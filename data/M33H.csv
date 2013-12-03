@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M33HF","OK",FALSE,14.3,15,19.7,FALSE,13
 "M33HG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M33HG","No Data",NA,NA,NA,NA,FALSE,0
 "M33HH","OK",FALSE,14.2,16.3,20,TRUE,6
 "M33HN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M33HP","No premises",NA,NA,NA,NA,TRUE,0

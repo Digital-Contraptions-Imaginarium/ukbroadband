@@ -1,10 +1,8 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W85AA","OK",FALSE,17.9,18.2,18.5,FALSE,3
 "W85AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W85AB","No Data",NA,NA,NA,NA,FALSE,0
 "W85AD","OK",FALSE,15.6,7.8,30,TRUE,15
 "W85AE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W85AE","No Data",NA,NA,NA,NA,TRUE,0
 "W85AG","No premises",NA,NA,NA,NA,FALSE,0
 "W85AH","OK",TRUE,21.5,20.9,30,TRUE,7
 "W85AJ","OK",FALSE,5.7,5.2,10.1,TRUE,9

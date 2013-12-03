@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S321AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S321AA","No Data",NA,NA,NA,NA,FALSE,0
 "S321AD","OK",FALSE,17.4,19.7,23.7,FALSE,8
 "S321AE","OK",FALSE,10.1,9,14.8,FALSE,4
 "S321AF","OK",FALSE,18.8,20.6,24.4,FALSE,11
@@ -33,7 +32,6 @@
 "S321BR","OK",TRUE,8.3,7.8,16.3,FALSE,13
 "S321BS","OK",FALSE,14.7,13.4,22.4,FALSE,13
 "S321BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S321BT","No Data",NA,NA,NA,NA,FALSE,0
 "S321BU","OK",FALSE,14.5,15.9,21.9,FALSE,11
 "S321BW","OK",FALSE,15.5,18.7,22.6,FALSE,19
 "S321BX","OK",FALSE,12.8,13.8,19,FALSE,5

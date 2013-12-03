@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L22HD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L22HD","No Data",NA,NA,NA,NA,TRUE,0
 "L22HF","OK",FALSE,14.8,14.5,22.1,TRUE,4
 "L22HJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "L22HT","Insufficient Data",NA,NA,NA,NA,FALSE,2

@@ -10,12 +10,10 @@
 "W69DL","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "W69DP","No premises",NA,NA,NA,NA,FALSE,0
 "W69DQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W69DQ","No Data",NA,NA,NA,NA,FALSE,0
 "W69DR","No premises",NA,NA,NA,NA,FALSE,0
 "W69DS","No premises",NA,NA,NA,NA,FALSE,0
 "W69DT","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "W69DU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W69DU","No Data",NA,NA,NA,NA,FALSE,0
 "W69DX","No Data",NA,NA,NA,NA,TRUE,0
 "W69DY","OK",FALSE,12.8,14.3,18.2,FALSE,18
 "W69DZ","OK",FALSE,10.6,10.7,17,FALSE,32

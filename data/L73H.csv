@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L73HD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L73HD","No Data",NA,NA,NA,NA,TRUE,0
 "L73HE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L73HE","No Data",NA,NA,NA,NA,TRUE,0
 "L73HJ","OK",TRUE,7,6.3,12.8,TRUE,3
 "L73HL","OK",TRUE,16.3,10.9,30,TRUE,14
 "L73HT","OK",FALSE,24,20,30,TRUE,15

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L248AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L248AD","No Data",NA,NA,NA,NA,FALSE,0
 "L248DA","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L248QA","OK",FALSE,27.5,8.1,30,TRUE,6
 "L248QB","OK",TRUE,5,6.1,8.1,TRUE,21
@@ -10,7 +9,6 @@
 "L248RF","OK",FALSE,4,3.8,5.3,FALSE,5
 "L248RG","No premises",NA,NA,NA,NA,FALSE,0
 "L248RJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L248RJ","No Data",NA,NA,NA,NA,FALSE,0
 "L248RL","OK",FALSE,4.1,4,4.5,FALSE,5
 "L248RN","OK",FALSE,9.8,4.6,21.4,FALSE,3
 "L248WA","No premises",NA,NA,NA,NA,FALSE,0

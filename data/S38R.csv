@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S38RA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S38RA","No Data",NA,NA,NA,NA,FALSE,0
 "S38RD","OK",TRUE,6.2,6.7,9.1,FALSE,42
 "S38RG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "S38RN","OK",TRUE,6.6,7.1,9.1,FALSE,37

@@ -7,10 +7,7 @@
 "L31BJ","OK",FALSE,16.6,17,19.7,FALSE,26
 "L31BL","No premises",NA,NA,NA,NA,FALSE,0
 "L31BN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L31BN","No Data",NA,NA,NA,NA,TRUE,0
 "L31BP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L31BP","No Data",NA,NA,NA,NA,FALSE,0
 "L31BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L31BU","No Data",NA,NA,NA,NA,FALSE,0
 "L31BW","No premises",NA,NA,NA,NA,FALSE,0
 "L31BY","OK",FALSE,13.9,13.6,20.3,TRUE,6

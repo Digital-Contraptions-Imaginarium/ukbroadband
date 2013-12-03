@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PL72AA","OK",FALSE,21.5,21.3,24.4,TRUE,3
 "PL72AD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"PL72AD","No Data",NA,NA,NA,NA,FALSE,0
 "PL72AE","No premises",NA,NA,NA,NA,TRUE,0
 "PL72AF","No premises",NA,NA,NA,NA,TRUE,0
 "PL72AG","No Data",NA,NA,NA,NA,TRUE,0
@@ -10,10 +9,8 @@
 "PL72AN","OK",FALSE,28.4,25,30,TRUE,16
 "PL72AP","No premises",NA,NA,NA,NA,TRUE,0
 "PL72AQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"PL72AQ","No Data",NA,NA,NA,NA,TRUE,0
 "PL72AR","OK",FALSE,17.5,19.8,22.2,FALSE,7
 "PL72AS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"PL72AS","No Data",NA,NA,NA,NA,TRUE,0
 "PL72AT","OK",FALSE,30,25.9,30,TRUE,18
 "PL72AU","OK",TRUE,25.6,19.9,30,TRUE,7
 "PL72AW","OK",FALSE,17.2,18.9,30,TRUE,9
@@ -51,7 +48,6 @@
 "PL72DU","OK",TRUE,27.6,19.4,30,TRUE,39
 "PL72DW","OK",TRUE,27.6,19.6,30,TRUE,27
 "PL72DX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"PL72DX","No Data",NA,NA,NA,NA,TRUE,0
 "PL72DY","OK",TRUE,27,19.8,30,TRUE,16
 "PL72DZ","OK",FALSE,26.9,19.6,30,TRUE,5
 "PL72EA","OK",FALSE,20.4,15.7,30,TRUE,24
@@ -195,7 +191,6 @@
 "PL72YJ","OK",FALSE,25.9,17,30,TRUE,46
 "PL72YL","OK",FALSE,28,14.5,30,TRUE,13
 "PL72YP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"PL72YP","No Data",NA,NA,NA,NA,TRUE,0
 "PL72YQ","OK",FALSE,30,18.4,30,TRUE,10
 "PL72YR","No premises",NA,NA,NA,NA,TRUE,0
 "PL72YT","OK",FALSE,20,8.2,30,TRUE,22
@@ -210,4 +205,3 @@
 "PL72ZR","No premises",NA,NA,NA,NA,FALSE,0
 "PL72ZS","No premises",NA,NA,NA,NA,FALSE,0
 "PL72ZW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"PL72ZW","No Data",NA,NA,NA,NA,TRUE,0

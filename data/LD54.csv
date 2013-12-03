@@ -1,14 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LD54AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54AB","No Data",NA,NA,NA,NA,FALSE,0
 "LD54AD","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LD54AE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54AE","No Data",NA,NA,NA,NA,FALSE,0
 "LD54AF","No Data",NA,NA,NA,NA,FALSE,0
 "LD54AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54AG","No Data",NA,NA,NA,NA,FALSE,0
 "LD54BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54BA","No Data",NA,NA,NA,NA,FALSE,0
 "LD54RA","OK",FALSE,6.8,7.4,8.1,FALSE,15
 "LD54RB","OK",FALSE,7.7,7.6,8.1,FALSE,5
 "LD54RD","OK",FALSE,7,7.6,8.1,FALSE,6
@@ -31,13 +27,10 @@
 "LD54SD","No premises",NA,NA,NA,NA,FALSE,0
 "LD54SE","OK",FALSE,5.5,6.2,6.8,FALSE,3
 "LD54SF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54SF","No Data",NA,NA,NA,NA,FALSE,0
 "LD54SG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54SG","No Data",NA,NA,NA,NA,FALSE,0
 "LD54SL","OK",FALSE,7.6,7.6,7.6,FALSE,3
 "LD54SN","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "LD54SP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54SP","No Data",NA,NA,NA,NA,FALSE,0
 "LD54SR","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "LD54SS","No Data",NA,NA,NA,NA,FALSE,0
 "LD54ST","OK",FALSE,6.8,7.4,7.6,FALSE,8
@@ -46,37 +39,30 @@
 "LD54TA","OK",FALSE,6.1,6.8,8.1,FALSE,12
 "LD54TB","OK",TRUE,4.3,4.2,7.4,FALSE,8
 "LD54TD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54TD","No Data",NA,NA,NA,NA,FALSE,0
 "LD54TE","OK",TRUE,4.5,4.5,7.4,FALSE,12
 "LD54TH","OK",FALSE,7,7.6,7.6,FALSE,7
 "LD54TL","OK",TRUE,4.7,4.8,6.8,FALSE,6
 "LD54TN","OK",FALSE,4.1,4.6,5.1,FALSE,5
 "LD54TP","OK",TRUE,1,0.9,1.7,FALSE,3
 "LD54TR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54TR","No Data",NA,NA,NA,NA,FALSE,0
 "LD54TS","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "LD54TT","OK",TRUE,1.4,1.7,1.8,FALSE,3
 "LD54TW","OK",TRUE,1.4,1.4,1.6,FALSE,3
 "LD54TY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54TY","No Data",NA,NA,NA,NA,FALSE,0
 "LD54UA","OK",TRUE,2.6,2.2,5.7,FALSE,4
 "LD54UB","OK",TRUE,5,4.8,8.1,FALSE,3
 "LD54UD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54UD","No Data",NA,NA,NA,NA,FALSE,0
 "LD54UE","OK",TRUE,3,2.3,5.7,FALSE,3
 "LD54UF","OK",FALSE,3.4,3.4,4.5,FALSE,3
 "LD54UG","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LD54UH","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "LD54UL","OK",TRUE,1.1,1.4,1.4,FALSE,3
 "LD54UN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54UN","No Data",NA,NA,NA,NA,FALSE,0
 "LD54UP","OK",FALSE,4.6,3.4,8.1,FALSE,7
 "LD54UR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54UR","No Data",NA,NA,NA,NA,FALSE,0
 "LD54UT","OK",FALSE,7.4,7.4,7.4,FALSE,3
 "LD54UU","OK",TRUE,4.4,4.7,7.7,FALSE,4
 "LD54UY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LD54UY","No Data",NA,NA,NA,NA,FALSE,0
 "LD54YA","OK",FALSE,4.6,4.6,6.8,FALSE,3
 "LD54YB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LD54YD","OK",TRUE,4,3.9,7.4,FALSE,3

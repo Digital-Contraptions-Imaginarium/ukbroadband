@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M37JQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M37JQ","No Data",NA,NA,NA,NA,TRUE,0
 "M37JS","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M37JY","OK",FALSE,25.4,20,30,TRUE,58
 "M37JZ","OK",FALSE,23.4,20,30,TRUE,50

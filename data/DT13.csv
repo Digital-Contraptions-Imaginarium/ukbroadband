@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "DT13AA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DT13AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13AB","No Data",NA,NA,NA,NA,TRUE,0
 "DT13AD","OK",FALSE,12,9.7,19.5,TRUE,3
 "DT13AE","OK",FALSE,17,8.7,30,TRUE,8
 "DT13AF","OK",FALSE,5.5,5.1,7.7,TRUE,6
@@ -27,17 +26,14 @@
 "DT13BT","OK",TRUE,4.6,4.7,6.6,FALSE,14
 "DT13BU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "DT13BW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13BW","No Data",NA,NA,NA,NA,TRUE,0
 "DT13BX","OK",TRUE,4.9,5.3,7.9,TRUE,10
 "DT13BY","OK",TRUE,25.3,5.8,30,TRUE,12
 "DT13FA","OK",FALSE,18.4,7.6,30,TRUE,7
 "DT13FB","OK",FALSE,13.1,6.4,30,TRUE,13
 "DT13FD","OK",TRUE,12,6.4,30,TRUE,28
 "DT13FH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13FH","No Data",NA,NA,NA,NA,TRUE,0
 "DT13GA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "DT13GB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13GB","No Data",NA,NA,NA,NA,TRUE,0
 "DT13GD","OK",TRUE,17.3,8.2,30,TRUE,16
 "DT13GE","OK",TRUE,16.7,7.8,30,TRUE,37
 "DT13GF","OK",FALSE,15.9,8.1,30,TRUE,9
@@ -56,7 +52,6 @@
 "DT13GX","OK",TRUE,17.5,9.2,30,TRUE,7
 "DT13GY","OK",FALSE,13.3,6.6,30,TRUE,15
 "DT13GZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13GZ","No Data",NA,NA,NA,NA,TRUE,0
 "DT13QY","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DT13RA","OK",FALSE,12.7,4.1,30,TRUE,8
 "DT13RB","OK",FALSE,27.8,5,30,TRUE,3
@@ -75,14 +70,11 @@
 "DT13RT","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DT13RW","No premises",NA,NA,NA,NA,TRUE,0
 "DT13RX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13RX","No Data",NA,NA,NA,NA,TRUE,0
 "DT13RY","OK",FALSE,20.6,8.3,30,TRUE,3
 "DT13RZ","OK",FALSE,20,5.5,30,TRUE,3
 "DT13SA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13SA","No Data",NA,NA,NA,NA,TRUE,0
 "DT13SB","OK",FALSE,8.3,8.7,10.8,TRUE,6
 "DT13SD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13SD","No Data",NA,NA,NA,NA,TRUE,0
 "DT13SE","OK",FALSE,10.6,5.5,30,TRUE,6
 "DT13SF","OK",TRUE,7.8,4.4,27.7,TRUE,6
 "DT13SG","OK",TRUE,11.4,4.3,30,TRUE,16
@@ -100,11 +92,8 @@
 "DT13SX","OK",TRUE,10.7,3.7,30,TRUE,8
 "DT13TA","OK",TRUE,3.4,3.4,4.9,TRUE,5
 "DT13TB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13TB","No Data",NA,NA,NA,NA,TRUE,0
 "DT13TD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13TD","No Data",NA,NA,NA,NA,TRUE,0
 "DT13TE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13TE","No Data",NA,NA,NA,NA,TRUE,0
 "DT13TF","OK",FALSE,12.6,6.4,30,TRUE,6
 "DT13TG","OK",FALSE,4.3,3.5,6.1,TRUE,8
 "DT13TH","OK",FALSE,30,30,30,TRUE,7
@@ -116,30 +105,22 @@
 "DT13TR","OK",FALSE,4.4,4.1,5.1,TRUE,3
 "DT13TS","OK",FALSE,30,9.2,30,TRUE,7
 "DT13TT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"DT13TT","No Data",NA,NA,NA,NA,FALSE,0
 "DT13TW","OK",FALSE,9.6,3.6,30,TRUE,6
 "DT13UX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "DT13WA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "DT13WB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13WB","No Data",NA,NA,NA,NA,TRUE,0
 "DT13WD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13WD","No Data",NA,NA,NA,NA,TRUE,0
 "DT13WE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13WE","No Data",NA,NA,NA,NA,TRUE,0
 "DT13WF","OK",FALSE,5.3,5.2,7,TRUE,4
 "DT13WG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13WG","No Data",NA,NA,NA,NA,TRUE,0
 "DT13WH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13WH","No Data",NA,NA,NA,NA,TRUE,0
 "DT13WJ","OK",TRUE,2.6,2.7,3.1,TRUE,4
 "DT13WL","OK",FALSE,30,23.9,30,TRUE,4
 "DT13WN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "DT13WP","OK",FALSE,12.4,8.4,30,TRUE,7
 "DT13WQ","OK",FALSE,14.3,6.4,30,TRUE,8
 "DT13WR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13WR","No Data",NA,NA,NA,NA,TRUE,0
 "DT13WS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"DT13WS","No Data",NA,NA,NA,NA,TRUE,0
 "DT13WT","OK",TRUE,15.9,5.1,30,TRUE,19
 "DT13WU","OK",FALSE,12.8,5.4,30,TRUE,9
 "DT13WW","OK",FALSE,26.2,5.1,30,TRUE,5

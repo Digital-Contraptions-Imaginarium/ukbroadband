@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E32TA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E32TA","No Data",NA,NA,NA,NA,FALSE,0
 "E32TB","OK",TRUE,5.3,5.1,9.1,FALSE,13
 "E32TD","OK",FALSE,9.9,10.2,14.7,FALSE,24
 "E32TJ","OK",TRUE,17.6,10.5,30,TRUE,43
@@ -13,4 +12,3 @@
 "E32TU","OK",FALSE,22.4,13,30,TRUE,10
 "E32TW","OK",TRUE,18.2,9.3,30,TRUE,18
 "E32TY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E32TY","No Data",NA,NA,NA,NA,FALSE,0

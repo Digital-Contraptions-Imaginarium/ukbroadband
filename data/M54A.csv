@@ -2,13 +2,10 @@
 "M54AA","No premises",NA,NA,NA,NA,TRUE,0
 "M54AD","OK",FALSE,9,9.2,15.1,TRUE,5
 "M54AE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M54AE","No Data",NA,NA,NA,NA,TRUE,0
 "M54AF","OK",FALSE,12.5,11.7,30,TRUE,28
 "M54AH","OK",TRUE,14.3,12.4,30,TRUE,26
 "M54AJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M54AJ","No Data",NA,NA,NA,NA,TRUE,0
 "M54AL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M54AL","No Data",NA,NA,NA,NA,TRUE,0
 "M54AN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "M54AP","No premises",NA,NA,NA,NA,TRUE,0
 "M54AQ","OK",FALSE,11,10.8,14.2,TRUE,7

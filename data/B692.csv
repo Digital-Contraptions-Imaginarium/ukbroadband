@@ -1,25 +1,20 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B692AA","No premises",NA,NA,NA,NA,FALSE,0
 "B692AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692AB","No Data",NA,NA,NA,NA,FALSE,0
 "B692AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692AG","No Data",NA,NA,NA,NA,FALSE,0
 "B692AJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B692AL","No premises",NA,NA,NA,NA,FALSE,0
 "B692AN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692AN","No Data",NA,NA,NA,NA,FALSE,0
 "B692AP","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B692AQ","OK",TRUE,8.2,8.1,14.3,TRUE,5
 "B692AS","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B692AW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692AW","No Data",NA,NA,NA,NA,FALSE,0
 "B692AX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B692AY","OK",TRUE,8.1,8.2,14,FALSE,5
 "B692AZ","OK",TRUE,10.1,10.7,16.8,FALSE,23
 "B692BA","OK",FALSE,12,11.9,17,FALSE,10
 "B692BB","No Data",NA,NA,NA,NA,FALSE,0
 "B692BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692BD","No Data",NA,NA,NA,NA,FALSE,0
 "B692BG","No premises",NA,NA,NA,NA,FALSE,0
 "B692BH","OK",TRUE,8.2,9,14.4,TRUE,5
 "B692BJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -27,20 +22,15 @@
 "B692BN","OK",FALSE,12.4,12.4,16.7,TRUE,3
 "B692BP","OK",FALSE,17.6,17.8,20.2,FALSE,4
 "B692BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692BS","No Data",NA,NA,NA,NA,FALSE,0
 "B692BT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692BT","No Data",NA,NA,NA,NA,FALSE,0
 "B692BU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B692BW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B692BW","No Data",NA,NA,NA,NA,TRUE,0
 "B692BX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B692BZ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B692DA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B692DA","No Data",NA,NA,NA,NA,TRUE,0
 "B692DB","OK",TRUE,6,6,10.8,FALSE,3
 "B692DD","OK",FALSE,7.9,7.8,11.2,FALSE,11
 "B692DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692DF","No Data",NA,NA,NA,NA,FALSE,0
 "B692DG","OK",FALSE,17.1,17.7,19.7,TRUE,7
 "B692DH","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "B692DN","OK",FALSE,19,16.2,30,TRUE,29
@@ -83,12 +73,10 @@
 "B692HP","OK",TRUE,17.3,7,30,TRUE,45
 "B692HR","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "B692HS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B692HS","No Data",NA,NA,NA,NA,TRUE,0
 "B692HT","OK",FALSE,13.9,20,20,TRUE,8
 "B692HU","OK",TRUE,23.6,15.5,30,TRUE,19
 "B692HW","OK",TRUE,21.5,30,30,TRUE,12
 "B692HX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B692HX","No Data",NA,NA,NA,NA,TRUE,0
 "B692HY","OK",TRUE,13.6,8.4,30,TRUE,37
 "B692HZ","OK",FALSE,18.8,20,30,TRUE,19
 "B692JA","OK",TRUE,7.5,6,30,TRUE,18
@@ -103,15 +91,12 @@
 "B692JN","OK",FALSE,24.2,20,30,TRUE,26
 "B692JP","OK",FALSE,24.5,8.5,30,TRUE,15
 "B692JQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B692JQ","No Data",NA,NA,NA,NA,TRUE,0
 "B692JR","OK",FALSE,24.9,25,30,TRUE,12
 "B692JS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692JS","No Data",NA,NA,NA,NA,FALSE,0
 "B692JT","OK",TRUE,19.2,4.9,30,TRUE,12
 "B692JU","OK",TRUE,18.1,13.1,30,TRUE,11
 "B692JW","OK",FALSE,27.4,30,30,TRUE,13
 "B692JX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692JX","No Data",NA,NA,NA,NA,FALSE,0
 "B692JY","OK",FALSE,19.3,8.6,30,TRUE,9
 "B692JZ","OK",FALSE,5.7,6.2,6.3,TRUE,3
 "B692LA","OK",FALSE,20.6,13.1,30,TRUE,6
@@ -148,7 +133,6 @@
 "B692PA","No premises",NA,NA,NA,NA,TRUE,0
 "B692PD","No Data",NA,NA,NA,NA,TRUE,0
 "B692PG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B692PG","No Data",NA,NA,NA,NA,TRUE,0
 "B692PJ","OK",FALSE,6.9,6.8,8.1,TRUE,5
 "B692PP","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "B692PZ","No premises",NA,NA,NA,NA,FALSE,0
@@ -162,6 +146,5 @@
 "B692RL","OK",FALSE,14.2,13.8,19.6,FALSE,6
 "B692RN","OK",FALSE,14.4,16,20.9,FALSE,15
 "B692RU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B692RU","No Data",NA,NA,NA,NA,FALSE,0
 "B692RW","OK",FALSE,14.3,15.9,17.4,FALSE,3
 "B692ZA","No premises",NA,NA,NA,NA,FALSE,0

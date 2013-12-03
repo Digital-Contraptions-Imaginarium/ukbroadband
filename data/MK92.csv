@@ -25,7 +25,6 @@
 "MK92DH","OK",FALSE,9.8,6.7,30,TRUE,12
 "MK92DJ","OK",TRUE,6.3,7.4,8.6,TRUE,13
 "MK92DL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK92DL","No Data",NA,NA,NA,NA,TRUE,0
 "MK92DN","No Data",NA,NA,NA,NA,TRUE,0
 "MK92DP","OK",FALSE,7.4,7.3,9,TRUE,7
 "MK92DS","No premises",NA,NA,NA,NA,FALSE,0
@@ -33,7 +32,6 @@
 "MK92DU","No premises",NA,NA,NA,NA,FALSE,0
 "MK92EA","OK",TRUE,7.6,6,27.4,TRUE,17
 "MK92EB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK92EB","No Data",NA,NA,NA,NA,FALSE,0
 "MK92EH","No premises",NA,NA,NA,NA,FALSE,0
 "MK92EL","OK",TRUE,10,6.9,30,TRUE,20
 "MK92ES","Insufficient Data",NA,NA,NA,NA,FALSE,2
@@ -52,28 +50,22 @@
 "MK92FS","No Data",NA,NA,NA,NA,TRUE,0
 "MK92FT","OK",TRUE,14,4,30,TRUE,32
 "MK92FW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK92FW","No Data",NA,NA,NA,NA,TRUE,0
 "MK92FX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "MK92FY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK92FY","No Data",NA,NA,NA,NA,TRUE,0
 "MK92FZ","No Data",NA,NA,NA,NA,TRUE,0
 "MK92GA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "MK92GD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK92GD","No Data",NA,NA,NA,NA,FALSE,0
 "MK92HP","OK",FALSE,4.1,4,6,TRUE,7
 "MK92HQ","No premises",NA,NA,NA,NA,FALSE,0
 "MK92HR","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "MK92HS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK92HS","No Data",NA,NA,NA,NA,TRUE,0
 "MK92JA","No premises",NA,NA,NA,NA,FALSE,0
 "MK92JB","No premises",NA,NA,NA,NA,FALSE,0
 "MK92JE","No premises",NA,NA,NA,NA,FALSE,0
 "MK92JF","No premises",NA,NA,NA,NA,FALSE,0
 "MK92JG","No premises",NA,NA,NA,NA,FALSE,0
 "MK92JH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"MK92JH","No Data",NA,NA,NA,NA,TRUE,0
 "MK92JS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK92JS","No Data",NA,NA,NA,NA,FALSE,0
 "MK92JT","No premises",NA,NA,NA,NA,FALSE,0
 "MK92LA","No premises",NA,NA,NA,NA,FALSE,0
 "MK92LD","No premises",NA,NA,NA,NA,TRUE,0
@@ -84,16 +76,12 @@
 "MK92NS","No premises",NA,NA,NA,NA,TRUE,0
 "MK92NW","No premises",NA,NA,NA,NA,TRUE,0
 "MK92PG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK92PG","No Data",NA,NA,NA,NA,FALSE,0
 "MK92PN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK92PN","No Data",NA,NA,NA,NA,FALSE,0
 "MK92PQ","No Data",NA,NA,NA,NA,FALSE,0
 "MK92PR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK92PR","No Data",NA,NA,NA,NA,FALSE,0
 "MK92PS","OK",FALSE,8,8.9,10.2,TRUE,10
 "MK92PT","OK",FALSE,8.1,9,9.6,FALSE,9
 "MK92PZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK92PZ","No Data",NA,NA,NA,NA,FALSE,0
 "MK92QB","No premises",NA,NA,NA,NA,FALSE,0
 "MK92RG","No premises",NA,NA,NA,NA,FALSE,0
 "MK92SR","No premises",NA,NA,NA,NA,FALSE,0
@@ -106,7 +94,6 @@
 "MK92XX","No premises",NA,NA,NA,NA,FALSE,0
 "MK92XZ","No premises",NA,NA,NA,NA,FALSE,0
 "MK92YH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"MK92YH","No Data",NA,NA,NA,NA,FALSE,0
 "MK92YN","No premises",NA,NA,NA,NA,FALSE,0
 "MK92ZF","No premises",NA,NA,NA,NA,FALSE,0
 "MK92ZJ","No premises",NA,NA,NA,NA,FALSE,0

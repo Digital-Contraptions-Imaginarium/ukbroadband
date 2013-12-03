@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "KW106AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"KW106AB","No Data",NA,NA,NA,NA,FALSE,0
 "KW106RA","OK",FALSE,7.2,8.1,8.1,FALSE,24
 "KW106RB","No premises",NA,NA,NA,NA,FALSE,0
 "KW106RF","No premises",NA,NA,NA,NA,FALSE,0
@@ -27,9 +26,7 @@
 "KW106SL","OK",FALSE,7.2,7.6,8.1,FALSE,5
 "KW106SN","OK",FALSE,8.1,8.1,8.1,FALSE,8
 "KW106SP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"KW106SP","No Data",NA,NA,NA,NA,FALSE,0
 "KW106SQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"KW106SQ","No Data",NA,NA,NA,NA,FALSE,0
 "KW106SR","OK",FALSE,7.9,8.1,8.1,FALSE,9
 "KW106SS","No premises",NA,NA,NA,NA,FALSE,0
 "KW106ST","OK",FALSE,7,7.4,8.1,FALSE,12
@@ -41,7 +38,6 @@
 "KW106TA","OK",TRUE,6,6.2,8.1,FALSE,22
 "KW106TD","OK",TRUE,3.6,3.9,5.5,FALSE,11
 "KW106TE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"KW106TE","No Data",NA,NA,NA,NA,FALSE,0
 "KW106TF","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "KW106TG","OK",TRUE,7.3,8.1,8.1,FALSE,25
 "KW106TH","OK",TRUE,5.9,6.2,8.1,FALSE,9
@@ -59,9 +55,7 @@
 "KW106TY","OK",FALSE,7.4,7.5,8.1,FALSE,7
 "KW106TZ","OK",TRUE,7,8.1,8.1,FALSE,17
 "KW106UA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"KW106UA","No Data",NA,NA,NA,NA,FALSE,0
 "KW106UB","No Data",NA,NA,NA,NA,FALSE,0
 "KW106UD","OK",FALSE,7.4,7.8,8.1,FALSE,4
 "KW106UE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"KW106UE","No Data",NA,NA,NA,NA,FALSE,0
 "KW106UF","OK",FALSE,6.6,7.3,8.1,FALSE,12

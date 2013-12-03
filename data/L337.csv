@@ -1,20 +1,16 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L337BA","OK",FALSE,9.7,8.5,13.9,FALSE,7
 "L337BB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337BB","No Data",NA,NA,NA,NA,FALSE,0
 "L337BJ","No Data",NA,NA,NA,NA,FALSE,0
 "L337BU","No Data",NA,NA,NA,NA,FALSE,0
 "L337BY","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L337DF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337DF","No Data",NA,NA,NA,NA,FALSE,0
 "L337DR","No premises",NA,NA,NA,NA,FALSE,0
 "L337DX","No premises",NA,NA,NA,NA,FALSE,0
 "L337ED","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L337ED","No Data",NA,NA,NA,NA,TRUE,0
 "L337ET","No premises",NA,NA,NA,NA,FALSE,0
 "L337HT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L337PA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337PA","No Data",NA,NA,NA,NA,FALSE,0
 "L337RD","No premises",NA,NA,NA,NA,FALSE,0
 "L337RE","No premises",NA,NA,NA,NA,FALSE,0
 "L337RJ","No premises",NA,NA,NA,NA,FALSE,0
@@ -36,27 +32,21 @@
 "L337ST","No premises",NA,NA,NA,NA,FALSE,0
 "L337SW","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "L337SX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337SX","No Data",NA,NA,NA,NA,FALSE,0
 "L337SY","OK",TRUE,6.7,6.9,9.1,FALSE,10
 "L337TA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337TA","No Data",NA,NA,NA,NA,FALSE,0
 "L337TD","OK",FALSE,9.5,7.3,19,FALSE,4
 "L337TG","No premises",NA,NA,NA,NA,FALSE,0
 "L337TH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337TH","No Data",NA,NA,NA,NA,FALSE,0
 "L337TJ","OK",FALSE,9,9.2,9.7,FALSE,4
 "L337TQ","OK",FALSE,4.9,4.9,6.7,FALSE,8
 "L337TS","No premises",NA,NA,NA,NA,FALSE,0
 "L337TT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337TT","No Data",NA,NA,NA,NA,FALSE,0
 "L337TU","No premises",NA,NA,NA,NA,FALSE,0
 "L337TW","OK",FALSE,6.1,5.4,10.2,FALSE,12
 "L337TX","OK",TRUE,7.4,7.8,10.6,FALSE,8
 "L337TY","No premises",NA,NA,NA,NA,FALSE,0
 "L337TZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337TZ","No Data",NA,NA,NA,NA,FALSE,0
 "L337UA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337UA","No Data",NA,NA,NA,NA,FALSE,0
 "L337UB","OK",FALSE,8.3,7.4,11.7,FALSE,4
 "L337UF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L337UG","No Data",NA,NA,NA,NA,FALSE,0
@@ -79,7 +69,6 @@
 "L337XN","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L337XP","No premises",NA,NA,NA,NA,FALSE,0
 "L337XQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L337XQ","No Data",NA,NA,NA,NA,TRUE,0
 "L337XS","OK",FALSE,8.3,8.1,9.7,FALSE,6
 "L337XU","No premises",NA,NA,NA,NA,FALSE,0
 "L337XW","OK",FALSE,11.9,8,24.4,TRUE,12
@@ -89,10 +78,8 @@
 "L337YA","OK",FALSE,7.4,8.2,10.2,FALSE,11
 "L337YB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L337YE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337YE","No Data",NA,NA,NA,NA,FALSE,0
 "L337YN","OK",FALSE,4.8,5.4,6.8,FALSE,3
 "L337YP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L337YP","No Data",NA,NA,NA,NA,FALSE,0
 "L337YQ","OK",TRUE,3.4,3.7,5.7,FALSE,8
 "L337YX","No premises",NA,NA,NA,NA,FALSE,0
 "L337ZR","No Data",NA,NA,NA,NA,FALSE,0

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W69NA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"W69NA","No Data",NA,NA,NA,NA,TRUE,0
 "W69NH","OK",TRUE,24.8,17.4,30,TRUE,66
 "W69NJ","OK",FALSE,24,13.1,30,TRUE,14
 "W69NL","OK",FALSE,12.4,13.7,19.3,FALSE,10

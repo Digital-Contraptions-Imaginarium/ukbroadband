@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BS94AA","OK",FALSE,22.2,20.9,30,TRUE,17
 "BS94AB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BS94AB","No Data",NA,NA,NA,NA,TRUE,0
 "BS94AD","OK",TRUE,28.7,20,30,TRUE,21
 "BS94AE","OK",FALSE,30,20.2,30,TRUE,18
 "BS94AF","OK",FALSE,15.3,16.3,19.3,TRUE,16
@@ -176,7 +175,6 @@
 "BS94RW","OK",FALSE,16.3,19.2,20,TRUE,12
 "BS94RX","OK",FALSE,24.5,20,30,TRUE,7
 "BS94RY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BS94RY","No Data",NA,NA,NA,NA,TRUE,0
 "BS94RZ","OK",FALSE,24,19.1,30,TRUE,12
 "BS94SA","OK",TRUE,18.5,17.4,30,TRUE,18
 "BS94SB","OK",FALSE,24.8,20,30,TRUE,40

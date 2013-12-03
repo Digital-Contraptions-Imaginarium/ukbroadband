@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "CO65AA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65AA","No Data",NA,NA,NA,NA,FALSE,0
 "CO65AB","OK",FALSE,2.7,2.8,3,FALSE,4
 "CO65AD","OK",TRUE,2.5,2,3.9,FALSE,11
 "CO65AE","OK",TRUE,1.9,1.5,4.5,FALSE,4
@@ -14,41 +13,30 @@
 "CO65AS","OK",TRUE,1.1,1,1.5,FALSE,8
 "CO65AT","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CO65AU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65AU","No Data",NA,NA,NA,NA,FALSE,0
 "CO65AX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65AX","No Data",NA,NA,NA,NA,FALSE,0
 "CO65AY","OK",TRUE,5.1,2.1,20.2,TRUE,6
 "CO65BA","OK",TRUE,2.5,2.6,3.6,TRUE,12
 "CO65BB","OK",TRUE,2.8,2.5,4.6,FALSE,15
 "CO65BD","OK",TRUE,3.1,2.5,5.2,FALSE,3
 "CO65BE","OK",TRUE,2.7,2.7,4.5,FALSE,16
 "CO65BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65BF","No Data",NA,NA,NA,NA,FALSE,0
 "CO65BG","OK",TRUE,2.4,2.3,4,FALSE,9
 "CO65BP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65BP","No Data",NA,NA,NA,NA,FALSE,0
 "CO65BQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65BQ","No Data",NA,NA,NA,NA,FALSE,0
 "CO65BS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65BS","No Data",NA,NA,NA,NA,FALSE,0
 "CO65BT","OK",TRUE,2.5,2.5,3,FALSE,3
 "CO65BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65BU","No Data",NA,NA,NA,NA,FALSE,0
 "CO65BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65BX","No Data",NA,NA,NA,NA,FALSE,0
 "CO65BZ","OK",TRUE,2.9,2.8,4,FALSE,4
 "CO65DA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65DA","No Data",NA,NA,NA,NA,FALSE,0
 "CO65DB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CO65DD","OK",TRUE,2.8,2.8,4,FALSE,6
 "CO65DE","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CO65DG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65DG","No Data",NA,NA,NA,NA,FALSE,0
 "CO65DH","OK",TRUE,3,2.8,6,FALSE,6
 "CO65DJ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CO65DL","OK",TRUE,2.2,2.1,2.8,FALSE,3
 "CO65DN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CO65DN","No Data",NA,NA,NA,NA,FALSE,0
 "CO65DW","OK",FALSE,6.2,6.8,9.4,FALSE,12
 "CO65RL","No premises",NA,NA,NA,NA,FALSE,0
 "CO65WY","No premises",NA,NA,NA,NA,FALSE,0

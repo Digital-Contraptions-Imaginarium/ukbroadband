@@ -2,7 +2,6 @@
 "M904AB","No Data",NA,NA,NA,NA,FALSE,0
 "M904AF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "M904AG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M904AG","No Data",NA,NA,NA,NA,FALSE,0
 "M904AL","No premises",NA,NA,NA,NA,FALSE,0
 "M904AN","No premises",NA,NA,NA,NA,TRUE,0
 "M904AS","No Data",NA,NA,NA,NA,FALSE,0
@@ -20,4 +19,3 @@
 "M904TU","No Data",NA,NA,NA,NA,FALSE,0
 "M904WP","No premises",NA,NA,NA,NA,TRUE,0
 "M904ZY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M904ZY","No Data",NA,NA,NA,NA,FALSE,0

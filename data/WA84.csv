@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "WA84DW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WA84DW","No Data",NA,NA,NA,NA,TRUE,0
 "WA84DX","OK",TRUE,20.9,20,30,TRUE,7
 "WA84DY","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WA84DZ","OK",TRUE,16.9,3.3,30,TRUE,13
@@ -10,7 +9,6 @@
 "WA84FF","OK",TRUE,29,23.3,30,TRUE,26
 "WA84FG","OK",TRUE,26.9,12,30,TRUE,26
 "WA84FJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WA84FJ","No Data",NA,NA,NA,NA,TRUE,0
 "WA84FL","OK",TRUE,30,20,30,TRUE,9
 "WA84FN","OK",TRUE,20.9,20,30,TRUE,15
 "WA84GA","OK",TRUE,13.8,11.6,30,TRUE,4
@@ -46,12 +44,9 @@
 "WA84PH","OK",TRUE,12.4,2.5,30,TRUE,9
 "WA84PJ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WA84PL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WA84PL","No Data",NA,NA,NA,NA,TRUE,0
 "WA84PN","OK",TRUE,0.7,0.6,1,TRUE,4
 "WA84PP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WA84PP","No Data",NA,NA,NA,NA,TRUE,0
 "WA84PW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WA84PW","No Data",NA,NA,NA,NA,TRUE,0
 "WA84QA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WA84QB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "WA84QP","OK",FALSE,30,30,30,TRUE,3
@@ -96,9 +91,7 @@
 "WA84UQ","OK",TRUE,27.5,20,30,TRUE,7
 "WA84WZ","No premises",NA,NA,NA,NA,FALSE,0
 "WA84XF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WA84XF","No Data",NA,NA,NA,NA,TRUE,0
 "WA84XG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"WA84XG","No Data",NA,NA,NA,NA,TRUE,0
 "WA84XH","OK",TRUE,7.6,1.6,20,TRUE,3
 "WA84XJ","OK",TRUE,1.9,2.1,3,TRUE,6
 "WA84XL","OK",TRUE,2.4,2.2,3.8,TRUE,15

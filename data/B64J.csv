@@ -1,4 +1,3 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B64JB","OK",FALSE,11.2,8.1,17.9,FALSE,3
 "B64JX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B64JX","No Data",NA,NA,NA,NA,FALSE,0

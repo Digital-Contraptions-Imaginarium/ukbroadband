@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "LE39AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LE39AA","No Data",NA,NA,NA,NA,TRUE,0
 "LE39AB","OK",TRUE,20.1,5,30,TRUE,39
 "LE39AD","OK",TRUE,27.2,25,30,TRUE,37
 "LE39AE","OK",TRUE,8,4.5,30,TRUE,12
@@ -33,7 +32,6 @@
 "LE39BU","OK",FALSE,12.7,6.1,30,TRUE,17
 "LE39BW","OK",TRUE,7.4,4.2,30,TRUE,25
 "LE39BX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE39BX","No Data",NA,NA,NA,NA,FALSE,0
 "LE39BY","OK",TRUE,4.1,4.1,6,FALSE,9
 "LE39BZ","OK",TRUE,3.5,3.7,5.8,FALSE,13
 "LE39DA","OK",TRUE,23.5,7.6,30,TRUE,8
@@ -152,7 +150,6 @@
 "LE39LT","OK",FALSE,11.8,12.7,18,TRUE,13
 "LE39LU","OK",FALSE,12,13.7,17,TRUE,7
 "LE39LW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"LE39LW","No Data",NA,NA,NA,NA,TRUE,0
 "LE39LX","OK",TRUE,8.5,6.7,30,TRUE,28
 "LE39LY","OK",FALSE,16.7,8.8,30,TRUE,12
 "LE39LZ","OK",FALSE,24,9.8,30,TRUE,7
@@ -202,7 +199,6 @@
 "LE39QE","OK",TRUE,3.6,4.2,4.4,FALSE,4
 "LE39QF","No premises",NA,NA,NA,NA,FALSE,0
 "LE39QG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"LE39QG","No Data",NA,NA,NA,NA,FALSE,0
 "LE39QH","No premises",NA,NA,NA,NA,FALSE,0
 "LE39QJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "LE39QL","OK",FALSE,10.7,10.6,16.1,FALSE,5

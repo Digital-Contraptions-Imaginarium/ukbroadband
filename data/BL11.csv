@@ -14,7 +14,6 @@
 "BL11DA","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BL11DB","No premises",NA,NA,NA,NA,TRUE,0
 "BL11DD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11DD","No Data",NA,NA,NA,NA,TRUE,0
 "BL11DF","No Data",NA,NA,NA,NA,TRUE,0
 "BL11DG","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BL11DR","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -34,7 +33,6 @@
 "BL11ET","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BL11EX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BL11EZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11EZ","No Data",NA,NA,NA,NA,TRUE,0
 "BL11FA","No premises",NA,NA,NA,NA,FALSE,0
 "BL11FD","No premises",NA,NA,NA,NA,FALSE,0
 "BL11FE","No premises",NA,NA,NA,NA,FALSE,0
@@ -56,9 +54,7 @@
 "BL11HX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BL11JG","No premises",NA,NA,NA,NA,TRUE,0
 "BL11JL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11JL","No Data",NA,NA,NA,NA,TRUE,0
 "BL11JN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11JN","No Data",NA,NA,NA,NA,TRUE,0
 "BL11JT","OK",FALSE,15.7,16.2,23.7,TRUE,11
 "BL11JU","No premises",NA,NA,NA,NA,TRUE,0
 "BL11JW","No premises",NA,NA,NA,NA,TRUE,0
@@ -67,12 +63,10 @@
 "BL11LE","No premises",NA,NA,NA,NA,FALSE,0
 "BL11LF","OK",FALSE,10.4,7.8,18.7,TRUE,3
 "BL11LL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11LL","No Data",NA,NA,NA,NA,TRUE,0
 "BL11LN","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BL11LR","No premises",NA,NA,NA,NA,TRUE,0
 "BL11LS","OK",FALSE,15.9,19.5,21,TRUE,3
 "BL11LT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11LT","No Data",NA,NA,NA,NA,TRUE,0
 "BL11LY","OK",FALSE,18.4,21.1,23.8,TRUE,5
 "BL11NB","OK",TRUE,10,7.9,19.3,TRUE,11
 "BL11NE","OK",FALSE,12.5,14.3,17.6,TRUE,11
@@ -81,11 +75,8 @@
 "BL11NP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BL11NR","OK",FALSE,15.4,16.7,21.6,FALSE,27
 "BL11NS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11NS","No Data",NA,NA,NA,NA,TRUE,0
 "BL11NT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11NT","No Data",NA,NA,NA,NA,TRUE,0
 "BL11NX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11NX","No Data",NA,NA,NA,NA,TRUE,0
 "BL11NZ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BL11PB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BL11PE","No premises",NA,NA,NA,NA,TRUE,0
@@ -95,50 +86,40 @@
 "BL11PQ","No premises",NA,NA,NA,NA,TRUE,0
 "BL11PR","No premises",NA,NA,NA,NA,FALSE,0
 "BL11PS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11PS","No Data",NA,NA,NA,NA,TRUE,0
 "BL11PT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11PT","No Data",NA,NA,NA,NA,TRUE,0
 "BL11PU","No premises",NA,NA,NA,NA,TRUE,0
 "BL11PX","OK",FALSE,19.7,16.9,30,TRUE,20
 "BL11PZ","No Data",NA,NA,NA,NA,TRUE,0
 "BL11QD","OK",FALSE,22.7,17,30,TRUE,37
 "BL11QJ","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BL11QN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11QN","No Data",NA,NA,NA,NA,TRUE,0
 "BL11QQ","OK",TRUE,17.7,17.3,30,TRUE,8
 "BL11QW","No premises",NA,NA,NA,NA,TRUE,0
 "BL11QY","No Data",NA,NA,NA,NA,TRUE,0
 "BL11QZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11QZ","No Data",NA,NA,NA,NA,TRUE,0
 "BL11RD","OK",FALSE,16.5,17.1,23.5,TRUE,5
 "BL11RF","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BL11RJ","OK",TRUE,12.2,8.1,23.1,TRUE,5
 "BL11RS","OK",TRUE,11.7,10.8,23.1,TRUE,5
 "BL11RT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11RT","No Data",NA,NA,NA,NA,TRUE,0
 "BL11RW","No premises",NA,NA,NA,NA,TRUE,0
 "BL11RX","No premises",NA,NA,NA,NA,TRUE,0
 "BL11RZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL11RZ","No Data",NA,NA,NA,NA,FALSE,0
 "BL11SA","No premises",NA,NA,NA,NA,TRUE,0
 "BL11SB","No premises",NA,NA,NA,NA,TRUE,0
 "BL11SE","No premises",NA,NA,NA,NA,TRUE,0
 "BL11SJ","No premises",NA,NA,NA,NA,TRUE,0
 "BL11SN","No Data",NA,NA,NA,NA,TRUE,0
 "BL11SQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11SQ","No Data",NA,NA,NA,NA,TRUE,0
 "BL11SU","No premises",NA,NA,NA,NA,TRUE,0
 "BL11SW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BL11SX","No premises",NA,NA,NA,NA,FALSE,0
 "BL11SY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BL11SY","No Data",NA,NA,NA,NA,FALSE,0
 "BL11TD","OK",FALSE,9.6,7.8,17.1,TRUE,3
 "BL11TH","No premises",NA,NA,NA,NA,TRUE,0
 "BL11TJ","No premises",NA,NA,NA,NA,FALSE,0
 "BL11TN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11TN","No Data",NA,NA,NA,NA,TRUE,0
 "BL11TP","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11TP","No Data",NA,NA,NA,NA,TRUE,0
 "BL11TQ","No premises",NA,NA,NA,NA,TRUE,0
 "BL11TS","OK",FALSE,12.2,13.3,20,TRUE,4
 "BL11TU","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -148,7 +129,6 @@
 "BL11UG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "BL11UH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BL11UN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"BL11UN","No Data",NA,NA,NA,NA,TRUE,0
 "BL11UR","No Data",NA,NA,NA,NA,TRUE,0
 "BL11US","No premises",NA,NA,NA,NA,TRUE,0
 "BL11UT","No premises",NA,NA,NA,NA,FALSE,0

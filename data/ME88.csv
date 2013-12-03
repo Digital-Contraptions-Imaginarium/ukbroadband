@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "ME88AA","OK",FALSE,25.8,16.5,30,TRUE,6
 "ME88AD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ME88AD","No Data",NA,NA,NA,NA,TRUE,0
 "ME88AF","OK",FALSE,28,21.4,30,TRUE,7
 "ME88AG","OK",FALSE,16.2,17.9,24,TRUE,8
 "ME88AH","No premises",NA,NA,NA,NA,FALSE,0
@@ -54,7 +53,6 @@
 "ME88ER","OK",FALSE,29.9,30,30,TRUE,33
 "ME88ES","OK",FALSE,24.5,20,30,TRUE,21
 "ME88ET","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ME88ET","No Data",NA,NA,NA,NA,TRUE,0
 "ME88EW","OK",FALSE,22.1,18.5,30,TRUE,3
 "ME88EY","OK",FALSE,11.5,6.6,30,TRUE,18
 "ME88GL","OK",FALSE,16.4,6.8,30,TRUE,3
@@ -130,27 +128,20 @@
 "ME88PB","OK",TRUE,29.2,20,30,TRUE,33
 "ME88PE","No premises",NA,NA,NA,NA,FALSE,0
 "ME88PG","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ME88PG","No Data",NA,NA,NA,NA,TRUE,0
 "ME88PH","OK",FALSE,27.4,16.4,30,TRUE,9
 "ME88PJ","OK",TRUE,9.6,8.5,19.9,TRUE,4
 "ME88PL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ME88PL","No Data",NA,NA,NA,NA,TRUE,0
 "ME88PN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ME88PN","No Data",NA,NA,NA,NA,TRUE,0
 "ME88PP","OK",TRUE,4.5,4,7,TRUE,8
 "ME88PQ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ME88PQ","No Data",NA,NA,NA,NA,TRUE,0
 "ME88PR","OK",FALSE,5.9,6.6,7,TRUE,6
 "ME88PS","OK",FALSE,7.2,4.4,30,TRUE,14
 "ME88PT","OK",FALSE,7.2,7.4,7.7,TRUE,3
 "ME88PU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ME88PU","No Data",NA,NA,NA,NA,TRUE,0
 "ME88PW","No premises",NA,NA,NA,NA,FALSE,0
 "ME88PY","OK",FALSE,17.3,12.3,30,TRUE,17
 "ME88PZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ME88PZ","No Data",NA,NA,NA,NA,TRUE,0
 "ME88QA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"ME88QA","No Data",NA,NA,NA,NA,TRUE,0
 "ME88QB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "ME88QD","OK",TRUE,9.7,9.7,15.4,TRUE,8
 "ME88QE","Insufficient Data",NA,NA,NA,NA,TRUE,2

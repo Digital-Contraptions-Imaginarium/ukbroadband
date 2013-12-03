@@ -4,9 +4,7 @@
 "S37UD","OK",FALSE,15.7,16.4,19.7,FALSE,17
 "S37UE","OK",FALSE,16.6,17.4,21.5,FALSE,17
 "S37UF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S37UF","No Data",NA,NA,NA,NA,TRUE,0
 "S37UQ","No premises",NA,NA,NA,NA,FALSE,0
 "S37UR","No premises",NA,NA,NA,NA,FALSE,0
 "S37US","No premises",NA,NA,NA,NA,FALSE,0
 "S37UW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S37UW","No Data",NA,NA,NA,NA,TRUE,0

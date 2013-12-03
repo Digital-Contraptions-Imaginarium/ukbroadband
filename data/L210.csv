@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L210DA","OK",TRUE,14.9,3,30,TRUE,3
 "L210DB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L210DB","No Data",NA,NA,NA,NA,TRUE,0
 "L210DD","OK",TRUE,3.3,4,4.6,TRUE,5
 "L210DE","OK",TRUE,3.2,3.1,6.8,TRUE,13
 "L210DF","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -27,7 +26,6 @@
 "L210EG","OK",TRUE,3,3,4.8,TRUE,10
 "L210EH","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "L210EJ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L210EJ","No Data",NA,NA,NA,NA,TRUE,0
 "L210EL","OK",FALSE,3.3,3.3,4.2,TRUE,7
 "L210EN","OK",FALSE,7.4,3.9,30,TRUE,10
 "L210EP","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -72,7 +70,6 @@
 "L210JP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "L210JQ","OK",TRUE,6.3,2.5,20,TRUE,22
 "L210JU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L210JU","No Data",NA,NA,NA,NA,FALSE,0
 "L210JW","OK",TRUE,14.1,2,30,TRUE,16
 "L210JX","No premises",NA,NA,NA,NA,FALSE,0
 "L210JZ","Insufficient Data",NA,NA,NA,NA,TRUE,1

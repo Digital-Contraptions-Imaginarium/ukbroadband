@@ -3,7 +3,5 @@
 "G58DJ","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G58DL","OK",TRUE,13.7,16.9,22.2,FALSE,3
 "G58DU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G58DU","No Data",NA,NA,NA,NA,FALSE,0
 "G58DW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G58DW","No Data",NA,NA,NA,NA,FALSE,0
 "G58DZ","OK",FALSE,21.4,22.2,22.6,FALSE,3

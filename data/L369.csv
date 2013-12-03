@@ -4,55 +4,32 @@
 "L369FB","No premises",NA,NA,NA,NA,FALSE,0
 "L369GA","No Data",NA,NA,NA,NA,TRUE,0
 "L369GD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L369GD","No Data",NA,NA,NA,NA,TRUE,0
 "L369GE","OK",FALSE,16.2,16.3,23.1,FALSE,11
 "L369GF","No premises",NA,NA,NA,NA,FALSE,0
 "L369GL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369GL","No Data",NA,NA,NA,NA,FALSE,0
 "L369RX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369RX","No Data",NA,NA,NA,NA,FALSE,0
 "L369RY","No premises",NA,NA,NA,NA,FALSE,0
 "L369RZ","No premises",NA,NA,NA,NA,FALSE,0
 "L369SA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SA","No Data",NA,NA,NA,NA,FALSE,0
 "L369SB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SB","No Data",NA,NA,NA,NA,FALSE,0
 "L369SD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SD","No Data",NA,NA,NA,NA,FALSE,0
 "L369SE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SE","No Data",NA,NA,NA,NA,FALSE,0
 "L369SF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SF","No Data",NA,NA,NA,NA,FALSE,0
 "L369SG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SG","No Data",NA,NA,NA,NA,FALSE,0
 "L369SH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SH","No Data",NA,NA,NA,NA,FALSE,0
 "L369SJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SJ","No Data",NA,NA,NA,NA,FALSE,0
 "L369SL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SL","No Data",NA,NA,NA,NA,FALSE,0
 "L369SN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SN","No Data",NA,NA,NA,NA,FALSE,0
 "L369SP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SP","No Data",NA,NA,NA,NA,FALSE,0
 "L369SQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SQ","No Data",NA,NA,NA,NA,FALSE,0
 "L369SR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SR","No Data",NA,NA,NA,NA,FALSE,0
 "L369SS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SS","No Data",NA,NA,NA,NA,FALSE,0
 "L369ST","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369ST","No Data",NA,NA,NA,NA,FALSE,0
 "L369SU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SU","No Data",NA,NA,NA,NA,FALSE,0
 "L369SW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SW","No Data",NA,NA,NA,NA,FALSE,0
 "L369SX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SX","No Data",NA,NA,NA,NA,FALSE,0
 "L369SY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SY","No Data",NA,NA,NA,NA,FALSE,0
 "L369SZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369SZ","No Data",NA,NA,NA,NA,FALSE,0
 "L369TA","OK",FALSE,30,22.5,30,TRUE,18
 "L369TB","OK",FALSE,29.3,24.2,30,TRUE,12
 "L369TD","OK",TRUE,27.9,19.1,30,TRUE,12
@@ -79,7 +56,6 @@
 "L369UE","OK",TRUE,19.5,19.1,30,TRUE,17
 "L369UF","OK",FALSE,21.7,20,30,TRUE,18
 "L369UG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L369UG","No Data",NA,NA,NA,NA,FALSE,0
 "L369UH","OK",FALSE,10.4,8.1,17.1,TRUE,5
 "L369UJ","OK",TRUE,8.6,8.1,17,FALSE,6
 "L369UL","OK",FALSE,9.5,7.8,15.3,FALSE,4
@@ -87,7 +63,6 @@
 "L369UQ","OK",TRUE,12.1,13.8,20,TRUE,4
 "L369UR","OK",FALSE,12.2,10.7,18.6,TRUE,8
 "L369US","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L369US","No Data",NA,NA,NA,NA,TRUE,0
 "L369UX","No premises",NA,NA,NA,NA,TRUE,0
 "L369WQ","No premises",NA,NA,NA,NA,FALSE,0
 "L369WS","No premises",NA,NA,NA,NA,FALSE,0

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "BB73AA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "BB73AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BB73AB","No Data",NA,NA,NA,NA,FALSE,0
 "BB73AD","OK",FALSE,7.9,8.1,8.1,FALSE,3
 "BB73AE","OK",TRUE,6.1,8,8.1,FALSE,6
 "BB73AF","OK",TRUE,5.3,6.2,8.1,FALSE,8
@@ -80,7 +79,6 @@
 "BB73JU","OK",TRUE,2.5,2.1,4.3,FALSE,4
 "BB73JW","OK",TRUE,2.4,2.6,3.5,FALSE,16
 "BB73JX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BB73JX","No Data",NA,NA,NA,NA,FALSE,0
 "BB73JY","OK",TRUE,2.2,2.3,3.4,FALSE,7
 "BB73LA","OK",FALSE,11.8,8.9,30,TRUE,9
 "BB73LB","OK",TRUE,9.3,8.1,30,TRUE,74
@@ -102,7 +100,6 @@
 "BB73LX","OK",TRUE,1.5,1.5,2.1,FALSE,3
 "BB73LY","OK",TRUE,1.8,1.8,4.5,FALSE,19
 "BB73LZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"BB73LZ","No Data",NA,NA,NA,NA,FALSE,0
 "BB73NA","OK",TRUE,1.6,1.5,2.8,TRUE,5
 "BB73NB","No Data",NA,NA,NA,NA,FALSE,0
 "BB73ND","OK",TRUE,2.1,1.4,4,FALSE,7

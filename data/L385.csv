@@ -1,7 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L385DA","OK",FALSE,5.5,5.1,7.8,FALSE,3
 "L385DB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L385DB","No Data",NA,NA,NA,NA,FALSE,0
 "L385DD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L385DD","No Data",NA,NA,NA,NA,TRUE,0
 "L385DE","OK",FALSE,6.7,6.7,8.1,FALSE,4

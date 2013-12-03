@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "S95HE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"S95HE","No Data",NA,NA,NA,NA,TRUE,0
 "S95HH","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S95HL","OK",FALSE,12.1,7.2,30,TRUE,8
 "S95HN","OK",TRUE,21.5,10.3,30,TRUE,22

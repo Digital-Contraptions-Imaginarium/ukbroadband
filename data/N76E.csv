@@ -12,8 +12,6 @@
 "N76ES","OK",TRUE,13.7,10.4,30,TRUE,15
 "N76ET","OK",FALSE,30,25,30,TRUE,9
 "N76EU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N76EU","No Data",NA,NA,NA,NA,TRUE,0
 "N76EX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "N76EY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N76EY","No Data",NA,NA,NA,NA,TRUE,0
 "N76EZ","OK",TRUE,30,20,30,TRUE,41

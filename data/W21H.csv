@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "W21HA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W21HA","No Data",NA,NA,NA,NA,FALSE,0
 "W21HB","OK",TRUE,10.6,8.1,20.5,FALSE,14
 "W21HD","No premises",NA,NA,NA,NA,FALSE,0
 "W21HG","OK",FALSE,11.3,10.8,18.8,FALSE,57
@@ -11,5 +10,4 @@
 "W21HT","OK",FALSE,15.4,15.5,17,FALSE,3
 "W21HU","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "W21HW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"W21HW","No Data",NA,NA,NA,NA,FALSE,0
 "W21HY","OK",FALSE,20.6,21.9,23.1,TRUE,6

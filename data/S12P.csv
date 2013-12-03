@@ -7,6 +7,4 @@
 "S12PP","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S12PR","No premises",NA,NA,NA,NA,FALSE,0
 "S12PT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S12PT","No Data",NA,NA,NA,NA,FALSE,0
 "S12PZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S12PZ","No Data",NA,NA,NA,NA,FALSE,0

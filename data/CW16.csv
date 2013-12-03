@@ -7,18 +7,14 @@
 "CW16AR","No premises",NA,NA,NA,NA,FALSE,0
 "CW16AY","No premises",NA,NA,NA,NA,FALSE,0
 "CW16BA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16BA","No Data",NA,NA,NA,NA,FALSE,0
 "CW16BB","OK",FALSE,27.4,20.9,30,TRUE,9
 "CW16BD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16BD","No Data",NA,NA,NA,NA,FALSE,0
 "CW16BE","No premises",NA,NA,NA,NA,FALSE,0
 "CW16BF","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16BF","No Data",NA,NA,NA,NA,FALSE,0
 "CW16BG","OK",FALSE,7.2,7.4,8.1,FALSE,7
 "CW16BN","No premises",NA,NA,NA,NA,FALSE,0
 "CW16BP","No premises",NA,NA,NA,NA,FALSE,0
 "CW16BU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16BU","No Data",NA,NA,NA,NA,FALSE,0
 "CW16BW","No Data",NA,NA,NA,NA,FALSE,0
 "CW16BZ","OK",FALSE,9.1,8,12.9,TRUE,4
 "CW16DD","OK",FALSE,8.8,8.2,14.9,FALSE,11
@@ -27,7 +23,6 @@
 "CW16DL","No premises",NA,NA,NA,NA,TRUE,0
 "CW16DN","No Data",NA,NA,NA,NA,FALSE,0
 "CW16DP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16DP","No Data",NA,NA,NA,NA,FALSE,0
 "CW16DR","OK",FALSE,11.7,11.9,14.9,TRUE,4
 "CW16DS","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "CW16DT","OK",FALSE,19.1,12.6,30,TRUE,13
@@ -56,7 +51,6 @@
 "CW16FU","No premises",NA,NA,NA,NA,FALSE,0
 "CW16FW","No premises",NA,NA,NA,NA,FALSE,0
 "CW16FX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16FX","No Data",NA,NA,NA,NA,FALSE,0
 "CW16GD","No premises",NA,NA,NA,NA,FALSE,0
 "CW16GF","No premises",NA,NA,NA,NA,FALSE,0
 "CW16GH","No premises",NA,NA,NA,NA,FALSE,0
@@ -66,10 +60,8 @@
 "CW16GR","No premises",NA,NA,NA,NA,FALSE,0
 "CW16GU","No Data",NA,NA,NA,NA,FALSE,0
 "CW16GW","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16GW","No Data",NA,NA,NA,NA,FALSE,0
 "CW16GY","No premises",NA,NA,NA,NA,FALSE,0
 "CW16GZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"CW16GZ","No Data",NA,NA,NA,NA,TRUE,0
 "CW16HA","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CW16HB","No Data",NA,NA,NA,NA,TRUE,0
 "CW16HD","OK",FALSE,14.7,10,30,TRUE,9
@@ -86,14 +78,11 @@
 "CW16HS","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "CW16HT","OK",TRUE,20.8,8.4,30,TRUE,34
 "CW16HU","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16HU","No Data",NA,NA,NA,NA,FALSE,0
 "CW16HW","OK",TRUE,13.8,12.3,30,TRUE,32
 "CW16JS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16JS","No Data",NA,NA,NA,NA,FALSE,0
 "CW16JT","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CW16LD","OK",FALSE,6.9,6.4,9.8,TRUE,3
 "CW16NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16NA","No Data",NA,NA,NA,NA,FALSE,0
 "CW16NB","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "CW16ND","No premises",NA,NA,NA,NA,FALSE,0
 "CW16NE","OK",TRUE,3.6,3.6,6.1,FALSE,5
@@ -104,11 +93,9 @@
 "CW16UA","OK",TRUE,2.3,1.4,7.4,FALSE,7
 "CW16UL","No premises",NA,NA,NA,NA,FALSE,0
 "CW16UN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16UN","No Data",NA,NA,NA,NA,FALSE,0
 "CW16UP","No premises",NA,NA,NA,NA,FALSE,0
 "CW16UY","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "CW16UZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16UZ","No Data",NA,NA,NA,NA,FALSE,0
 "CW16WL","No premises",NA,NA,NA,NA,FALSE,0
 "CW16WN","No premises",NA,NA,NA,NA,FALSE,0
 "CW16WS","No premises",NA,NA,NA,NA,FALSE,0
@@ -116,12 +103,9 @@
 "CW16WY","No premises",NA,NA,NA,NA,FALSE,0
 "CW16XA","No premises",NA,NA,NA,NA,FALSE,0
 "CW16XB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16XB","No Data",NA,NA,NA,NA,FALSE,0
 "CW16XH","No premises",NA,NA,NA,NA,FALSE,0
 "CW16XL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16XL","No Data",NA,NA,NA,NA,FALSE,0
 "CW16XQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16XQ","No Data",NA,NA,NA,NA,FALSE,0
 "CW16XR","No premises",NA,NA,NA,NA,FALSE,0
 "CW16XS","No premises",NA,NA,NA,NA,FALSE,0
 "CW16XU","OK",FALSE,5,5.3,6.7,FALSE,3
@@ -139,6 +123,5 @@
 "CW16ZE","No premises",NA,NA,NA,NA,FALSE,0
 "CW16ZF","No Data",NA,NA,NA,NA,TRUE,0
 "CW16ZG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"CW16ZG","No Data",NA,NA,NA,NA,FALSE,0
 "CW16ZL","No premises",NA,NA,NA,NA,FALSE,0
 "CW16ZQ","OK",TRUE,5.7,6.6,7.7,FALSE,17

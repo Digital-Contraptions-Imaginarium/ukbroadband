@@ -2,17 +2,13 @@
 "L348HA","OK",TRUE,4.4,5.8,6.5,FALSE,3
 "L348HB","OK",TRUE,29.9,20,30,TRUE,27
 "L348HD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L348HD","No Data",NA,NA,NA,NA,TRUE,0
 "L348HE","OK",FALSE,4.7,4.7,5,FALSE,3
 "L348HF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "L348HG","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "L348HH","OK",FALSE,6.4,7.3,7.8,FALSE,4
 "L348HJ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L348HJ","No Data",NA,NA,NA,NA,FALSE,0
 "L348HL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L348HL","No Data",NA,NA,NA,NA,FALSE,0
 "L348HN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L348HN","No Data",NA,NA,NA,NA,FALSE,0
 "L348HQ","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "L348HW","OK",TRUE,2,1.9,4.8,TRUE,7
 "L348WY","No premises",NA,NA,NA,NA,FALSE,0

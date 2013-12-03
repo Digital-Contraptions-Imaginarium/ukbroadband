@@ -2,9 +2,6 @@
 "B56NB","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "B56ND","OK",FALSE,12.5,9.3,22.9,FALSE,12
 "B56NE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B56NE","No Data",NA,NA,NA,NA,FALSE,0
 "B56NG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B56NG","No Data",NA,NA,NA,NA,FALSE,0
 "B56NT","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B56NT","No Data",NA,NA,NA,NA,FALSE,0
 "B56NU","No Data",NA,NA,NA,NA,FALSE,0

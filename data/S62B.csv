@@ -8,7 +8,6 @@
 "S62BJ","No premises",NA,NA,NA,NA,TRUE,0
 "S62BL","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "S62BN","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"S62BN","No Data",NA,NA,NA,NA,FALSE,0
 "S62BQ","No premises",NA,NA,NA,NA,TRUE,0
 "S62BS","OK",FALSE,25.5,30,30,TRUE,9
 "S62BT","OK",TRUE,30,20,30,TRUE,27

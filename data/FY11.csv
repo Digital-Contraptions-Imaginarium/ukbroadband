@@ -1,8 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "FY11AN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"FY11AN","No Data",NA,NA,NA,NA,TRUE,0
 "FY11AP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"FY11AP","No Data",NA,NA,NA,NA,FALSE,0
 "FY11BA","OK",FALSE,16.7,18.6,21.9,TRUE,6
 "FY11BB","No premises",NA,NA,NA,NA,FALSE,0
 "FY11BH","No premises",NA,NA,NA,NA,TRUE,0
@@ -14,11 +12,9 @@
 "FY11DG","OK",FALSE,14.7,14.5,22.9,TRUE,5
 "FY11DH","OK",FALSE,18.9,18,21.7,TRUE,3
 "FY11DL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"FY11DL","No Data",NA,NA,NA,NA,FALSE,0
 "FY11DR","No premises",NA,NA,NA,NA,TRUE,0
 "FY11DU","OK",FALSE,11.8,8.1,22.4,TRUE,8
 "FY11DW","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"FY11DW","No Data",NA,NA,NA,NA,TRUE,0
 "FY11DX","No premises",NA,NA,NA,NA,FALSE,0
 "FY11EG","OK",TRUE,10.9,8.1,22.7,TRUE,8
 "FY11EJ","OK",FALSE,7.9,7.8,8.1,TRUE,4
@@ -31,7 +27,6 @@
 "FY11EW","OK",FALSE,9.8,8,16.9,TRUE,4
 "FY11EX","OK",FALSE,14.9,16.6,20,TRUE,3
 "FY11EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"FY11EZ","No Data",NA,NA,NA,NA,FALSE,0
 "FY11GB","No premises",NA,NA,NA,NA,FALSE,0
 "FY11GG","No premises",NA,NA,NA,NA,FALSE,0
 "FY11GT","No premises",NA,NA,NA,NA,FALSE,0
@@ -39,7 +34,6 @@
 "FY11HB","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "FY11HE","No premises",NA,NA,NA,NA,TRUE,0
 "FY11HH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"FY11HH","No Data",NA,NA,NA,NA,FALSE,0
 "FY11HJ","OK",FALSE,8,8,14,TRUE,6
 "FY11HP","OK",FALSE,9.6,8.1,16.2,TRUE,5
 "FY11HQ","No premises",NA,NA,NA,NA,FALSE,0
@@ -64,7 +58,6 @@
 "FY11NE","No premises",NA,NA,NA,NA,FALSE,0
 "FY11NF","No premises",NA,NA,NA,NA,FALSE,0
 "FY11NG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"FY11NG","No Data",NA,NA,NA,NA,FALSE,0
 "FY11NH","OK",FALSE,30,21.2,30,TRUE,5
 "FY11NL","OK",FALSE,17.9,21.7,22,TRUE,7
 "FY11NQ","No premises",NA,NA,NA,NA,FALSE,0
@@ -79,14 +72,12 @@
 "FY11QL","OK",FALSE,16.2,15.5,30,TRUE,7
 "FY11QN","No premises",NA,NA,NA,NA,TRUE,0
 "FY11QT","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"FY11QT","No Data",NA,NA,NA,NA,TRUE,0
 "FY11QU","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "FY11QW","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "FY11RA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "FY11RE","OK",FALSE,20.1,20,23.1,TRUE,3
 "FY11RJ","OK",FALSE,18.6,21.5,24,TRUE,7
 "FY11RL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"FY11RL","No Data",NA,NA,NA,NA,TRUE,0
 "FY11RN","OK",TRUE,23.4,20,30,TRUE,18
 "FY11RQ","No premises",NA,NA,NA,NA,TRUE,0
 "FY11RT","OK",TRUE,21,20.1,30,TRUE,16
@@ -96,11 +87,8 @@
 "FY11RZ","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "FY11SA","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "FY11SB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"FY11SB","No Data",NA,NA,NA,NA,TRUE,0
 "FY11SD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"FY11SD","No Data",NA,NA,NA,NA,FALSE,0
 "FY11SE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"FY11SE","No Data",NA,NA,NA,NA,TRUE,0
 "FY11SF","OK",FALSE,19.1,19.6,30,TRUE,3
 "FY11SG","OK",FALSE,17.2,19.4,20,TRUE,9
 "FY11SQ","OK",FALSE,29.3,23.1,30,TRUE,10

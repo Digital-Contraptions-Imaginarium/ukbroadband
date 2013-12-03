@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B81DB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B81DB","No Data",NA,NA,NA,NA,TRUE,0
 "B81DE","OK",TRUE,11.3,2.7,30,TRUE,10
 "B81DF","OK",FALSE,30,20,30,TRUE,5
 "B81DG","OK",TRUE,21.4,30,30,TRUE,14
@@ -16,7 +15,5 @@
 "B81DU","OK",TRUE,15.2,6.2,30,TRUE,20
 "B81DW","OK",FALSE,20.3,20,30,TRUE,15
 "B81DX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B81DX","No Data",NA,NA,NA,NA,FALSE,0
 "B81DY","OK",TRUE,19.6,17.5,30,TRUE,11
 "B81DZ","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B81DZ","No Data",NA,NA,NA,NA,TRUE,0

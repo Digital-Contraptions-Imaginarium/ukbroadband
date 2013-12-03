@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E28RA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E28RA","No Data",NA,NA,NA,NA,FALSE,0
 "E28RB","OK",FALSE,13.8,12.7,30,TRUE,20
 "E28RF","OK",FALSE,6,6.4,6.4,FALSE,4
 "E28RJ","OK",TRUE,7.9,7.8,20,TRUE,7

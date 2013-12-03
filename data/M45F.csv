@@ -2,17 +2,12 @@
 "M45FA","OK",FALSE,12.3,8.8,30,TRUE,12
 "M45FE","No Data",NA,NA,NA,NA,TRUE,0
 "M45FG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M45FG","No Data",NA,NA,NA,NA,FALSE,0
 "M45FP","No premises",NA,NA,NA,NA,FALSE,0
 "M45FQ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M45FQ","No Data",NA,NA,NA,NA,FALSE,0
 "M45FR","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M45FR","No Data",NA,NA,NA,NA,FALSE,0
 "M45FS","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "M45FT","No Data",NA,NA,NA,NA,FALSE,0
 "M45FU","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "M45FX","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M45FX","No Data",NA,NA,NA,NA,FALSE,0
 "M45FY","OK",FALSE,11.2,12.5,14.3,TRUE,3
 "M45FZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M45FZ","No Data",NA,NA,NA,NA,FALSE,0

@@ -1,7 +1,6 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "B74QA","OK",FALSE,17.4,10.4,30,TRUE,36
 "B74QD","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B74QD","No Data",NA,NA,NA,NA,FALSE,0
 "B74QE","OK",TRUE,12.9,8.2,30,TRUE,34
 "B74QF","OK",TRUE,13.1,7.9,30,TRUE,36
 "B74QG","OK",FALSE,10.6,10.1,14.2,TRUE,5
@@ -9,11 +8,8 @@
 "B74QJ","OK",FALSE,17.2,11.1,30,TRUE,4
 "B74QL","OK",TRUE,12.7,8.6,30,TRUE,41
 "B74QN","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B74QN","No Data",NA,NA,NA,NA,TRUE,0
 "B74QP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B74QP","No Data",NA,NA,NA,NA,FALSE,0
 "B74QR","No premises",NA,NA,NA,NA,FALSE,0
 "B74QS","OK",FALSE,14.3,10.7,30,TRUE,10
 "B74QT","OK",TRUE,24.3,20,30,TRUE,21
 "B74QU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B74QU","No Data",NA,NA,NA,NA,TRUE,0

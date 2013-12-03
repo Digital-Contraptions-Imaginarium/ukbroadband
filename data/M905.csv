@@ -1,17 +1,14 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "M905AB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M905AB","No Data",NA,NA,NA,NA,FALSE,0
 "M905AE","No premises",NA,NA,NA,NA,FALSE,0
 "M905AF","No premises",NA,NA,NA,NA,FALSE,0
 "M905BA","No premises",NA,NA,NA,NA,FALSE,0
 "M905BF","No premises",NA,NA,NA,NA,FALSE,0
 "M905BG","No premises",NA,NA,NA,NA,FALSE,0
 "M905DL","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"M905DL","No Data",NA,NA,NA,NA,TRUE,0
 "M905EW","No premises",NA,NA,NA,NA,FALSE,0
 "M905EX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "M905FL","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M905FL","No Data",NA,NA,NA,NA,FALSE,0
 "M905NA","No premises",NA,NA,NA,NA,FALSE,0
 "M905NE","No premises",NA,NA,NA,NA,FALSE,0
 "M905PD","OK",TRUE,1,1,1.1,FALSE,3
@@ -26,9 +23,7 @@
 "M905UX","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "M905UY","No Data",NA,NA,NA,NA,FALSE,0
 "M905UZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M905UZ","No Data",NA,NA,NA,NA,FALSE,0
 "M905XA","OK",FALSE,3.1,2.9,3.8,FALSE,5
 "M905XR","No premises",NA,NA,NA,NA,FALSE,0
 "M905YF","No Data",NA,NA,NA,NA,FALSE,0
 "M905YP","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"M905YP","No Data",NA,NA,NA,NA,FALSE,0

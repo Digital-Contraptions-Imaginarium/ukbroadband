@@ -11,11 +11,8 @@
 "B95AQ","No premises",NA,NA,NA,NA,FALSE,0
 "B95AR","OK",FALSE,5.6,4.6,8.6,TRUE,7
 "B95AS","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"B95AS","No Data",NA,NA,NA,NA,FALSE,0
 "B95AT","OK",TRUE,22,20,30,TRUE,12
 "B95AU","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B95AU","No Data",NA,NA,NA,NA,TRUE,0
 "B95AX","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"B95AX","No Data",NA,NA,NA,NA,TRUE,0
 "B95AY","No Data",NA,NA,NA,NA,TRUE,0
 "B95AZ","No premises",NA,NA,NA,NA,FALSE,0

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "PR27AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"PR27AA","No Data",NA,NA,NA,NA,TRUE,0
 "PR27AB","OK",TRUE,13.7,4,30,TRUE,10
 "PR27AD","OK",TRUE,9.1,4.6,30,TRUE,21
 "PR27AE","OK",TRUE,12.3,4,30,TRUE,14
@@ -33,7 +32,6 @@
 "PR27BT","OK",TRUE,9.7,4.5,30,TRUE,20
 "PR27BX","Insufficient Data",NA,NA,NA,NA,TRUE,2
 "PR27BY","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"PR27BY","No Data",NA,NA,NA,NA,TRUE,0
 "PR27DA","OK",TRUE,7.3,2.4,30,TRUE,31
 "PR27DB","OK",TRUE,14.7,3.3,30,TRUE,38
 "PR27DD","OK",TRUE,6.4,2.7,25.7,TRUE,18
@@ -52,7 +50,6 @@
 "PR27EA","OK",TRUE,11.2,2.5,30,TRUE,21
 "PR27EB","OK",TRUE,17.4,2.6,30,TRUE,17
 "PR27EE","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"PR27EE","No Data",NA,NA,NA,NA,TRUE,0
 "PR27EH","OK",TRUE,10.5,4,30,TRUE,13
 "PR27EJ","OK",TRUE,3.4,3.7,4.1,TRUE,12
 "PR27EL","OK",FALSE,3.8,3.6,5,TRUE,4

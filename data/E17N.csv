@@ -1,12 +1,10 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "E17NA","OK",FALSE,14.1,14.1,20,FALSE,6
 "E17NB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E17NB","No Data",NA,NA,NA,NA,FALSE,0
 "E17ND","OK",FALSE,14.9,14.9,20.3,FALSE,10
 "E17NE","OK",FALSE,14.7,16.6,20.9,FALSE,17
 "E17NF","OK",FALSE,15.3,18.6,21,FALSE,14
 "E17NH","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"E17NH","No Data",NA,NA,NA,NA,FALSE,0
 "E17NJ","OK",FALSE,29.6,18.3,30,FALSE,4
 "E17NN","OK",FALSE,17.2,18.2,22,FALSE,18
 "E17NP","OK",FALSE,17.1,18,23.1,FALSE,31

@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "L315JA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L315JA","No Data",NA,NA,NA,NA,TRUE,0
 "L315JB","OK",FALSE,27.2,19.2,30,TRUE,10
 "L315JE","OK",FALSE,17.1,18,30,TRUE,20
 "L315JF","OK",TRUE,20.1,20,30,TRUE,5
@@ -23,11 +22,9 @@
 "L315LB","OK",FALSE,23.2,19.2,30,TRUE,24
 "L315LD","OK",FALSE,26.5,20,30,TRUE,33
 "L315LE","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"L315LE","No Data",NA,NA,NA,NA,FALSE,0
 "L315LF","OK",FALSE,16.3,16.4,20,TRUE,15
 "L315LG","OK",FALSE,16.6,16.3,21.4,TRUE,7
 "L315LH","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"L315LH","No Data",NA,NA,NA,NA,TRUE,0
 "L315LJ","OK",FALSE,28.3,20,30,TRUE,17
 "L315LN","OK",TRUE,21.5,18.9,30,TRUE,26
 "L315LP","OK",FALSE,15.4,17.3,21.1,TRUE,13

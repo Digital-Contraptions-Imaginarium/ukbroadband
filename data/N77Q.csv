@@ -1,12 +1,9 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "N77QD","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N77QD","No Data",NA,NA,NA,NA,TRUE,0
 "N77QG","Insufficient Data",NA,NA,NA,NA,TRUE,1
 "N77QP","OK",FALSE,30,18.9,30,TRUE,12
 "N77QR","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N77QR","No Data",NA,NA,NA,NA,TRUE,0
 "N77QS","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"N77QS","No Data",NA,NA,NA,NA,TRUE,0
 "N77QT","No Data",NA,NA,NA,NA,TRUE,0
 "N77QW","No premises",NA,NA,NA,NA,FALSE,0
 "N77QY","No premises",NA,NA,NA,NA,TRUE,0

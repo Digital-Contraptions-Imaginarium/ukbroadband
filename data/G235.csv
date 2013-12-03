@@ -1,6 +1,5 @@
 "Postcode.No.Spaces","Postcode.Data.Status","Lines.Less.Than.2Mbps.T.F","Average.Speed.Mbps","Median.Speed.Mbps","Maximum.Speed.Mbps","Superfast.Broadband.Available.T.F","Number.of.Connections"
 "G235AA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G235AA","No Data",NA,NA,NA,NA,TRUE,0
 "G235AB","OK",FALSE,19.4,6.9,30,TRUE,20
 "G235AD","OK",TRUE,16.8,5.7,30,TRUE,11
 "G235AE","Insufficient Data",NA,NA,NA,NA,TRUE,1
@@ -52,16 +51,12 @@
 "G235EW","OK",FALSE,30,25,30,TRUE,8
 "G235EX","OK",FALSE,19.1,20,30,TRUE,4
 "G235EZ","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G235EZ","No Data",NA,NA,NA,NA,FALSE,0
 "G235HA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G235HA","No Data",NA,NA,NA,NA,FALSE,0
 "G235HB","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G235HB","No Data",NA,NA,NA,NA,FALSE,0
 "G235HD","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G235HE","Insufficient Data",NA,NA,NA,NA,FALSE,1
 "G235HF","Insufficient Data",NA,NA,NA,NA,FALSE,2
 "G235HG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G235HG","No Data",NA,NA,NA,NA,FALSE,0
 "G235HH","OK",FALSE,30,30,30,TRUE,22
 "G235HL","OK",TRUE,25.9,30,30,TRUE,41
 "G235HQ","OK",TRUE,4.1,4.4,5.5,FALSE,5
@@ -88,12 +83,9 @@
 "G235JX","OK",FALSE,29.6,20,30,TRUE,21
 "G235JZ","OK",TRUE,19.8,20,30,TRUE,18
 "G235LA","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G235LA","No Data",NA,NA,NA,NA,TRUE,0
 "G235LB","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G235LB","No Data",NA,NA,NA,NA,TRUE,0
 "G235LD","OK",TRUE,23.9,18.5,30,TRUE,14
 "G235LF","Insufficient Premises",NA,NA,NA,NA,TRUE,1
-"G235LF","No Data",NA,NA,NA,NA,TRUE,0
 "G235LG","OK",TRUE,30,30,30,TRUE,17
 "G235LJ","OK",FALSE,17.8,20,30,TRUE,3
 "G235LL","OK",TRUE,15,20,30,TRUE,10
@@ -103,9 +95,7 @@
 "G235LS","OK",FALSE,9.7,3.1,30,TRUE,4
 "G235LU","OK",TRUE,22.1,20,30,TRUE,14
 "G235LY","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G235LY","No Data",NA,NA,NA,NA,FALSE,0
 "G235NA","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G235NA","No Data",NA,NA,NA,NA,FALSE,0
 "G235NB","OK",TRUE,2.6,2.7,3.4,FALSE,7
 "G235ND","OK",TRUE,23.4,20,30,TRUE,33
 "G235NE","OK",TRUE,3.7,3.7,17,FALSE,63
@@ -148,7 +138,6 @@
 "G235QE","OK",TRUE,28.7,30,30,TRUE,27
 "G235QF","OK",TRUE,21.6,5,30,TRUE,7
 "G235QG","Insufficient Premises",NA,NA,NA,NA,FALSE,1
-"G235QG","No Data",NA,NA,NA,NA,FALSE,0
 "G235QH","OK",TRUE,17.3,4.1,30,TRUE,25
 "G235QN","OK",TRUE,30,20,30,TRUE,25
 "G235QR","OK",TRUE,22,20,30,TRUE,18
